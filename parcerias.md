@@ -143,8 +143,7 @@ continuamente seus arranjos e métodos.
 
 ## Quer saber mais?
 
-Exemplos de parcerias de sucesso incluem: Palácio das Artes, Orquestra Filarmônica de
-Minas Gerais, Sala São Paulo, Pinacoteca de São Paulo e Minascentro.
+Clique nas imagens abaixo para acessar os sites de exemplos de parcerias de sucesso.
 
 ### Grande Teatro Cemig Palácio das Artes
 
