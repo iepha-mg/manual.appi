@@ -140,3 +140,28 @@ Os acordos e termos de cooperação técnica, seus planos de trabalho e relatór
 entregas estarão sempre à disposição de quem se interessar. Por isso, parcerias são
 transparentes e se valem das contribuições de todos os interessados para melhorar
 continuamente seus arranjos e métodos.
+
+## Quer saber mais?
+
+Exemplos de parcerias de sucesso incluem: Palácio das Artes, Orquestra Filarmônica de
+Minas Gerais, Sala São Paulo, Pinacoteca de São Paulo e Minascentro.
+
+### Grande Teatro Cemig Palácio das Artes
+
+[![Palácio das Artes](https://github.com/user-attachments/assets/dcf02219-3b2f-4022-8d7f-5ddd028ac88c)](https://fcs.mg.gov.br/espacos-culturais/palacio-das-artes/)
+
+### Orquestra Filarmônica de Minas Gerais
+
+[![Filarmônica](https://github.com/user-attachments/assets/6e79d0b6-47f6-40c9-bf66-27e0596885c5)](https://filarmonica.art.br/)
+
+### Sala São Paulo
+
+[![Sala SP](https://github.com/user-attachments/assets/c29a1ee5-482b-4fb0-8ac6-40c2115df3e1)](https://salasaopaulo.art.br/salasp/pt/)
+
+### Pinacoteca de São Paulo
+
+[![Pinacoteca SP](https://github.com/user-attachments/assets/c5e46494-6018-4e97-bacf-19db8a108dc9)](https://pinacoteca.org.br)
+
+### BeFly Minascentro
+
+[![BeFly Minascentro](https://github.com/user-attachments/assets/5888f247-9c79-4fb8-91b4-c925c6247dab)](https://www.beflyminascentro.com.br/)
