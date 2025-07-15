@@ -1,3 +1,8 @@
+---
+layout: default
+title: O que é a APPI/Iepha-MG?
+---
+
 # 🙋 O que é a APPI/Iepha-MG?
 
 ## O que é a Assessoria de Parcerias e Programas Integrados (APPI)?
