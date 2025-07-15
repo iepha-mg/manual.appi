@@ -11,7 +11,7 @@ _Foto: Igreja Matriz de Santa Efigênia, Ouro Preto (MG)_
 Aqui você encontra:
 
 - [📣 Recado do Presidente](recado.md)
-- [🙋 O que é a APPI/Iepha-MG?](appi.md)
+- [🙋 O que é a APPI/Iepha-MG?](/mg.appi.github.io/appi.md)
 - [🤝 O que são parcerias?](parcerias.md)
    - Pra que servem parcerias?
    - Princípios e boas práticas de governança em parcerias
