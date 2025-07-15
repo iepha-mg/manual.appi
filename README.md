@@ -1,8 +1,3 @@
----
-layout: default
-title: MG.APPI
----
-
 # MG.APPI
 **Manual de Governança de Ações em Parcerias e Programas Integrados** da Assessoria de Parcerias e Programas Integrados (APPI) do Instituto do Patrimônio Histórico e Artístico de Minas Gerais (Iepha-MG).
 
