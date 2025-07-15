@@ -10,9 +10,9 @@ _Foto: Igreja Matriz de Santa Efigênia, Ouro Preto (MG)_
 # 📚 Índice
 Aqui você encontra:
 
-- [📣 Recado do Presidente](https://lucasfainblat.github.io/mg.appi.github.io/recado.md)
-- [🙋 O que é a APPI/Iepha-MG?](https://lucasfainblat.github.io/mg.appi.github.io/appi.md)
-- [🤝 O que são parcerias?](https://lucasfainblat.github.io/mg.appi.github.io/parcerias.md)
+- [📣 Recado do Presidente](recado.md)
+- [🙋 O que é a APPI/Iepha-MG?](appi.md)
+- [🤝 O que são parcerias?](parcerias.md)
    - Pra que servem parcerias?
    - Princípios e boas práticas de governança em parcerias
    - Exemplos de parcerias
