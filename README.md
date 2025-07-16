@@ -1,6 +1,7 @@
 # 📚 Índice
 Aqui você encontra:
 
+- [🤗 Sobre o MG.APPI](paginas/sobre/README.md)
 - [📣 Recado do Presidente](paginas/recado/README.md)
 - [🙋 O que é a APPI/Iepha-MG?](paginas/appi/README.md)
 - [🤝 O que são parcerias?](paginas/parcerias/README.md)
@@ -45,5 +46,3 @@ Aqui você encontra:
 <img src="https://github.com/user-attachments/assets/057d28f0-49d2-4ae5-be0c-ade12d75867b">
 
 _Foto: Igreja Matriz de Santa Efigênia, Ouro Preto (MG)_
-
-_Versão 1: Belo Horizonte (MG), julho de 2025._
