@@ -26,11 +26,7 @@ Para tanto, uma boa parceria deve ser focada em resultados. Isso quer dizer que 
 fundamental prever um plano de trabalho com metas objetivas, claras e quantificáveis,
 dizendo quem é responsável pelo quê e quando cada coisa deve ser concluída.
 
----
-
-_**A alma de uma parceria são seus resultados.**_
-
----
+>_A alma de uma parceria são seus resultados._
 
 Para que tudo saia mesmo do papel, no processo de assinatura de uma parceria, é
 importante que as análises técnicas sejam respeitadas e que as metas pactuadas estejam ao
@@ -48,13 +44,7 @@ Os marcos legais e atos normativos que regulamentam as formas de parceria prevee
 como controlar o repasse de verbas, monitorar resultados e aplicar penalidades em caso de
 descumprimento de obrigações.
 
----
-
-_**Quanto mais recursos estão envolvidos numa
-parceria, mais rígido tende a ser o seu sistema de
-controle.**_
-
----
+>_Quanto mais recursos estão envolvidos numa parceria, mais rígido tende a ser o seu sistema de controle_
 
 Porém, frequentemente as parcerias funcionam com maior flexibilidade, sem envolver
 verbas. Troca de conhecimentos, acesso a sistemas de dados, planejamento conjunto de
@@ -72,11 +62,7 @@ Parcerias são arranjos em que as partes têm interesses comuns, voltados a bene
 mútuos: o parceiro  - público, privado ou social - ganha visibilidade, incentivos ou retorno
 financeiro, enquanto o Estado garante eficiência e sustentabilidade.
 
----
-
-_**Acordos materializam interesses comuns.**_
-
----
+>_Acordos materializam interesses comuns._
 
 Quando todo mundo ganha, vale a pena!
 
@@ -86,13 +72,7 @@ As regras claras de governança, definidas nas leis, decretos e instrumentos jur
 regem as parcerias, evitam riscos e asseguram que os resultados beneficiem o interesse
 público.
 
----
-
-_**Cada parte deve cumprir com suas obrigações,
-garantindo alcançar a finalidade e os benefícios
-mútuos de uma parceria.**_
-
----
+>_Cada parte deve cumprir com suas obrigações, garantindo alcançar a finalidade e os benefícios mútuos de uma parceria._
 
 Parcerias são sempre acompanhadas por responsáveis designados pelos parceiros: funcionários
 que monitoram os resultados, distribuem tarefas dentro de suas instituições e ajustam a
@@ -102,8 +82,6 @@ Geralmente, fazem reuniões periódicas para verificar se as ações programadas
 de trabalho estão sendo cumpridas, registrando se sim, se não - e o porquê - em relatórios
 publicados nos sites de suas instituições.
 
-
-
 ### 🏎️ Eficiência e capacidade de atuação
 
 Muitas vezes, boas ideias ficam de lado porque, naquele momento específico, não
@@ -111,13 +89,7 @@ poderiam se concretizar. As parcerias servem pra remediar isso: um parceiro poss
 conhecimento que o outro não tem, consegue contratar alguém pra executar determinada
 tarefa, ou já tem um projeto pronto que interessa muito ao outro parceiro.
 
----
-
-_**Aproveitar as capacidades e possibilidades de cada
-parceiro é garantir que objetivos que dificilmente
-sairiam o papel sejam alcançados com eficiência.**_
-
----
+>_Aproveitar as capacidades e possibilidades de cada parceiro é garantir que objetivos que dificilmente sairiam o papel sejam alcançados com eficiência._
 
 Além disso, parcerias somam forças e oportunidades. Quem já tem experiência com alguma
 atividade muito provavelmente é mais eficiente que quem ainda não tem. Unir forças com
@@ -129,12 +101,7 @@ Toda parceria pode ser alvo de consulta por parte de cidadãos, Ministério Púb
 qualquer parte interessada. Isso ajuda a garantir que tudo o que foi combinado esteja
 sendo cumprido.
 
----
-
-_**Todos os documentos relativos a uma parceria devem
-ser publicados no site do Iepha-MG.**_
-
----
+>_Todos os documentos relativos a uma parceria devem ser publicados no site do Iepha-MG._
 
 Os acordos e termos de cooperação técnica, seus planos de trabalho e relatórios de
 entregas estarão sempre à disposição de quem se interessar. Por isso, parcerias são
