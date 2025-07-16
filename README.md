@@ -12,7 +12,7 @@ Aqui você encontra:
 
 - [📣 Recado do Presidente](RECADO.md)
 - [🙋 O que é a APPI/Iepha-MG?](APPI.md)
-- [🤝 O que são parcerias?](PARCERIAS.md)
+- [🤝 O que são parcerias?](paginas/parcerias/README.md)
    - Pra que servem parcerias?
    - Princípios e boas práticas de governança em parcerias
    - Exemplos de parcerias
