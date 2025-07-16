@@ -1,7 +1,7 @@
 # MG.APPI
 **Manual de Governança de Ações em Parcerias e Programas Integrados** da Assessoria de Parcerias e Programas Integrados (APPI) do Instituto do Patrimônio Histórico e Artístico de Minas Gerais (Iepha-MG).
 
-Versão 1: Belo Horizonte (MG), julho de 2025.
+_Versão 1: Belo Horizonte (MG), julho de 2025._
 
 ![Igreja_de_Santa_Efigênia_2](https://github.com/user-attachments/assets/057d28f0-49d2-4ae5-be0c-ade12d75867b)
 
