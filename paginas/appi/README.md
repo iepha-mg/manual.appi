@@ -1,15 +1,14 @@
 
-# 🙋 O que é a APPI/Iepha-MG?
+# 🙋 O que é a APPI/IEPHA-MG?
 
 ## O que é a Assessoria de Parcerias e Programas Integrados (APPI)?
 
-É a unidade do Iepha-MG responsável por propor, desenvolver e coordenar parcerias e
+É a unidade do Instituto Estadual do Patrimônio Histórico e Artístico (Iepha-MG) responsável por propor, desenvolver e coordenar parcerias e
 projetos integrados para a proteção, preservação e gestão do patrimônio cultural de Minas
 Gerais. A APPI articula ações com instituições públicas, privadas e do terceiro setor,
 promovendo a cooperação e a inovação na preservação do patrimônio.
 
-É também o setor do Iepha-MG responsável pela elaboração e atualização deste Manual de
-Governança de Ações em Parcerias e Programas Integrados (MG.APPI).
+É também o setor do Iepha-MG responsável pela elaboração e atualização deste Manual.APPI.
 
 <img align="left" width="90" height="90" src="https://github.com/user-attachments/assets/9f421c8a-abfa-4d4a-a81c-2fef661f65fd">
 
