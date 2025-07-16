@@ -9,8 +9,8 @@ remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
-title: Manual de Governança APPI/IEPHA-MG
-description: Manual de Governança da Assessoria de Parcerias e Programas Integrados (APPI) do Instituto do Patrimônio Histórico e Artístico de Minas Gerais (IEPHA-MG).
+title: Manual.APPI
+description: Manual de Governança da Assessoria de Parcerias e Programas Integrados (Manual.APPI) do Instituto do Patrimônio Histórico e Artístico de Minas Gerais (IEPHA-MG).
 relative_links:
   enabled: true
   collections: true
