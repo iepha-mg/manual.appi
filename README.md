@@ -5,9 +5,6 @@ Aqui você encontra:
 - [📣 Recado do Presidente](paginas/recado/README.md)
 - [🙋 O que é a APPI/IEPHA-MG?](paginas/appi/README.md)
 - [🤝 O que são parcerias?](paginas/parcerias/README.md)
-   - Pra que servem parcerias?
-   - Princípios e boas práticas de governança em parcerias
-   - Exemplos de parcerias
 - 🏛️ Formas de firmar parcerias: marcos regulatórios e seus instrumentos jurídicos
    - _MRFC_: Marco Regulatório do Fomento à Cultura ([Lei Federal nº 14.903/2024](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%2014.903-2024?OpenDocument))
    - _MROSC_: Marco Regulatório das Organizações da Sociedade Civil ([Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm))
