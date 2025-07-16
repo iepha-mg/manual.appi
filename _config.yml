@@ -9,7 +9,7 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
-title: [MG.APPI](https://lucasfainblat.github.io/mgappi/)
+title: MG.APPI
 description: Manual de Governança de Ações em Parcerias e Programas Integrados do Instituto do Patrimônio Histórico e Artístico de Minas Gerais.
 relative_links:
   enabled: true
