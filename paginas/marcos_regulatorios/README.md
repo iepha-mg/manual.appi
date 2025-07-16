@@ -20,8 +20,13 @@ Há três principais marcos regulatórios aplicáveis às parcerias e programas 
 > Ele serve como prova legal de uma relação jurídica, transação ou declaração de vontade entre partes,
 > podendo ser utilizado em processos judiciais ou para garantir direitos e deveres.
 
-<img src="apoio/diagrama1_marcos_regulatorios.jpg" style="width:100%; height:auto;">
+### Veja os instrumentos jurídicos das parcerias do Iepha-MG
 
-<img src="apoio/legenda_diagrama_1.jpg" style="width:50%; height:auto;">
+<img src="apoio/diagrama1_marcos_regulatorios.jpg" style="width:100%; height:auto;">
+_Diagrama 1: tipos de instrumento jurídico por marco regulatório e previsão de repasse de recursos entre as partes_
+
+<img src="apoio/legenda_diagrama_1.jpg" style="width:25%; height:auto;">
+_Legenda do Diagrama 1_
+
 
 
