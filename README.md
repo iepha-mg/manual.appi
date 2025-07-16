@@ -5,7 +5,7 @@ Aqui você encontra:
 - [📣 Recado do Presidente](paginas/recado/README.md)
 - [🙋 O que é a APPI/IEPHA-MG?](paginas/appi/README.md)
 - [🤝 O que são parcerias?](paginas/parcerias/README.md)
-- 🏛️ Formas de firmar parcerias: marcos regulatórios e seus instrumentos jurídicos
+- [🏛️ Formas de firmar parcerias: marcos regulatórios e seus instrumentos jurídicos](paginas/marcos_regulatorios/README.md)
    - _MRFC_: Marco Regulatório do Fomento à Cultura ([Lei Federal nº 14.903/2024](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%2014.903-2024?OpenDocument))
    - _MROSC_: Marco Regulatório das Organizações da Sociedade Civil ([Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm))
    - _Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor_ ([Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/LEI/23081/2018/), [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=47553&ano=2018&tipo=DEC) e [Decreto Estadual nº 47.554/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=47554&ano=2018&tipo=DEC))
