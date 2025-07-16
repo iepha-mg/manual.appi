@@ -1,6 +1,6 @@
-# 🤗 Sobre o MG.APPI
+# 🤗 O que é o Manual de Governança da APPI?
 
-Este **Manual de Governança de Ações em Parcerias e Programas Integrados** tem o objetivo de _estabelecer diretrizes e processos para a gestão transparente e eficiente de parcerias e programas integrados, alinhados às políticas do IEPHA-MG e à legislação vigente_.
+Este **Manual de Governança da Assessoria de Parcerias e Programas Integrados** tem o objetivo de _estabelecer diretrizes e processos para a gestão transparente e eficiente de parcerias e programas integrados, alinhados às políticas do IEPHA-MG e à legislação vigente_.
 
 Assim, espera-se:
 - Otimizar a gestão de projetos colaborativos, garantindo transparência, eficiência e alinhamento estratégico às finalidades do Instituto.
@@ -9,4 +9,5 @@ Assim, espera-se:
 - Uniformizar processos e documentos, facilitando a atuação da APPI e demais setores do IEPHA-MG envolvidos na gestão de parcerias e programas.
 
 # 🗓️ Versão
+
 O MG.APPI está em sua `1ª Versão`, desde o mês de `julho de 2025`.
