@@ -6,7 +6,7 @@ Prezadas servidoras e prezados servidores,
 e Programas Integrados (MG.APPI), um instrumento essencial para fortalecer nossa atuação
 no Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais (Iepha-MG).
 
-<img src="https://github.com/user-attachments/assets/a568d7fe-fa2b-4a37-b556-2a25b7086e60" width="25%" align="left">
+<img src="https://github.com/user-attachments/assets/a568d7fe-fa2b-4a37-b556-2a25b7086e60" style="width:50%; height:auto;">
 
 >**🎼 Cecília Meireles, O Romanceiro da Inconfidência, Romance IX**
 >
