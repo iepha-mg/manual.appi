@@ -13,7 +13,7 @@ Da mesma forma, os parceiros sabem o que podem ou não fazer quando atuam sob no
 
 ![gif]()
 
-## Tipos de marcos regulatórios e seus instrumentos jurídicos
+## ⚖️ Tipos de marcos regulatórios e seus instrumentos jurídicos
 Há três principais marcos regulatórios aplicáveis às parcerias e programas integrados do Iepha. Cada um deles possui seus respectivos **instrumentos jurídicos**.
 
 > **Instrumento jurídico** é um documento formal que registra um ato, acordo, direito ou obrigação com validade perante a lei.
