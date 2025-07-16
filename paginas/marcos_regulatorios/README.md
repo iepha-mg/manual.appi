@@ -17,6 +17,6 @@ Há três principais marcos regulatórios aplicáveis às parcerias e programas 
 > Ele serve como prova legal de uma relação jurídica, transação ou declaração de vontade entre partes,
 > podendo ser utilizado em processos judiciais ou para garantir direitos e deveres.
 
-![diagrama_1](apoio/diagrama1__marcos_regulatorios.jpg)
+![diagrama_1](apoio/diagrama1_marcos_regulatorios.jpg)
 
 ![legenda_diagrama_1](apoio/legenda_diagrama_1.jpg)
