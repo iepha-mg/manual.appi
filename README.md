@@ -3,7 +3,7 @@
 
 _Versão 1: Belo Horizonte (MG), julho de 2025._
 
-![Igreja_de_Santa_Efigênia_2](https://github.com/user-attachments/assets/057d28f0-49d2-4ae5-be0c-ade12d75867b)
+<img src="https://github.com/user-attachments/assets/057d28f0-49d2-4ae5-be0c-ade12d75867b" width="50%">
 
 _Foto: Igreja Matriz de Santa Efigênia, Ouro Preto (MG)_
 
