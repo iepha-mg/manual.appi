@@ -1,7 +1,3 @@
-<img src="https://github.com/user-attachments/assets/057d28f0-49d2-4ae5-be0c-ade12d75867b" width="50%">
-
-_Foto: Igreja Matriz de Santa Efigênia, Ouro Preto (MG)_
-
 # 📚 Índice
 Aqui você encontra:
 
@@ -45,4 +41,9 @@ Aqui você encontra:
 - 🏁 Formulário para orientação na elaboração de parcerias
 - 🤖 Prompt (IA) para elaboração de parcerias
 - 🖋️ Ficha técnica
+
+<img src="https://github.com/user-attachments/assets/057d28f0-49d2-4ae5-be0c-ade12d75867b">
+
+_Foto: Igreja Matriz de Santa Efigênia, Ouro Preto (MG)_
+
 _Versão 1: Belo Horizonte (MG), julho de 2025._
