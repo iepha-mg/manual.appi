@@ -10,7 +10,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
 title: MG.APPI
-description: Manual de Governança de Ações em Parcerias e Programas Integrados (MG.APPI) do Instituto do Patrimônio Histórico e Artístico de Minas Gerais (IEPHA-MG).
+description: Manual de Governança de Ações em Parcerias e Programas Integrados do Instituto do Patrimônio Histórico e Artístico de Minas Gerais.
 relative_links:
   enabled: true
   collections: true
