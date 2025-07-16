@@ -1,9 +1,9 @@
 # 📚 Índice
 Aqui você encontra:
 
-- [🤗 Sobre o MG.APPI](paginas/sobre/README.md)
+- [🤗 O que é o Manual de Governança da APPI?](paginas/sobre/README.md)
 - [📣 Recado do Presidente](paginas/recado/README.md)
-- [🙋 O que é a APPI/Iepha-MG?](paginas/appi/README.md)
+- [🙋 O que é a APPI/IEPHA-MG?](paginas/appi/README.md)
 - [🤝 O que são parcerias?](paginas/parcerias/README.md)
    - Pra que servem parcerias?
    - Princípios e boas práticas de governança em parcerias
