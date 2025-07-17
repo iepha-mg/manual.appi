@@ -6,8 +6,12 @@ Prezadas servidoras e prezados servidores,
 e Programas Integrados (MG.APPI), um instrumento essencial para fortalecer nossa atuação
 no Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais (Iepha-MG).
 
-<img src="https://github.com/user-attachments/assets/a568d7fe-fa2b-4a37-b556-2a25b7086e60" style="width:35%; height:auto;">
-
+<img 
+    src="https://github.com/user-attachments/assets/a568d7fe-fa2b-4a37-b556-2a25b7086e60" 
+    align="left" 
+    width="40%" 
+    style="margin-right: 20px;">
+    
 >**🎼 Cecília Meireles, O Romanceiro da Inconfidência, Romance IX**
 >
 >Santa Ifigênia, princesa núbia,/ sobe a ladeira quase a dançar,/ o ouro sacode dos pés, do manto,/ chama seus anjos, e vira-e-sai.
