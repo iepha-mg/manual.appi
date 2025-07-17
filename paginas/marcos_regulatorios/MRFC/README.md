@@ -66,7 +66,7 @@ O **Marco Regulatório do Fomento à Cultura (MRFC)**, instituído pela [Lei Fed
   <tr>
     <th width="30%">Instrumento</th>
     <th width="35%">Aplicação no Iepha-MG</th>
-    <th width="35%">Vantagens</th>
+    <th width="35%">Exemplos</th>
   </tr>
   <tr>
     <td><strong>Termo de Ocupação Cultural</strong></td>
