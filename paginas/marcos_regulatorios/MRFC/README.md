@@ -4,7 +4,7 @@
     src="https://github.com/user-attachments/assets/1e5c747c-9ba3-457d-954c-1a20e932b8f7" 
     align="left" 
     width="10%" 
-    style="margin-right: 20px;">
+    style="margin-right: 1px;">
 
 O **Marco Regulatório do Fomento à Cultura (MRFC)**, instituído pela [Lei Federal nº 14.903/2024](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%2014.903-2024?OpenDocument), representa um avanço significativo para o setor cultural ao estabelecer um regime jurídico específico, adaptado às particularidades das atividades culturais.
 
@@ -36,16 +36,49 @@ O **Marco Regulatório do Fomento à Cultura (MRFC)**, instituído pela [Lei Fed
 ## 🚀 Instrumentos jurídicos do MRFC
 
 ### 💰 Com transferência de recursos
-| Instrumento | Aplicação no Iepha-MG | Exemplos |
-|------------|-----------------------|----------|
-| **Termo de Execução Cultural** | Projetos com repasse de recursos | Restauração de bens tombados, conservação preventiva |
-| **Termo de Premiação Cultural** | Reconhecimento de ações relevantes | Educação patrimonial, inventários de referências culturais |
-| **Termo de Bolsa Cultural** | Fomento a pesquisa e formação | Bolsas para estudos sobre técnicas de conservação |
+
+<table>
+  <tr>
+    <th width="30%">Instrumento</th>
+    <th width="35%">Aplicação no Iepha-MG</th>
+    <th width="35%">Exemplos</th>
+  </tr>
+  <tr>
+    <td><strong>Termo de Execução Cultural</strong></td>
+    <td>Projetos com repasse de recursos</td>
+    <td>Restauração de bens tombados, conservação preventiva</td>
+  </tr>
+  <tr>
+    <td><strong>Termo de Premiação Cultural</strong></td>
+    <td>Reconhecimento de ações relevantes</td>
+    <td>Educação patrimonial, inventários de referências culturais</td>
+  </tr>
+  <tr>
+    <td><strong>Termo de Bolsa Cultural</strong></td>
+    <td>Fomento a pesquisa e formação</td>
+    <td>Bolsas para estudos sobre técnicas de conservação</td>
+  </tr>
+</table>
 
 ### 🤝 Sem transferência de recursos
-| Instrumento | Aplicação no Iepha-MG | Vantagens |
-|------------|-----------------------|-----------|
-| **Termo de Ocupação Cultural** | Cessão de espaços públicos | Exposições em museus, eventos em praças históricas |
-| **Termo de Cooperação Cultural** | Parcerias para troca de conhecimentos | Capacitações, desenvolvimento ou aplicação de metodologias |
+
+<table>
+  <tr>
+    <th width="30%">Instrumento</th>
+    <th width="35%">Aplicação no Iepha-MG</th>
+    <th width="35%">Vantagens</th>
+  </tr>
+  <tr>
+    <td><strong>Termo de Ocupação Cultural</strong></td>
+    <td>Cessão de espaços públicos</td>
+    <td>Exposições em museus, eventos em praças históricas</td>
+  </tr>
+  <tr>
+    <td><strong>Termo de Cooperação Cultural</strong></td>
+    <td>Parcerias para troca de conhecimentos</td>
+    <td>Capacitações, desenvolvimento de metodologias</td>
+  </tr>
+</table>
+
 
 📌 **Nota**: Os **Termos de Cooperação Cultural** substituem com vantagens os tradicionais **Acordos de Cooperação Técnica** para ações culturais, por serem mais ágeis e específicos.
