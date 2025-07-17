@@ -8,7 +8,7 @@ e a estruturação de objetivos comuns entre parceiros.
 Com um campo bem delimitado e regras claras, os jogadores podem começar a partida.
 Da mesma forma, os parceiros sabem o que podem ou não fazer quando atuam sob normas claras e objetivas.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ymp6MGFuN2RzcDVxaDYzZjN5bmF5dXhvNzBjNnZieHhhbmVtY2tyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PnPU9GhN3V7oVizSHG/giphy.gif" style="width:50%; height:auto;">
+<img src="https://media1.tenor.com/m/AtHuy6lU3VcAAAAd/goal-juli%C3%A1n-carranza.gif" style="width:50%; height:auto;">
 
 ## ⚖️ Tipos de marcos regulatórios e seus instrumentos jurídicos
 Há três principais marcos regulatórios aplicáveis às parcerias e programas integrados do Iepha. Cada um deles possui seus respectivos **instrumentos jurídicos**.
@@ -21,7 +21,7 @@ Há três principais marcos regulatórios aplicáveis às parcerias e programas 
 
 _Diagrama 1: tipos de instrumento jurídico por marco regulatório e previsão de repasse de recursos entre as partes_
 
-<img src="/apoio/diagrama1_marcos_regulatorios.jpg" style="width:100%; height:auto;">
+<img src="/apoio/diagrama1_marcos_regulatorios.jpg" width="100%">
 
 _Legenda do Diagrama 1_
 
