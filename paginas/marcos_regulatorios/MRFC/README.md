@@ -8,6 +8,10 @@
 
 O **Marco Regulatório do Fomento à Cultura (MRFC)**, instituído pela [Lei Federal nº 14.903/2024](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%2014.903-2024?OpenDocument), representa um avanço significativo para o setor cultural ao estabelecer um regime jurídico específico, adaptado às particularidades das atividades culturais.
 
+Isso pode ser muito bem aproveitado pelos técnicos e gestores do Iepha-MG na hora de firmar parcerias, tornando mais fácil tanto a
+vida de quem vai elaborar os instrumentos formais de celebração de parcerias, quanto a de quem vai executar ou monitorar essas
+parcerias no futuro.
+
 ## ✅ Principais benefícios do MRFC
 - **Simplificação de processos**: Redução de burocracia na transferência de recursos para projetos culturais
 - **Inclusão institucional**: Estímulo à participação de entidades sem fins lucrativos
@@ -33,7 +37,8 @@ O **Marco Regulatório do Fomento à Cultura (MRFC)**, instituído pela [Lei Fed
    - Reduzir barreiras geográficas
    - Promover sustentabilidade ambiental
 
-## 🚀 Instrumentos jurídicos do MRFC
+## 💼 Instrumentos jurídicos do MRFC
+Clique no nome de cada instrumento jurídico das tabelas abaixo para saber mais.
 
 ### 💰 Com transferência de recursos
 
