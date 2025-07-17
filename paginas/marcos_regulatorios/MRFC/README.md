@@ -46,12 +46,12 @@ O **Marco Regulatório do Fomento à Cultura (MRFC)**, instituído pela [Lei Fed
   <tr>
     <td><strong>Termo de Execução Cultural</strong></td>
     <td>Projetos com repasse de recursos</td>
-    <td>Restauração de bens tombados, conservação preventiva</td>
+    <td>Restauração de bens, dossiês de tombamento, ações educativas</td>
   </tr>
   <tr>
     <td><strong>Termo de Premiação Cultural</strong></td>
     <td>Reconhecimento de ações relevantes</td>
-    <td>Educação patrimonial, inventários de referências culturais</td>
+    <td>Premiação a mestres ou iniciativas de educação patrimonial; concursos de fotografia</td>
   </tr>
   <tr>
     <td><strong>Termo de Bolsa Cultural</strong></td>
@@ -71,14 +71,11 @@ O **Marco Regulatório do Fomento à Cultura (MRFC)**, instituído pela [Lei Fed
   <tr>
     <td><strong>Termo de Ocupação Cultural</strong></td>
     <td>Cessão de espaços públicos</td>
-    <td>Exposições em museus, eventos em praças históricas</td>
+    <td>Exibições em espaços expositivos, eventos no Centro do Patrimônio</td>
   </tr>
   <tr>
     <td><strong>Termo de Cooperação Cultural</strong></td>
-    <td>Parcerias para troca de conhecimentos</td>
-    <td>Capacitações, desenvolvimento de metodologias</td>
+    <td>Parcerias para troca de conhecimento ou cooperação técnica</td>
+    <td>Capacitações, desenvolvimento ou aplicação de metodologias</td>
   </tr>
 </table>
-
-
-📌 **Nota**: Os **Termos de Cooperação Cultural** substituem com vantagens os tradicionais **Acordos de Cooperação Técnica** para ações culturais, por serem mais ágeis e específicos.
