@@ -21,7 +21,7 @@ Há três principais marcos regulatórios aplicáveis às parcerias e programas 
 
 _Diagrama 1: tipos de instrumento jurídico por marco regulatório e previsão de repasse de recursos entre as partes_
 
-<img src="/apoio/diagrama1_marcos_regulatorios.jpg" width="100%">
+<img src="https://github.com/user-attachments/assets/6c03dab4-e02f-4ca6-a558-9dafe3326c3b" width="100%">
 
 _Legenda do Diagrama 1_
 
