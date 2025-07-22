@@ -8,7 +8,11 @@ e a estruturação de objetivos comuns entre parceiros.
 Com um campo bem delimitado e regras claras, os jogadores podem começar a partida.
 Da mesma forma, os parceiros sabem o que podem ou não fazer quando atuam sob normas claras e objetivas.
 
-<img src="https://media1.tenor.com/m/AtHuy6lU3VcAAAAd/goal-juli%C3%A1n-carranza.gif" style="width:50%; height:auto;">
+<img 
+    src="https://media1.tenor.com/m/AtHuy6lU3VcAAAAd/goal-juli%C3%A1n-carranza.gif" 
+    align="center" 
+    width="35%" 
+    style="margin-right: 20px;">
 
 ## ⚖️ Tipos de marcos regulatórios e seus instrumentos jurídicos
 Há três principais marcos regulatórios aplicáveis às parcerias e programas integrados do Iepha. Cada um deles possui seus respectivos **instrumentos jurídicos**.
@@ -17,13 +21,13 @@ Há três principais marcos regulatórios aplicáveis às parcerias e programas 
 > Ele serve como prova legal de uma relação jurídica, transação ou declaração de vontade entre partes,
 > podendo ser utilizado em processos judiciais ou para garantir direitos e deveres.
 
-### Veja os instrumentos jurídicos das parcerias do Iepha-MG
+### 💼 Instrumentos jurídicos das parcerias do Iepha-MG
 
-_Diagrama 1: tipos de instrumento jurídico por marco regulatório e previsão de repasse de recursos entre as partes_
+#### Diagrama 1: tipos de instrumento jurídico por marco regulatório e previsão de repasse de recursos entre as partes [^1]
 
 <img src="https://github.com/user-attachments/assets/6c03dab4-e02f-4ca6-a558-9dafe3326c3b" width="100%">
 
-_Legenda do Diagrama 1_
+##### Legenda:
 
 | Ícone                                                                                     | Descrição                                  |
 |--------------------------------------------------------------------------------------------|-----------------------------------------|
@@ -31,3 +35,5 @@ _Legenda do Diagrama 1_
 | <img width="50" height="50" alt="MRFC" src="https://github.com/user-attachments/assets/d8083acd-a2ae-49c4-9178-f063ec955741">             | MRFC                                   |
 | <img width="50" height="50" alt="MRFC" src="https://github.com/user-attachments/assets/2dd463e8-c5f5-4430-989f-c80d8ae8566a">             | MROSC                                  |
 | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/28c673fb-c1a6-411b-a52c-eb5537184bb4">           | Envolve repasses de recursos entre as partes |
+
+[^1]: Fonte: APPI/IEPHA-MG.
