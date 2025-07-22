@@ -75,7 +75,8 @@ De acordo com o art. 18 da [Lei Federal nº 14.903/2024](https://www.planalto.go
 - Catalogação emergencial de bens culturais em risco
 
 ## Fluxograma para celebração de Termo de Execução Cultural
-```mermaid
+
+<pre class="mermaid">
 graph TD
     A[Identificação da Necessidade] --> B[Elaboração do Plano de Trabalho]
     B --> C{Necessita Chamamento Público?}
@@ -89,3 +90,8 @@ graph TD
     I --> J[Repasse de Recursos]
     J --> K[Execução e Monitoramento]
     K --> L[Prestação de Contas]
+  </pre>
+   <script type="module">
+     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+     mermaid.initialize({ startOnLoad: true });
+   </script>
