@@ -88,22 +88,25 @@ No MRFC, os chamamentos públicos podem ser:
 <pre class="mermaid">
 flowchart TB
     subgraph Planejamento
-    A1[**Preparação e prospecção**: consulta pública, reunião técnica, Consec etc.] -->A2 [**Proposição técnica da minuta de edital**]
-    A2 --> A3[**Verificação de adequação formal da minuta de edital**: verificação por parte da autoridade responsável pela publicação do edital, sendo necessário parecer jurídico somente em caso de não utilização de minuta padrão]
-    A3 --> A4[**Assinatura e publicação do edital**, com minuta de instrumento jurídico em anexo]
+        A1[**Preparação e prospecção**: consulta pública, reunião técnica, Consec etc.] --> A2[**Proposição técnica da minuta de edital**]
+        A2 --> A3[**Verificação de adequação formal**: parecer jurídico só se minuta não for padrão]
+        A3 --> A4[**Assinatura e publicação do edital**]
     end
-    A4 --> B1[**Inscrição de Propostas**, preferencialmente por plataforma eletrônica, com prazo mínimo de 5 dias úteis]
+
     subgraph Processamento
-    B1 --> B2[**Análise de propostas por comissão de seleção**]
-    B2 --> B3[**Divulgação do resultado provisório**, com abertura de prazo para recurso de, no mínimo, 3 (três) dias úteis e, caso apresentado recurso, de 2 (dois) dias úteis para contrarrazões]
-    B3 --> B4[**Recebimento e julgamento de recursos**]
-    B4 --> B5[**Divulgação do resultado final**]
+        B1[**Inscrição de Propostas** (5 dias úteis mín.)] --> B2[**Análise por comissão**]
+        B2 --> B3[**Resultado provisório** + recursos (3 dias)]
+        B3 --> B4[**Julgamento de recursos**]
+        B4 --> B5[**Resultado final**]
     end
-    B5 --> C1[**Habilitação dos agentes culturais** contemplados no resultado final]
+
     subgraph Celebração
-    C1 --> C2[**Convocação de novos agentes culturais para a fase de celebração**, em caso de inabilitação de contemplados]
-    C2 --> C3[**Assinatura física ou eletrônica dos instrumentos jurídicos** celebrados pela administração pública com os agentes culturais habilitados]
+        C1[**Habilitação dos agentes**] --> C2[**Convocação de novos** (se inabilitação)]
+        C2 --> C3[**Assinatura dos instrumentos**]
     end
+
+    A4 --> B1
+    B5 --> C1
   </pre>
 
 ### Considerações importantes sobre o Chamamento Público
