@@ -108,7 +108,7 @@ entregas estarão sempre à disposição de quem se interessar. Por isso, parcer
 transparentes e se valem das contribuições de todos os interessados para melhorar
 continuamente seus arranjos e métodos.
 
-## Quer saber mais?
+## 🤔 Quer saber mais?
 
 Clique nas imagens abaixo para acessar os sites de exemplos de parcerias de sucesso.
 
