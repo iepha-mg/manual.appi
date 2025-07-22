@@ -139,57 +139,58 @@ Documentos de referência (editais, termos, planos de trabalho etc.) podem ser e
 ## ↔️ Fluxograma para celebração, execução e prestação de contas de Termo de Execução Cultural
 
 <pre class="mermaid">
-  flowchart TD
-    A[Área técnica: preencher formulário de viabilidade de parcerias] --> B[APPI: analisar formulário (2 dias úteis)]
-    B --> C{Parceria é viável?}
-    C -->|Não| D[APPI justifica negativa por e-mail à área técnica] --> FIM
-    C -->|Sim| E{Necessita Chamamento Público?}
-    E -->|Não| F[Área técnica anexou parecer assinado dispensando chamamento?]
+flowchart TD
+    A["Área técnica: preencher formulário de viabilidade de parcerias"] --> B["APPI: analisar formulário (2 dias úteis)"]
+    B --> C{"Parceria é viável?"}
+    C -->|Não| D["APPI justifica negativa por e-mail à área técnica"] --> FIM
+    C -->|Sim| E{"Necessita Chamamento Público?"}
+    E -->|Não| F["Área técnica anexou parecer assinado dispensando chamamento?"]
     F -->|Não| FIM
-    F -->|Sim| G[APPI desenvolve minuta padrão de edital e Termo de Execução (5 dias úteis)]
+    F -->|Sim| G["APPI desenvolve minuta padrão de edital e Termo de Execução (5 dias úteis)"]
     E -->|Sim| G
-    G --> H[Área técnica analisa minutas (5 dias úteis)]
-    H --> I{Minutas validadas?}
+    G --> H["Área técnica analisa minutas (5 dias úteis)"]
+    H --> I{"Minutas validadas?"}
     I -->|Não| G
-    I -->|Sim| J[APPI encaminha processo à GLCC]
-    J --> K[GLCC: instrui processo no SEI]
-    K --> L[GLCC: Consulta Pública (5 dias úteis)]
-    L --> M[APPI: ajustes no edital conforme consulta pública (5 dias úteis)]
-    M --> N{Necessária análise jurídica?}
-    N -->|Sim| O[Análise Jurídica (10 dias úteis)] --> P[GLCC: ajustes e nota saneadora (3 dias úteis)]
-    N -->|Não| Q[Parecer da autoridade competente pela publicação do edital (2 dias úteis)]
-    Q --> R[GLCC: Assinatura e publicação do edital]
+    I -->|Sim| J["APPI encaminha processo à GLCC"]
+    J --> K["GLCC: instrui processo no SEI"]
+    K --> L["GLCC: Consulta Pública (5 dias úteis)"]
+    L --> M["APPI: ajustes no edital conforme consulta pública (5 dias úteis)"]
+    M --> N{"Necessária análise jurídica?"}
+    N -->|Sim| O["Análise Jurídica (10 dias úteis)"] --> P["GLCC: ajustes e nota saneadora (3 dias úteis)"]
+    N -->|Não| Q["Parecer da autoridade competente pela publicação do edital (2 dias úteis)"]
+    Q --> R["GLCC: Assinatura e publicação do edital"]
     P --> R
-    R --> S[Inscrição de propostas (mínimo de 5 dias úteis)]
-    S --> T[Análise pela comissão de seleção (~10 dias úteis)]
-    T --> U[GLCC: publicação do resultado provisório + recebimento de recursos (3 dias úteis)]
-    U --> V[GLCC: julgamento de recursos (5 dias úteis)]
-    V --> W{Recursos alteraram classificação?}
-    W -->|Sim| X[Prazo para contrarrazões (2 dias úteis)] --> Y[GLCC: publicação do resultado final]
+    R --> S["Inscrição de propostas (mínimo de 5 dias úteis)"]
+    S --> T["Análise pela comissão de seleção (aproximadamente 10 dias úteis)"]
+    T --> U["GLCC: publicação do resultado provisório + recebimento de recursos (3 dias úteis)"]
+    U --> V["GLCC: julgamento de recursos (5 dias úteis)"]
+    V --> W{"Recursos alteraram classificação?"}
+    W -->|Sim| X["Prazo para contrarrazões (2 dias úteis)"] --> Y["GLCC: publicação do resultado final"]
     W -->|Não| Y
-    Y --> Z[GLCC: habilitação dos agentes culturais (~10 dias úteis)]
-    Z --> AA{Houve inabilitação?}
-    AA -->|Sim| AB[Convocar e habilitar novos agentes (5 dias úteis)] --> AC[Assinatura dos instrumentos jurídicos]
+    Y --> Z["GLCC: habilitação dos agentes culturais (aproximadamente 10 dias úteis)"]
+    Z --> AA{"Houve inabilitação?"}
+    AA -->|Sim| AB["Convocar e habilitar novos agentes (5 dias úteis)"] --> AC["Assinatura dos instrumentos jurídicos"]
     AA -->|Não| AC
-    AC --> AD[Execução do objeto cultural]
-    AD --> AE[Prestação de contas]
-    AE --> AF{Projeto possui denúncia ou suspeita fundamentada de irregularidade?}
-    AF -->|Sim| AG[Aplicar sanções/compensações] --> FIM
-    AF -->|Não| AH{Projeto tem valor ≤ R$ 200 mil?}
-    AH -->|Sim| AI[Realizar visita técnica e emitir Relatório de Verificação Presencial]
-    AI --> AJ{Relatório confirma cumprimento?}
+    AC --> AD["Execução do objeto cultural"]
+    AD --> AE["Prestação de contas"]
+    AE --> AF{"Projeto possui denúncia ou suspeita fundamentada de irregularidade?"}
+    AF -->|Sim| AG["Aplicar sanções / compensações"] --> FIM
+    AF -->|Não| AH{"Projeto tem valor menor ou igual a R$ 200 mil?"}
+    AH -->|Sim| AI["Realizar visita técnica e emitir Relatório de Verificação Presencial"]
+    AI --> AJ{"Relatório confirma cumprimento?"}
     AJ -->|Sim| FIM
-    AJ -->|Não| AK[Solicitar Relatório de Objeto]
+    AJ -->|Não| AK["Solicitar Relatório de Objeto"]
     AH -->|Não| AK
-    AK --> AL[Receber Relatório de Objeto (até 120 dias)]
-    AL --> AM{Relatório confirma cumprimento?}
+    AK --> AL["Receber Relatório de Objeto (até 120 dias)"]
+    AL --> AM{"Relatório confirma cumprimento?"}
     AM -->|Sim| FIM
-    AM -->|Não| AN[Notificar agente para apresentar Relatório Financeiro]
-    AN --> AO[Receber Relatório Financeiro (até 120 dias)]
-    AO --> AP{Relatório Financeiro aprovado?}
+    AM -->|Não| AN["Notificar agente para apresentar Relatório Financeiro"]
+    AN --> AO["Receber Relatório Financeiro (até 120 dias)"]
+    AO --> AP{"Relatório Financeiro aprovado?"}
     AP -->|Sim| FIM
     AP -->|Não| AG
-  </pre>
+</pre>
+
 <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
 </script>
