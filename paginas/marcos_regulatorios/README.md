@@ -17,7 +17,7 @@ Da mesma forma, os parceiros sabem o que podem ou não fazer quando atuam sob no
 ## ⚖️ Tipos de marcos regulatórios e seus instrumentos jurídicos
 Há **três principais** marcos regulatórios aplicáveis às parcerias e programas integrados do Iepha:
 
-1. **MRFC**: Marco Regulatório do Fomento à Cultura ([Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm))
+1. **[MRFC](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/README.html)**: Marco Regulatório do Fomento à Cultura ([Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm))
 2. **MROSC**: Marco Regulatório das Organizações da Sociedade Civil ([Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm))
 3. **Modelo OSCIP/OS**: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor ([Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/LEI/23081/2018/), [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=47553&ano=2018&tipo=DEC) e [Decreto Estadual nº 47.554/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=47554&ano=2018&tipo=DEC))
 
