@@ -12,20 +12,15 @@ Subseção I - Do Termo de Execução Cultural - da Seção III - Dos Procedimen
 - Prestação de contas simplificada.
 
 ## 🛣️ Plano de trabalho
+> **Um plano de trabalho bem delimitado deve responder às perguntas:** O que vai ser feito? Como? Onde? Quando? Por quem?
+
 O **Plano de Trabalho** é requisito do Termo de Execução Cultural e deve prever, de acordo com o art. 13 da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm):
 - Descrição do objeto da ação cultural (o que será feito?);
 - Cronograma de execução (quais as etapas e resultados? Quando serão entregues? Quem é responsável por entregar? Quais os critérios de aceitação?);
 - Estimativa de custos (de acordo com o § 1º do art. 13, não é necessário constar detalhamento de cada item de despesa, mas apenas _demonstrar o planejamento da ação cultural_);
 
-> De acordo com o art. 13, § 3º da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm):
-> - Os custos apresentados poderão divergir com a prática convencional de mercado se houver excepcionalidade na realização das ações culturais, sobretudo considerando variáveis territoriais e geográficas, ou situações específicas: povos indígenas, ribeirinhos, atingidos por barragens, comunidades tradicionais, quilombolas, dentre outras possibilidades.
-
-> **Um plano de trabalho bem delimitado responde às perguntas:**
-> - O que vai ser feito?
-> - Como?
-> - Onde?
-> - Quando?
-> - Por quem?
+> **Atenção ao § 3º do art. 13:**
+> "A estimativa de custos do plano de trabalho poderá apresentar valores divergentes daqueles praticados convencionalmente no mercado quando houver significativa excepcionalidade no contexto de realização das ações culturais, consideradas variáveis territoriais e geográficas, bem como situações específicas, tais como as de povos indígenas, ribeirinhos, atingidos por barragens ou comunidades quilombolas e tradicionais."
 
 
 ## ✅ Pode:
@@ -47,8 +42,8 @@ De acordo com §§ 1º e 5º do art. 17 da [Lei Federal nº 14.903/2024](https:/
 - Aplicar rendimentos no objeto cultural sem necessidade de autorização prévia da Administração Pública (também previsto no Art. 14).
 
 ## ❌ Não pode:
-- Celebrar sem chamamento público (salvo em hipóteses específicas, conforme art. 6º, § 2º da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm)
-- Celebrar sem **Plano de Trabalho**
+- Celebrar **sem chamamento público** (salvo em hipóteses específicas, conforme art. 6º, § 2º da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm)
+- Celebrar **sem Plano de Trabalho**
 - Exigir **Relatório Financeiro**, na prestação de contas, sem que haja suspeita fundamentada de irregularidade
 
 ## 🛒 O que fazer com o patrimônio adquirido?
