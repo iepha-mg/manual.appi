@@ -1,7 +1,7 @@
 # 🏗️ Termo de Execução Cultural
 
 ## 📌 Definição:
-Termo que prevê repasse de recursos a agentes culturais para execução de projetos específicos, com metas e cronograma definidos.
+Termo que prevê repasse de recursos a agentes culturais para execução de projetos específicos, com plano de trabalho definido.
 
 ## 🏛️ Regulamentação específica:
 Subseção I - Do Termo de Execução Cultural - da Seção III - Dos Procedimentos por Instrumento - da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm).
@@ -16,6 +16,9 @@ O **Plano de Trabalho** é requisito do Termo de Execução Cultural e deve prev
 - Descrição do objeto da ação cultural (o que será feito?);
 - Cronograma de execução (quais as etapas e resultados? Quando serão entregues? Quem é responsável por entregar? Quais os critérios de aceitação?);
 - Estimativa de custos (de acordo com o § 1º do art. 13, não é necessário constar detalhamento de cada item de despesa, mas apenas _demonstrar o planejamento da ação cultural_);
+
+> De acordo com o art. 13, § 3º da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm):
+> - Os custos apresentados poderão divergir com a prática convencional de mercado se houver excepcionalidade na realização das ações culturais, sobretudo considerando variáveis territoriais e geográficas, ou situações específicas: povos indígenas, ribeirinhos, atingidos por barragens, comunidades tradicionais, quilombolas, dentre outras possibilidades.
 
 > **Um plano de trabalho bem delimitado responde às perguntas:**
 > - O que vai ser feito?
@@ -36,9 +39,9 @@ De acordo com o art. 15 da [Lei Federal nº 14.903/2024](https://www.planalto.go
 - Comunicação, divulgação e impulsionamento
 - Manutenção de espaços, alugueis, contas de luz e água
 - Obras, reformas e aquisições de equipamentos
-- Reembolsos a agente cultural celebrante que pagar (e comprovar) do próprio bolso até 20% do que estava previsto no plano de trabalho
+- Reembolsos a agente cultural celebrante que pagar (e comprovar) do próprio bolso (ou de terceiros) até 20% do que estava previsto no plano de trabalho
 
-De acordo com §§ 1º e 5º do art. 17 da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm):
+De acordo com §§ 1º e 5º do art. 17 da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm), é possível ao agente público e ao agente cultural:
 - Prorrogar de ofício (sem necessidade de termo aditivo) a vigência por decorrência de atraso em repasse.
 - Alterar o plano de trabalho sem necessidade de termo aditivo, caso não haja modificação do valor global, nem mudança substancial do objeto da ação cultural.
 - Aplicar rendimentos no objeto cultural sem necessidade de autorização prévia da Administração Pública (também previsto no Art. 14).
@@ -47,7 +50,6 @@ De acordo com §§ 1º e 5º do art. 17 da [Lei Federal nº 14.903/2024](https:/
 - Celebrar sem chamamento público (salvo em hipóteses específicas, conforme art. 6º, § 2º da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm)
 - Celebrar sem **Plano de Trabalho**
 - Exigir **Relatório Financeiro**, na prestação de contas, sem que haja suspeita fundamentada de irregularidade
-- ????
 
 ## 🛒 O que fazer com o patrimônio adquirido?
 De acordo com o art. 16 da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm), os bens permanentes adquiridos,
@@ -74,7 +76,21 @@ De acordo com o art. 18 da [Lei Federal nº 14.903/2024](https://www.planalto.go
 - Intervenções para restauro de bens materiais
 - Contratação de equipes de restauradores
 - Elaboração de dossiês de tombamento
-- ????
+- Projetos de educação patrimonial em comunidades
+- Catalogação emergencial de bens culturais em risco
 
 ## Fluxograma para celebração de Termo de Execução Cultural
-????
+```mermaid
+graph TD
+    A[Identificação da Necessidade] --> B[Elaboração do Plano de Trabalho]
+    B --> C{Necessita Chamamento Público?}
+    C -->|Sim| D[Publicação do Edital]
+    C -->|Não| E[Seleção Direta<br>Art. 6º §2º]
+    D --> F[Análise de Propostas]
+    E --> G[Minuta do Termo]
+    F --> G
+    G --> H[Análise Jurídica]
+    H --> I[Assinatura]
+    I --> J[Repasse de Recursos]
+    J --> K[Execução e Monitoramento]
+    K --> L[Prestação de Contas]
