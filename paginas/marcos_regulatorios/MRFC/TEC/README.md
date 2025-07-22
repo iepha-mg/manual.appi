@@ -88,29 +88,39 @@ No MRFC, os chamamentos públicos podem ser:
 <pre class="mermaid">
 flowchart LR
     subgraph Planejamento
-        A1["Preparação e prospecção:\nconsulta pública, reunião técnica, Consec etc."] --> A2["Proposição técnica da minuta de edital"]
-        A2 --> A3["Verificação de adequação formal:\nparecer jurídico só se minuta não for padrão"]
+        A1["Preparação e prospecção: consulta pública, reunião técnica, Consec etc."] --> A2["Proposição técnica da minuta de edital"]
+        A2 --> A3["Verificação de adequação formal (necessário parecer jurídico só se não utilizada minuta padrão)"]
         A3 --> A4["Assinatura e publicação do edital"]
     end
 
     subgraph Processamento
-        B1["Inscrição de Propostas\n(mínimo de 5 dias úteis)"] --> B2["Análise por comissão"]
-        B2 --> B3["Resultado provisório + recursos\n(3 dias)"]
-        B3 --> B4["Julgamento de recursos"]
+        B1["Inscrição de Propostas (mínimo de 5 dias úteis)"] --> B2["Análise por comissão"]
+        B2 --> B3["Resultado provisório + prazos para recursos (3 dias úteis) e contrarrazões (2 dias úteis, se for o caso)"]
+        B3 --> B4["Recebimento e julgamento de recursos"]
         B4 --> B5["Resultado final"]
     end
 
     subgraph Celebração
-        C1["Habilitação dos agentes"] --> C2["Convocação de novos\n(em caso de inabilitação)"]
-        C2 --> C3["Assinatura dos instrumentos"]
+        C1["Habilitação dos agentes culturais"] --> C2["Convocação de novos agentes culturais (em caso de inabilitação)"]
+        C2 --> C3["Assinatura dos instrumentos jurídicos"]
     end
 
     Planejamento --> Processamento
     Processamento --> Celebração
 </pre>
 
-### Considerações importantes sobre o Chamamento Público
-????
+### ❗ Considerações importantes sobre o Chamamento Público
+- É indispensável a fase de consulta pública (ou ferramentas afins), conforme art. 8º, § 1º.
+- Quando utilizada minuta apdronizada (que portanto já sofreu análise jurídica de um órgão público), a **autoridade responsável pela publicação do edital** (geralmente dirigente máximo do órgão público) pode assumir a verificação de adequação formal da minuta de edital. Na prática, isso quer dizer que nem sempre será necessária a análise jurídica (art. 8º, § 3º).
+- É vedada a avaliação de escolhas técnicas sobre a execução da política pública por parte da análise jurídica (art. 8º, § 4º).
+- Os editais poderão prever busca ativa e inscrição por meio oral para atender a agentes culturais integrantes de grupos vulneráveis (art. 8º, § 6º)
+- É possível utilizar cadastro prévio para facilitar a inscrição e a posterior habilitação de propostas (expl.: plataformas como Descentra Cultura podem ser utilizadas), segundo o art. 9º, § 2º e art. 10, § 4º.
+- A análise para seleção de propostas poderá ser efetivada por voluntários a convite; contratados por inexigibilidade; contratados por edital de credenciamento; e contratados por meio de serviço técnico especializado (art. 9º, § 3º).
+- A **habilitação** dos agentes culturais **só pode ocorrer após a seleção das propostas** (art. 10, § 1º).
+- Não se pode exigir requisitos de habilitação que prejudiquem a democratização do acesso de agentes culturais às políticas de fomento cultural (art. 10, § 2º), mas continua havendo obrigatoriedade de comprovação de regularidade fiscal no caso de Termo de Execução Cultural (art. 10, § 3º).
+- Há novos meios de comprovação de endereço para agentes culturais ciganos, indígenas, quilombolas, circenses, nômades, itinerantes ou em situação de rua (art. 10, § 8º).
+- Conforme art. 11, é possível beneficiar propostas de caráter plurianual em hipóteses específicas: manutenção de espaços culturais, corpos artísticos, festivais etc.
+- Contrarrazões só são aplicáveis se recursos modificarem a ordem da seleção, eventualmente prejudicando alguém que já havia sido classificado.
 
 ## 🔍 Saiba mais!
 Documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar sua vida, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
@@ -126,22 +136,60 @@ Documentos de referência (editais, termos, planos de trabalho etc.) podem ser e
 - [Anexo 09 - Formulário de recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-ix-formulario-de-recurso)
 
 
-## ↔️ Fluxograma para celebração de Termo de Execução Cultural
+## ↔️ Fluxograma para celebração, execução e prestação de contas de Termo de Execução Cultural
 
 <pre class="mermaid">
 graph TD
-    A[**Área técnica**: preencher formulário de viabilidade de parcerias] --> B[**APPI**: consolidar minuta padrão de instrumento jurídico]
-    B --> C{Necessita Chamamento Público?}
-    C -->|Sim| D[Elaboração de edital]
-    C -->|Não| E[Seleção Direta<br>Art. 6º §2º]
-    D --> F[Análise de Propostas]
-    E --> G[Minuta do Termo]
-    F --> G
-    G --> H[Análise Jurídica]
-    H --> I[Assinatura]
-    I --> J[Repasse de Recursos]
-    J --> K[Execução e Monitoramento]
-    K --> L[Prestação de Contas]
+  flowchart TD
+    A[Área técnica: preencher formulário de viabilidade de parcerias] --> B[APPI: analisar formulário (2 dias úteis)]
+    B --> C{Parceria é viável?}
+    C -->|Não| D[APPI justifica negativa por e-mail à área técnica] --> FIM
+    C -->|Sim| E{Necessita Chamamento Público?}
+    E -->|Não| F[Área técnica anexou parecer assinado dispensando chamamento?]
+    F -->|Não| FIM
+    F -->|Sim| G[APPI desenvolve minuta padrão de edital e Termo de Execução (5 dias úteis)]
+    E -->|Sim| G
+    G --> H[Área técnica analisa minutas (5 dias úteis)]
+    H --> I{Minutas validadas?}
+    I -->|Não| G
+    I -->|Sim| J[APPI encaminha processo à GLCC]
+    J --> K[GLCC: instrui processo no SEI]
+    K --> L[GLCC: Consulta Pública (5 dias úteis)]
+    L --> M[APPI: ajustes no edital conforme consulta pública (5 dias úteis)]
+    M --> N{Necessária análise jurídica?}
+    N -->|Sim| O[Análise Jurídica (10 dias úteis)] --> P[GLCC: ajustes e nota saneadora (3 dias úteis)]
+    N -->|Não| Q[Parecer da autoridade competente pela publicação do edital (2 dias úteis)]
+    Q --> R[GLCC: Assinatura e publicação do edital]
+    P --> R
+    R --> S[Inscrição de propostas (mínimo de 5 dias úteis)]
+    S --> T[Análise pela comissão de seleção (~10 dias úteis)]
+    T --> U[GLCC: publicação do resultado provisório + recebimento de recursos (3 dias úteis)]
+    U --> V[GLCC: julgamento de recursos (5 dias úteis)]
+    V --> W{Recursos alteraram classificação?}
+    W -->|Sim| X[Prazo para contrarrazões (2 dias úteis)] --> Y[GLCC: publicação do resultado final]
+    W -->|Não| Y
+    Y --> Z[GLCC: habilitação dos agentes culturais (~10 dias úteis)]
+    Z --> AA{Houve inabilitação?}
+    AA -->|Sim| AB[Convocar e habilitar novos agentes (5 dias úteis)] --> AC[Assinatura dos instrumentos jurídicos]
+    AA -->|Não| AC
+    AC --> AD[Execução do objeto cultural]
+    AD --> AE[Prestação de contas]
+    AE --> AF{Projeto possui denúncia ou suspeita fundamentada de irregularidade?}
+    AF -->|Sim| AG[Aplicar sanções/compensações] --> FIM
+    AF -->|Não| AH{Projeto tem valor ≤ R$ 200 mil?}
+    AH -->|Sim| AI[Realizar visita técnica e emitir Relatório de Verificação Presencial]
+    AI --> AJ{Relatório confirma cumprimento?}
+    AJ -->|Sim| FIM
+    AJ -->|Não| AK[Solicitar Relatório de Objeto]
+    AH -->|Não| AK
+    AK --> AL[Receber Relatório de Objeto (até 120 dias)]
+    AL --> AM{Relatório confirma cumprimento?}
+    AM -->|Sim| FIM
+    AM -->|Não| AN[Notificar agente para apresentar Relatório Financeiro]
+    AN --> AO[Receber Relatório Financeiro (até 120 dias)]
+    AO --> AP{Relatório Financeiro aprovado?}
+    AP -->|Sim| FIM
+    AP -->|Não| AG
   </pre>
 <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
