@@ -13,32 +13,32 @@ vida de quem vai elaborar os instrumentos formais de celebração de parcerias, 
 parcerias no futuro.
 
 ## ✅ Principais benefícios do MRFC
-- **Simplificação de processos**: Redução de burocracia na transferência de recursos para projetos culturais
-- **Inclusão institucional**: Estímulo à participação de entidades sem fins lucrativos
-- **Flexibilidade operacional**: Regras mais ágeis e adequadas à realidade cultural
-- **Transparência e participação**: Processos claros com envolvimento social
-- **Sustentabilidade cultural**: Suporte a projetos plurianuais e ações continuadas
+- **Simplificação de processos**: redução de burocracia na transferência de recursos para projetos culturais
+- **Inclusão institucional**: estímulo à participação de entidades sem fins lucrativos
+- **Flexibilidade operacional**: regras mais ágeis e adequadas à realidade cultural
+- **Transparência e participação**: processos claros com envolvimento social
+- **Sustentabilidade cultural**: suporte a projetos plurianuais e ações continuadas
 
 > ⚖️ **Diferencial fundamental**: O MRFC **dispensa a aplicação** da Lei Federal nº 14.133/2021 (Nova Lei de Licitações e Contratos), adotando regras próprias mais simplificadas e eficientes para o setor cultural.
 
 ## 🌟 Inovações do marco regulatório
-1. **Projetos plurianuais**: Possibilidade de financiamento contínuo para:
+1. **Projetos plurianuais**: possibilidade de financiamento contínuo para:
    - Manutenção de espaços culturais (museus, teatros, bibliotecas)
    - Sustentação de grupos artísticos (companhias de dança, orquestras etc.)
 
-2. **Ações afirmativas**: Mecanismos inclusivos como:
+2. **Ações afirmativas**: mecanismos inclusivos como:
    - Editais específicos
    - Sistema de cotas
    - Bônus em avaliações
    - Procedimentos adaptados para minorias
 
-3. **Gestão digital**: Priorização de processos eletrônicos para:
+3. **Gestão digital**: priorização de processos eletrônicos para:
    - Ampliar acesso às políticas culturais
    - Reduzir barreiras geográficas
    - Promover sustentabilidade ambiental
 
 ## 💼 Instrumentos jurídicos do MRFC
-Clique no nome de cada instrumento jurídico das tabelas abaixo para saber mais.
+Clique no nome de cada instrumento jurídico para saber mais.
 
 ### 💰 Com transferência de recursos
 
