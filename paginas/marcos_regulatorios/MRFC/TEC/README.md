@@ -175,21 +175,13 @@ flowchart TD
     AD --> AE["Prestação de contas"]
     AE --> AF{"Projeto possui denúncia ou suspeita fundamentada de irregularidade?"}
     AF -->|Sim| AG["Aplicar sanções / compensações"] --> FIM
-    AF -->|Não| AH{"Projeto tem valor menor ou igual a R$ 200 mil?"}
-    AH -->|Sim| AI["Realizar visita técnica e emitir Relatório de Verificação Presencial"]
-    AI --> AJ{"Relatório confirma cumprimento?"}
-    AJ -->|Sim| FIM
-    AJ -->|Não| AK["Solicitar Relatório de Objeto"]
-    AH -->|Não| AK
-    AK --> AL["Receber Relatório de Objeto (até 120 dias)"]
-    AL --> AM{"Relatório confirma cumprimento?"}
-    AM -->|Sim| FIM
-    AM -->|Não| AN["Notificar agente para apresentar Relatório Financeiro"]
+    AF -->|Não| AN["Notificar agente para apresentar Relatório Financeiro"]
     AN --> AO["Receber Relatório Financeiro (até 120 dias)"]
     AO --> AP{"Relatório Financeiro aprovado?"}
     AP -->|Sim| FIM
     AP -->|Não| AG
 </pre>
+
 
 <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
