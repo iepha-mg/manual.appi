@@ -86,7 +86,7 @@ No MRFC, os chamamentos públicos podem ser:
 
 ### Fases do Chamamento Público
 <pre class="mermaid">
-flowchart TB
+flowchart LR
     subgraph Planejamento
         A1["Preparação e prospecção:\nconsulta pública, reunião técnica, Consec etc."] --> A2["Proposição técnica da minuta de edital"]
         A2 --> A3["Verificação de adequação formal:\nparecer jurídico só se minuta não for padrão"]
@@ -105,8 +105,8 @@ flowchart TB
         C2 --> C3["Assinatura dos instrumentos"]
     end
 
-    A4 --> B1
-    B5 --> C1
+    Planejamento --> Processamento
+    Processamento --> Celebração
 </pre>
 
 ### Considerações importantes sobre o Chamamento Público
