@@ -11,17 +11,13 @@ Subseção I - Do Termo de Execução Cultural - da Seção III - Dos Procedimen
 - Repasse de recursos sob governança simplificada com foco em resultados culturais constantes em plano de trabalho.
 - Prestação de contas simplificada.
 
-## 🛣️ Plano de trabalho
-> **Um plano de trabalho bem delimitado deve responder às perguntas:** O que vai ser feito? Como? Onde? Quando? Por quem?
-
-O **Plano de Trabalho** é requisito do Termo de Execução Cultural e deve prever, de acordo com o art. 13 da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm):
-- Descrição do objeto da ação cultural (o que será feito?);
-- Cronograma de execução (quais as etapas e resultados? Quando serão entregues? Quem é responsável por entregar? Quais os critérios de aceitação?);
-- Estimativa de custos (de acordo com o § 1º do art. 13, não é necessário constar detalhamento de cada item de despesa, mas apenas _demonstrar o planejamento da ação cultural_);
-
-> **Atenção ao § 3º do art. 13:**
-> "A estimativa de custos do plano de trabalho poderá apresentar valores divergentes daqueles praticados convencionalmente no mercado quando houver significativa excepcionalidade no contexto de realização das ações culturais, consideradas variáveis territoriais e geográficas, bem como situações específicas, tais como as de povos indígenas, ribeirinhos, atingidos por barragens ou comunidades quilombolas e tradicionais."
-
+## 🛠️ Ideias para aplicação no Iepha-MG:
+- Parcerias para conservação ou digitalização de acervos
+- Intervenções para restauro de bens materiais
+- Contratação de equipes de restauradores
+- Elaboração de dossiês de tombamento
+- Projetos de educação patrimonial em comunidades
+- Catalogação emergencial de bens culturais em risco
 
 ## ✅ Pode:
 De acordo com o art. 15 da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm), os recursos do Termo de Execução Cultural podem ser utilizados para pagamentos em:
@@ -45,6 +41,9 @@ De acordo com §§ 1º e 5º do art. 17 da [Lei Federal nº 14.903/2024](https:/
 - Celebrar **sem chamamento público** (salvo em hipóteses específicas, conforme art. 6º, § 2º da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm)
 - Celebrar **sem Plano de Trabalho**
 - Exigir **Relatório Financeiro**, na prestação de contas, sem que haja suspeita fundamentada de irregularidade
+- Exigir **contrapartida financeira, em bens ou em serviços** do agente cultural (art. 6º, § 3º)
+- Celebrar sem prever condições de recebimento de recursos, encargos e obrigações decorrentes da celebração do instrumento (art. 6º, § 3º)
+- Celebrar com agentes culturais cujas propostas apresentem quaisquer formas de preconceito de origem, raça, sexo, cor, idade e outras formas de discriminação (art. 9º, § 5º)
 
 ## 🛒 O que fazer com o patrimônio adquirido?
 De acordo com o art. 16 da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm), os bens permanentes adquiridos,
@@ -62,25 +61,75 @@ De acordo com o art. 18 da [Lei Federal nº 14.903/2024](https://www.planalto.go
 | **Guardar Documentos**  | Agente cultural deve manter toda a documentação.                          | 5 anos (após fim da vigência)      | Aplicável a **todos** os termos (Art. 18, § 3º).                                      |
 | **Aprovação Automática**| Contas aprovadas automaticamente se não houver manifestação do órgão público em até 5 anos.                   | 5 anos (após fim da vigência)      | Exceto se houver **dolo, fraude ou simulação** (Art. 18, § 4º).                       |
 
+## 🛣️ Plano de trabalho
+> **Um plano de trabalho bem delimitado deve responder às perguntas:** O que vai ser feito? Como? Onde? Quando? Por quem?
+
+O **Plano de Trabalho** é requisito do Termo de Execução Cultural e deve prever, de acordo com o art. 13 da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm):
+- Descrição do objeto da ação cultural (o que será feito?);
+- Cronograma de execução (quais as etapas e resultados? Quando serão entregues? Quem é responsável por entregar? Quais os critérios de aceitação?);
+- Estimativa de custos (de acordo com o § 1º do art. 13, não é necessário constar detalhamento de cada item de despesa, mas apenas _demonstrar o planejamento da ação cultural_);
+
+> **Atenção ao § 3º do art. 13:**
+> "A estimativa de custos do plano de trabalho poderá apresentar valores divergentes daqueles praticados convencionalmente no mercado quando houver significativa excepcionalidade no contexto de realização das ações culturais, consideradas variáveis territoriais e geográficas, bem como situações específicas, tais como as de povos indígenas, ribeirinhos, atingidos por barragens ou comunidades quilombolas e tradicionais."
+
 ## ⏱️ Prazos Chave:
 - Vigência: não há previsão de vigência máxima, mas recomenda-se prazos compatíveis com o plano de trabalho.  
 - Prestação de contas: **Visita Técnica** durante ou ao fim da vigência / ou **Relatório de Objeto Cultural** até 120 dias após o fim da vigência / ou **Relatório Financeiro** até 120 dias após notificação de sua eventual necessidade.
 
-## 🛠️ Ideias para aplicação no Iepha-MG:
-- Parcerias para conservação ou digitalização de acervos
-- Intervenções para restauro de bens materiais
-- Contratação de equipes de restauradores
-- Elaboração de dossiês de tombamento
-- Projetos de educação patrimonial em comunidades
-- Catalogação emergencial de bens culturais em risco
+## 📣 Chamamento público
+A seção II - do Chamamento Público - regulamenta o tema, a partir do art. 6º, na [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm).
+No caso de Termos de Execução Cultural, **chamamentos públicos são obrigatórios**, salvo em casos excepcionais (art. 6º, § 2º). Como não há ainda regulamentação publicada em que constem
+as excepcionalidades cabíveis, é recomendável que todo Termo de Execução Cultural seja precedido de chamamento público.
+No MRFC, os chamamentos públicos podem ser:
+- **De fluxo contínuo**: nos casos em que for possível a celebração de Termos de Execução Cultural à medida que as propostas são recebidas.
+- **De fluxo ordinário**: nos casos em que a Administração Pública optar pela concentração do recebimento, da análise e da seleção de propostas em período determinado.
 
-## Fluxograma para celebração de Termo de Execução Cultural
+### Fases do Chamamento Público
+<pre class="mermaid">
+flowchart TB
+    subgraph Planejamento
+    A1[**Preparação e prospecção**: consulta pública, reunião técnica, Consec etc.] -->A2 [**Proposição técnica da minuta de edital**]
+    A2 --> A3[**Verificação de adequação formal da minuta de edital**: verificação por parte da autoridade responsável pela publicação do edital, sendo necessário parecer jurídico somente em caso de não utilização de minuta padrão]
+    A3 --> A4[**Assinatura e publicação do edital**, com minuta de instrumento jurídico em anexo]
+    end
+    A4 --> B1[**Inscrição de Propostas**, preferencialmente por plataforma eletrônica, com prazo mínimo de 5 dias úteis]
+    subgraph Processamento
+    B1 --> B2[**Análise de propostas por comissão de seleção**]
+    B2 --> B3[**Divulgação do resultado provisório**, com abertura de prazo para recurso de, no mínimo, 3 (três) dias úteis e, caso apresentado recurso, de 2 (dois) dias úteis para contrarrazões]
+    B3 --> B4[**Recebimento e julgamento de recursos**]
+    B4 --> B5[**Divulgação do resultado final**]
+    end
+    B5 --> C1[**Habilitação dos agentes culturais** contemplados no resultado final]
+    subgraph Celebração
+    C1 --> C2[**Convocação de novos agentes culturais para a fase de celebração**, em caso de inabilitação de contemplados]
+    C2 --> C3[**Assinatura física ou eletrônica dos instrumentos jurídicos** celebrados pela administração pública com os agentes culturais habilitados]
+    end
+  </pre>
+
+### Considerações importantes sobre o Chamamento Público
+????
+
+## 🔍 Saiba mais!
+Documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar sua vida, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
+- [Minuta Padrão de Edital de Fomento à Execução de Ações Culturais](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/edital-fomento-a-execucao-de-acoes-culturais) (atualizado em 10/07/2024 após sanção da Lei nº 14.903/2024)
+- [Anexo 01 - Categorias](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/Anexo%20I%20-%20Categorias)
+- [Anexo 02 - Formulário de Inscrição e Plano de Trabalho](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-ii-formulario-de-inscricao-e-plano-de-trabalho) 
+- [Anexo 03 - Critérios de Avaliação](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexoiiicriteriosdeavaliacaoMinutaPadrodeEditaldeFomentoExecuodeAesCulturais.docx)
+- [Anexo 04 _ Termo de Execução Cultural](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-iv-termo-de-execucao-cultural) (atualizado em 05/07/2024 após sanção da Lei nº 14.903/2024)
+- [Anexo 05 - Relatório de Execução de Objeto](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-v-relatorio-de-objeto-da-execucao-cultural) (atualizado em 05/07/2024 após sanção da Lei nº 14.903/2024)
+- [Anexo 06 - Declaração para coletivo sem CNPJ](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-vi-declaracao-para-coletivo-sem-cnpj)
+- [Anexo 07 - Declaração para cotas (negros e indígenas)](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-vii-declaracao-para-cotas-pessoas-negras-e-indigenas)
+- [Anexo 08 - Declaração para cotas (PCDs)](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-viii-declaracao-para-cotas-pcd)
+- [Anexo 09 - Formulário de recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-ix-formulario-de-recurso)
+
+
+## ⛖ Fluxograma para celebração de Termo de Execução Cultural
 
 <pre class="mermaid">
 graph TD
-    A[Identificação da Necessidade] --> B[Elaboração do Plano de Trabalho]
+    A[**Área técnica**: preencher formulário de viabilidade de parcerias] --> B[**APPI**: consolidar minuta padrão de instrumento jurídico]
     B --> C{Necessita Chamamento Público?}
-    C -->|Sim| D[Publicação do Edital]
+    C -->|Sim| D[Elaboração de edital]
     C -->|Não| E[Seleção Direta<br>Art. 6º §2º]
     D --> F[Análise de Propostas]
     E --> G[Minuta do Termo]
