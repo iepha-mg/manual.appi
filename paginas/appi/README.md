@@ -96,3 +96,62 @@ Finalmente, a APPI tem a simplicidade como parâmetro: toda e qualquer informaç
 ser acessível para todos, independentemente do nível de conhecimento ou escolaridade. O
 objetivo é garantir que a mensagem seja compreendida rapidamente e sem esforço, então
 a comunicação deve utilizar palavras e frases claras, diretas e fáceis de entender.
+
+## 🏋🏻Quem somos?
+
+### **Priscila Guerra Duarte** *(Assessora-Chefe da APPI)*
+
+> *Especialista em Políticas Públicas e Gestão Governamental (EPPGG)* | 📧 **priscila.guerra@iepha.mg.gov.br** | 🎓 http://lattes.cnpq.br/4749109914314491
+
+<img 
+    src="https://github.com/user-attachments/assets/63caf254-f46b-477a-9624-2f0d6adda0c7" 
+    align="right" 
+    width="33%" 
+    style="margin-right: 20px;">
+
+#### **Formação Acadêmica**  
+- **Mestranda** em Economia e Política da Cultura (UFGRS)
+- **Especialização** em Gestão Cultural (Centro Universitário UNA, 2012)
+- **Graduação** em Administração Pública (Fundação João Pinheiro, 2010)  
+
+#### **Atuação profissional**  
+- Supervisão de **Termos de Parceria** com OSCIPs (ex.: Orquestra Filarmônica de Minas Gerais, Circuito Cultural Praça da Liberdade).
+- **Planejamento estratégico**, diagnóstico de processos e monitoramento de metas (ex.: Fundação Clóvis Salgado).
+- **Articulação de parcerias**, gestão de convênios e prestação de contas (Secretaria de Estado Extraordinária da Copa do Mundo – SECOPA, Museu Brasileiro do Futebol - parceria com Minas Arena).
+- Expertise em **compliance**, gestão de Acordos de Resultados e integração de políticas culturais.
+
+#### **Competências-Chave**  
+```
++ Governança de parcerias (OSCIPs/OS)       + Compliance e prestação de contas        + Planejamento estratégico cultural
++ Gestão de convênios e contratos           + Articulação público-privada             + Políticas culturais integradas
+```
+
+### **Lucas Fainblat** *(EPPGG na APPI)*
+
+> *Especialista em Políticas Públicas e Gestão Governamental (EPPGG)* | 📧 **lucas.fainblat@iepha.mg.gov.br** | 🎓 http://lattes.cnpq.br/1511692902967161 
+
+<img 
+    src="https://github.com/user-attachments/assets/f7d17132-5741-4ba4-b7e5-04567ee709f5"
+    align="right" 
+    width="33%" 
+    style="margin-right: 20px;">
+
+#### **Formação Acadêmica**  
+- **Doutorando** em Ciência Política (UFMG)
+- **Mestre** em Ciência Política (UFMG, 2024)
+   - _Dissertação_: "Quem entra e quem fica de fora? Ônus administrativos e reprodução de desigualdades na implementação dos editais da Lei Aldir Blanc (LAB): um estudo de caso em Minas Gerais"
+- **Especialização** em Políticas Públicas (UFMG, 2016)
+- **Graduação** em Administração Pública (Fundação João Pinheiro, 2011)  
+
+#### **Atuação profissional**    
+- **Contratos de Gestão**: elaboração e supervisão de contratos com OS/OSCIPs (ex. Orquestra Filarmônica de Minas Gerais, Circuito Cultural Praça da Liberdade).
+- **Planejamento estratégico**, chefiando a Assessoria Estratégica (AEST) da Secult-MG de 2016 a 2023.
+- **Atuação em rede**, idealizando a Rede Estratégia, que integrou as AESTs do Governo de Minas (SEPLAG, 2024).
+- **Orçamento Público**, pela elaboração, monitoramento e avaliação do Plano Plurianual de Ação Governamental (PPAG) da Secult-MG e suas entidades vinculadas (SECULT-MG, 2011 a 2023).
+- **Gestão de dados**, pela coordenação dos painéis de resultados da Lei Aldir Blanc I em MG ([editais](https://www.secult.mg.gov.br/relatorio-aldir-blanc) e [auxílio emergencial](https://www.secult.mg.gov.br/relatorio-emergencial#)).
+
+#### **Competências-chave**  
+```
++ Políticas culturais       + Governança digital        + Compliance
++ Planejamento estratégico  + Análise de dados          + Elaboração de editais, instrumentos e normativas
+```
