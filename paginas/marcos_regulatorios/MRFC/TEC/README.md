@@ -174,7 +174,7 @@ flowchart TD
     AC --> AD["Execução do objeto cultural"]
     AD --> AE["Prestação de contas"]
     AE --> AF{"Projeto possui denúncia ou suspeita fundamentada de irregularidade?"}
-    AF -->|Sim| AG["Aplicar sanções / compensações"] --> FIM
+    AF -->|Sim| AN["Notificar agente para apresentar Relatório Financeiro"]
     AF -->|Não| AH{"Projeto tem valor menor ou igual a R$ 200 mil?"}
     AH -->|Sim| AI["Realizar visita técnica e emitir Relatório de Verificação Presencial"]
     AI --> AJ{"Relatório confirma cumprimento?"}
@@ -184,11 +184,11 @@ flowchart TD
     AK --> AL["Receber Relatório de Objeto (até 120 dias)"]
     AL --> AM{"Relatório confirma cumprimento?"}
     AM -->|Sim| FIM
-    AM -->|Não| AN["Notificar agente para apresentar Relatório Financeiro"]
+    AM -->|Não| AN
     AN --> AO["Receber Relatório Financeiro (até 120 dias)"]
     AO --> AP{"Relatório Financeiro aprovado?"}
     AP -->|Sim| FIM
-    AP -->|Não| AG
+    AP -->|Não| AG["Aplicar sanções / compensações"] --> FIM
 </pre>
 
 <script type="module">
