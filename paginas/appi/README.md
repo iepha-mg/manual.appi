@@ -152,6 +152,6 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
 
 #### **Competências-chave**  
 ```
-+ Políticas culturais       + Governança digital        + Compliance
-+ Planejamento estratégico  + Análise de dados          + Elaboração de editais, instrumentos e normativas
++ Políticas culturais             + Simplificação           + Inovação
++ Planejamento estratégico        + Análise de dados        + Elaboração de editais, instrumentos e normativas
 ```
