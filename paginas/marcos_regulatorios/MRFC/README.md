@@ -49,7 +49,7 @@ Clique no nome de cada instrumento jurídico para saber mais.
     <th width="35%">Exemplos</th>
   </tr>
   <tr>
-    <td><strong><a href="https:/lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TEC/README.html">Termo de Execução Cultural</strong></td>
+    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TEC/README.html">Termo de Execução Cultural</strong></td>
     <td>Projetos com repasse de recursos</td>
     <td>Restauração de bens, dossiês de tombamento, ações educativas</td>
   </tr>
