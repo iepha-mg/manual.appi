@@ -139,7 +139,6 @@ Documentos de referência (editais, termos, planos de trabalho etc.) podem ser e
 ## ↔️ Fluxograma para celebração, execução e prestação de contas de Termo de Execução Cultural
 
 <pre class="mermaid">
-graph TD
   flowchart TD
     A[Área técnica: preencher formulário de viabilidade de parcerias] --> B[APPI: analisar formulário (2 dias úteis)]
     B --> C{Parceria é viável?}
