@@ -9,7 +9,7 @@ Este manual foi desenvolvido para:
 
 Aqui você encontrará os **procedimentos, modelos e orientações** necessários para construir parcerias alinhadas às políticas do IEPHA-MG e à legislação vigente.
 
-_Vamos juntos fortalecer a cultura da colaboração institucional!_
+> _Vamos juntos fortalecer a cultura da colaboração institucional!_
 
 # 📚 Índice
 Aqui você encontra:
