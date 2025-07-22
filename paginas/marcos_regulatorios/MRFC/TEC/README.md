@@ -126,7 +126,7 @@ Documentos de referência (editais, termos, planos de trabalho etc.) podem ser e
 - [Anexo 09 - Formulário de recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-ix-formulario-de-recurso)
 
 
-## ⛖ Fluxograma para celebração de Termo de Execução Cultural
+## ↔️ Fluxograma para celebração de Termo de Execução Cultural
 
 <pre class="mermaid">
 graph TD
@@ -143,7 +143,8 @@ graph TD
     J --> K[Execução e Monitoramento]
     K --> L[Prestação de Contas]
   </pre>
-   <script type="module">
-     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-     mermaid.initialize({ startOnLoad: true });
-   </script>
+<script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    </script>
+  </body>
+</html>
