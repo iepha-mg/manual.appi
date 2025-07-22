@@ -88,26 +88,26 @@ No MRFC, os chamamentos públicos podem ser:
 <pre class="mermaid">
 flowchart TB
     subgraph Planejamento
-        A1[**Preparação e prospecção**: consulta pública, reunião técnica, Consec etc.] --> A2[**Proposição técnica da minuta de edital**]
-        A2 --> A3[**Verificação de adequação formal**: parecer jurídico só se minuta não for padrão]
-        A3 --> A4[**Assinatura e publicação do edital**]
+        A1["Preparação e prospecção:\nconsulta pública, reunião técnica, Consec etc."] --> A2["Proposição técnica da minuta de edital"]
+        A2 --> A3["Verificação de adequação formal:\nparecer jurídico só se minuta não for padrão"]
+        A3 --> A4["Assinatura e publicação do edital"]
     end
 
     subgraph Processamento
-        B1[**Inscrição de Propostas** (5 dias úteis mín.)] --> B2[**Análise por comissão**]
-        B2 --> B3[**Resultado provisório** + recursos (3 dias)]
-        B3 --> B4[**Julgamento de recursos**]
-        B4 --> B5[**Resultado final**]
+        B1["Inscrição de Propostas\n(mínimo de 5 dias úteis)"] --> B2["Análise por comissão"]
+        B2 --> B3["Resultado provisório + recursos\n(3 dias)"]
+        B3 --> B4["Julgamento de recursos"]
+        B4 --> B5["Resultado final"]
     end
 
     subgraph Celebração
-        C1[**Habilitação dos agentes**] --> C2[**Convocação de novos** (se inabilitação)]
-        C2 --> C3[**Assinatura dos instrumentos**]
+        C1["Habilitação dos agentes"] --> C2["Convocação de novos\n(em caso de inabilitação)"]
+        C2 --> C3["Assinatura dos instrumentos"]
     end
 
     A4 --> B1
     B5 --> C1
-  </pre>
+</pre>
 
 ### Considerações importantes sobre o Chamamento Público
 ????
