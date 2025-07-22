@@ -1,3 +1,16 @@
+🤗 Bem-vindas e bem-vindos ao Manual de Governança da Assessoria de Parcerias e Programas Integrados (APPI) – um guia prático para servidores do IEPHA-MG que atuam na celebração e gestão de colaborações institucionais.
+
+Este manual foi desenvolvido para:
+
+- Otimizar processos com diretrizes claras que garantam **transparência, alinhamento estratégico e eficiência** na gestão de projetos colaborativos.
+- Fortalecer a governança nas relações com parceiros (públicos, privados, nacionais e internacionais), assegurando conformidade e reduzindo riscos.
+- Promover integração entre setores e instituições, potencializando o impacto das políticas voltadas ao patrimônio cultural mineiro.
+- Padronizar documentos e fluxos, facilitando o trabalho da APPI e demais unidades do IEPHA-MG.
+
+Aqui você encontrará os **procedimentos, modelos e orientações** necessários para construir parcerias alinhadas às políticas do IEPHA-MG e à legislação vigente.
+
+_Vamos juntos fortalecer a cultura da colaboração institucional!_
+
 # 📚 Índice
 Aqui você encontra:
 
