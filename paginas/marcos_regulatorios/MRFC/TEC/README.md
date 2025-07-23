@@ -142,6 +142,105 @@ Modelos e documentos de referência (editais, termos, planos de trabalho etc.) p
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas de Termo de Execução Cultural
 Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco Regulatório do Fomento à Cultura - MRFC). Diferentes formas das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
 
+flowchart TD
+    %% INÍCIO
+    A["Solicitar parceria"] --> B["Analisar solicitação"]
+    B --> C{"Parceria é viável?"}
+    C -->|Não| D["Informar e justificar negativa à área técnica por e-mail"] --> FIM["Encerrar processo"]
+    C -->|Sim| E{"Necessita Chamamento Público? (art. 6º, § 2º)"}
+    E -->|Não| F["Área técnica anexou parecer assinado dispensando chamamento?"]
+    F -->|Não| FIM
+    F -->|Sim| G["Desenvolver/revisar minuta de edital de chamamento público (se necessário) e Termo de Execução"]
+    E -->|Sim| G
+    G --> H["Analisar minutas"]
+    H --> I{"Minutas validadas?"}
+    I -->|Não| G
+    I -->|Sim| J["Encaminhar processo ao setor de Contratos e Convênios"]
+    J --> K["Instruir processo no SEI"]
+    K --> L["Realizar consulta pública ou processo equivalente (art. 8º, § 1º)"]
+    L --> M["Revisar edital conforme consulta pública"]
+    M --> N{"Passará por análise jurídica? (art. 8º, § 3º)"}
+    N -->|Sim| O["Análise jurídica"] --> P["Promover ajustes e anexar nota saneadora"]
+    N -->|Não| Q["Providenciar parecer da autoridade competente pela publicação do edital"]
+    Q --> R["Assinar e publicar edital"]
+    P --> R
+    R --> S["Receber propostas inscritas (mínimo de 5 dias úteis: art. 9º, I)"]
+    S --> T["Analisar propostas"]
+    T --> U["Publicar resultado provisório e aguardar prazo para recursos (3 dias úteis: art. 9º, III)"]
+    U --> V["Receber, analisar e julgar recursos"]
+    V --> W{"Recursos alteraram classificação?"}
+    W -->|Sim| X["Receber e analisar contrarrazões (2 dias úteis: art. 9º, III)"] --> Y["Publicar resultado final"]
+    W -->|Não| Y
+    Y --> Z["Habilitar agentes culturais selecionados"]
+    Z --> AA{"Houve inabilitação?"}
+    AA -->|Sim| AB["Convocar e habilitar novos agentes"] --> AC["Assinar instrumentos jurídicos"]
+    AA -->|Não| AC
+    AC --> AD["Monitorar execução do objeto cultural"]
+    AD --> AE["Iniciar prestação de contas"]
+    AE --> AF{"Projeto possui denúncia ou suspeita fundamentada de irregularidade? (art. 20, II)"}
+    AF -->|Sim| AN["Notificar agente cultural para que apresente Relatório Financeiro da Execução Cultural (art. 18, II)"]
+    AF -->|Não| AH{"Projeto tem valor menor ou igual a R$ 200 mil? (art. 18, § 1º)"}
+    AH -->|Sim| AI["Realizar visita técnica e emitir Relatório de Verificação Presencial (art. 18, § 2º)"]
+    AI --> AJ{"Relatório confirma cumprimento?"}
+    AJ -->|Sim| FIM
+    AJ -->|Não| AK["Notificar agente cultural para que apresente Relatório de Objeto da Execução Cultural (art. 18, § 2º, I)"]
+    AH -->|Não| AK
+    AK --> AL["Receber Relatório de Objeto da Execução Cultural (até 120 dias: art. 18, § 2º, I)"]
+    AL --> AM{"Relatório confirma cumprimento?"}
+    AM -->|Sim| FIM
+    AM -->|Não| AN
+    AN --> AO["Receber Relatório Financeiro da Execução Cultural (até 120 dias: art. 18, § 2º, II)"]
+    AO --> AP{"Relatório aprovado?"}
+    AP -->|Sim| FIM
+    AP -->|Não| AG["Aplicar sanções / compensações"] --> FIM
+
+    %% Classes de nós por unidade/setor - AJUSTADAS PARA LÓGICA DO CÓDIGO 1
+    class A tecnica
+    class B gab
+    class D tecnica
+    class F tecnica
+    class G tecnica
+    class H jur
+    class J gab
+    class K tecnica
+    class L tecnica
+    class M tecnica
+    class O jur
+    class P jur
+    class Q gab
+    class R gab
+    class S tecnica
+    class T tecnica
+    class U tecnica
+    class V julg
+    class X julg
+    class Y tecnica
+    class Z tecnica
+    class AB tecnica
+    class AC gab
+    class AD tecnica
+    class AE tecnica
+    class AN tecnica
+    class AI tecnica
+    class AK tecnica
+    class AL tecnica
+    class AO tecnica
+    class AG jur
+    class FIM gab
+    
+    %% Perguntas (losangos)
+    class C,E,F,I,N,W,AA,AF,AH,AJ,AM,AP question
+    
+    %% Definições de classe (MESMAS DO CÓDIGO 1)
+    classDef gab fill:#D0E6FF,stroke:#000;
+    classDef conv fill:#E3D6F7,stroke:#000;
+    classDef tecnica fill:#D5F5E3,stroke:#000;
+    classDef jur fill:#FAD7A0,stroke:#000;
+    classDef selecao fill:#F9C0C0,stroke:#000;
+    classDef julg fill:#DCDCDC,stroke:#000;
+    classDef question shape=diamond,fill:#FFF,stroke:#000;
+</div>    
+
 <div class="mermaid">
 flowchart TD
     A["Solicitar parceria"] --> B["Analisar solicitação"]
@@ -174,7 +273,6 @@ flowchart TD
     classDef selecao fill:#F9C0C0,stroke:#000;
     classDef julg fill:#DCDCDC,stroke:#000;
 </div>
-
 
 <div class="mermaid">
 flowchart TD
