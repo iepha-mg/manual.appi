@@ -146,8 +146,7 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
     flowchart TD
     A["Gabinete"] --> B(("Setor de Contratos e Convênios"))
     B --> C ("teste")
-    C --> D ((Opa))
-    D --> E >olha<
+    C --> D >"olha"<
 </div>
 
 <pre class="mermaid">
@@ -155,8 +154,8 @@ flowchart TD
     flowchart TD
     A["Gabinete"] --> B(("Setor de Contratos e Convênios"))
     B --> C ("teste")
-    C --> D ((Opa lele))
-    D --> E >olha só<                    
+    C --> D (("Opa lele"))
+    D --> E >"olha só"<                    
 </pre>
 
 <pre class="mermaid">
