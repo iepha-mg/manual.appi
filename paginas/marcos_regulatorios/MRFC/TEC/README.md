@@ -142,15 +142,14 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
 
 <div class="mermaid">
 flowchart TD
-
   subgraph Legenda
-        LeanRLegNode@{ shape: lean-r, label: "Área Técnica Demandante" }
-        RectLegNode@{ shape: rect, label: "Gabinete" }
-        RoundLegNode@{ shape: rounded, label: "Setor de Contratos e Convênios" }
-        TrapLegNode@{ shape: trap-b, label: "Assessoria Jurídica" }
-        OddLegNode@{ shape: odd, label: "Comissão de Seleção de Propostas" }
-        HexLegNode@{ shape: hex, label: "Comissão de Julgamento de Recursos" }
-        DiamondLegNode@{ shape: diamond, label: "Perguntas/Decisões" }
+        A@{ shape: lean-r, label: "Área Técnica Demandante" }
+        B@{ shape: rect, label: "Gabinete" }
+        C@{ shape: rounded, label: "Setor de Contratos e Convênios" }
+        D@{ shape: trap-b, label: "Assessoria Jurídica" }
+        E@{ shape: odd, label: "Comissão de Seleção de Propostas" }
+        F@{ shape: hex, label: "Comissão de Julgamento de Recursos" }
+        G@{ shape: diamond, label: "Perguntas/Decisões" }
         end
         subgraph Fluxograma
     A@{ shape: lean-r, label: "Solicitar parceria" } --> B@{ shape: rect, label: "Analisar solicitação" }
