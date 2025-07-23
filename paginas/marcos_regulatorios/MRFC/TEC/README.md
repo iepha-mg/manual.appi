@@ -143,19 +143,66 @@ Modelos e documentos de referência (editais, termos, planos de trabalho etc.) p
 Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco Regulatório do Fomento à Cultura - MRFC). Diferentes formas das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
 
 <div class="mermaid">
-    flowchart TD
-    A["Gabinete"] --> B(("Setor de Contratos e Convênios"))
-    B --> C ("teste")
-    C --> D [/"olha"/]
-</div>
-
-<pre class="mermaid">
 flowchart TD
-    flowchart TD
-    A["Gabinete"] --> B(("Setor de Contratos e Convênios"))
-    B --> C ("teste")
-    C --> D {{"Opa lele"}}                 
-</pre>
+    %% INÍCIO
+    A["Solicitar parceria"]:::tecnica --> B["Analisar solicitação"]:::gab
+    B --> C{"Parceria é viável?"}
+    C -->|Não| D["Informar e justificar negativa à área técnica por e-mail"]:::tecnica --> FIM["Encerrar processo"]:::gab
+    C -->|Sim| E{"Necessita Chamamento Público? (art. 6º, § 2º)"}
+    E -->|Não| F["Área técnica anexou parecer assinado dispensando chamamento?"]:::tecnica
+    F -->|Não| FIM
+    F -->|Sim| G["Desenvolver/revisar minuta de edital de chamamento público (se necessário) e Termo de Execução"]:::tecnica
+    E -->|Sim| G
+    G --> H["Analisar minutas"]:::jur
+    H --> I{"Minutas validadas?"}
+    I -->|Não| G
+    I -->|Sim| J["Encaminhar processo ao setor de Contratos e Convênios"]:::gab
+    J --> K["Instruir processo no SEI"]:::conv
+    K --> L["Realizar consulta pública ou processo equivalente (art. 8º, § 1º)"]:::conv
+    L --> M["Revisar edital conforme consulta pública"]:::tecnica
+    M --> N{"Passará por análise jurídica? (art. 8º, § 3º)"}
+    N -->|Sim| O["Análise jurídica"]:::jur --> P["Promover ajustes e anexar nota saneadora"]:::jur
+    N -->|Não| Q["Providenciar parecer da autoridade competente pela publicação do edital"]:::gab
+    Q --> R["Assinar e publicar edital"]:::gab
+    P --> R
+    R --> S["Receber propostas inscritas (mínimo de 5 dias úteis: art. 9º, I)"]:::selecao
+    S --> T["Analisar propostas"]:::selecao
+    T --> U["Publicar resultado provisório e aguardar prazo para recursos (3 dias úteis: art. 9º, III)"]:::selecao
+    U --> V["Receber, analisar e julgar recursos"]:::julg
+    V --> W{"Recursos alteraram classificação?"}
+    W -->|Sim| X["Receber e analisar contrarrazões (2 dias úteis: art. 9º, III)"]:::julg --> Y["Publicar resultado final"]:::selecao
+    W -->|Não| Y
+    Y --> Z["Habilitar agentes culturais selecionados"]:::conv
+    Z --> AA{"Houve inabilitação?"}
+    AA -->|Sim| AB["Convocar e habilitar novos agentes"]:::conv --> AC["Assinar instrumentos jurídicos"]:::conv
+    AA -->|Não| AC
+    AC --> AD["Monitorar execução do objeto cultural"]:::tecnica
+    AD --> AE["Iniciar prestação de contas"]:::conv
+    AE --> AF{"Projeto possui denúncia ou suspeita fundamentada de irregularidade? (art. 20, II)"}
+    AF -->|Sim| AN["Notificar agente cultural para que apresente Relatório Financeiro da Execução Cultural (art. 18, II)"]:::conv
+    AF -->|Não| AH{"Projeto tem valor menor ou igual a R$ 200 mil? (art. 18, § 1º)"}
+    AH -->|Sim| AI["Realizar visita técnica e emitir Relatório de Verificação Presencial (art. 18, § 2º)"]:::tecnica
+    AI --> AJ{"Relatório confirma cumprimento?"}
+    AJ -->|Sim| FIM
+    AJ -->|Não| AK["Notificar agente cultural para que apresente Relatório de Objeto da Execução Cultural (art. 18, § 2º, I)"]:::conv
+    AH -->|Não| AK
+    AK --> AL["Receber Relatório de Objeto da Execução Cultural (até 120 dias: art. 18, § 2º, I)"]:::conv
+    AL --> AM{"Relatório confirma cumprimento?"}
+    AM -->|Sim| FIM
+    AM -->|Não| AN
+    AN --> AO["Receber Relatório Financeiro da Execução Cultural (até 120 dias: art. 18, § 2º, II)"]:::conv
+    AO --> AP{"Relatório aprovado?"}
+    AP -->|Sim| FIM
+    AP -->|Não| AG["Aplicar sanções / compensações"]:::jur --> FIM
+
+    %% DEFINIÇÃO DE CLASSES POR SETOR
+    classDef gab fill:#D0E6FF,stroke:#000;         %% Azul claro - Gabinete
+    classDef conv fill:#E3D6F7,stroke:#000;        %% Lilás claro - Contratos e Convênios
+    classDef tecnica fill:#D5F5E3,stroke:#000;     %% Verde claro - Área técnica
+    classDef jur fill:#FAD7A0,stroke:#000;         %% Laranja claro - Assessoria jurídica
+    classDef selecao fill:#F9C0C0,stroke:#000;     %% Rosa claro - Comissão de seleção
+    classDef julg fill:#DCDCDC,stroke:#000;        %% Cinza claro - Comissão de julgamento
+</div>
 
 <div class="mermaid">
 flowchart TD
