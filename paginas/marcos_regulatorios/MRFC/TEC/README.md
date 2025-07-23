@@ -144,12 +144,12 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
 flowchart TD
     %% Legenda Simplificada
     A_LEG@{ shape: lean-r, label: "Área Técnica Demandante" }
-    B_LEG[ shape: rect, label: "Gabinete" ]
-    C_LEG( shape: rounded, label: "Setor de Contratos e Convênios" )
-    D_LEG[/ shape: trap-b, label: "Assessoria Jurídica" \]
-    E_LEG> shape: odd, label: "Comissão de Seleção" ]
-    F_LEG{{ shape: hex, label: "Comissão de Julgamento" }}
-    G_LEG{ shape: diamond, label: "Pergunta/Decisão" }
+    B_LEG@{ shape: rect, label: "Gabinete" }
+    C_LEG@{ shape: rounded, label: "Setor de Contratos e Convênios" }
+    D_LEG@{ shape: trap-b, label: "Assessoria Jurídica" }
+    E_LEG@{ shape: odd, label: "Comissão de Seleção" }
+    F_LEG@{ shape: hex, label: "Comissão de Julgamento" }
+    G_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
     %% Fluxo Principal   
     A@{ shape: lean-r, label: "Solicitar parceria" } --> B@{ shape: rect, label: "Analisar solicitação" }
     B --> C@{ shape: diamond, label: "Parceria é viável?" }
