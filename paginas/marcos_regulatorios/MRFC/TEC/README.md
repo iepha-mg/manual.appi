@@ -111,9 +111,9 @@ Os equipamentos e materiais comprados com recursos do Termo podem permanecer com
 
 ## 🔒 Prestação de contas
 O processo varia conforme o valor do Termo de Execução Cultural, ocorrendo em 3 etapas possíveis:
-1. **Visita Técnica (Relatório de Verificação Presencial)**.
-2. **Relatório de Objeto da Execução Cultural**.
-3. **Relatório Financeiro da Execução Cultural**.
+1. Visita Técnica (Relatório de Verificação Presencial).
+2. Relatório de Objeto da Execução Cultural.
+3. Relatório Financeiro da Execução Cultural.
 
 ### 👮 Tabela-resumo de prestação de contas
 Todos os prazos da tabela referem-se à [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco Regulatório do Fomento à Cultura - MRFC).
@@ -144,18 +144,6 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
 
 <pre class="mermaid">
 flowchart TD
-    
-%% LEGENDA
-    subgraph LEG[Legenda de responsabilidades]
-        L1[/Área Técnica/]:::area
-        L2[Gabinete]:::gab
-        L3(Setor de Contratos e Convênios):::contratos
-        L4[/Assessoria Jurídica\]:::juridico
-        L5>Comissão de Seleção de Propostas<:::selecao
-        L6{{Comissão de Julgamento de Recursos}}:::recursos
-end
-
-    %% FLUXO PRINCIPAL
     A[/"Solicitar parceria"/] --> B["Analisar solicitação"]
     B --> C{"Parceria é viável?"}
     C -->|Não| D["Informar e justificar negativa à área técnica por e-mail"] --> FIM
