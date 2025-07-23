@@ -142,6 +142,17 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
 
 <div class="mermaid">
 flowchart TD
+
+  subgraph Legenda
+        LeanRLegNode@{ shape: lean-r, label: "Área Técnica Demandante" }
+        RectLegNode@{ shape: rect, label: "Gabinete" }
+        RoundLegNode@{ shape: rounded, label: "Setor de Contratos e Convênios" }
+        TrapLegNode@{ shape: trap-b, label: "Assessoria Jurídica" }
+        OddLegNode@{ shape: odd, label: "Comissão de Seleção de Propostas" }
+        HexLegNode@{ shape: hex, label: "Comissão de Julgamento de Recursos" }
+        DiamondLegNode@{ shape: diamond, label: "Perguntas/Decisões" }
+        end
+        subgraph Fluxograma
     A@{ shape: lean-r, label: "Solicitar parceria" } --> B@{ shape: rect, label: "Analisar solicitação" }
     B --> C@{ shape: diamond, label: "Parceria é viável?" }
     C -->|Não| D@{ shape: rect, label: "Informar e justificar negativa à área técnica por e-mail" } --> FIM
@@ -183,11 +194,11 @@ flowchart TD
     AJ -->|Sim| FIM
     AJ -->|Não| AK@{ shape: rounded, label: "Notificar agente cultural para que apresente Relatório de Objeto da Execução Cultural (art. 18, § 2º, I)" }
     AH -->|Não| AK
-    AK --> AL@{ shape: rounded, label: "Receber Relatório de Objeto da Execução Cultural(até 120 dias:art. 18, § 2º, I)" }
+    AK --> AL@{ shape: rounded, label: "Receber Relatório de Objeto da Execução Cultural(até 120 dias: art. 18, § 2º, I)" }
     AL --> AM@{ shape: diamond, label: "Relatório confirma cumprimento?" }
     AM -->|Sim| FIM
     AM -->|Não| AN
-    AN --> AO@{ shape: rounded, label: "Receber Relatório Financeiro (até 120 dias: (art. 18, § 2º, II)" }
+    AN --> AO@{ shape: rounded, label: "Receber Relatório Financeiro (até 120 dias: art. 18, § 2º, II)" }
     AO --> AP@{ shape: diamond, label: "Relatório Financeiro aprovado?" }
     AP -->|Sim| FIM
     AP -->|Não| AG@{ shape: rounded, label: "Aplicar sanções / compensações" } --> FIM
