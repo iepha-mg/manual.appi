@@ -144,6 +144,40 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
 
 <div class="mermaid">
 flowchart TD
+    A["Solicitar parceria"] --> B["Analisar solicitação"]
+    B --> C{"Parceria é viável?"}
+    C -->|Não| D["Informar e justificar negativa à área técnica por e-mail"] --> FIM1["Encerrar processo"]
+    C -->|Sim| E{"Necessita Chamamento Público? (art. 6º, § 2º)"}
+    E -->|Não| F["Encaminhar para elaboração de minuta de ACT"] --> G["Análise jurídica (Projur)"]
+    G -->|Aprovado| H["Assinar instrumento"] --> I["Publicar no site"]
+    I --> J["Executar parceria"] --> FIM2["Encerrar processo"]
+    G -->|Com restrições| K["Readequar minuta e reenviar à Projur"]
+    
+    %% Classes de nós
+    class A tecnica
+    class B gab
+    class D tecnica
+    class F tecnica
+    class G jur
+    class H gab
+    class I gab
+    class J tecnica
+    class K tecnica
+    class FIM1 gab
+    class FIM2 gab
+    
+    %% Definições de classe
+    classDef gab fill:#D0E6FF,stroke:#000;
+    classDef conv fill:#E3D6F7,stroke:#000;
+    classDef tecnica fill:#D5F5E3,stroke:#000;
+    classDef jur fill:#FAD7A0,stroke:#000;
+    classDef selecao fill:#F9C0C0,stroke:#000;
+    classDef julg fill:#DCDCDC,stroke:#000;
+</div>
+
+
+<div class="mermaid">
+flowchart TD
     %% INÍCIO
     A["Solicitar parceria"] --> B["Analisar solicitação"]
     B --> C{"Parceria é viável?"}
