@@ -146,7 +146,6 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
 flowchart TD
     A["Gabinete"] --> B("Setor de Contratos e Convênios")
     B --> C [/"Área Tecnica Demandante"/]
-    C --> D [/"Assessoria Jurídica"\]    
 </pre>
 
 <pre class="mermaid">
