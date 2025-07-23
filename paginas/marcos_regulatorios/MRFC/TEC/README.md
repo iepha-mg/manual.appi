@@ -142,7 +142,6 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
 
 <div class="mermaid">
 flowchart TD
-    subgraph Legenda
     A_LEG@{ shape: lean-r, label: "Área Técnica Demandante" }
     B_LEG@{ shape: rect, label: "Gabinete" }
     C_LEG@{ shape: rounded, label: "Setor de Contratos e Convênios" }
@@ -150,8 +149,10 @@ flowchart TD
     E_LEG@{ shape: odd, label: "Comissão de Seleção" }
     F_LEG@{ shape: hex, label: "Comissão de Julgamento" }
     G_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
-    end
-    subgraph Fluxograma
+</div>
+
+<div class="mermaid">
+flowchart TD
     A@{ shape: lean-r, label: "Solicitar parceria" } --> B@{ shape: rect, label: "Analisar solicitação" }
     B --> C@{ shape: diamond, label: "Parceria é viável?" }
     C -->|Não| D@{ shape: rect, label: "Informar e justificar negativa à área técnica por e-mail" } --> FIM
@@ -201,7 +202,6 @@ flowchart TD
     AO --> AP@{ shape: diamond, label: "Relatório Financeiro aprovado?" }
     AP -->|Sim| FIM
     AP -->|Não| AG@{ shape: rounded, label: "Aplicar sanções / compensações" } --> FIM
-    end
 </div>
 
 <script type="module">
