@@ -164,7 +164,7 @@ end
     I -->|Não| G
     I -->|Sim| J["Encaminhar processo ao setor de Contratos e Convênios"]
     J --> K("Instruir processo no SEI")
-    K --> L("Realizar consulta pública ou processo equivalente (art. 8º, § 1º)"]
+    K --> L("Realizar consulta pública ou processo equivalente (art. 8º, § 1º)")
     L --> M["Revisar edital conforme consulta pública"]
     M --> N{"Passará por análise jurídica? (art. 8º, § 3º)"}
     N -->|Sim| O[/"Análise Jurídica"\] --> P("Promover ajustes e anexar nota saneadora")
@@ -192,12 +192,12 @@ end
     AJ -->|Sim| FIM
     AJ -->|Não| AK("Notificar agente cultural para que apresente Relatório de Objeto da Execução Cultural (art. 18, § 2º, I)")
     AH -->|Não| AK
-    AK --> AL("Receber Relatório de Objeto da Execução Cultural(até 120 dias:art. 18, § 2º, I)")
+    AK --> AL("Receber Relatório de Objeto da Execução Cultural (até 120 dias:art. 18, § 2º, I)")
     AL --> AM{"Relatório confirma cumprimento?"}
     AM -->|Sim| FIM
     AM -->|Não| AN
-    AN --> AO("Receber Relatório Financeiro (até 120 dias: (art. 18, § 2º, II)")
-    AO --> AP{"Relatório Financeiro aprovado?"}
+    AN --> AO("Receber Relatório Financeiro da Execução Cultural (até 120 dias: art. 18, § 2º, II)")
+    AO --> AP{"Relatório aprovado?"}
     AP -->|Sim| FIM
     AP -->|Não| AG("Aplicar sanções / compensações") --> FIM
 </pre>
