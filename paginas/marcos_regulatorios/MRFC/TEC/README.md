@@ -95,12 +95,12 @@ flowchart LR
 
 ## 🛣️ Plano de trabalho
 **Um bom plano de trabalho** deve responder:
-- O quê? ➡️ Metas, produtos e resultados esperados, de acordo com objeto cultural.
-- Como? ➡️ Critérios de aceitação de cada meta.
-- Onde? ➡️ Em qual meio (SEI, processo físico) as comprovações dos resultados serão entregues.
-- Quem? ➡️ Responsável pela entrega e responsável pela aceitação de cada meta.
-- Quando? ➡️ Prazos para início de cada atividade e entrega de cada meta.
-- Quanto? ➡️ Cronograma de desembolsos (§ 1º do art. 13: não é necessário constar detalhamento de cada item de despesa).
+- **O quê?** ➡️ Metas, produtos e resultados esperados, de acordo com objeto cultural.
+- **Como?** ➡️ Critérios de aceitação de cada meta.
+- **Onde?** ➡️ Em qual meio (SEI, processo físico) as comprovações dos resultados serão entregues.
+- **Quem?** ➡️ Responsável pela entrega e responsável pela aceitação de cada meta.
+- **Quando?** ➡️ Prazos para início de cada atividade e entrega de cada meta.
+- **Quanto?** ➡️ Cronograma de desembolsos (§ 1º do art. 13: não é necessário constar detalhamento de cada item de despesa).
 
 > **Flexibilidade (art. 13, § 3º)**: valores do projeto podem divergir de valores de mercado em casos excepcionais (comunidades tradicionais, territórios remotos, afetados por desastres ambientais etc.).
 
