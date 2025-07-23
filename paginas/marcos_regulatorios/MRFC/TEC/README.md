@@ -109,10 +109,13 @@ flowchart LR
 Os equipamentos e materiais comprados com recursos do Termo podem permanecer com o agente cultural, desde que sejam usados (direta ou indiretamente) para atividades culturais que beneficiem o público.
 
 ## 🔒 Prestação de contas
-O processo varia conforme o valor do Termo de Execução Cultural, ocorrendo em 3 etapas possíveis: **Visita Técnica (Relatório de Verificação Presencial)**, **Relatório de Objeto da Execução Cultural** e **Relatório Financeiro da Execução Cultural**. A tabela abaixo resume os prazos e regras, apontando os dispositivos legais que se aplicam.
+O processo varia conforme o valor do Termo de Execução Cultural, ocorrendo em 3 etapas possíveis:
+1. **Visita Técnica (Relatório de Verificação Presencial)**.
+2. **Relatório de Objeto da Execução Cultural**.
+3. **Relatório Financeiro da Execução Cultural**.
 
 ### 👮 Tabela-resumo de prestação de contas
-
+Todos os prazos da tabela referem-se à [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco Regulatório do Fomento à Cultura - MRFC).
 | **Item**               | **Regra**                                                                 | **Prazo**                          | **Aplicação**                                                                 |
 |------------------------|---------------------------------------------------------------------------|------------------------------------|-------------------------------------------------------------------------------|
 | **Visita Técnica**      | Substitui relatórios para termos **≤ R$ 200 mil**, se o agente público considerar suficiente. Gera um **Relatório de Verificação Presencial** | Durante ou após a vigência     | **Relatório de Verificação Presencial** deve: <br> • Confirmar cumprimento **ou** <br> • Solicitar Relatório de Objeto (Art. 18, § 1º e § 2º). |
@@ -137,71 +140,68 @@ Modelos e documentos de referência (editais, termos, planos de trabalho etc.) p
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas de Termo de Execução Cultural
 Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco Regulatório do Fomento à Cultura - MRFC). Diferentes formas das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
 
-<pre class="mermaid">
+```mermaid
 flowchart TD
-    
-%% LEGENDA
-    subgraph LEG[Legenda de responsabilidades]
-        L1[/Área Técnica/]:::area
-        L2[Gabinete]:::gab
-        L3(Setor de Contratos e Convênios):::contratos
-        L4[/Assessoria Jurídica\]:::juridico
-        L5>Comissão de Seleção de Propostas<:::selecao
-        L6{{Comissão de Julgamento de Recursos}}:::recursos
+
+%% LEGENDA DE RESPONSABILIDADES
+subgraph LEG[Legenda de responsabilidades]
+    L1[/Área Técnica/]:::area
+    L2[Gabinete]:::gab
+    L3(Setor de Contratos e Convênios):::contratos
+    L4[/Assessoria Jurídica/]:::juridico
+    L5>Comissão de Seleção de Propostas<:::selecao
+    L6{{Comissão de Julgamento de Recursos}}:::recursos
 end
 
-    %% FLUXO PRINCIPAL
-    A[/"Solicitar parceria"/] --> B["Analisar solicitação"]
-    B --> C{"Parceria é viável?"}
-    C -->|Não| D["Informar e justificar negativa à área técnica por e-mail"] --> FIM
-    C -->|Sim| E{"Necessita Chamamento Público? (art. 6º, § 2º)"}
-    E -->|Não| F{"Área técnica anexou parecer assinado dispensando chamamento?"}
-    F -->|Não| FIM
-    F -->|Sim| G["Desenvolver/revisar minuta de edital de chamamento público (se necessário) e Termo de Execução"]
-    E -->|Sim| G
-    G --> H[/"Analisar minutas"/]
-    H --> I{"Minutas validadas?"}
-    I -->|Não| G
-    I -->|Sim| J["Encaminhar processo ao setor de Contratos e Convênios"]
-    J --> K("Instruir processo no SEI")
-    K --> L("Realizar consulta pública ou processo equivalente (art. 8º, § 1º)")
-    L --> M["Revisar edital conforme consulta pública"]
-    M --> N{"Passará por análise jurídica? (art. 8º, § 3º)"}
-    N -->|Sim| O[/"Análise Jurídica"\] --> P("Promover ajustes e anexar nota saneadora")
-    N -->|Não| Q["Providenciar parecer da autoridade competente pela publicação do edital"]
-    Q --> R["Assinar e publicar edital"]
-    P --> R
-    R --> S>"Receber propostas inscritas (mínimo de 5 dias úteis: art. 9º, I)"<
-    S --> T>"Analisar propostas"<
-    T --> U("Publicar resultado provisório e aguardar prazo para recursos (3 dias úteis: art. 9º, III)")
-    U --> V{{"Receber, analisar e julgar recursos"}}
-    V --> W{"Recursos alteraram classificação?"}
-    W -->|Sim| X{{"Receber e analisar contrarrazões (2 dias úteis: art. 9º, III)"}} --> Y("Publicar resultado final")
-    W -->|Não| Y
-    Y --> Z("Habilitar agentes culturais selecionados")
-    Z --> AA{"Houve inabilitação?"}
-    AA -->|Sim| AB("Convocar e habilitar novos agentes") --> AC("Assinar instrumentos jurídicos")
-    AA -->|Não| AC
-    AC --> AD[/"Monitorar execução do objeto cultural"/]
-    AD --> AE("Iniciar prestação de contas")
-    AE --> AF{"Projeto possui denúncia ou suspeita fundamentada de irregularidade? (art. 20, II)"}
-    AF -->|Sim| AN("Notificar agente cultural para que apresente Relatório Financeiro da Execução Cultural (art. 18, II)")
-    AF -->|Não| AH{"Projeto tem valor menor ou igual a R$ 200 mil? (art. 18, § 1º)"}
-    AH -->|Sim| AI("Realizar visita técnica e emitir Relatório de Verificação Presencial (art. 18, § 2º)")
-    AI --> AJ{"Relatório confirma cumprimento?"}
-    AJ -->|Sim| FIM
-    AJ -->|Não| AK("Notificar agente cultural para que apresente Relatório de Objeto da Execução Cultural (art. 18, § 2º, I)")
-    AH -->|Não| AK
-    AK --> AL("Receber Relatório de Objeto da Execução Cultural (até 120 dias:art. 18, § 2º, I)")
-    AL --> AM{"Relatório confirma cumprimento?"}
-    AM -->|Sim| FIM
-    AM -->|Não| AN
-    AN --> AO("Receber Relatório Financeiro da Execução Cultural (até 120 dias: art. 18, § 2º, II)")
-    AO --> AP{"Relatório aprovado?"}
-    AP -->|Sim| FIM
-    AP -->|Não| AG("Aplicar sanções / compensações") --> FIM
-</pre>
-
-<script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-</script>
+%% FLUXO PRINCIPAL
+A[/"Solicitar parceria"/] --> B["Analisar solicitação"]
+B --> C{"Parceria é viável?"}
+C -->|Não| D["Informar e justificar negativa à área técnica por e-mail"] --> FIM[🔚 Fim do processo]
+C -->|Sim| E{"Necessita Chamamento Público? (art. 6º, § 2º)"}
+E -->|Não| F{"Área técnica anexou parecer assinado dispensando chamamento?"}
+F -->|Não| FIM
+F -->|Sim| G["Desenvolver/revisar minuta de edital de chamamento público (se necessário) e Termo de Execução"]
+E -->|Sim| G
+G --> H[/"Analisar minutas"/]
+H --> I{"Minutas validadas?"}
+I -->|Não| G
+I -->|Sim| J["Encaminhar processo ao setor de Contratos e Convênios"]
+J --> K("Instruir processo no SEI")
+K --> L("Realizar consulta pública ou processo equivalente (art. 8º, § 1º)")
+L --> M["Revisar edital conforme consulta pública"]
+M --> N{"Passará por análise jurídica? (art. 8º, § 3º)"}
+N -->|Sim| O[/"Análise Jurídica"/] --> P("Promover ajustes e anexar nota saneadora")
+N -->|Não| Q["Providenciar parecer da autoridade competente pela publicação do edital"]
+Q --> R["Assinar e publicar edital"]
+P --> R
+R --> S>"Receber propostas inscritas (mínimo de 5 dias úteis: art. 9º, I)"<
+S --> T>"Analisar propostas"<
+T --> U("Publicar resultado provisório e aguardar prazo para recursos (3 dias úteis: art. 9º, III)")
+U --> V{{"Receber, analisar e julgar recursos"}}
+V --> W{"Recursos alteraram classificação?"}
+W -->|Sim| X{{"Receber e analisar contrarrazões (2 dias úteis: art. 9º, III)"}} --> Y("Publicar resultado final")
+W -->|Não| Y
+Y --> Z("Habilitar agentes culturais selecionados")
+Z --> AA{"Houve inabilitação?"}
+AA -->|Sim| AB("Convocar e habilitar novos agentes") --> AC("Assinar instrumentos jurídicos")
+AA -->|Não| AC
+AC --> AD[/"Monitorar execução do objeto cultural"/]
+AD --> AE("Iniciar prestação de contas")
+AE --> AF{"Projeto possui denúncia ou suspeita fundamentada de irregularidade? (art. 20, II)"}
+AF -->|Sim| AN("Notificar agente cultural para que apresente Relatório Financeiro da Execução Cultural (art. 18, II)")
+AF -->|Não| AH{"Projeto tem valor menor ou igual a R$ 200 mil? (art. 18, § 1º)"}
+AH -->|Sim| AI("Realizar visita técnica e emitir Relatório de Verificação Presencial (art. 18, § 2º)")
+AI --> AJ{"Relatório confirma cumprimento?"}
+AJ -->|Sim| FIM
+AJ -->|Não| AK("Notificar agente cultural para que apresente Relatório de Objeto da Execução Cultural (art. 18, § 2º, I)")
+AH -->|Não| AK
+AK --> AL("Receber Relatório de Objeto da Execução Cultural (até 120 dias: art. 18, § 2º, I)")
+AL --> AM{"Relatório confirma cumprimento?"}
+AM -->|Sim| FIM
+AM -->|Não| AN
+AN --> AO("Receber Relatório Financeiro da Execução Cultural (até 120 dias: art. 18, § 2º, II)")
+AO --> AP{"Relatório aprovado?"}
+AP -->|Sim| FIM
+AP -->|Não| AG("Aplicar sanções / compensações") --> FIM
+```
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script> <script> mermaid.initialize({ startOnLoad: true }); </script>
