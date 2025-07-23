@@ -142,10 +142,10 @@ Modelos e documentos de referência (editais, termos, planos de trabalho etc.) p
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas de Termo de Execução Cultural
 Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco Regulatório do Fomento à Cultura - MRFC). Diferentes formas das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
 
-<pre class="mermaid">
-flowchart TD
+<div class="mermaid">
+    flowchart TD
     A["Gabinete"] --> B{{"Setor de Contratos e Convênios"}}
-</pre>
+</div>
 
 <pre class="mermaid">
 flowchart TD
