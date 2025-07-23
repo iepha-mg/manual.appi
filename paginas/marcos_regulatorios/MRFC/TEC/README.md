@@ -142,55 +142,55 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
 
 <div class="mermaid">
 flowchart TD
-    A{ shape: lean-r, label: "Solicitar parceria" } --> B{ shape: rect, label: "Analisar solicitação" }
-    B --> C{ shape: diamond, label: "Parceria é viável?" }
-    C -->|Não| D{ shape: rect, label: "Informar e justificar negativa à área técnica por e-mail" } --> FIM
-    C -->|Sim| E{ shape: diamond, label: "Necessita Chamamento Público? (art. 6º, § 2º)" }
-    E -->|Não| F{ shape: diamond, label: "Área técnica anexou parecer assinado dispensando chamamento?" }
-    F -->|Não| FIM
-    F -->|Sim| G{ shape: rect, label: "Desenvolver/revisar minuta de edital de chamamento público (se necessário) e Termo de Execução" }
-    E -->|Sim| G
-    G --> H{ shape: lean-r, label: "Analisar minutas" }
-    H --> I{ shape: diamond, label: "Minutas validadas?" }
-    I -->|Não| G
-    I -->|Sim| J{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
-    J --> K{ shape: rounded, label: "Instruir processo no SEI" }
-    K --> L{ shape: rounded, label: "Realizar consulta pública ou processo equivalente (art. 8º, § 1º)" }
-    L --> M{ shape: rect, label: "Revisar edital conforme consulta pública" }
-    M --> N{ shape: diamond, label: "Passará por análise jurídica? (art. 8º, § 3º)" }
-    N -->|Sim| O{ shape: trap-b, label: "Análise Jurídica" } --> P{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
-    N -->|Não| Q{ shape: rect, label: "Providenciar parecer da autoridade competente pela publicação do edital" }
-    Q --> R{ shape: rect, label: "Assinar e publicar edital" }
-    P --> R
-    R --> S{ shape: odd, label: "Receber propostas inscritas (mínimo de 5 dias úteis: art. 9º, I)" }
-    S --> T{ shape: odd, label: "Analisar propostas" }
-    T --> U{ shape: rounded, label: "Publicar resultado provisório e aguardar prazo para recursos (3 dias úteis: art. 9º, III)" }
-    U --> V{ shape: hex, label: "Receber, analisar e julgar recursos" }
-    V --> W{ shape: diamond, label: "Recursos alteraram classificação?" }
-    W -->|Sim| X{ shape: hex, label: "Receber e analisar contrarrazões (2 dias úteis: art. 9º, III)" } --> Y{ shape: rounded, label: "Publicar resultado final" }
-    W -->|Não| Y
-    Y --> Z{ shape: rounded, label: "Habilitar agentes culturais selecionados" }
-    Z --> AA{ shape: diamond, label: "Houve inabilitação?" }
-    AA -->|Sim| AB{ shape: rounded, label: "Convocar e habilitar novos agentes" } --> AC{ shape: rounded, label: "Assinar instrumentos jurídicos" }
-    AA -->|Não| AC
-    AC --> AD{ shape: lean-r, label: "Monitorar execução do objeto cultural" }
-    AD --> AE{ shape: rounded, label: "Iniciar prestação de contas" }
-    AE --> AF{ shape: diamond, label: "Projeto possui denúncia ou suspeita fundamentada de irregularidade? (art. 20, II)" }
-    AF -->|Sim| AN{ shape: rounded, label: "Notificar agente cultural para que apresente Relatório Financeiro da Execução Cultural (art. 18, II)" }
-    AF -->|Não| AH{ shape: diamond, label: "Projeto tem valor menor ou igual a R$ 200 mil? (art. 18, § 1º)" }
-    AH -->|Sim| AI{ shape: rounded, label: "Realizar visita técnica e emitir Relatório de Verificação Presencial (art. 18, § 2º)" }
-    AI --> AJ{ shape: diamond, label: "Relatório confirma cumprimento?" }
-    AJ -->|Sim| FIM
-    AJ -->|Não| AK{ shape: rounded, label: "Notificar agente cultural para que apresente Relatório de Objeto da Execução Cultural (art. 18, § 2º, I)" }
-    AH -->|Não| AK
-    AK --> AL{ shape: rounded, label: "Receber Relatório de Objeto da Execução Cultural (até 120 dias: art. 18, § 2º, I)" }
-    AL --> AM{ shape: diamond, label: "Relatório confirma cumprimento?" }
-    AM -->|Sim| FIM
-    AM -->|Não| AN
-    AN --> AO{ shape: rounded, label: "Receber Relatório Financeiro (até 120 dias: art. 18, § 2º, II)" }
-    AO --> AP{ shape: diamond, label: "Relatório Financeiro aprovado?" }
-    AP -->|Sim| FIM
-    AP -->|Não| AG{ shape: rounded, label: "Aplicar sanções / compensações" } --> FIM
+    A@{ shape: lean-r, label: "Solicitar parceria" } --> B@{ shape: rect, label: "Analisar solicitação" }
+    B@ --> C@{ shape: diamond, label: "Parceria é viável?" }
+    C@ -->|Não| D@{ shape: rect, label: "Informar e justificar negativa à área técnica por e-mail" } --> FIM
+    C@ -->|Sim| E@{ shape: diamond, label: "Necessita Chamamento Público? (art. 6º, § 2º)" }
+    E@ -->|Não| F@{ shape: diamond, label: "Área técnica anexou parecer assinado dispensando chamamento?" }
+    F@ -->|Não| FIM
+    F@ -->|Sim| G@{ shape: rect, label: "Desenvolver/revisar minuta de edital de chamamento público (se necessário) e Termo de Execução" }
+    E@ -->|Sim| G@
+    G@ --> H@{ shape: lean-r, label: "Analisar minutas" }
+    H@ --> I@{ shape: diamond, label: "Minutas validadas?" }
+    I@ -->|Não| G@
+    I@ -->|Sim| J@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
+    J@ --> K@{ shape: rounded, label: "Instruir processo no SEI" }
+    K@ --> L@{ shape: rounded, label: "Realizar consulta pública ou processo equivalente (art. 8º, § 1º)" }
+    L@ --> M@{ shape: rect, label: "Revisar edital conforme consulta pública" }
+    M@ --> N@{ shape: diamond, label: "Passará por análise jurídica? (art. 8º, § 3º)" }
+    N@ -->|Sim| O@{ shape: trap-b, label: "Análise Jurídica" } --> P@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    N@ -->|Não| Q@{ shape: rect, label: "Providenciar parecer da autoridade competente pela publicação do edital" }
+    Q@ --> R@{ shape: rect, label: "Assinar e publicar edital" }
+    P@ --> R@
+    R@ --> S@{ shape: odd, label: "Receber propostas inscritas (mínimo de 5 dias úteis: art. 9º, I)" }
+    S@ --> T@{ shape: odd, label: "Analisar propostas" }
+    T@ --> U@{ shape: rounded, label: "Publicar resultado provisório e aguardar prazo para recursos (3 dias úteis: art. 9º, III)" }
+    U@ --> V@{ shape: hex, label: "Receber, analisar e julgar recursos" }
+    V@ --> W@{ shape: diamond, label: "Recursos alteraram classificação?" }
+    W@ -->|Sim| X@{ shape: hex, label: "Receber e analisar contrarrazões (2 dias úteis: art. 9º, III)" } --> Y@{ shape: rounded, label: "Publicar resultado final" }
+    W@ -->|Não| Y@
+    Y@ --> Z@{ shape: rounded, label: "Habilitar agentes culturais selecionados" }
+    Z@ --> AA@{ shape: diamond, label: "Houve inabilitação?" }
+    AA@ -->|Sim| AB@{ shape: rounded, label: "Convocar e habilitar novos agentes" } --> AC@{ shape: rounded, label: "Assinar instrumentos jurídicos" }
+    AA@ -->|Não| AC@
+    AC@ --> AD@{ shape: lean-r, label: "Monitorar execução do objeto cultural" }
+    AD@ --> AE@{ shape: rounded, label: "Iniciar prestação de contas" }
+    AE@ --> AF@{ shape: diamond, label: "Projeto possui denúncia ou suspeita fundamentada de irregularidade? (art. 20, II)" }
+    AF@ -->|Sim| AN@{ shape: rounded, label: "Notificar agente cultural para que apresente Relatório Financeiro da Execução Cultural (art. 18, II)" }
+    AF@ -->|Não| AH@{ shape: diamond, label: "Projeto tem valor menor ou igual a R$ 200 mil? (art. 18, § 1º)" }
+    AH@ -->|Sim| AI@{ shape: rounded, label: "Realizar visita técnica e emitir Relatório de Verificação Presencial (art. 18, § 2º)" }
+    AI@ --> AJ@{ shape: diamond, label: "Relatório confirma cumprimento?" }
+    AJ@ -->|Sim| FIM
+    AJ@ -->|Não| AK@{ shape: rounded, label: "Notificar agente cultural para que apresente Relatório de Objeto da Execução Cultural (art. 18, § 2º, I)" }
+    AH@ -->|Não| AK@
+    AK@ --> AL@{ shape: rounded, label: "Receber Relatório de Objeto da Execução Cultural(até 120 dias:art. 18, § 2º, I)" }
+    AL@ --> AM@{ shape: diamond, label: "Relatório confirma cumprimento?" }
+    AM@ -->|Sim| FIM
+    AM@ -->|Não| AN@
+    AN@ --> AO@{ shape: rounded, label: "Receber Relatório Financeiro (até 120 dias: (art. 18, § 2º, II)" }
+    AO@ --> AP@{ shape: diamond, label: "Relatório Financeiro aprovado?" }
+    AP@ -->|Sim| FIM
+    AP@ -->|Não| AG@{ shape: rounded, label: "Aplicar sanções / compensações" } --> FIM
 </div>
 
 <script type="module">
