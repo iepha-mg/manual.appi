@@ -144,6 +144,13 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
 
 <pre class="mermaid">
 flowchart TD
+    A["Gabinete"] --> B("Setor de Contratos e Convênios")
+    B --> C [/"Área Tecnica Demandante"/]
+    C --> D [/"Assessoria Jurídica"\]    
+</pre>
+
+<pre class="mermaid">
+flowchart TD
     A[/"Solicitar parceria"/] --> B["Analisar solicitação"]
     B --> C{"Parceria é viável?"}
     C -->|Não| D["Informar e justificar negativa à área técnica por e-mail"] --> FIM
@@ -185,7 +192,7 @@ flowchart TD
     AJ -->|Sim| FIM
     AJ -->|Não| AK("Notificar agente cultural para que apresente Relatório de Objeto da Execução Cultural (art. 18, § 2º, I)")
     AH -->|Não| AK
-    AK --> AL("Receber Relatório de Objeto da Execução Cultural (até 120 dias:art. 18, § 2º, I)")
+    AK --> AL("Receber Relatório de Objeto da Execução Cultural (até 120 dias: art. 18, § 2º, I)")
     AL --> AM{"Relatório confirma cumprimento?"}
     AM -->|Sim| FIM
     AM -->|Não| AN
