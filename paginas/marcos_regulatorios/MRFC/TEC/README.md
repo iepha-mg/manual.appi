@@ -142,16 +142,6 @@ Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https:
 
 <div class="mermaid">
 flowchart TD
-  subgraph Legenda
-        A@{ shape: lean-r, label: "Área Técnica Demandante" }
-        B@{ shape: rect, label: "Gabinete" }
-        C@{ shape: rounded, label: "Setor de Contratos e Convênios" }
-        D@{ shape: trap-b, label: "Assessoria Jurídica" }
-        E@{ shape: odd, label: "Comissão de Seleção de Propostas" }
-        F@{ shape: hex, label: "Comissão de Julgamento de Recursos" }
-        G@{ shape: diamond, label: "Perguntas/Decisões" }
-        end
-        subgraph Fluxograma
     A@{ shape: lean-r, label: "Solicitar parceria" } --> B@{ shape: rect, label: "Analisar solicitação" }
     B --> C@{ shape: diamond, label: "Parceria é viável?" }
     C -->|Não| D@{ shape: rect, label: "Informar e justificar negativa à área técnica por e-mail" } --> FIM
