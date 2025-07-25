@@ -13,6 +13,7 @@ Subseção I - Do Termo de Execução Cultural - da Seção III - Dos Procedimen
 - Focar nos resultados culturais definidos no plano de trabalho 
 
 ## 🛠️ Ideias para aplicação no Iepha-MG:
+Desde que haja recursos disponíveis, um Termo de Execução Cultural pode servir para:
 1. Parcerias para conservação/digitalização de acervos.
 2. Intervenções em bens materiais tombados.
 3. Contratação de equipes de restauro (exemplo: para atuação no Ateliê Vitrine ou no Laboratório de Restauro).
@@ -20,7 +21,7 @@ Subseção I - Do Termo de Execução Cultural - da Seção III - Dos Procedimen
 5. Projetos de educação patrimonial em comunidades.
 6. Catalogação emergencial de bens culturais em risco.
 
-## ✅ Benefícios e Flexibilidades  
+## ✅ Pode:
 **Recursos podem ser usados para (Art. 15):**  
 - Serviços técnicos especializados.
 - Aquisição/locação de equipamentos.
@@ -34,7 +35,7 @@ Subseção I - Do Termo de Execução Cultural - da Seção III - Dos Procedimen
 - Alteração do plano de trabalho sem aditivo (se mantiver valor e objeto).
 - Uso de rendimentos sem autorização prévia.
 
-## ❌ Restrições  
+## ❌ Não pode:  
 ⚠️ **Proibições absolutas:**  
 - Celebrar sem chamamento público (salvo exceções previstas pelo art. 6º, § 2º, mas que ainda não estão regulamentadas).
 - Exigir contrapartida financeira, em bens ou em serviços, dos agentes culturais (art. 6º, § 3º).
@@ -71,7 +72,7 @@ flowchart LR
     Processamento --> Celebração
 </div>
 
-### 🔑 Regas-Chave
+### 🔑 Regras-Chave
 - No MRFC, os chamamentos públicos podem ser (art. 6º, I e II):
    - **De fluxo contínuo**: nos casos em que for possível a celebração de Termos de Execução Cultural à medida que as propostas são recebidas.
    - **De fluxo ordinário**: nos casos em que a Administração Pública optar pela concentração do recebimento, da análise e da seleção de propostas em período determinado.
@@ -157,9 +158,8 @@ flowchart TD
     B --> C@{ shape: diamond, label: "Parceria é viável?" }
     C -->|Não| D@{ shape: rect, label: "Informar e justificar negativa à área técnica por e-mail" } --> FIM
     C -->|Sim| E@{ shape: diamond, label: "Necessita Chamamento Público? (art. 6º, § 2º)" }
-    E -->|Não| F@{ shape: diamond, label: "Área técnica anexou parecer assinado dispensando chamamento?" }
-    F -->|Não| FIM
-    F -->|Sim| G@{ shape: rect, label: "Desenvolver/revisar minuta de edital de chamamento público (se necessário) e Termo de Execução" }
+    E -->|Não| F@{ shape: lean-r, label: "Elaborar parecer técnico justificando dispensa de chamamento" }
+    F --> G@{ shape: rect, label: "Desenvolver/revisar minuta de edital de chamamento público (se necessário) e Termo de Execução" }
     E -->|Sim| G
     G --> H@{ shape: lean-r, label: "Analisar minutas" }
     H --> I@{ shape: diamond, label: "Minutas validadas?" }
