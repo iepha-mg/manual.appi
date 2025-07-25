@@ -100,15 +100,16 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
 ## 🏋🏻Quem somos?
 
 ### **Priscila Guerra Duarte** *(Assessora-Chefe da APPI)*
-- Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
-- 📧 priscila.guerra@iepha.mg.gov.br
-- 🎓 http://lattes.cnpq.br/4749109914314491
 
 <img 
     src="https://github.com/user-attachments/assets/63caf254-f46b-477a-9624-2f0d6adda0c7" 
     align="right" 
     width="33%" 
     style="margin-right: 20px;">
+
+- Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
+- 📧 priscila.guerra@iepha.mg.gov.br
+- 🎓 http://lattes.cnpq.br/4749109914314491
 
 #### **Formação Acadêmica**  
 - **Mestranda** em Economia e Política da Cultura (UFGRS)
@@ -128,15 +129,16 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
 ```
 
 ### **Lucas Fainblat** *(EPPGG na APPI)*
-- Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
-- 📧 lucas.fainblat@iepha.mg.gov.br
-- 🎓 http://lattes.cnpq.br/1511692902967161 
 
 <img 
     src="https://github.com/user-attachments/assets/f7d17132-5741-4ba4-b7e5-04567ee709f5"
     align="right" 
     width="33%" 
     style="margin-right: 20px;">
+
+- Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
+- 📧 lucas.fainblat@iepha.mg.gov.br
+- 🎓 http://lattes.cnpq.br/1511692902967161 
 
 #### **Formação Acadêmica**  
 - **Doutorando** em Ciência Política (UFMG)
