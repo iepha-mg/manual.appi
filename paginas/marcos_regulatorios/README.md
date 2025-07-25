@@ -44,3 +44,5 @@ Cada um deles possui seus respectivos instrumentos jurídicos.
 | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/28c673fb-c1a6-411b-a52c-eb5537184bb4">           | Envolve repasses de recursos entre as partes |
 
 [^1]: Fonte: APPI/IEPHA-MG.
+
+# [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
