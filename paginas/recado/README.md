@@ -41,3 +41,5 @@ trabalho coletivo.
 **João Paulo Martins**,
 
 Presidente do Iepha-MG
+
+# [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
