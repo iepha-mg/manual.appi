@@ -159,4 +159,4 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
 + Políticas culturais             + Simplificação           + Inovação
 + Planejamento estratégico        + Análise de dados        + Elaboração de editais, instrumentos e normativas
 ```
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+# [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
