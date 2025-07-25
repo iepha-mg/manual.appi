@@ -53,7 +53,7 @@ exemplos disso.
 
 Por esse motivo, há parcerias firmadas por complexos contratos formais, como Parcerias
 Público Privadas (PPPs), mas também há parcerias celebradas por meio de instrumentos
-mais simples, como Acordos ou Termos de Cooperação (ACTs e TCTs), geralmente entre o
+mais simples, como Acordos de Cooperação (ACTs) ou Termos de Cooperação Cultural (TCCs), geralmente entre o
 Estado e entidades sem fins lucrativos, como ONGs ou universidades.
 
 ### 🎂 Benefícios mútuos
