@@ -27,3 +27,5 @@ Para esclarecimentos adicionais ou situações não abrangidas por este manual, 
 # 🗓️ Versão
 
 O MG.APPI está em sua `1ª Versão`, desde o mês de `julho de 2025`.
+
+# [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
