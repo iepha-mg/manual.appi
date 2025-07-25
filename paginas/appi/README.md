@@ -107,7 +107,7 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
     width="33%" 
     style="margin-right: 20px;">
 
-- Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
+- 👔 Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
 - 📧 priscila.guerra@iepha.mg.gov.br
 - 🎓 http://lattes.cnpq.br/4749109914314491
 
@@ -136,7 +136,7 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
     width="33%" 
     style="margin-right: 20px;">
 
-- Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
+- 👔 Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
 - 📧 lucas.fainblat@iepha.mg.gov.br
 - 🎓 http://lattes.cnpq.br/1511692902967161 
 
