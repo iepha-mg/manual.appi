@@ -5,3 +5,5 @@ mas não se esqueça de considerar as boas práticas constantes neste Manual.APP
 ## Instrumentos jurídicos de referência
 - [Modelos Gerais PNAB](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais) (só pra servir de exemplo aqui)
 - [Termo de Ocupação Cultural](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjq1rOTiNGOAxUEuZUCHX-iNkUQFnoECBoQAQ&url=https%3A%2F%2Fwww.gov.br%2Ffunarte%2Fpt-br%2Feditais-1%2F2024%2Fprograma-funarte-aberta-2025-ocupacao-dos-espacos-culturais-da-funarte-mg-e-sp%2FAnexoIModeloTERMODEOCUPAOCULTURALFUNARTEProjurem191224psrevisoprojur.docx&usg=AOvVaw15IzGSokNajQ0IQ-xHBXJk&opi=89978449)
+
+# [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
