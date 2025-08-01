@@ -12,31 +12,6 @@ Isso pode ser muito bem aproveitado pelos técnicos e gestores do Iepha-MG na ho
 vida de quem vai elaborar os instrumentos formais de celebração de parcerias, quanto a de quem vai executar ou monitorar essas
 parcerias no futuro.
 
-## ✅ Principais benefícios do MRFC
-- **Simplificação de processos**: redução de burocracia na transferência de recursos para projetos culturais
-- **Inclusão institucional**: estímulo à participação de entidades sem fins lucrativos
-- **Flexibilidade operacional**: regras mais ágeis e adequadas à realidade cultural
-- **Transparência e participação**: processos claros com envolvimento social
-- **Sustentabilidade cultural**: suporte a projetos plurianuais e ações continuadas
-
-> ⚖️ **Diferencial fundamental**: O MRFC **dispensa a aplicação** da Lei Federal nº 14.133/2021 (Nova Lei de Licitações e Contratos), adotando regras próprias mais simplificadas e eficientes para o setor cultural.
-
-## 🌟 Inovações do marco regulatório
-1. **Projetos plurianuais**: possibilidade de financiamento contínuo para:
-   - Manutenção de espaços culturais (museus, teatros, bibliotecas)
-   - Sustentação de grupos artísticos (companhias de dança, orquestras etc.)
-
-2. **Ações afirmativas**: mecanismos inclusivos como:
-   - Editais específicos
-   - Sistema de cotas
-   - Bônus em avaliações
-   - Procedimentos adaptados para minorias
-
-3. **Gestão digital**: priorização de processos eletrônicos para:
-   - Ampliar acesso às políticas culturais
-   - Reduzir barreiras geográficas
-   - Promover sustentabilidade ambiental
-
 ## 💼 Instrumentos jurídicos do MRFC
 Clique no nome de cada instrumento jurídico para saber mais.
 
@@ -84,5 +59,30 @@ Clique no nome de cada instrumento jurídico para saber mais.
     <td>Capacitações, desenvolvimento ou aplicação de metodologias</td>
   </tr>
 </table>
+
+## ✅ Principais benefícios do MRFC
+- **Simplificação de processos**: redução de burocracia na transferência de recursos para projetos culturais
+- **Inclusão institucional**: estímulo à participação de entidades sem fins lucrativos
+- **Flexibilidade operacional**: regras mais ágeis e adequadas à realidade cultural
+- **Transparência e participação**: processos claros com envolvimento social
+- **Sustentabilidade cultural**: suporte a projetos plurianuais e ações continuadas
+
+> ⚖️ **Diferencial fundamental**: O MRFC **dispensa a aplicação** da Lei Federal nº 14.133/2021 (Nova Lei de Licitações e Contratos), adotando regras próprias mais simplificadas e eficientes para o setor cultural.
+
+## 🌟 Inovações do marco regulatório
+1. **Projetos plurianuais**: possibilidade de financiamento contínuo para:
+   - Manutenção de espaços culturais (museus, teatros, bibliotecas)
+   - Sustentação de grupos artísticos (companhias de dança, orquestras etc.)
+
+2. **Ações afirmativas**: mecanismos inclusivos como:
+   - Editais específicos
+   - Sistema de cotas
+   - Bônus em avaliações
+   - Procedimentos adaptados para minorias
+
+3. **Gestão digital**: priorização de processos eletrônicos para:
+   - Ampliar acesso às políticas culturais
+   - Reduzir barreiras geográficas
+   - Promover sustentabilidade ambiental
 
 # [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
