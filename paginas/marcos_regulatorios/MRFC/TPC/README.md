@@ -41,7 +41,7 @@ Desde que haja recursos disponíveis, um Termo de Premiação Cultural pode serv
 - Celebrar sem chamamento público (salvo exceções previstas pelo art. 6º, § 2º, mas que ainda não estão regulamentadas).
 - Exigir contrapartida financeira, em bens ou em serviços, dos agentes culturais (art. 6º, § 3º).
 - Aceitar propostas com conteúdo preconceituoso ou discriminatório (art. 9º, § 5º).
-- Exigir execução de ações futuras como condição para o prêmio. Ou seja, só se pode premiar o que já aconteceu. Por esse motivo, Termos de Premiação Cultural têm uma **peculiaridade**: não exigem prestação de contas.
+- Exigir execução de ações futuras como condição para o prêmio. Ou seja, só se pode premiar o que já aconteceu. Por esse motivo, Termos de Premiação Cultural têm uma **peculiaridade: não exigem prestação de contas**.
 
 ⚠️ **Exigências obrigatórias:**  
 - Chamamento público prévio.
