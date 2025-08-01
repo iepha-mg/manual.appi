@@ -108,13 +108,13 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    A@{ shape: lean-r, Label: "Solicitar parceria" } --> B@{ shape: rect, label: "Analisar solicitação"}
+    A@{ shape: lean-r, label: "Solicitar parceria" } --> B@{ shape: rect, label: "Analisar solicitação"}
     B --> C@{ shape: diamond, label: "Parceria é viável?"}
     C -- Não --> D@{ shape: rect, label: "Justificar negativa à área técnica por e-mail"}
     D --> FIM
     C -- Sim --> E@{ shape: diamond, label: "Cooperação possui significativa complexidade? (art. 29, parágrafo único)"}
     E -- Sim --> F@{ shape: rect, label: "Elaborar plano de trabalho"}
-    E -- Não --> G@ { shape: rect, label: "Desenvolver/revisar minuta do Termo de Cooperação Cultural"}
+    E -- Não --> G@{ shape: rect, label: "Desenvolver/revisar minuta do Termo de Cooperação Cultural"}
     F --> G
     G --> H@{ shape: lean-r, label: "Analisar minutas"}
     H --> I@{ shape: diamond, label: "Minutas validadas?"}
@@ -122,7 +122,7 @@ flowchart TD
     I -- Sim --> J@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios"}
     J --> K@{ shape: rounded, label: "Instruir processo no SEI"}
     K --> L@{ shape: diamond, label: "Necessária análise jurídica? (negativo se for minuta padrão já analisada previamente)"}
-    L -- Não --> M@ { shape: rect, label: "Providenciar parecer da autoridade competente pela publicação do edital"}
+    L -- Não --> M@{ shape: rect, label: "Providenciar parecer da autoridade competente pela publicação do edital"}
     L -- Sim --> N@{ shape: trap-b, label: "Análise jurídica"}
     N --> O@{ shape: round, label: "Promover ajustes e anexar nota saneadora"}
     O --> P@{ shape: rect, label: "Assinar Termo de Cooperação Cultural"}
