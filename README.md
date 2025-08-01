@@ -24,7 +24,7 @@ Aqui você encontra:
    - _Fundações de Apoio_ ([Decreto Estadual nº 47.442/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=47442&comp=&ano=2018) e [Decreto Estadual nº 47.512/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=47512&comp=&ano=2018))
 - 🚀 Instrumentos jurídicos que não envolvem transferências de recursos
    - [Termo de Ocupação Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TOC/README.html)
-   - Termo de Cooperação Cultural
+   - [Termo de Cooperação Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TCC/README.html)
    - Acordo de Cooperação Técnica (ACT)
    - Fundação de Apoio
 - 💰 Instrumentos jurídicos que envolvem transferências de recursos
