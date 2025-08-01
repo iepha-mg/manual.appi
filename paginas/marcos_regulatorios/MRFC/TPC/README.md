@@ -1,7 +1,7 @@
 # 🏆 Termo de Premiação Cultural
 
 ## 📌 Definição:
-Instrumento jurídico para reconhecer e valorizar agentes culturais por sua relevante contribuição artística ou cultural, mediante transferência de recursos públicos sem exigência de contrapartida.
+Instrumento jurídico para reconhecer e valorizar agentes culturais por sua relevante contribuição artística ou cultural, mediante transferência de recursos públicos sem exigência de contrapartida ou prestação de contas.
 
 ## 🏛️ Regulamentação:
 Subseção II - Do Termo de Premiação Cultural - da Seção III - Dos Procedimentos por Instrumento - da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco Regulatório do Fomento à Cultura - MRFC).
@@ -17,13 +17,13 @@ Subseção II - Do Termo de Premiação Cultural - da Seção III - Dos Procedim
 Desde que haja recursos disponíveis, um Termo de Premiação Cultural pode servir para:
 1. Reconhecimento de mestres da cultura popular mineira.
 2. Premiação de trajetórias na preservação do patrimônio cultural.
-3. Valorização de agentes culturais atuantes na educação patrimonial.
 4. Reconhecimento de especialistas em restauração e conservação.
-5. Premiação de pesquisadores em patrimônio cultural.
+5. Concurso de fotografias sobre patrimônio (Queijo Minas Artesanal, Sistemas Culinários da Cozinha Mineira Milho e Mandioca, Barroco Mineiro etc.)
 6. Valorização de artesãos tradicionais e detentores de saberes.
+7. Concurso de iniciativas de educação patrimonial.
 
 ## ✅ Pode:
-**Recursos podem ser utilizados para (natureza de doação sem encargo):**
+**Os recursos podem ser utilizados para:**
 - Reconhecimento de relevante contribuição cultural já realizada.
 - Premiação baseada em trajetória e impacto cultural comprovados.
 - Valorização de agentes culturais por trabalhos desenvolvidos.
@@ -31,7 +31,7 @@ Desde que haja recursos disponíveis, um Termo de Premiação Cultural pode serv
 
 **Facilidades administrativas:**
 - Não requer plano de trabalho detalhado (art. 23, parágrafo único).
-- Não exige prestação de contas complexa (art. 23, parágrafo único).
+- Não exige prestação de contas.
 - Natureza jurídica de doação sem encargo.
 - Processo simplificado de habilitação.
 - Inscrição pode ser feita pelo próprio interessado ou por terceiro (art. 22, § 1º).
@@ -41,10 +41,10 @@ Desde que haja recursos disponíveis, um Termo de Premiação Cultural pode serv
 - Celebrar sem chamamento público (salvo exceções previstas pelo art. 6º, § 2º, mas que ainda não estão regulamentadas).
 - Exigir contrapartida financeira, em bens ou em serviços, dos agentes culturais (art. 6º, § 3º).
 - Aceitar propostas com conteúdo preconceituoso ou discriminatório (art. 9º, § 5º).
-- Exigir execução de ações futuras como condição para o prêmio.
+- Exigir execução de ações futuras como condição para o prêmio. Ou seja, só se pode premiar o que já aconteceu. Por esse motivo, Termos de Premiação Cultural têm uma **peculiaridade**: não exigem prestação de contas.
 
 ⚠️ **Exigências obrigatórias:**  
-- Chamamento público prévio (em regra).
+- Chamamento público prévio.
 - Informação sobre incidência tributária no edital (art. 22, § 2º).
 - Comprovação de regularidade fiscal para habilitação.
 
@@ -75,7 +75,7 @@ flowchart LR
 </div>
 
 ### 🔑 Regras-Chave
-- No MRFC, os chamamentos públicos podem ser (art. 6º, I e II):
+- No Marco Regulatório do Fomento à Cultura, os chamamentos públicos podem ser (art. 6º, I e II):
    - **De fluxo contínuo**: nos casos em que for possível a celebração de Termos de Premiação Cultural à medida que as propostas são recebidas.
    - **De fluxo ordinário**: nos casos em que a Administração Pública optar pela concentração do recebimento, da análise e da seleção de propostas em período determinado.
 - É indispensável fazer consulta pública ou processo equivalente antes de publicar o edital (art. 8º, § 1º).
@@ -103,18 +103,21 @@ flowchart LR
 - **Acessibilidade:** ➡️ Permitir participação de diferentes perfis de agentes culturais.
 - **Diversidade:** ➡️ Contemplar diferentes áreas e manifestações culturais.
 
-> **Simplicidade (art. 23, parágrafo único)**: Os ritos previstos nos arts. 13 a 21 da Lei (plano de trabalho, prestação de contas financeira etc.) não se aplicam ao Termo de Premiação Cultural, em razão da natureza jurídica do instrumento.
-
 ## 💰 Tratamento tributário
 **Isenção de Imposto de Renda:** Premiações culturais concedidas após a vigência do Marco Regulatório do Fomento à Cultura (29/06/2024) estão isentas de imposto de renda para pessoas físicas, pois possuem natureza jurídica de doação sem encargo, conforme Parecer nº 64/2024 da AGU.
 
 ## 🔒 Prestação de contas
-**Processo simplificado:** Em razão da natureza jurídica do instrumento (doação sem encargo), não se aplicam os ritos complexos de prestação de contas previstos para outros instrumentos do MRFC (art. 23, parágrafo único).
+Não prevê prestação de contas, pois o poder público está premiando algo que reconhece já ter acontecido. Por isso, não pode exigir nenhuma contrapartida ou compromisso posterior do agente cultural (art. 22).
 
 ## 🔍 Saiba mais!
 Modelos e documentos de referência (editais, termos, critérios de avaliação etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
 - [Minuta Padrão de Edital de Premiação para Culturas Populares](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/edital-de-premiacao-culturas-populares/minuta-edital-de-premiacao-culturas-populares.docx)
-- [Modelo de Edital Simplificado de Premiação Cultural PNAB](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel)
+- [Modelo de Edital Simplificado para Termo de Premiação Cultural (PDF editável)](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/24_pnab_edital_simplificado_pdf_editavel/view)
+- [Anexo 1: Formulário de Inscrição](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_1_formulario_de_inscricao/view)
+- [Anexo 2: Roteiro para Inscrição Oral ou por Vídeo](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_2__roteiro_para_inscricao_oral_ou_por_video/view)
+- [Anexo: 3 Declaração Representação Grupo ou Coletivo](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_3_declaracao_representacao_grupo_ou_coletivo/view)
+- [Anexo 4: Termo de Premiação Cultural](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_4_termo_de_premiacao_cultural/view)
+- [Anexo 5: Formulário de Recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_5_formulario_de_recurso/view)
 
 ## ↔️ Fluxograma simplificado para celebração e execução de Termo de Premiação Cultural
 Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco Regulatório do Fomento à Cultura - MRFC). Diferentes formas das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
