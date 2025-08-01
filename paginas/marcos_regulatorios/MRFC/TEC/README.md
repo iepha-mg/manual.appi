@@ -1,4 +1,4 @@
-# 🏗️ Termo de Execução Cultural
+# 🎨 Termo de Execução Cultural
 
 ## 📌 Definição:
 Instrumento jurídico para transferir recursos públicos a artistas, coletivos ou instituições culturais, mediante plano de trabalho definido.
