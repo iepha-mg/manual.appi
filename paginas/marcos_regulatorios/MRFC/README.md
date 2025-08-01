@@ -59,7 +59,7 @@ Clique no nome de cada instrumento jurídico para saber mais.
     <td>Premiação a mestres ou iniciativas de educação patrimonial; concursos de fotografia</td>
   </tr>
   <tr>
-    <td><strong>Termo de Bolsa Cultural</strong></td>
+    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TBC/README.html">Termo de Bolsa Cultural</a></strong></td>
     <td>Fomento a pesquisa e formação</td>
     <td>Bolsas para estudos sobre técnicas de conservação</td>
   </tr>
