@@ -117,15 +117,16 @@ flowchart TD
     L --> M@{ shape: rounded, label: "Elaborar minuta de Termo de Ocupação Cultural" }
     M --> N@{ shape: diamond, label: "Necessita análise jurídica?" }
     N -->|Sim| O@{ shape: trap-b, label: "Análise Jurídica da minuta" } --> P@{ shape: rounded, label: "Ajustar minuta conforme parecer jurídico" }
-    N -->|Não| Q@{ shape: rounded, label: "Assinar Termo de Ocupação Cultural" }
-    P --> Q
-    Q --> R@{ shape: lean-r, label: "Realizar vistoria técnica do espaço (antes do uso)" }
-    R --> S@{ shape: lean-r, label: "Executar ocupação cultural conforme termo" }
-    S --> T@{ shape: lean-r, label: "Realizar vistoria técnica do espaço (após o uso)" }
-    T --> U@{ shape: diamond, label: "Equipamento foi devolvido em boas condições?" }
-    U -->|Sim| FIM
-    U -->|Não| V@{ shape: rounded, label: "Aplicar medidas cabíveis conforme termo (ressarcimento, reparos etc.)" }
-    V --> FIM
+    N -->|Não| Q@{ shape: rect, label: "Providenciar parecer da autoridade competente pela publicação do edital" }
+    Q --> R@{ shape: rounded, label: "Assinar Termo de Ocupação Cultural" }
+    P --> R
+    R --> S@{ shape: lean-r, label: "Realizar vistoria técnica do espaço (antes do uso)" }
+    S --> T@{ shape: lean-r, label: "Executar ocupação cultural conforme termo" }
+    T --> U@{ shape: lean-r, label: "Realizar vistoria técnica do espaço (após o uso)" }
+    U --> V@{ shape: diamond, label: "Equipamento foi devolvido em boas condições?" }
+    V -->|Sim| FIM
+    V -->|Não| W@{ shape: rounded, label: "Aplicar medidas cabíveis conforme termo (ressarcimento, reparos etc.)" }
+    W --> FIM
 </div>
 
 <script type="module">
