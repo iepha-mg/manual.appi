@@ -79,7 +79,7 @@ Clique no nome de cada instrumento jurídico para saber mais.
     <td>Exibições em espaços expositivos, eventos no Centro do Patrimônio</td>
   </tr>
   <tr>
-    <td><strong>Termo de Cooperação Cultural</strong></td>
+    <td><strong><a href="lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TCC/README.html">Termo de Cooperação Cultural</a></strong></td>
     <td>Parcerias para troca de conhecimento ou cooperação técnica</td>
     <td>Capacitações, desenvolvimento ou aplicação de metodologias</td>
   </tr>
