@@ -111,7 +111,7 @@ flowchart TD
     A@{ shape: lean-r, label: "Solicitar parceria" } --> B@{ shape: rect, label: "Analisar solicitação"}
     B --> C@{ shape: diamond, label: "Parceria é viável?"}
     C -- Não --> D@{ shape: rect, label: "Justificar negativa à área técnica por e-mail"}
-    D --> FIM
+    D --> FIM@{ shape: dbl-circ, label: "Fim do fluxo"}
     C -- Sim --> E@{ shape: diamond, label: "Cooperação possui significativa complexidade? (art. 29, parágrafo único)"}
     E -- Sim --> F@{ shape: rect, label: "Elaborar plano de trabalho"}
     E -- Não --> G@{ shape: rect, label: "Desenvolver/revisar minuta do Termo de Cooperação Cultural"}
@@ -124,16 +124,16 @@ flowchart TD
     K --> L@{ shape: diamond, label: "Necessária análise jurídica? (negativo se for minuta padrão já analisada previamente)"}
     L -- Não --> M@{ shape: rect, label: "Providenciar parecer da autoridade competente pela publicação do edital"}
     L -- Sim --> N@{ shape: trap-b, label: "Análise jurídica"}
-    N --> O@{ shape: round, label: "Promover ajustes e anexar nota saneadora"}
+    N --> O@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora"}
     O --> P@{ shape: rect, label: "Assinar Termo de Cooperação Cultural"}
     M --> P
     P --> R@{ shape: lean-r, label: "Executar ações de cooperação conforme acordado"}
     R --> S@{ shape: diamond, label: "Havia plano de trabalho?"}
-    S -->|Sim| T@{ shape: lean-r, label: "Elaborar Relatório de Cooperação Cultural (vedada demonstração financeira)"}
-    S -->|Não| FIM
+    S -- Sim --> T@{ shape: lean-r, label: "Elaborar Relatório de Cooperação Cultural (vedada demonstração financeira)"}
+    S -- Não --> FIM
     T --> V@{ shape: diamond, label: "Compromissos foram cumpridos adequadamente?"}
-    T -->|Sim| FIM
-    T -->|Não| U@{ shape: rounded, label: "Adotar medidas cabíveis conforme termo"}
+    V -- Sim --> FIM
+    V -- Não --> U@{ shape: rounded, label: "Adotar medidas cabíveis conforme termo"}
     U --> FIM
 </div>
 
