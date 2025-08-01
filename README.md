@@ -29,7 +29,7 @@ Aqui você encontra:
    - Fundação de Apoio
 - 💰 Instrumentos jurídicos que envolvem transferências de recursos
    - [Termo de Execução Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TEC/README.html)
-   - Termo de Premiação Cultural
+   - [Termo de Premiação Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TPC/README.html)
    - Termo de Bolsa Cultural
    - Termo de Colaboração
    - Termo de Fomento
