@@ -74,7 +74,7 @@ Clique no nome de cada instrumento jurídico para saber mais.
     <th width="35%">Exemplos</th>
   </tr>
   <tr>
-    <td><strong>Termo de Ocupação Cultural</strong></td>
+    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TOC/README.html">Termo de Ocupação Cultural</a></strong></td>
     <td>Cessão de espaços públicos</td>
     <td>Exibições em espaços expositivos, eventos no Centro do Patrimônio</td>
   </tr>
