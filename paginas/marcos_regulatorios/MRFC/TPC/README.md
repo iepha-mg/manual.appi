@@ -119,7 +119,7 @@ Modelos e documentos de referência (editais, termos, critérios de avaliação 
 - [Anexo 4: Termo de Premiação Cultural](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_4_termo_de_premiacao_cultural/view)
 - [Anexo 5: Formulário de Recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_5_formulario_de_recurso/view)
 
-## ↔️ Fluxograma simplificado para celebração e execução de Termo de Premiação Cultural
+## ↔️ Fluxograma para celebração e execução de Termo de Premiação Cultural
 Todos os prazos do fluxograma referem-se à [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco Regulatório do Fomento à Cultura - MRFC). Diferentes formas das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
 
 <div class="mermaid">
