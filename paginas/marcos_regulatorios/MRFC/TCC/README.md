@@ -122,11 +122,10 @@ flowchart TD
     I -- Sim --> J@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios"}
     J --> K@{ shape: rounded, label: "Instruir processo no SEI"}
     K --> L@{ shape: diamond, label: "Necessária análise jurídica? (negativo se for minuta padrão já analisada previamente)"}
-    L -- Não --> M@{ shape: rect, label: "Providenciar parecer da autoridade competente pela publicação do edital"}
+    L -- Não --> P@{ shape: rect, label: "Assinar Termo de Cooperação Cultural"}
     L -- Sim --> N@{ shape: trap-b, label: "Análise jurídica"}
     N --> O@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora"}
-    O --> P@{ shape: rect, label: "Assinar Termo de Cooperação Cultural"}
-    M --> P
+    O --> P
     P --> R@{ shape: lean-r, label: "Executar ações de cooperação conforme acordado"}
     R --> S@{ shape: diamond, label: "Havia plano de trabalho?"}
     S -- Sim --> T@{ shape: lean-r, label: "Elaborar Relatório de Cooperação Cultural (vedada demonstração financeira)"}
