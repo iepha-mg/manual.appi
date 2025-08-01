@@ -54,7 +54,7 @@ Clique no nome de cada instrumento jurídico para saber mais.
     <td>Restauração de bens, dossiês de tombamento, ações educativas</td>
   </tr>
   <tr>
-    <td><strong>Termo de Premiação Cultural</strong></td>
+    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TPC/README.html">Termo de Premiação Cultural</strong></td>
     <td>Reconhecimento de ações relevantes</td>
     <td>Premiação a mestres ou iniciativas de educação patrimonial; concursos de fotografia</td>
   </tr>
