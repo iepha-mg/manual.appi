@@ -23,16 +23,16 @@ Aqui você encontra:
    - _Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor_ ([Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/LEI/23081/2018/), [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=47553&ano=2018&tipo=DEC) e [Decreto Estadual nº 47.554/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?num=47554&ano=2018&tipo=DEC))
    - _Fundações de Apoio_ ([Decreto Estadual nº 47.442/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=47442&comp=&ano=2018) e [Decreto Estadual nº 47.512/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=47512&comp=&ano=2018))
 - 🚀 Instrumentos jurídicos que não envolvem transferências de recursos
-   - Acordo de Cooperação (ACT)
-   - Termo de Cooperação (TCT)
-   - Termo de Ocupação Cultural (TOC)
+   - Acordo de Cooperação Técnica (ACT)
+   - Termo de Cooperação Cultural
+   - Termo de Ocupação Cultural
    - Fundação de Apoio
 - 💰 Instrumentos jurídicos que envolvem transferências de recursos
+   - [Termo de Execução Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TEC/README.html)
+   - Termo de Premiação Cultural
+   - Termo de Bolsa Cultural
    - Termo de Colaboração
    - Termo de Fomento
-   - Termo de Bolsa Cultural
-   - Termo de Premiação Cultural
-   - Termo de Execução Cultural
    - Termo de Parceria
    - Contrato de Gestão
 - 💡 Dicas para gestores ou fiscais de parcerias
