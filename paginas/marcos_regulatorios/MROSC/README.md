@@ -1,7 +1,7 @@
 # 🤝 Marco Regulatório das Organizações da Sociedade Civil (MROSC)
 
 <img 
-    src="https://github.com/user-attachments/assets/1e5c747c-9ba3-457d-954c-1a20e932b8f7" 
+    src="https://github.com/user-attachments/assets/89c112fd-90e5-47c9-92a2-f2d861cff87e" 
     align="left" 
     width="10%" 
     style="margin-right: 1px;">
