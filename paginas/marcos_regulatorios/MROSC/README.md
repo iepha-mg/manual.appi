@@ -59,12 +59,12 @@ Clique no nome de cada instrumento jurídico para saber mais.
 ## 🌟 Características do MROSC
 
 ### 1. **O que são as Organizações da Sociedade Civil (OSCs)**
-Para celebrar parcerias pelo MROSC, a entidade deve ser uma **Organização da Sociedade Civil (OSC)**, ou seja:
-- **Entidades privadas sem fins lucrativos** como associações ou fundações (incluindo associações cooperativas)
-- **Organizações religiosas** que se dediquem também a atividades de interesse público
-- **Sociedades cooperativas** que tenham entre seus objetivos atividades de relevância pública e social
+Para celebrar parcerias pelo MROSC, a entidade deve ser uma **Organização da Sociedade Civil (OSC)** (art. 2º, inciso I da Lei 13.019/2014), ou seja:
+- **Entidades privadas sem fins lucrativos** como associações ou fundações, incluindo associações cooperativas (art. 2º, inciso I, alínea "a")
+- **Sociedades cooperativas** que tenham entre seus objetivos o desenvolvimento de atividades de interesse geral e benefício coletivo (art. 2º, inciso I, alínea "b")
+- **Organizações religiosas** que se dediquem a atividades assistenciais, educacionais, culturais de saúde ou outras de relevância pública e social. Entidades destinadas a fins exclusivamente religiosos **não podem participar** (art. 2º, inciso I, alínea "c")
 
-Em outras palavras, podem participar do MROSC organizações como associações comunitárias, ONGs, fundações privadas, institutos, cooperativas sociais e organizações religiosas que desenvolvam projetos de interesse público.
+Em outras palavras, podem participar do MROSC organizações como associações comunitárias, ONGs, fundações privadas, institutos, cooperativas sociais e organizações religiosas que desenvolvam projetos sociais de interesse público.
 
 ### 2. **Chamamento Público Específico**
 - Processo seletivo adaptado às características das OSCs
