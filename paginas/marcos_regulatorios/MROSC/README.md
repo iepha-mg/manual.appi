@@ -58,27 +58,35 @@ Clique no nome de cada instrumento jurídico para saber mais.
 
 ## 🌟 Características do MROSC
 
-### 1. **Chamamento Público Específico**
+### 1. **O que são as Organizações da Sociedade Civil (OSCs)**
+Para celebrar parcerias pelo MROSC, a entidade deve ser uma **Organização da Sociedade Civil (OSC)**, ou seja:
+- **Entidades privadas sem fins lucrativos** como associações ou fundações (incluindo associações cooperativas)
+- **Organizações religiosas** que se dediquem também a atividades de interesse público
+- **Sociedades cooperativas** que tenham entre seus objetivos atividades de relevância pública e social
+
+Em outras palavras, podem participar do MROSC organizações como associações comunitárias, ONGs, fundações privadas, institutos, cooperativas sociais e organizações religiosas que desenvolvam projetos de interesse público.
+
+### 2. **Chamamento Público Específico**
 - Processo seletivo adaptado às características das OSCs
 - Critérios que vão além do menor preço, priorizando a **melhor proposta técnica**
 - Foco na capacidade de execução e vínculo com o território
 
-### 2. **Procedimento de Manifestação de Interesse Social (PMIS)**
+### 3. **Procedimento de Manifestação de Interesse Social (PMIS)**
 - Canal para cidadãos e OSCs proporem políticas públicas
 - Ampliação da participação social na formulação de parcerias
 - Democratização do acesso às políticas de fomento
 
-### 3. **Transparência Ativa**
+### 4. **Transparência Ativa**
 - Divulgação obrigatória de informações sobre parcerias
 - Portal da Transparência específico para OSCs
 - Controle social fortalecido com dados acessíveis
 
-### 4. **Atuação em Rede**
+### 5. **Atuação em Rede**
 - Possibilidade de execução coletiva por múltiplas OSCs
 - Fortalecimento da cooperação entre organizações
 - Ampliação da capacidade de execução de projetos complexos
 
-### 5. **Gestão por Resultados**
+### 6. **Gestão por Resultados**
 - Monitoramento focado no alcance de objetivos e metas
 - Avaliação de impacto e efetividade das ações
 - Prestação de contas baseada em resultados, não apenas em gastos
