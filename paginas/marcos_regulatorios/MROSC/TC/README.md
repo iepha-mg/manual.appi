@@ -58,22 +58,27 @@ Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, lega
 <div class="mermaid">
 flowchart LR
     subgraph Planejamento
-        A1["Elaboração de proposta técnica pela área demandante"] --> A2["Desenvolvimento da minuta de edital e termo de colaboração"]
-        A2 --> A3["Análise jurídica (quando necessária)"]
-        A3 --> A4["Aprovação e publicação do edital (art. 26 da Lei)"]
+        A1["Elaborar proposta técnica e plano de trabalho (art. 22 da Lei)"]
+        A2["Desenvolvimento da minuta de edital (art. 24, § 1º da Lei)"]
+        A3["Análise jurídica obrigatória (art. 35, VI da Lei)"]
+        A4["Publicar edital com antecedência mínima de 30 dias (art. 26 da Lei)"]
+        A1 --> A2 --> A3 --> A4
     end
     subgraph Processamento
-        B1["Recebimento de propostas (prazo mínimo de 30 dias: art. 23 do Decreto)"] --> B2["Análise pela comissão de seleção (art. 2º, X da Lei)"]
-        B2 --> B3["Resultado provisório + prazo para recursos"]
-        B3 --> B4["Julgamento de recursos pela comissão"]
-        B4 --> B5["Resultado final (art. 27 da Lei)"]
+        B1["Recebimento de propostas (art. 24, § 1º, IV da Lei)"]
+        B2["Análise e julgamento pela Comissão de Seleção (art. 27, § 1º da Lei)"]
+        B3["Homologação e divulgação de resultado provisório (art. 27, § 4º da Lei)"]
+        B4["Prazo para recursos administrativos (art. 24, § 1º, VIII da Lei)"]
+        B5["Resultado final homologado (art. 27, § 6º da Lei)"]
+        B1 --> B2 --> B3 --> B4 --> B5
     end
-    subgraph Celebração
-        C1["Verificação de requisitos das OSCs selecionadas (art. 28 da Lei)"] --> C2["Convocação de novas OSCs (se necessário)"]
-        C2 --> C3["Assinatura do termo de colaboração (art. 42 da Lei)"]
+    subgraph Habilitação
+        C1["Verificar documentos das OSCs selecionadas (art. 28 da Lei)"]
+        C2["Convocação da próxima classificada se necessário (art. 28, § 1º da Lei)"]
+        C3["Celebração da parceria (art. 35 da Lei)"]
+        C1 --> C2 --> C3
     end
-    Planejamento --> Processamento
-    Processamento --> Celebração
+    Planejamento --> Processamento --> Habilitação
 </div>
 
 ### 🔑 Regras-Chave
