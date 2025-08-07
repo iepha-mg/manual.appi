@@ -33,7 +33,7 @@ Desde que haja recursos disponíveis, um Termo de Colaboração pode servir para
 
 **Facilidades administrativas:**
 - OSC tem autonomia para gestão administrativa e financeira dos recursos (art. 42 da Lei)
-- Possibilidade de alteração do plano de trabalho mediante acordo entre as partes (art. 55 da Lei)
+- Possibilidade de alteração da vigência mediante acordo entre as partes (art. 55 da Lei)
 - Aplicação de rendimentos financeiros no objeto da parceria (art. 51 da Lei)
 - Contratação de pessoal pela OSC com recursos da parceria (art. 46, inciso III da Lei)
 
