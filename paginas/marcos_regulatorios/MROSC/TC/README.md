@@ -217,7 +217,7 @@ flowchart TD
     JJ --> KK@{ shape: hex, label: "Analisar relatório financeiro em 150 dias (art. 69 da Lei)" }
     KK --> LL@{ shape: diamond, label: "Recursos foram bem aplicados?" }
     LL -->|Sim| MM@{ shape: hex, label: "Aprovar com ressalvas (art. 72 da Lei)" } --> NN@{ shape: stadium, label: "Comissão homologa aprovação com ressalvas" } --> FIM
-    LL -->|Não| OO@{ shape: hex, label: "Rejeitar e instaurar TCE (art. 73 da Lei)" } --> PP@{ shape: rounded, label: "Adotar medidas administrativas internas (art. 2º, XXVI do Decreto)" } --> FIM
+    LL -->|Não| OO@{ shape: hex, label: "Rejeitar e aplicar sanções cabíveis (art. 73 da Lei)" } --> PP@{ shape: rounded, label: "Aplicar advertência, suspensão temporária ou declaração de inidoneidade (art. 101 do Decreto)" } --> FIM
 </div>
 
 <script type="module">
