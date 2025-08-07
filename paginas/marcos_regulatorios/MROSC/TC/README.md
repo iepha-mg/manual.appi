@@ -177,7 +177,7 @@ flowchart TD
     B -->|Sim| D@{ shape: rect, label: "Avaliar viabilidade técnica, orçamentária e operacional (art. 8º da Lei)" }
     D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
     E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
-    F --> G@{ shape: rect, label: "Desenvolver/revisar minuta de edital e termo de referência (art. 24, § 1º da Lei / art. 19 do Decreto)" }
+    F --> G@{ shape: rect, label: "Desenvolver/revisar minuta de edital e anexos, de termo de referência e de Termo de Colaboração (art. 24, § 1º da Lei / art. 19 do Decreto)" }
     E -->|Sim| G
     G --> H@{ shape: lean-r, label: "Analisar minutas" }
     H --> I@{ shape: diamond, label: "Minutas validadas?" }
