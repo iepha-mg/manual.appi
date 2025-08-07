@@ -58,25 +58,29 @@ Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, lega
 <div class="mermaid">
 flowchart LR
     subgraph Planejamento
-        A1["Elaborar proposta técnica e plano de trabalho (art. 22 da Lei)"]
-        A2["Desenvolvimento da minuta de edital (art. 24, § 1º da Lei)"]
-        A3["Análise jurídica obrigatória (art. 35, VI da Lei)"]
-        A4["Publicar edital com antecedência mínima de 30 dias (art. 26 da Lei)"]
-        A1 --> A2 --> A3 --> A4
+        A1["Identificar demanda do órgão estadual parceiro (art. 18 do Decreto)"]
+        A2["Elaborar termo de referência com objeto e critérios (art. 19 do Decreto)"]
+        A3["Desenvolver minuta de edital e termo de colaboração (art. 24, § 1º da Lei)"]
+        A4["Análise jurídica obrigatória (art. 35, VI da Lei)"]
+        A5["Constituir comissão de seleção por ato oficial (art. 20 do Decreto)"]
+        A6["Publicar edital com antecedência mínima de 30 dias (art. 21 do Decreto / art. 26 da Lei)"]
+        A1 --> A2 --> A3 --> A4 --> A5 --> A6
     end
     subgraph Processamento
-        B1["Recebimento de propostas (art. 24, § 1º, IV da Lei)"]
-        B2["Análise e julgamento pela Comissão de Seleção (art. 27, § 1º da Lei)"]
-        B3["Homologação e divulgação de resultado provisório (art. 27, § 4º da Lei)"]
-        B4["Prazo para recursos administrativos (art. 24, § 1º, VIII da Lei)"]
-        B5["Resultado final homologado (art. 27, § 6º da Lei)"]
+        B1["Receber propostas de plano de trabalho (art. 22 do Decreto)"]
+        B2["Análise técnica e julgamento pela comissão (art. 23 do Decreto / art. 27 da Lei)"]
+        B3["Homologação e divulgação de resultado provisório (art. 24 do Decreto / art. 27, § 4º da Lei)"]
+        B4["Prazo para recursos administrativos (art. 25 do Decreto / art. 24, § 1º, VIII da Lei)"]
+        B5["Análise de recursos e resultado final (art. 26 do Decreto / art. 27, § 6º da Lei)"]
         B1 --> B2 --> B3 --> B4 --> B5
     end
     subgraph Habilitação
-        C1["Verificar documentos das OSCs selecionadas (art. 28 da Lei)"]
-        C2["Convocação da próxima classificada se necessário (art. 28, § 1º da Lei)"]
-        C3["Celebração da parceria (art. 35 da Lei)"]
-        C1 --> C2 --> C3
+        C1["Verificar documentos das OSCs selecionadas (art. 27 do Decreto / art. 28 da Lei)"]
+        C2["Convocação da próxima classificada se necessário (art. 28 do Decreto / art. 28, § 1º da Lei)"]
+        C3["Elaborar plano de trabalho conjunto (art. 29 do Decreto)"]
+        C4["Designar gestor da parceria (art. 2º, IX do Decreto)"]
+        C5["Celebrar termo de colaboração (art. 30 do Decreto / art. 35 da Lei)"]
+        C1 --> C2 --> C3 --> C4 --> C5
     end
     Planejamento --> Processamento --> Habilitação
 </div>
