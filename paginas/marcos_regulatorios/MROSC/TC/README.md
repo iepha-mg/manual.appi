@@ -5,12 +5,13 @@ Instrumento jurídico para formalizar parcerias entre a administração pública
 
 ## 🏛️ Regulamentação:
 [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm) (Marco Regulatório das Organizações da Sociedade Civil - MROSC) e [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1) de Minas Gerais.
+> Daqui em diante, vamos mencionar simplesmente "Lei" ou "Decreto" pra falar sobre essas normas de regulamentação.
 
 ## 🎯 Objetivos
-- Viabilizar projetos de iniciativa da administração pública com participação das OSCs (art. 16 da Lei 13.019/2014)
-- Estabelecer regime de mútua cooperação para interesse público e recíproco (art. 1º da Lei 13.019/2014)
-- Garantir transparência na aplicação de recursos públicos (art. 5º da Lei 13.019/2014)
-- Focar no controle de resultados e no alcance de metas (art. 6º, inciso II da Lei 13.019/2014)
+- Viabilizar projetos de iniciativa da administração pública com participação das OSCs (art. 16 da Lei)
+- Estabelecer regime de mútua cooperação para interesse público e recíproco (art. 1º da Lei)
+- Garantir transparência na aplicação de recursos públicos (art. 5º da Lei)
+- Focar no controle de resultados e no alcance de metas (art. 6º, inciso II da Lei)
 
 ## 🛠️ Ideias para aplicação no Iepha-MG:
 Desde que haja recursos disponíveis, um Termo de Colaboração pode servir para:
@@ -23,34 +24,34 @@ Desde que haja recursos disponíveis, um Termo de Colaboração pode servir para
 
 ## ✅ Pode:
 **Recursos podem ser usados para:**
-- Remuneração da equipe de trabalho, inclusive encargos (art. 46 da Lei 13.019/2014)
-- Contratação de serviços de terceiros (art. 46, inciso II da Lei 13.019/2014)
-- Aquisição de equipamentos e materiais permanentes e de consumo (art. 46, inciso I da Lei 13.019/2014)
-- Despesas com transporte, hospedagem e alimentação (art. 46, inciso IV da Lei 13.019/2014)
-- Divulgação das ações, inclusive na internet (art. 46, inciso V da Lei 13.019/2014)
-- Custos indiretos necessários à execução do objeto, até 15% do valor total (art. 46, § 1º da Lei 13.019/2014)
+- Remuneração da equipe de trabalho, inclusive encargos (art. 46 da Lei)
+- Contratação de serviços de terceiros (art. 46, inciso II da Lei)
+- Aquisição de equipamentos e materiais permanentes e de consumo (art. 46, inciso I da Lei)
+- Despesas com transporte, hospedagem e alimentação (art. 46, inciso IV da Lei)
+- Divulgação das ações, inclusive na internet (art. 46, inciso V da Lei)
+- Custos indiretos necessários à execução do objeto, até 15% do valor total (art. 46, § 1º da Lei)
 
 **Facilidades administrativas:**
-- OSC tem autonomia para gestão administrativa e financeira dos recursos (art. 42 da Lei 13.019/2014)
-- Possibilidade de alteração do plano de trabalho mediante acordo entre as partes (art. 55 da Lei 13.019/2014)
-- Aplicação de rendimentos financeiros no objeto da parceria (art. 51 da Lei 13.019/2014)
-- Contratação de pessoal pela OSC com recursos da parceria (art. 46, inciso III da Lei 13.019/2014)
+- OSC tem autonomia para gestão administrativa e financeira dos recursos (art. 42 da Lei)
+- Possibilidade de alteração do plano de trabalho mediante acordo entre as partes (art. 55 da Lei)
+- Aplicação de rendimentos financeiros no objeto da parceria (art. 51 da Lei)
+- Contratação de pessoal pela OSC com recursos da parceria (art. 46, inciso III da Lei)
 
 ## ❌ Não pode:
 ⚠️ **Proibições absolutas:**
-- Exigir contrapartida financeira, em bens ou serviços das OSCs (art. 35, § 1º da Lei 13.019/2014)
-- Pagar despesas realizadas em data anterior à vigência da parceria (art. 47, inciso I da Lei 13.019/2014)
-- Utilizar recursos para finalidades alheias ao objeto da parceria (art. 42 da Lei 13.019/2014)
-- Pagar multas, juros ou correção monetária por atraso no pagamento de obrigações (art. 47, inciso II da Lei 13.019/2014)
+- Exigir contrapartida financeira, em bens ou serviços das OSCs (art. 35, § 1º da Lei)
+- Pagar despesas realizadas em data anterior à vigência da parceria (art. 47, inciso I da Lei)
+- Utilizar recursos para finalidades alheias ao objeto da parceria (art. 42 da Lei)
+- Pagar multas, juros ou correção monetária por atraso no pagamento de obrigações (art. 47, inciso II da Lei)
 
 ⚠️ **Exigências obrigatórias:**
-- Chamamento público prévio, salvo exceções legais (art. 29 da Lei 13.019/2014)
-- Plano de trabalho detalhado (art. 22 da Lei 13.019/2014)
-- Comprovação de regularidade fiscal e jurídica da OSC (art. 34 da Lei 13.019/2014)
-- Designação de gestor da parceria (art. 2º, inciso VI da Lei 13.019/2014)
+- Chamamento público prévio, salvo exceções legais (art. 29 da Lei)
+- Plano de trabalho detalhado (art. 22 da Lei)
+- Comprovação de regularidade fiscal e jurídica da OSC (art. 34 da Lei)
+- Designação de gestor da parceria (art. 2º, inciso VI da Lei)
 
 ## 📣 Chamamento público
-Obrigatório para seleção das OSCs (art. 24 da Lei 13.019/2014), garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo (art. 2º, inciso XII da Lei 13.019/2014).
+Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo (art. 2º, inciso XII da Lei).
 
 ### ↔️ Fluxo Resumido do Chamamento Público
 
@@ -76,33 +77,33 @@ flowchart LR
 </div>
 
 ### 🔑 Regras-Chave
-- **Dispensa de chamamento público** somente em casos excepcionais previstos em lei (art. 30 da Lei 13.019/2014)
-- **Comissão de seleção** obrigatória, com pelo menos um servidor efetivo (art. 2º, inciso X da Lei 13.019/2014)
-- **Prazo mínimo** de 30 dias para apresentação de propostas (art. 23 do Decreto 47.132/2017)
-- **Critérios objetivos** de seleção focados na melhor proposta técnica (art. 27 da Lei 13.019/2014)
-- **Habilitação** somente após seleção das propostas (art. 28 da Lei 13.019/2014)
+- **Dispensa de chamamento público** somente em casos excepcionais previstos em lei (art. 30 da Lei)
+- **Comissão de seleção** obrigatória, com pelo menos um servidor efetivo (art. 2º, inciso X da Lei)
+- **Prazo mínimo** de 30 dias para apresentação de propostas (art. 23 do Decreto)
+- **Critérios objetivos** de seleção focados na melhor proposta técnica (art. 27 da Lei)
+- **Habilitação** somente após seleção das propostas (art. 28 da Lei)
 
 ### ⏱️ Prazos importantes
 
 | Etapa                          | Prazo                    | Base Legal                     |
 |--------------------------------|--------------------------|--------------------------------|
-| Apresentação de propostas      | Mínimo 30 dias           | Art. 23 do Decreto 47.132/2017|
+| Apresentação de propostas      | Mínimo 30 dias           | Art. 23 do Decreto|
 | Recursos                       | Conforme edital          | Art. 24, § 1º, VIII da Lei    |
 | Prestação de contas            | Conforme cronograma      | Art. 63 e seguintes da Lei    |
-| Análise da prestação de contas | 150 dias (prorrogáveis) | Art. 69 da Lei 13.019/2014    |
+| Análise da prestação de contas | 150 dias (prorrogáveis) | Art. 69 da Lei    |
 
 ## 🛣️ Plano de trabalho
-**Elementos obrigatórios** (art. 22 da Lei 13.019/2014):
+**Elementos obrigatórios** (art. 22 da Lei):
 - **Descrição da realidade** objeto da parceria e nexo com atividades/projetos (art. 22, inciso I da Lei)
 - **Metas a serem atingidas** e atividades/projetos a serem executados (art. 22, inciso II da Lei)
 - **Previsão de receitas e despesas** detalhada (art. 22, inciso II-A da Lei)
 - **Forma de execução** e cumprimento das metas (art. 22, inciso III da Lei)
 - **Parâmetros de aferição** do cumprimento das metas (art. 22, inciso IV da Lei)
 
-> **Importante**: As metas devem ser mensuráveis e verificáveis, permitindo avaliação objetiva do cumprimento do objeto da parceria (art. 59 da Lei 13.019/2014).
+> **Importante**: As metas devem ser mensuráveis e verificáveis, permitindo avaliação objetiva do cumprimento do objeto da parceria (art. 59 da Lei).
 
 ## 🔒 Prestação de contas
-Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei 13.019/2014), compreendendo:
+Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei), compreendendo:
 
 ### 📋 Documentos exigidos:
 1. **Relatório de execução do objeto** - comprovação do alcance das metas (art. 63, inciso I da Lei)
@@ -118,19 +119,19 @@ Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei 1
 | Metas não atingidas             | Relatório de objeto + financeiro    | Rejeição + devolução de recursos (art. 73 da Lei) |
 
 ### 🕒 Prazos da prestação de contas:
-- **OSC**: apresentar prestação de contas conforme cronograma estabelecido (art. 66 da Lei 13.019/2014)
-- **Administração**: analisar em até 150 dias, prorrogáveis por igual período (art. 69 da Lei 13.019/2014)
-- **Recurso**: prazo definido no termo de colaboração (art. 70 da Lei 13.019/2014)
+- **OSC**: apresentar prestação de contas conforme cronograma estabelecido (art. 66 da Lei)
+- **Administração**: analisar em até 150 dias, prorrogáveis por igual período (art. 69 da Lei)
+- **Recurso**: prazo definido no termo de colaboração (art. 70 da Lei)
 
 ## 🔍 Monitoramento e avaliação
-O **gestor da parceria** deve (art. 61 da Lei 13.019/2014):
+O **gestor da parceria** deve (art. 61 da Lei):
 - Acompanhar e fiscalizar a execução
 - Orientar a OSC durante a execução
 - Emitir relatório técnico de monitoramento
 - Informar irregularidades ao superior hierárquico
 - Emitir parecer conclusivo sobre prestação de contas
 
-A **Comissão de Monitoramento e Avaliação** deve (art. 2º, inciso XI da Lei 13.019/2014):
+A **Comissão de Monitoramento e Avaliação** deve (art. 2º, inciso XI da Lei):
 - Avaliar as parcerias periodicamente
 - Homologar relatórios técnicos de monitoramento
 - Propor melhorias nos procedimentos
