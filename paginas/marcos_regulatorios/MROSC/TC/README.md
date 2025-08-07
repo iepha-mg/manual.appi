@@ -172,42 +172,47 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    A@{ shape: lean-r, label: "Identificar demanda do órgão estadual parceiro (art. 18 do Decreto)" } --> B@{ shape: lean-r, label: "Elaborar termo de referência (art. 19 do Decreto)" }
-    B --> C@{ shape: rect, label: "Avaliar viabilidade técnica, orçamentária e operacional (art. 8º da Lei)" }
-    C --> D@{ shape: diamond, label: "Parceria é viável?" }
-    D -->|Não| E@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
-    D -->|Sim| F@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
-    F -->|Não| G@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
-    F -->|Sim| H@{ shape: rounded, label: "Desenvolver minuta de edital e termo (art. 24, § 1º da Lei)" }
-    G --> H
-    H --> I@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
-    I --> J@{ shape: rounded, label: "Constituir comissão de seleção (art. 20 do Decreto)" }
-    J --> K@{ shape: rect, label: "Publicar edital com 30 dias de antecedência (art. 21 do Decreto / art. 26 da Lei)" }
-    K --> L@{ shape: odd, label: "Receber propostas de plano de trabalho (art. 22 do Decreto)" }
-    L --> M@{ shape: odd, label: "Análise técnica pela comissão (art. 23 do Decreto / art. 27 da Lei)" }
-    M --> N@{ shape: rounded, label: "Homologar e divulgar resultado provisório (art. 24 do Decreto)" }
-    N --> O@{ shape: odd, label: "Analisar recursos se houver (art. 25 do Decreto / art. 24, § 1º, VIII da Lei)" }
-    O --> P@{ shape: rounded, label: "Homologar resultado final (art. 26 do Decreto)" }
-    P --> Q@{ shape: rounded, label: "Verificar documentos das OSCs selecionadas (art. 27 do Decreto / art. 28 da Lei)" }
-    Q --> R@{ shape: diamond, label: "OSCs habilitadas?" }
-    R -->|Não| S@{ shape: rounded, label: "Convocar próxima classificada (art. 28 do Decreto)" } --> Q
-    R -->|Sim| T@{ shape: rounded, label: "Elaborar plano de trabalho conjunto (art. 29 do Decreto / art. 22 da Lei)" }
-    T --> U@{ shape: rect, label: "Designar gestor da parceria (art. 2º, IX do Decreto / art. 2º, VI da Lei)" }
-    U --> V@{ shape: rect, label: "Celebrar termo de colaboração (art. 30 do Decreto / art. 35 da Lei)" }
-    V --> W@{ shape: rect, label: "Constituir comissão de monitoramento (art. 2º, XV do Decreto / art. 2º, XI da Lei)" }
-    W --> X@{ shape: hex, label: "Monitorar execução continuamente (art. 58 da Lei)" }
-    X --> Y@{ shape: hex, label: "Gestor emite relatórios periódicos (art. 61 da Lei)" }
-    Y --> Z@{ shape: stadium, label: "Comissão homologa relatórios técnicos (art. 2º, XV do Decreto)" }
-    Z --> AA@{ shape: rounded, label: "OSC apresenta prestação de contas (art. 66 da Lei / Decreto)" }
-    AA --> BB@{ shape: hex, label: "Analisar relatório de execução do objeto (art. 69 da Lei)" }
-    BB --> CC@{ shape: diamond, label: "Metas foram atingidas? (art. 64 da Lei)" }
-    CC -->|Sim| DD@{ shape: hex, label: "Aprovar prestação de contas (art. 71 da Lei)" } --> EE@{ shape: stadium, label: "Comissão homologa aprovação" } --> FIM
-    CC -->|Parcialmente| FF@{ shape: hex, label: "Solicitar relatório financeiro (art. 64, § 1º da Lei)" }
-    CC -->|Não| FF
-    FF --> GG@{ shape: hex, label: "Analisar relatório financeiro em 150 dias (art. 69 da Lei)" }
-    GG --> HH@{ shape: diamond, label: "Recursos foram bem aplicados?" }
-    HH -->|Sim| II@{ shape: hex, label: "Aprovar com ressalvas (art. 72 da Lei)" } --> JJ@{ shape: stadium, label: "Comissão homologa aprovação com ressalvas" } --> FIM
-    HH -->|Não| KK@{ shape: hex, label: "Rejeitar e instaurar TCE (art. 73 da Lei)" } --> LL@{ shape: rounded, label: "Adotar medidas administrativas internas (art. 2º, XXVI do Decreto)" } --> FIM
+    A@{ shape: lean-r, label: "Identificar demanda do órgão estadual parceiro (art. 18 do Decreto)" } --> B@{ shape: diamond, label: "Parceria é viável?" }
+    B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
+    B -->|Sim| D@{ shape: rect, label: "Avaliar viabilidade técnica, orçamentária e operacional (art. 8º da Lei)" }
+    D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
+    E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
+    F --> G@{ shape: rect, label: "Desenvolver/revisar minuta de edital e termo de referência (art. 24, § 1º da Lei / art. 19 do Decreto)" }
+    E -->|Sim| G
+    G --> H@{ shape: lean-r, label: "Analisar minutas" }
+    H --> I@{ shape: diamond, label: "Minutas validadas?" }
+    I -->|Não| G
+    I -->|Sim| J@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
+    J --> K@{ shape: rounded, label: "Instruir processo no SEI" }
+    K --> L@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
+    L --> M@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    M --> N@{ shape: rounded, label: "Constituir comissão de seleção (art. 20 do Decreto)" }
+    N --> O@{ shape: rect, label: "Publicar edital com 30 dias de antecedência (art. 21 do Decreto / art. 26 da Lei)" }
+    O --> P@{ shape: odd, label: "Receber propostas de plano de trabalho (art. 22 do Decreto)" }
+    P --> Q@{ shape: odd, label: "Análise técnica pela comissão (art. 23 do Decreto / art. 27 da Lei)" }
+    Q --> R@{ shape: rounded, label: "Homologar e divulgar resultado provisório (art. 24 do Decreto)" }
+    R --> S@{ shape: odd, label: "Analisar recursos se houver (art. 25 do Decreto / art. 24, § 1º, VIII da Lei)" }
+    S --> T@{ shape: rounded, label: "Homologar resultado final (art. 26 do Decreto)" }
+    T --> U@{ shape: rounded, label: "Verificar documentos das OSCs selecionadas (art. 27 do Decreto / art. 28 da Lei)" }
+    U --> V@{ shape: diamond, label: "OSCs habilitadas?" }
+    V -->|Não| W@{ shape: rounded, label: "Convocar próxima classificada (art. 28 do Decreto)" } --> U
+    V -->|Sim| X@{ shape: rounded, label: "Elaborar plano de trabalho conjunto (art. 29 do Decreto / art. 22 da Lei)" }
+    X --> Y@{ shape: rect, label: "Designar gestor da parceria (art. 2º, IX do Decreto / art. 2º, VI da Lei)" }
+    Y --> Z@{ shape: rect, label: "Celebrar termo de colaboração (art. 30 do Decreto / art. 35 da Lei)" }
+    Z --> AA@{ shape: rect, label: "Constituir comissão de monitoramento (art. 2º, XV do Decreto / art. 2º, XI da Lei)" }
+    AA --> BB@{ shape: hex, label: "Monitorar execução continuamente (art. 58 da Lei)" }
+    BB --> CC@{ shape: hex, label: "Gestor emite relatórios periódicos (art. 61 da Lei)" }
+    CC --> DD@{ shape: stadium, label: "Comissão homologa relatórios técnicos (art. 2º, XV do Decreto)" }
+    DD --> EE@{ shape: rounded, label: "OSC apresenta prestação de contas (art. 66 da Lei / Decreto)" }
+    EE --> FF@{ shape: hex, label: "Analisar relatório de execução do objeto (art. 69 da Lei)" }
+    FF --> GG@{ shape: diamond, label: "Metas foram atingidas? (art. 64 da Lei)" }
+    GG -->|Sim| HH@{ shape: hex, label: "Aprovar prestação de contas (art. 71 da Lei)" } --> II@{ shape: stadium, label: "Comissão homologa aprovação" } --> FIM
+    GG -->|Parcialmente| JJ@{ shape: hex, label: "Solicitar relatório financeiro (art. 64, § 1º da Lei)" }
+    GG -->|Não| JJ
+    JJ --> KK@{ shape: hex, label: "Analisar relatório financeiro em 150 dias (art. 69 da Lei)" }
+    KK --> LL@{ shape: diamond, label: "Recursos foram bem aplicados?" }
+    LL -->|Sim| MM@{ shape: hex, label: "Aprovar com ressalvas (art. 72 da Lei)" } --> NN@{ shape: stadium, label: "Comissão homologa aprovação com ressalvas" } --> FIM
+    LL -->|Não| OO@{ shape: hex, label: "Rejeitar e instaurar TCE (art. 73 da Lei)" } --> PP@{ shape: rounded, label: "Adotar medidas administrativas internas (art. 2º, XXVI do Decreto)" } --> FIM
 </div>
 
 <script type="module">
