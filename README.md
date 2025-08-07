@@ -31,7 +31,7 @@ Aqui você encontra:
    - [Termo de Execução Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TEC/README.html)
    - [Termo de Premiação Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TPC/README.html)
    - [Termo de Bolsa Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TBC/README.html)
-   - Termo de Colaboração
+   - [Termo de Colaboração](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TC/README.html)
    - Termo de Fomento
    - Termo de Parceria
    - Contrato de Gestão
