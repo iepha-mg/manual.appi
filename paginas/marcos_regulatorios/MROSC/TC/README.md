@@ -39,7 +39,7 @@ Desde que haja recursos disponíveis, um Termo de Colaboração pode servir para
 
 ## ❌ Não pode:
 ⚠️ **Proibições absolutas:**
-- Exigir contrapartida financeira, em bens ou serviços das OSCs (art. 35, § 1º da Lei)
+- Exigir contrapartida financeira, embora possa ser exigida contrapartida em bens ou serviços das OSCs (art. 35, § 1º da Lei)
 - Pagar despesas realizadas em data anterior à vigência da parceria (art. 47, inciso I da Lei)
 - Utilizar recursos para finalidades alheias ao objeto da parceria (art. 42 da Lei)
 - Pagar multas, juros ou correção monetária por atraso no pagamento de obrigações (art. 47, inciso II da Lei)
