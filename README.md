@@ -32,7 +32,7 @@ Aqui você encontra:
    - [Termo de Premiação Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TPC/README.html)
    - [Termo de Bolsa Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TBC/README.html)
    - [Termo de Colaboração](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TC/README.html)
-   - Termo de Fomento
+   - [Termo de Fomento](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TF/README.html)
    - Termo de Parceria
    - Contrato de Gestão
 - 💡 Dicas para gestores ou fiscais de parcerias
