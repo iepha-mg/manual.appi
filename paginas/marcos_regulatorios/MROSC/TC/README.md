@@ -160,49 +160,54 @@ Modelos e documentos de referência (editais, termos, planos de trabalho etc.) p
 
 <div class="mermaid">
 flowchart TD
-    A_LEG@{ shape: lean-r, label: "Área Técnica" }
-    B_LEG@{ shape: rect, label: "Gabinete/Direção" }
-    C_LEG@{ shape: rounded, label: "Setor de Contratos/Parcerias" }
-    D_LEG@{ shape: trap-b, label: "Assessoria Jurídica" }
-    E_LEG@{ shape: odd, label: "Comissão de Seleção" }
-    F_LEG@{ shape: hex, label: "Gestor da Parceria" }
-    G_LEG@{ shape: diamond, label: "Decisão" }
+    A_LEG["Área Técnica"]
+    B_LEG["Gabinete/Direção"]
+    C_LEG["Setor de Contratos/Parcerias"]
+    D_LEG["Assessoria Jurídica"]
+    E_LEG["Comissão de Seleção"]
+    F_LEG["Gestor da Parceria"]
+    G_LEG["Comissão de Monitoramento"]
+    H_LEG["Decisão"]
 </div>
 
 <div class="mermaid">
 flowchart TD
-    A@{ shape: lean-r, label: "Identificar necessidade de parceria (art. 16 da Lei)" } --> B@{ shape: rect, label: "Avaliar viabilidade técnica e orçamentária (art. 8º da Lei)" }
-    B --> C@{ shape: diamond, label: "Parceria é viável?" }
-    C -->|Não| D@{ shape: rect, label: "Comunicar negativa à área técnica" } --> FIM
-    C -->|Sim| E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
-    E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
-    F --> G@{ shape: lean-r, label: "Desenvolver plano de trabalho e minuta do termo (art. 22 da Lei)" }
-    E -->|Sim| G
-    G --> H@{ shape: trap-b, label: "Análise jurídica (quando necessária)" }
-    H --> I@{ shape: rounded, label: "Instruir processo administrativo" }
-    I --> J@{ shape: rect, label: "Aprovar e publicar edital (art. 26 da Lei)" }
-    J --> K@{ shape: odd, label: "Receber propostas (mín. 30 dias: art. 23 do Decreto)" }
-    K --> L@{ shape: odd, label: "Analisar propostas - Comissão de Seleção (art. 2º, X da Lei)" }
-    L --> M@{ shape: rounded, label: "Publicar resultado provisório (art. 27 da Lei)" }
-    M --> N@{ shape: odd, label: "Analisar recursos se houver (art. 24, § 1º, VIII da Lei)" }
-    N --> O@{ shape: rounded, label: "Publicar resultado final" }
-    O --> P@{ shape: rounded, label: "Verificar requisitos das OSCs selecionadas (art. 28 da Lei)" }
-    P --> Q@{ shape: diamond, label: "OSCs habilitadas?" }
-    Q -->|Não| R@{ shape: rounded, label: "Convocar próximas classificadas" } --> P
-    Q -->|Sim| S@{ shape: rect, label: "Assinar termo de colaboração (art. 42 da Lei)" }
-    S --> T@{ shape: hex, label: "Designar gestor da parceria (art. 2º, VI da Lei)" }
-    T --> U@{ shape: hex, label: "Monitorar execução (art. 58 da Lei)" }
-    U --> V@{ shape: hex, label: "Receber relatórios de monitoramento (art. 61 da Lei)" }
-    V --> W@{ shape: rounded, label: "Iniciar prestação de contas (art. 63 da Lei)" }
-    W --> X@{ shape: hex, label: "Analisar relatório de execução do objeto (art. 69 da Lei)" }
-    X --> Y@{ shape: diamond, label: "Metas foram atingidas? (art. 64 da Lei)" }
-    Y -->|Sim| Z@{ shape: hex, label: "Aprovar prestação de contas (art. 71 da Lei)" } --> FIM
-    Y -->|Parcialmente| AA@{ shape: hex, label: "Solicitar relatório financeiro (art. 64, § 1º da Lei)" }
-    Y -->|Não| AA
-    AA --> BB@{ shape: hex, label: "Analisar relatório financeiro (art. 69 da Lei)" }
-    BB --> CC@{ shape: diamond, label: "Recursos foram bem aplicados?" }
-    CC -->|Sim| DD@{ shape: hex, label: "Aprovar com ressalvas (art. 72 da Lei)" } --> FIM
-    CC -->|Não| EE@{ shape: rounded, label: "Rejeitar e instaurar TCE (art. 73 da Lei)" } --> FIM
+    A["Identificar demanda do órgão estadual parceiro (art. 18 do Decreto)"] --> B["Elaborar termo de referência (art. 19 do Decreto)"]
+    B --> C["Avaliar viabilidade técnica, orçamentária e operacional (art. 8º da Lei)"]
+    C --> D{"Parceria é viável?"}
+    D -- Não --> E["Comunicar negativa fundamentada à área técnica"] --> FIM
+    D -- Sim --> F{"Necessita chamamento público? (art. 29 da Lei)"}
+    F -- Não --> G["Elaborar justificativa para dispensa (art. 30 da Lei)"]
+    F -- Sim --> H["Desenvolver minuta de edital e termo (art. 24, § 1º da Lei)"]
+    G --> H
+    H --> I["Análise jurídica obrigatória (art. 35, VI da Lei)"]
+    I --> J["Constituir comissão de seleção (art. 20 do Decreto)"]
+    J --> K["Publicar edital com 30 dias de antecedência (art. 21 do Decreto / art. 26 da Lei)"]
+    K --> L["Receber propostas de plano de trabalho (art. 22 do Decreto)"]
+    L --> M["Análise técnica pela comissão (art. 23 do Decreto / art. 27 da Lei)"]
+    M --> N["Homologar e divulgar resultado provisório (art. 24 do Decreto)"]
+    N --> O["Analisar recursos se houver (art. 25 do Decreto / art. 24, § 1º, VIII da Lei)"]
+    O --> P["Homologar resultado final (art. 26 do Decreto)"]
+    P --> Q["Verificar documentos das OSCs selecionadas (art. 27 do Decreto / art. 28 da Lei)"]
+    Q --> R{"OSCs habilitadas?"}
+    R -- Não --> S["Convocar próxima classificada (art. 28 do Decreto)"] --> Q
+    R -- Sim --> T["Elaborar plano de trabalho conjunto (art. 29 do Decreto / art. 22 da Lei)"]
+    T --> U["Designar gestor da parceria (art. 2º, IX do Decreto / art. 2º, VI da Lei)"]
+    U --> V["Celebrar termo de colaboração (art. 30 do Decreto / art. 35 da Lei)"]
+    V --> W["Constituir comissão de monitoramento (art. 2º, XV do Decreto / art. 2º, XI da Lei)"]
+    W --> X["Monitorar execução continuamente (art. 58 da Lei)"]
+    X --> Y["Gestor emite relatórios periódicos (art. 61 da Lei)"]
+    Y --> Z["Comissão homologa relatórios técnicos (art. 2º, XV do Decreto)"]
+    Z --> AA["OSC apresenta prestação de contas (art. 66 da Lei / Decreto)"]
+    AA --> BB["Analisar relatório de execução do objeto (art. 69 da Lei)"]
+    BB --> CC{"Metas foram atingidas? (art. 64 da Lei)"}
+    CC -- Sim --> DD["Aprovar prestação de contas (art. 71 da Lei)"] --> FIM
+    CC -- Parcialmente --> EE["Solicitar relatório financeiro (art. 64, § 1º da Lei)"]
+    CC -- Não --> EE
+    EE --> FF["Analisar relatório financeiro em 150 dias (art. 69 da Lei)"]
+    FF --> GG{"Recursos foram bem aplicados?"}
+    GG -- Sim --> HH["Aprovar com ressalvas (art. 72 da Lei)"] --> II["Comissão homologa aprovação"] --> FIM
+    GG -- Não --> JJ["Rejeitar e instaurar TCE (art. 73 da Lei)"] --> KK["Adotar medidas administrativas internas (art. 2º, XXVI do Decreto)"] --> FIM
 </div>
 
 <script type="module">
