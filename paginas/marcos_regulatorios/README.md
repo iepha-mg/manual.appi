@@ -45,4 +45,4 @@ Cada um deles possui seus respectivos instrumentos jurídicos.
 
 [^1]: Fonte: APPI/IEPHA-MG.
 
-# [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
