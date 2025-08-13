@@ -17,7 +17,7 @@ As Fundações de Apoio são entidades privadas sem fins lucrativos criadas para
 - [**Lei Estadual nº 6.998/1998**](http://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=199806&marc=)  
   Marco inicial que definiu as Fundações de Apoio como instrumentos de apoio à pesquisa e à extensão nas instituições estaduais.
 
-- **Resolução SEDE nº 19/2022** (13/04/2022)  
+- [**Resolução SEDE nº 19/2022**](http://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=199806&marc=) (13/04/2022)  
   Estabelece critérios para registro, credenciamento e descredenciamento das Fundações de Apoio na Secretaria de Estado de Desenvolvimento Econômico – SEDE.  
   - Art. 3º: “Expediente para registro e credenciamento da fundação de apoio será elaborado no âmbito da ICTMG ou IEES, observado o estabelecido nos arts. 5º, 6º, 8º e 11 da Lei Estadual nº 22.929/2018, que o remeterá à SEDE/GATMG.”  
   - Permite o **credenciamento direto** de instituições como Fundações de Apoio, sem necessidade de intermediação adicional.
