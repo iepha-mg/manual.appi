@@ -198,6 +198,7 @@ Modelos e documentos de referência (editais, termos, planos de trabalho etc.) p
 
 <div class="mermaid">
 flowchart TD
+    %% Legenda
     A_LEG@{ shape: lean-r, label: "Área Técnica Demandante" }
     B_LEG@{ shape: rect, label: "Gabinete" }
     C_LEG@{ shape: rounded, label: "Setor de Contratos e Convênios" }
@@ -207,18 +208,17 @@ flowchart TD
     G_LEG@{ shape: stadium, label: "Comissão de Monitoramento" }
     H_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
 </div>
-
 <div class="mermaid">
 flowchart TD
+    %% Etapas iniciais
     A@{ shape: lean-r, label: "Identificar área de interesse para fomento (art. 18 do Decreto)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
     A1 -->|Sim| A2@{ shape: rounded, label: "Considerar resultado do PMIS realizado (art. 21 da Lei)" } --> B
     A1 -->|Não| B@{ shape: diamond, label: "Fomento é viável?" }
     B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
     B -->|Sim| D@{ shape: rect, label: "Levantar requisitos técnicos, orçamentários e operacionais" }
     D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
-    E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
-    F --> G@{ shape: rect, label: "Desenvolver/revisar minuta de edital e anexos, de termo de referência e de Termo de Fomento (art. 24, § 1º da Lei / art. 19 do Decreto)" }
-    E -->|Sim| G
+    %% Fluxo para processo COM chamamento público
+    E -->|Sim| G@{ shape: rect, label: "Desenvolver/revisar minuta de edital e anexos, de termo de referência e de Termo de Fomento (art. 24, § 1º da Lei / art. 19 do Decreto)" }
     G --> H@{ shape: lean-r, label: "Analisar minutas" }
     H --> I@{ shape: diamond, label: "Minutas validadas?" }
     I -->|Não| G
@@ -253,6 +253,21 @@ flowchart TD
     KK --> LL@{ shape: diamond, label: "Recursos foram bem aplicados?" }
     LL -->|Sim| MM@{ shape: hex, label: "Aprovar com ressalvas (art. 72 da Lei)" } --> NN@{ shape: stadium, label: "Comissão homologa aprovação com ressalvas" } --> FIM
     LL -->|Não| OO@{ shape: hex, label: "Rejeitar e instaurar TCE (art. 73 da Lei)" } --> PP@{ shape: rounded, label: "Adotar medidas administrativas internas (art. 2º, XXVI do Decreto)" } --> FIM
+    %% FLUXO PARA DISPENSA DE CHAMAMENTO (paralelo ao fluxo de edital)
+    E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
+    F --> F1@{ shape: rect, label: "Desenvolver/revisar Termo de Fomento" }
+    F1 --> F2@{ shape: lean-r, label: "Analisar minutas" }
+    F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
+    F3 -->|Não| F1
+    F3 -->|Sim| F4@{ shape: rect, label: "Encaminhar processo ao Setor de Contratos e Convênios" }
+    F4 --> F5@{ shape: rounded, label: "Instruir processo no SEI" }
+    F5 --> F6@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
+    F6 --> F7@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    F7 --> F8@{ shape: rounded, label: "Verificar documentos da OSC parceira (art. 27 do Decreto / art. da Lei)" }
+    F8 --> F9@{ shape: diamond, label: "OSC habilitada?" }
+    F9 -->|Não| C
+    F9 -->|Sim| X
+    %% Fim
 </div>
 
 <script type="module">
