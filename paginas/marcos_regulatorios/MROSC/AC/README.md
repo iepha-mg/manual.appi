@@ -10,19 +10,19 @@ Instrumento jurídico para formalizar parcerias entre a administração pública
 ## 🎯 Objetivos
 - Estabelecer regime de mútua cooperação para interesse público e recíproco (art. 1º da Lei)
 - Fortalecer parcerias sem custos financeiros diretos para a administração pública (art. 2º, inciso XII do Decreto)
+- Fomentar a participação social na gestão pública (art. 5º da Lei)
 - Garantir transparência na execução de atividades de interesse público (art. 5º da Lei)
 - Simplificar procedimentos quando não há transferência de recursos financeiros (art. 5º do Decreto)
+- Focar no controle de resultados e no alcance de metas (art. 6º, inciso II da Lei)
 
 ## 🛠️ Ideias para aplicação no Iepha-MG:
-Um Acordo de Cooperação pode servir para:
-1. Disponibilização de espaços físicos para eventos culturais
-2. Cessão de uso de equipamentos para digitalização de acervos
-3. Compartilhamento de conhecimento técnico especializado
-4. Apoio logístico em campanhas educativas
-5. Cooperação técnica para desenvolvimento de metodologias
-6. Intercâmbio de experiências e boas práticas
-7. Disponibilização de mão de obra especializada voluntária
-8. Cessão de uso de laboratórios ou oficinas
+Havendo conveniência e oportunidade por parte do Iepha-MG e do parceiro, um Acordo de Cooperação pode servir para:
+1. Cooperação técnica para pesquisa e documentação do patrimônio cultural
+2. Compartilhamento de infraestrutura (ex: uso de espaço físico para exposições)
+3. Realização conjunta de eventos culturais e educativos
+4. Desenvolvimento de plataformas digitais colaborativas (visitação a modelagens 3D de patrimônio, por exemplo)
+5. Intercâmbio de conhecimentos e capacitações mútuas
+6. Ações conjuntas de preservação e conservação de bens culturais
 
 ## 🔄 Procedimento de Manifestação de Interesse Social (PMIS)
 O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
@@ -45,20 +45,17 @@ O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidad
 - **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
 
 ## ✅ Pode:
-**Recursos e benefícios compartilhados:**
-- Cessão de uso de bens móveis e imóveis (art. 2º, inciso XII do Decreto)
-- Disponibilização de recursos humanos especializados
 - Compartilhamento de conhecimento técnico e metodológico
 - Apoio logístico e operacional
-- Disponibilização de espaços para eventos e atividades
-- Cessão de equipamentos e materiais permanentes
+- Realização de eventos conjuntos
 - Cooperação técnica e científica
 
 **Facilidades administrativas:**
 - Procedimentos simplificados quando não há transferência de recursos financeiros (art. 5º do Decreto)
 - Possibilidade de afastamento de regras desproporcionais à complexidade (art. 5º, § 2º do Decreto)
-- Flexibilidade na alteração do plano de trabalho (art. 55 da Lei)
 - Monitoramento e avaliação simplificados (art. 56, § 1º do Decreto)
+- Chamamento público apenas quando envolver comodato, doação de bens ou compartilhamento de recurso patrimonial (art. 29 da Lei / art. 18, § 1º do Decreto)
+- Plano de trabalho simplificado (art. 26, § 3º do Decreto)
 
 ## ❌ Não pode:
 ⚠️ **Proibições absolutas:**
@@ -67,10 +64,8 @@ O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidad
 - Celebrar com OSCs que se enquadrem nas vedações do art. 39 da Lei
 
 ⚠️ **Exigências obrigatórias:**
-- Chamamento público apenas quando envolver comodato, doação de bens ou compartilhamento de recurso patrimonial (art. 29 da Lei / art. 18, § 1º do Decreto)
-- Plano de trabalho simplificado (art. 26, § 3º do Decreto)
-- Comprovação de regularidade fiscal e jurídica da OSC apenas para requisitos básicos (art. 33, § 1º da Lei)
-- Designação de gestor da parceria (art. 2º, inciso IX do Decreto)
+- Comprovação de regularidade fiscal e jurídica da OSC (art. 34 da Lei)
+- Designação de gestor da parceria (art. 41, inciso IX do Decreto)
 
 ## 📣 Chamamento público
 **Regra geral:** Acordo de Cooperação é celebrado **SEM chamamento público** (art. 29 da Lei / art. 18, § 1º do Decreto).
@@ -149,7 +144,7 @@ flowchart LR
 </div>
 
 ### 🔑 Regras-Chave
-- **Chamamento público** obrigatório apenas quando envolver compartilhamento patrimonial (art. 29 da Lei)
+- **Chamamento público** apenas quando envolver compartilhamento patrimonial (art. 29 da Lei)
 - **Procedimentos simplificados** para acordos sem transferência de recursos (art. 5º do Decreto)
 - **Requisitos mínimos** para OSCs (apenas objetivos de relevância pública) (art. 33, § 1º da Lei)
 - **PMIS é facultativo** e não condiciona a celebração (art. 16, § 1º do Decreto)
@@ -163,7 +158,9 @@ flowchart LR
 | PMIS: decisão final            | 90 dias                  | Art. 15, § 4º do Decreto       |
 | PMIS: consulta pública         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
 | Apresentação de propostas*     | Mínimo 30 dias           | Art. 26 da Lei                 |
-| Recursos*                      | Conforme edital          | Art. 25 do Decreto             |
+| Recursos*                      | Mínimo de 5 dias         | Art. 24, § 1º do Decreto       |
+| Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
+| Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
 
 *Apenas quando há compartilhamento patrimonial
 
@@ -177,7 +174,7 @@ flowchart LR
 - **Cronograma físico** de execução
 - **Indicadores e meios** para aferição do cumprimento das metas
 
-> **Importante**: O plano de trabalho em Acordos de Cooperação é simplificado, focando na descrição das atividades cooperativas e resultados esperados.
+> **Importante**: O plano de trabalho em Acordos de Cooperação é simplificado, focando na descrição das atividades e resultados esperados.
 
 ## 🔒 Prestação de contas
 **Simplificada e focada em resultados** (art. 71, parágrafo único do Decreto):
@@ -187,16 +184,15 @@ flowchart LR
 2. **Documentos complementares** previstos no plano de trabalho (quando aplicável)
 3. **Comprovação de uso** de bens cedidos (quando houver compartilhamento patrimonial)
 
-### 🕒 Prazos da prestação de contas:
-- **OSC**: apresentar prestação de contas conforme cronograma estabelecido no acordo
-- **Administração**: analisar conforme prazo definido no instrumento
-- **Simplicidade**: proporcional à complexidade do acordo (art. 5º, § 2º do Decreto)
+### 🕒 Prazos da prestação de contas (art. 63 e seguintes da Lei):
+- **OSC**: apresentar prestação de contas até 90 dias após o término da parceria ou ao fim de cada exercício, se a parceria durar mais de 1 ano
+- **Administração**: analisar em até 150 dias do recebimento da prestação de contas
 
 ## 🔍 Monitoramento e avaliação
 **Monitoramento simplificado** (art. 56, § 1º do Decreto):
 
-O **gestor da parceria** deve:
-- Acompanhar a execução das atividades cooperativas
+O **gestor da parceria** deve (arts. 61 e 62 da Lei):
+- Acompanhar a execução das atividades
 - Orientar a OSC durante a execução
 - Emitir relatório técnico simplificado de monitoramento
 - Informar irregularidades ao superior hierárquico
@@ -207,12 +203,17 @@ O **gestor da parceria** deve:
 Modelos e documentos de referência podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
 
 **Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
-- [Minuta de Acordo de Cooperação](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/minuta_acordo_cooperacao.docx)
-- [Modelo de Proposta de Plano de Trabalho para Acordo de Cooperação](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_plano_trabalho_acordo_cooperacao.docx)
-- [Modelo de Extrato de Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_extrato_acordo_cooperacao.docx)
+- [Modelo de Encaminhamento de Proposta para o Procedimento de Manifestação de Interesse Social](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_modelo_proposta_manifetacao_interesse_social.docx)
+- [Modelo de Edital de Chamamento Público – Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_edital_chamamento_publico_acordo_cooperacao.docx)
+- [Minuta de Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/minuta_padrao_segov_age_acordo_de_cooperacao.docx)
+- [Modelo de Proposta de Plano de Trabalho para Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/acordo_cooperacao_modelo_proposta_plano_trabalho.docx)
+- [Modelo de Plano de Trabalho para Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/acordo_cooperacao_modelo_plano_trabalho.docx)
+- [Modelo de Termo de Designação de Comsisão de Seleção](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_resolucao_designacao_comissao_selecao.docx)
 - [Modelo de Termo de Designação de Gestor](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_termo_designacao_gestor_parceria.docx)
 - [Checklist de Celebração de Acordo de Cooperação](https://sigconsaida.mg.gov.br/checklists/)
-- [Relatórios Simplificados de Monitoramento](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_tecnico_monitoramento_simplificado.docx)
+- [Relatório de Monitoramento - produzido pela OSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_monitoramento_acordo_cooperacao.docx)
+- [Relatório Técnico de Monitoramento e Avaliação - produzido pelo Gestor da Parceria](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_tecnico_monitoramento.docx)
+- [Prestação de Contas: Relatório de Execução do Objeto](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
 
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas de Acordo de Cooperação
 
