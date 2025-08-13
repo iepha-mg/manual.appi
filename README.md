@@ -25,8 +25,8 @@ Aqui você encontra:
 - 🚀 Instrumentos jurídicos que não envolvem transferências de recursos
    - [Termo de Ocupação Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TOC/README.html)
    - [Termo de Cooperação Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TCC/README.html)
+   - [Acordo de Cooperação](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/AC/README.html)
    - Acordo de Cooperação Técnica (ACT)
-   - Fundação de Apoio
 - 💰 Instrumentos jurídicos que envolvem transferências de recursos
    - [Termo de Execução Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TEC/README.html)
    - [Termo de Premiação Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TPC/README.html)
