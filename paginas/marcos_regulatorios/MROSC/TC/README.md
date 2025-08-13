@@ -210,9 +210,9 @@ flowchart TD
 <div class="mermaid">
 flowchart TD
     %% Etapas iniciais
-    A@{ shape: lean-r, label: "Identificar área de interesse para fomento (art. 18 do Decreto)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
+    A@{ shape: lean-r, label: "Identificar área de interesse para parceria (art. 18 do Decreto)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
     A1 -->|Sim| A2@{ shape: rounded, label: "Considerar resultado do PMIS realizado (art. 21 da Lei)" } --> B
-    A1 -->|Não| B@{ shape: diamond, label: "Fomento é viável?" }
+    A1 -->|Não| B@{ shape: diamond, label: "Parceria é viável?" }
     B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
     B -->|Sim| D@{ shape: rect, label: "Levantar requisitos técnicos, orçamentários e operacionais" }
     D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
@@ -251,7 +251,7 @@ flowchart TD
     JJ --> KK@{ shape: hex, label: "Analisar relatório financeiro em 150 dias (art. 69 da Lei)" }
     KK --> LL@{ shape: diamond, label: "Recursos foram bem aplicados?" }
     LL -->|Sim| MM@{ shape: hex, label: "Aprovar com ressalvas (art. 72 da Lei)" } --> NN@{ shape: stadium, label: "Comissão homologa aprovação com ressalvas" } --> FIM
-    LL -->|Não| OO@{ shape: hex, label: "Rejeitar e instaurar TCE (art. 73 da Lei)" } --> PP@{ shape: rounded, label: "Adotar medidas administrativas internas (art. 2º, XXVI do Decreto)" } --> FIM
+    LL -->|Não| OO@{ shape: hex, label: "Rejeitar e enviar ao Gabinete para sanções cabíveis (art. 73 da Lei)" } --> PP@{ shape: rect, label: "Aplicar advertência, suspensão temporária ou declaração de inidoneidade (art. 73, I, II, III e § 1º da Lei)" } --> FIM
     %% FLUXO PARA DISPENSA DE CHAMAMENTO (paralelo ao fluxo de edital)
     E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
     F --> F1@{ shape: rect, label: "Desenvolver/revisar Termo de Colaboração" }
