@@ -124,13 +124,15 @@ flowchart LR
 
 | Etapa                          | Prazo                    | Base Legal                     |
 |--------------------------------|--------------------------|--------------------------------|
-| PMIS: divulgação da proposta   | 30 dias                  | Art. 15, § 3º do Decreto       |
-| PMIS: decisão final            | 90 dias                  | Art. 15, § 4º do Decreto       |
-| PMIS: consulta pública         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
+| PMIS: divulgação da proposta*   | 30 dias                  | Art. 15, § 3º do Decreto       |
+| PMIS: decisão final*            | 90 dias                  | Art. 15, § 4º do Decreto       |
+| PMIS: consulta pública*         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
 | Apresentação de propostas      | Mínimo 30 dias           | Art. 26 da Lei                 |
 | Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto       |
 | Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
 | Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
+
+*Opcional (art. 18 da Lei)
 
 ## 🛣️ Plano de trabalho
 **Elementos obrigatórios** (art. 22 da Lei):
@@ -210,7 +212,7 @@ flowchart TD
 <div class="mermaid">
 flowchart TD
     %% Etapas iniciais
-    A@{ shape: lean-r, label: "Identificar área de interesse para parceria (art. 18 do Decreto)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
+    A@{ shape: lean-r, label: "Solicitar parceria (proposta pelo órgão)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
     A1 -->|Sim| A2@{ shape: rounded, label: "Considerar resultado do PMIS realizado (art. 21 da Lei)" } --> B
     A1 -->|Não| B@{ shape: diamond, label: "Parceria é viável?" }
     B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
