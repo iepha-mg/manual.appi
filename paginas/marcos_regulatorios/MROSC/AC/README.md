@@ -24,26 +24,6 @@ Havendo conveniência e oportunidade por parte do Iepha-MG e do parceiro, um Aco
 5. Intercâmbio de conhecimentos e capacitações mútuas
 6. Ações conjuntas de preservação e conservação de bens culturais
 
-## 🔄 Procedimento de Manifestação de Interesse Social (PMIS)
-O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
-
-### 🔄 Como funciona o PMIS:
-1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
-2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
-3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
-4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
-
-### 📝 Requisitos da proposta PMIS (art. 21 da Lei):
-- **Identificação** do subscritor da proposta
-- **Indicação** do interesse público envolvido
-- **Diagnóstico** da realidade a ser modificada/desenvolvida
-- **Viabilidade** dos custos, benefícios e prazos (quando possível)
-
-### ⚠️ Importante sobre o PMIS:
-- **Não garante** a realização de chamamento público (art. 21 da Lei)
-- **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
-- **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
-
 ## ✅ Pode:
 - Compartilhamento de conhecimento técnico e metodológico
 - Apoio logístico e operacional
@@ -67,6 +47,26 @@ O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidad
 - Comprovação de regularidade fiscal e jurídica da OSC (art. 34 da Lei)
 - Designação de gestor da parceria (art. 41, inciso IX do Decreto)
 
+## 📢 Procedimento de Manifestação de Interesse Social (PMIS)
+O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
+
+### 🔄 Como funciona o PMIS:
+1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
+2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
+3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
+4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
+
+### 📝 Requisitos da proposta PMIS (art. 19 da Lei):
+- **Identificação** do subscritor da proposta
+- **Indicação** do interesse público envolvido
+- **Diagnóstico** da realidade a ser modificada/desenvolvida
+- **Viabilidade** dos custos, benefícios e prazos (quando possível)
+
+### ⚠️ Importante sobre o PMIS:
+- **Não garante** a realização de chamamento público (art. 21 da Lei)
+- **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
+- **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
+
 ## 📣 Chamamento público
 **Regra geral:** Acordo de Cooperação é celebrado **SEM chamamento público** (art. 29 da Lei / art. 18, § 1º do Decreto).
 
@@ -79,7 +79,7 @@ O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidad
 
 <div class="mermaid">
 flowchart LR
-    subgraph PMIS[PMIS (Opcional)]
+    subgraph PMIS [PMIS (Opcional)]
         P1["OSC/cidadão apresenta proposta (art. 15 do Decreto)"]
         P2["Órgão publica proposta e instaura PMIS (art. 15, § 3º do Decreto)"]
         P3["Consulta pública sobre o tema (art. 15, § 4º, I do Decreto)"]
@@ -109,7 +109,7 @@ flowchart LR
 
 <div class="mermaid">
 flowchart LR
-    subgraph PMIS[PMIS - Opcional]
+    subgraph PMIS [PMIS (Opcional)]
         P1["OSC/cidadão apresenta proposta (art. 15 do Decreto)"]
         P2["Órgão publica proposta e instaura PMIS (art. 15, § 3º do Decreto)"]
         P3["Consulta pública sobre o tema (art. 15, § 4º, I do Decreto)"]
@@ -154,15 +154,16 @@ flowchart LR
 
 | Etapa                          | Prazo                    | Base Legal                     |
 |--------------------------------|--------------------------|--------------------------------|
-| PMIS: divulgação da proposta   | 30 dias                  | Art. 15, § 3º do Decreto       |
-| PMIS: decisão final            | 90 dias                  | Art. 15, § 4º do Decreto       |
-| PMIS: consulta pública         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
-| Apresentação de propostas*     | Mínimo 30 dias           | Art. 26 da Lei                 |
-| Recursos*                      | Mínimo de 5 dias         | Art. 24, § 1º do Decreto       |
+| PMIS: divulgação da proposta*  | 30 dias                  | Art. 15, § 3º do Decreto       |
+| PMIS: decisão final*           | 90 dias                  | Art. 15, § 4º do Decreto       |
+| PMIS: consulta pública*        | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
+| Apresentação de propostas**     | Mínimo 30 dias           | Art. 26 da Lei                 |
+| Recursos**                      | Mínimo de 5 dias         | Art. 24, § 1º do Decreto       |
 | Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
 | Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
 
-*Apenas quando há compartilhamento patrimonial
+*Opcional (art. 18 da Lei)
+**Apenas quando há compartilhamento patrimonial
 
 ## 🛣️ Plano de trabalho
 **Elementos da proposta** (art. 26, § 3º do Decreto):
@@ -231,24 +232,34 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    A@{ shape: lean-r, label: "Identificar interesse para cooperação (art. 15 do Decreto)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 15 do Decreto)" }
+    A@{ shape: lean-r, label: "Solicitar parceria" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 15 do Decreto)" }
     A1 -->|Sim| A2@{ shape: rounded, label: "Considerar resultado do PMIS realizado (art. 16 do Decreto)" } --> B
     A1 -->|Não| B@{ shape: diamond, label: "Cooperação é viável?" }
     B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
     B -->|Sim| D@{ shape: rect, label: "Avaliar viabilidade técnica e operacional (art. 8º da Lei)" }
-    D --> E@{ shape: diamond, label: "Envolve compartilhamento patrimonial? (art. 29 da Lei)" }
+    D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
     E -->|Sim| F@{ shape: rect, label: "Desenvolver minuta de edital e acordo (art. 24, § 1º da Lei)" }
-    E -->|Não| G@{ shape: lean-r, label: "Elaborar proposta de plano de trabalho (art. 26, § 3º do Decreto)" }
+    E -->|Não| G1@{ shape: rect, label: "Desenvolver/revisar Acordo de Cooperação (sem necessidade de minuta de edital)" }
     F --> H@{ shape: lean-r, label: "Analisar minutas" }
-    G --> I@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
+    G1 --> H1@{ shape: lean-r, label: "Analisar minutas" }
     H --> J@{ shape: diamond, label: "Minutas validadas?" }
+    H1 --> J1@{ shape: diamond, label: "Minutas validadas?" }
     J -->|Não| F
+    J1 -->|Não| G1
     J -->|Sim| K@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
+    J1 -->|Sim| K1@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
     K --> L@{ shape: rounded, label: "Instruir processo no SEI" }
+    K1 --> L1@{ shape: rounded, label: "Instruir processo no SEI" }
     L --> M@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
+    L1 --> M1@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
     M --> N@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    M1 --> N1@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
     N --> O@{ shape: rounded, label: "Constituir comissão de seleção (art. 20 do Decreto)" }
+    N1 --> O1@{ shape: rect, label: "Verificar documentos da OSC parceira (art. 27 do Decreto / art. da Lei)" }
     O --> P@{ shape: rect, label: "Publicar edital com 30 dias de antecedência (art. 26 da Lei)" }
+    O1 --> P1@{ shape: diamond, label: "OSC habilitada?" }
+    P1 -->|Não| C1@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
+    P1 -->|Sim| Y
     P --> Q@{ shape: odd, label: "Receber propostas das OSCs (art. 22 do Decreto)" }
     Q --> R@{ shape: odd, label: "Análise pela comissão de seleção (art. 27 da Lei)" }
     R --> S@{ shape: rounded, label: "Homologar e divulgar resultado provisório (art. 27, § 4º da Lei)" }
