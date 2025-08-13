@@ -88,7 +88,7 @@ flowchart LR
     end
     subgraph Celebração
         A1["Identificar interesse para cooperação (art. 15 do Decreto)"]
-        A2["Avaliar viabilidade técnica e operacional (art. 8º da Lei)"]
+        A2["Levantar requisitos técnicos e operacionais"]
         A3["Elaborar proposta de plano de trabalho (art. 26, § 3º do Decreto)"]
         A4["Análise jurídica obrigatória (art. 35, VI da Lei)"]
         A5["Designar gestor da parceria (art. 2º, IX do Decreto)"]
@@ -237,7 +237,7 @@ flowchart TD
     A1 -->|Sim| A2@{ shape: rounded, label: "Considerar resultado do PMIS realizado (art. 16 do Decreto)" } --> B
     A1 -->|Não| B@{ shape: diamond, label: "Cooperação é viável?" }
     B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
-    B -->|Sim| D@{ shape: rect, label: "Avaliar viabilidade técnica e operacional (art. 8º da Lei)" }
+    B -->|Sim| D@{ shape: rect, label: "Levantar requisitos técnicos e operacionais" }
     D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
     E -->|Sim| F@{ shape: rect, label: "Desenvolver minuta de edital e acordo (art. 24, § 1º da Lei)" }
     E -->|Não| G1@{ shape: rect, label: "Desenvolver/revisar Acordo de Cooperação" }
