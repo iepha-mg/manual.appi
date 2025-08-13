@@ -8,7 +8,7 @@ Assim, espera-se:
 - Promover a integração interinstitucional, incentivando ações articuladas que ampliem o impacto das políticas de preservação e promoção do patrimônio cultural de Minas Gerais.
 - Uniformizar processos e documentos, facilitando a atuação da APPI e demais setores do IEPHA-MG envolvidos na gestão de parcerias e programas.
 
-# ℹ️ Aviso Importante (_Disclaimer)
+# ℹ️ Aviso Importante (_disclaimer_)
 
 As informações contidas neste documento:
 
@@ -28,4 +28,4 @@ Para esclarecimentos adicionais ou situações não abrangidas por este manual, 
 
 O MG.APPI está em sua `1ª Versão`, desde o mês de `julho de 2025`.
 
-# [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
