@@ -79,7 +79,7 @@ O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidad
 
 <div class="mermaid">
 flowchart LR
-    subgraph PMIS [PMIS (Opcional)]
+    subgraph PMIS ["PMIS (Opcional)"]
         P1["OSC/cidadão apresenta proposta (art. 15 do Decreto)"]
         P2["Órgão publica proposta e instaura PMIS (art. 15, § 3º do Decreto)"]
         P3["Consulta pública sobre o tema (art. 15, § 4º, I do Decreto)"]
@@ -109,7 +109,7 @@ flowchart LR
 
 <div class="mermaid">
 flowchart LR
-    subgraph PMIS [PMIS (Opcional)]
+    subgraph PMIS ["PMIS (Opcional)"]
         P1["OSC/cidadão apresenta proposta (art. 15 do Decreto)"]
         P2["Órgão publica proposta e instaura PMIS (art. 15, § 3º do Decreto)"]
         P3["Consulta pública sobre o tema (art. 15, § 4º, I do Decreto)"]
@@ -239,27 +239,28 @@ flowchart TD
     B -->|Sim| D@{ shape: rect, label: "Avaliar viabilidade técnica e operacional (art. 8º da Lei)" }
     D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
     E -->|Sim| F@{ shape: rect, label: "Desenvolver minuta de edital e acordo (art. 24, § 1º da Lei)" }
-    E -->|Não| G1@{ shape: rect, label: "Desenvolver/revisar Acordo de Cooperação (sem necessidade de minuta de edital)" }
+    E -->|Não| G1@{ shape: rect, label: "Desenvolver/revisar Acordo de Cooperação" }
+    %% Novo fluxo para dispensa de chamamento público
+    G1 --> G2@{ shape: lean-r, label: "Analisar minutas" }
+    G2 --> G3@{ shape: diamond, label: "Minutas validadas?" }
+    G3 -->|Não| G1
+    G3 -->|Sim| G4@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
+    G4 --> G5@{ shape: rounded, label: "Instruir processo no SEI" }
+    G5 --> G6@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
+    G6 --> G7@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    G7 --> G8@{ shape: rounded, label: "Verificar documentos da OSC parceira (art. 27 do Decreto / art. da Lei)" }
+    G8 --> G9@{ shape: diamond, label: "OSC habilitada?" }
+    G9 -->|Não| C
+    G9 -->|Sim| Y
     F --> H@{ shape: lean-r, label: "Analisar minutas" }
-    G1 --> H1@{ shape: lean-r, label: "Analisar minutas" }
     H --> J@{ shape: diamond, label: "Minutas validadas?" }
-    H1 --> J1@{ shape: diamond, label: "Minutas validadas?" }
     J -->|Não| F
-    J1 -->|Não| G1
     J -->|Sim| K@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
-    J1 -->|Sim| K1@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
     K --> L@{ shape: rounded, label: "Instruir processo no SEI" }
-    K1 --> L1@{ shape: rounded, label: "Instruir processo no SEI" }
     L --> M@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
-    L1 --> M1@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
     M --> N@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
-    M1 --> N1@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
     N --> O@{ shape: rounded, label: "Constituir comissão de seleção (art. 20 do Decreto)" }
-    N1 --> O1@{ shape: rect, label: "Verificar documentos da OSC parceira (art. 27 do Decreto / art. da Lei)" }
     O --> P@{ shape: rect, label: "Publicar edital com 30 dias de antecedência (art. 26 da Lei)" }
-    O1 --> P1@{ shape: diamond, label: "OSC habilitada?" }
-    P1 -->|Não| C1@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
-    P1 -->|Sim| Y
     P --> Q@{ shape: odd, label: "Receber propostas das OSCs (art. 22 do Decreto)" }
     Q --> R@{ shape: odd, label: "Análise pela comissão de seleção (art. 27 da Lei)" }
     R --> S@{ shape: rounded, label: "Homologar e divulgar resultado provisório (art. 27, § 4º da Lei)" }
@@ -269,7 +270,7 @@ flowchart TD
     V --> W@{ shape: diamond, label: "OSCs habilitadas?" }
     W -->|Não| X@{ shape: rounded, label: "Convocar próxima classificada (art. 28, § 1º da Lei)" } --> V
     W -->|Sim| Y@{ shape: rect, label: "Designar gestor da parceria (art. 2º, IX do Decreto)" }
-    I --> Y
+    %% Continuação após designação do gestor (comum a ambos os fluxos)
     Y --> Z@{ shape: rect, label: "Celebrar acordo de cooperação (art. 40 do Decreto)" }
     Z --> AA@{ shape: hex, label: "Monitoramento simplificado (art. 56, § 1º do Decreto)" }
     AA --> BB@{ shape: hex, label: "Gestor emite relatórios simplificados (art. 61 da Lei)" }
