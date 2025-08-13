@@ -78,7 +78,7 @@ Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, lega
 
 <div class="mermaid">
 flowchart LR
-    subgraph PMIS[PMIS (Opcional) ]
+    subgraph PMIS["PMIS (Opcional)"]
         P1["OSC/cidadão apresenta proposta (art. 18-19 da Lei)"]
         P2["Órgão publica proposta e instaura PMIS (art. 20 da Lei)"]
         P3["Consulta pública sobre o tema (art. 20 da Lei)"]
