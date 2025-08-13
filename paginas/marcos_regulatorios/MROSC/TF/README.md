@@ -23,26 +23,6 @@ Desde que haja recursos disponíveis, um Termo de Fomento pode servir para:
 5. Projetos de restauração de bens tombados por iniciativa das OSCs
 6. Ações de educação patrimonial desenvolvidas pela sociedade civil
 
-## 📢 Procedimento de Manifestação de Interesse Social (PMIS)
-O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
-
-### 🔄 Como funciona o PMIS:
-1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
-2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
-3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
-4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
-
-### 📝 Requisitos da proposta PMIS (art. 19 da Lei):
-- **Identificação** do subscritor da proposta
-- **Indicação** do interesse público envolvido
-- **Diagnóstico** da realidade a ser modificada/desenvolvida
-- **Viabilidade** dos custos, benefícios e prazos (quando possível)
-
-### ⚠️ Importante sobre o PMIS:
-- **Não garante** a realização de chamamento público (art. 21 da Lei)
-- **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
-- **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
-
 ## ✅ Pode:
 **Recursos podem ser usados para:**
 - Remuneração da equipe de trabalho, inclusive encargos (art. 46 da Lei)
@@ -70,6 +50,26 @@ O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidad
 - Plano de trabalho detalhado (art. 22 da Lei)
 - Comprovação de regularidade fiscal e jurídica da OSC (art. 34 da Lei)
 - Designação de gestor da parceria (art. 2º, inciso VI da Lei)
+
+## 📢 Procedimento de Manifestação de Interesse Social (PMIS)
+O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
+
+### 🔄 Como funciona o PMIS:
+1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
+2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
+3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
+4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
+
+### 📝 Requisitos da proposta PMIS (art. 19 da Lei):
+- **Identificação** do subscritor da proposta
+- **Indicação** do interesse público envolvido
+- **Diagnóstico** da realidade a ser modificada/desenvolvida
+- **Viabilidade** dos custos, benefícios e prazos (quando possível)
+
+### ⚠️ Importante sobre o PMIS:
+- **Não garante** a realização de chamamento público (art. 21 da Lei)
+- **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
+- **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
 
 ## 📣 Chamamento público
 Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo (art. 2º, inciso XII da Lei).
@@ -126,13 +126,15 @@ flowchart LR
 
 | Etapa                          | Prazo                    | Base Legal                     |
 |--------------------------------|--------------------------|--------------------------------|
-| PMIS: divulgação da proposta   | 30 dias                  | Art. 15, § 3º do Decreto       |
-| PMIS: decisão final            | 90 dias                  | Art. 15, § 4º do Decreto       |
-| PMIS: consulta pública         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
+| PMIS: divulgação da proposta*   | 30 dias                  | Art. 15, § 3º do Decreto       |
+| PMIS: decisão final*            | 90 dias                  | Art. 15, § 4º do Decreto       |
+| PMIS: consulta pública*         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
 | Apresentação de propostas      | Mínimo 30 dias           | Art. 26 da Lei                 |
 | Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto       |
 | Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
 | Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
+
+*Opcional (art. 18 da Lei)
 
 ## 🛣️ Plano de trabalho
 **Elementos obrigatórios** (art. 22 da Lei):
@@ -208,12 +210,13 @@ flowchart TD
     G_LEG@{ shape: stadium, label: "Comissão de Monitoramento" }
     H_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
 </div>
+
 <div class="mermaid">
 flowchart TD
     %% Etapas iniciais
-    A@{ shape: lean-r, label: "Identificar área de interesse para fomento (art. 18 do Decreto)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
+    A@{ shape: lean-r, label: "Solicitar parceria (proposta pela OSC)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
     A1 -->|Sim| A2@{ shape: rounded, label: "Considerar resultado do PMIS realizado (art. 21 da Lei)" } --> B
-    A1 -->|Não| B@{ shape: diamond, label: "Fomento é viável?" }
+    A1 -->|Não| B@{ shape: diamond, label: "Parceria é viável?" }
     B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
     B -->|Sim| D@{ shape: rect, label: "Levantar requisitos técnicos, orçamentários e operacionais" }
     D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
@@ -238,7 +241,7 @@ flowchart TD
     V -->|Não| W@{ shape: rounded, label: "Convocar próxima classificada (art. 28 do Decreto)" } --> U
     V -->|Sim| X@{ shape: rounded, label: "Elaborar plano de trabalho conjunto (art. 29 do Decreto / art. 22 da Lei)" }
     X --> Y@{ shape: rect, label: "Designar gestor da parceria (art. 2º, IX do Decreto / art. 2º, VI da Lei)" }
-    Y --> Z@{ shape: rect, label: "Celebrar termo de fomento (art. 30 do Decreto / art. 35 da Lei)" }
+    Y --> Z@{ shape: rect, label: "Celebrar Termo de Fomento (art. 30 do Decreto / art. 35 da Lei)" }
     Z --> AA@{ shape: rect, label: "Constituir comissão de monitoramento (art. 2º, XV do Decreto / art. 2º, XI da Lei)" }
     AA --> BB@{ shape: hex, label: "Monitorar execução continuamente (art. 58 da Lei)" }
     BB --> CC@{ shape: hex, label: "Gestor emite relatórios periódicos (art. 61 da Lei)" }
@@ -252,7 +255,7 @@ flowchart TD
     JJ --> KK@{ shape: hex, label: "Analisar relatório financeiro em 150 dias (art. 69 da Lei)" }
     KK --> LL@{ shape: diamond, label: "Recursos foram bem aplicados?" }
     LL -->|Sim| MM@{ shape: hex, label: "Aprovar com ressalvas (art. 72 da Lei)" } --> NN@{ shape: stadium, label: "Comissão homologa aprovação com ressalvas" } --> FIM
-    LL -->|Não| OO@{ shape: hex, label: "Rejeitar e instaurar TCE (art. 73 da Lei)" } --> PP@{ shape: rounded, label: "Adotar medidas administrativas internas (art. 2º, XXVI do Decreto)" } --> FIM
+    LL -->|Não| OO@{ shape: hex, label: "Rejeitar e enviar ao Gabinete para sanções cabíveis (art. 73 da Lei)" } --> PP@{ shape: rect, label: "Aplicar advertência, suspensão temporária ou declaração de inidoneidade (art. 73, I, II, III e § 1º da Lei)" } --> FIM
     %% FLUXO PARA DISPENSA DE CHAMAMENTO (paralelo ao fluxo de edital)
     E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
     F --> F1@{ shape: rect, label: "Desenvolver/revisar Termo de Fomento" }
