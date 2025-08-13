@@ -79,7 +79,7 @@ O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidad
 
 <div class="mermaid">
 flowchart LR
-    subgraph PMIS[Procedimento de Manifestação de Interesse Social - Opcional]
+    subgraph PMIS[PMIS - Opcional]
         P1["OSC/cidadão apresenta proposta (art. 15 do Decreto)"]
         P2["Órgão publica proposta e instaura PMIS (art. 15, § 3º do Decreto)"]
         P3["Consulta pública sobre o tema (art. 15, § 4º, I do Decreto)"]
@@ -109,7 +109,7 @@ flowchart LR
 
 <div class="mermaid">
 flowchart LR
-    subgraph PMIS[Procedimento de Manifestação de Interesse Social - Opcional]
+    subgraph PMIS[PMIS - Opcional]
         P1["OSC/cidadão apresenta proposta (art. 15 do Decreto)"]
         P2["Órgão publica proposta e instaura PMIS (art. 15, § 3º do Decreto)"]
         P3["Consulta pública sobre o tema (art. 15, § 4º, I do Decreto)"]
