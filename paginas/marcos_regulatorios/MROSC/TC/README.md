@@ -50,6 +50,26 @@ Desde que haja recursos disponíveis, um Termo de Colaboração pode servir para
 - Comprovação de regularidade fiscal e jurídica da OSC (art. 34 da Lei)
 - Designação de gestor da parceria (art. 2º, inciso VI da Lei)
 
+## 📢 Procedimento de Manifestação de Interesse Social (PMIS)
+O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
+
+### 🔄 Como funciona o PMIS:
+1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
+2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
+3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
+4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
+
+### 📝 Requisitos da proposta PMIS (art. 19 da Lei):
+- **Identificação** do subscritor da proposta
+- **Indicação** do interesse público envolvido
+- **Diagnóstico** da realidade a ser modificada/desenvolvida
+- **Viabilidade** dos custos, benefícios e prazos (quando possível)
+
+### ⚠️ Importante sobre o PMIS:
+- **Não garante** a realização de chamamento público (art. 21 da Lei)
+- **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
+- **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
+
 ## 📣 Chamamento público
 Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo (art. 2º, inciso XII da Lei).
 
@@ -57,6 +77,13 @@ Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, lega
 
 <div class="mermaid">
 flowchart LR
+    subgraph PMIS ["PMIS (Opcional)"]
+        P1["OSC/cidadão apresenta proposta (art. 18-19 da Lei)"]
+        P2["Órgão publica proposta e instaura PMIS (art. 20 da Lei)"]
+        P3["Consulta pública sobre o tema (art. 20 da Lei)"]
+        P4["Decisão sobre realização de chamamento (art. 21 da Lei)"]
+        P1 --> P2 --> P3 --> P4
+    end
     subgraph Planejamento
         A1["Identificar demanda do órgão estadual parceiro (art. 18 do Decreto)"]
         A2["Elaborar termo de referência com objeto e critérios (art. 19 do Decreto)"]
@@ -82,6 +109,7 @@ flowchart LR
         C5["Celebrar termo de colaboração (art. 30 do Decreto / art. 35 da Lei)"]
         C1 --> C2 --> C3 --> C4 --> C5
     end
+    PMIS -.->|Pode originar| Planejamento
     Planejamento --> Processamento --> Habilitação
 </div>
 
@@ -96,10 +124,13 @@ flowchart LR
 
 | Etapa                          | Prazo                    | Base Legal                     |
 |--------------------------------|--------------------------|--------------------------------|
-| Apresentação de propostas      | Mínimo 30 dias           | Art. 23 do Decreto|
-| Recursos                       | Conforme edital          | Art. 24, § 1º, VIII da Lei    |
-| Prestação de contas            | Conforme cronograma      | Art. 63 e seguintes da Lei    |
-| Análise da prestação de contas | 150 dias (prorrogáveis) | Art. 69 da Lei    |
+| PMIS: divulgação da proposta   | 30 dias                  | Art. 15, § 3º do Decreto       |
+| PMIS: decisão final            | 90 dias                  | Art. 15, § 4º do Decreto       |
+| PMIS: consulta pública         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
+| Apresentação de propostas      | Mínimo 30 dias           | Art. 26 da Lei                 |
+| Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto       |
+| Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
+| Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
 
 ## 🛣️ Plano de trabalho
 **Elementos obrigatórios** (art. 22 da Lei):
@@ -165,6 +196,7 @@ Modelos e documentos de referência (editais, termos, planos de trabalho etc.) p
 
 <div class="mermaid">
 flowchart TD
+    %% Legenda
     A_LEG@{ shape: lean-r, label: "Área Técnica Demandante" }
     B_LEG@{ shape: rect, label: "Gabinete" }
     C_LEG@{ shape: rounded, label: "Setor de Contratos e Convênios" }
@@ -177,13 +209,15 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    A@{ shape: lean-r, label: "Identificar demanda do órgão estadual parceiro (art. 18 do Decreto)" } --> B@{ shape: diamond, label: "Parceria é viável?" }
+    %% Etapas iniciais
+    A@{ shape: lean-r, label: "Identificar área de interesse para fomento (art. 18 do Decreto)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
+    A1 -->|Sim| A2@{ shape: rounded, label: "Considerar resultado do PMIS realizado (art. 21 da Lei)" } --> B
+    A1 -->|Não| B@{ shape: diamond, label: "Fomento é viável?" }
     B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
-    B -->|Sim| D@{ shape: rect, label: "Avaliar viabilidade técnica, orçamentária e operacional (art. 8º da Lei)" }
+    B -->|Sim| D@{ shape: rect, label: "Levantar requisitos técnicos, orçamentários e operacionais" }
     D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
-    E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
-    F --> G@{ shape: rect, label: "Desenvolver/revisar minuta de edital e anexos, de termo de referência e de Termo de Colaboração (art. 24, § 1º da Lei / art. 19 do Decreto)" }
-    E -->|Sim| G
+    %% Fluxo para processo COM chamamento público
+    E -->|Sim| G@{ shape: rect, label: "Desenvolver/revisar minuta de edital e anexos, de termo de referência e de Termo de Colaboração (art. 24, § 1º da Lei / art. 19 do Decreto)" }
     G --> H@{ shape: lean-r, label: "Analisar minutas" }
     H --> I@{ shape: diamond, label: "Minutas validadas?" }
     I -->|Não| G
@@ -193,7 +227,7 @@ flowchart TD
     L --> M@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
     M --> N@{ shape: rounded, label: "Constituir comissão de seleção (art. 20 do Decreto)" }
     N --> O@{ shape: rect, label: "Publicar edital com 30 dias de antecedência (art. 21 do Decreto / art. 26 da Lei)" }
-    O --> P@{ shape: odd, label: "Receber propostas de plano de trabalho (art. 22 do Decreto)" }
+    O --> P@{ shape: odd, label: "Receber propostas das OSCs (art. 22 do Decreto)" }
     P --> Q@{ shape: odd, label: "Análise técnica pela comissão (art. 23 do Decreto / art. 27 da Lei)" }
     Q --> R@{ shape: rounded, label: "Homologar e divulgar resultado provisório (art. 24 do Decreto)" }
     R --> S@{ shape: odd, label: "Analisar recursos se houver (art. 25 do Decreto / art. 24, § 1º, VIII da Lei)" }
@@ -203,7 +237,7 @@ flowchart TD
     V -->|Não| W@{ shape: rounded, label: "Convocar próxima classificada (art. 28 do Decreto)" } --> U
     V -->|Sim| X@{ shape: rounded, label: "Elaborar plano de trabalho conjunto (art. 29 do Decreto / art. 22 da Lei)" }
     X --> Y@{ shape: rect, label: "Designar gestor da parceria (art. 2º, IX do Decreto / art. 2º, VI da Lei)" }
-    Y --> Z@{ shape: rect, label: "Celebrar termo de colaboração (art. 30 do Decreto / art. 35 da Lei)" }
+    Y --> Z@{ shape: rect, label: "Celebrar Termo de Colaboração (art. 30 do Decreto / art. 35 da Lei)" }
     Z --> AA@{ shape: rect, label: "Constituir comissão de monitoramento (art. 2º, XV do Decreto / art. 2º, XI da Lei)" }
     AA --> BB@{ shape: hex, label: "Monitorar execução continuamente (art. 58 da Lei)" }
     BB --> CC@{ shape: hex, label: "Gestor emite relatórios periódicos (art. 61 da Lei)" }
@@ -217,7 +251,22 @@ flowchart TD
     JJ --> KK@{ shape: hex, label: "Analisar relatório financeiro em 150 dias (art. 69 da Lei)" }
     KK --> LL@{ shape: diamond, label: "Recursos foram bem aplicados?" }
     LL -->|Sim| MM@{ shape: hex, label: "Aprovar com ressalvas (art. 72 da Lei)" } --> NN@{ shape: stadium, label: "Comissão homologa aprovação com ressalvas" } --> FIM
-    LL -->|Não| OO@{ shape: hex, label: "Rejeitar e aplicar sanções cabíveis (art. 73 da Lei)" } --> PP@{ shape: rounded, label: "Aplicar advertência, suspensão temporária ou declaração de inidoneidade (art. 101 do Decreto)" } --> FIM
+    LL -->|Não| OO@{ shape: hex, label: "Rejeitar e instaurar TCE (art. 73 da Lei)" } --> PP@{ shape: rounded, label: "Adotar medidas administrativas internas (art. 2º, XXVI do Decreto)" } --> FIM
+    %% FLUXO PARA DISPENSA DE CHAMAMENTO (paralelo ao fluxo de edital)
+    E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
+    F --> F1@{ shape: rect, label: "Desenvolver/revisar Termo de Colaboração" }
+    F1 --> F2@{ shape: lean-r, label: "Analisar minutas" }
+    F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
+    F3 -->|Não| F1
+    F3 -->|Sim| F4@{ shape: rect, label: "Encaminhar processo ao Setor de Contratos e Convênios" }
+    F4 --> F5@{ shape: rounded, label: "Instruir processo no SEI" }
+    F5 --> F6@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
+    F6 --> F7@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    F7 --> F8@{ shape: rounded, label: "Verificar documentos da OSC parceira (art. 27 do Decreto / art. da Lei)" }
+    F8 --> F9@{ shape: diamond, label: "OSC habilitada?" }
+    F9 -->|Não| C
+    F9 -->|Sim| X
+    %% Fim
 </div>
 
 <script type="module">
