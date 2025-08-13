@@ -276,4 +276,4 @@ flowchart TD
     mermaid.initialize({ startOnLoad: true });
 </script>
 
-# [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
