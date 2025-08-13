@@ -163,6 +163,7 @@ flowchart LR
 | Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
 
 *Opcional (art. 18 da Lei)
+
 **Apenas quando há compartilhamento patrimonial
 
 ## 🛣️ Plano de trabalho
