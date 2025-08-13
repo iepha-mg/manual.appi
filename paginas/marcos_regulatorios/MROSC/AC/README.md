@@ -10,7 +10,6 @@ Instrumento jurídico para formalizar parcerias entre a administração pública
 ## 🎯 Objetivos
 - Estabelecer regime de mútua cooperação para interesse público e recíproco (art. 1º da Lei)
 - Fortalecer parcerias sem custos financeiros diretos para a administração pública (art. 2º, inciso XII do Decreto)
-- Promover colaboração por meio de compartilhamento de recursos não financeiros (art. 5º da Lei)
 - Garantir transparência na execução de atividades de interesse público (art. 5º da Lei)
 - Simplificar procedimentos quando não há transferência de recursos financeiros (art. 5º do Decreto)
 
@@ -26,24 +25,24 @@ Um Acordo de Cooperação pode servir para:
 8. Cessão de uso de laboratórios ou oficinas
 
 ## 🔄 Procedimento de Manifestação de Interesse Social (PMIS)
-O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 15 do Decreto).
+O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
 
 ### 🔄 Como funciona o PMIS:
-1. **Apresentação da proposta** pela OSC ou cidadão (art. 15, § 1º do Decreto)
-2. **Análise pela administração** de conveniência e oportunidade (art. 15, § 4º do Decreto)
-3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 15, § 4º, I do Decreto)
-4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 15, § 4º do Decreto)
+1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
+2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
+3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
+4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
 
-### 📝 Requisitos da proposta PMIS (art. 15, § 1º do Decreto):
+### 📝 Requisitos da proposta PMIS (art. 21 da Lei):
 - **Identificação** do subscritor da proposta
 - **Indicação** do interesse público envolvido
 - **Diagnóstico** da realidade a ser modificada/desenvolvida
 - **Viabilidade** dos custos, benefícios e prazos (quando possível)
 
 ### ⚠️ Importante sobre o PMIS:
-- **Não garante** a realização de chamamento público (art. 16 da Lei)
-- **Não impede** a OSC proponente de participar do eventual chamamento (art. 15, § 5º do Decreto)
-- **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 16, § 1º do Decreto)
+- **Não garante** a realização de chamamento público (art. 21 da Lei)
+- **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
+- **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
 
 ## ✅ Pode:
 **Recursos e benefícios compartilhados:**
