@@ -78,7 +78,7 @@ Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, lega
 
 <div class="mermaid">
 flowchart LR
-    subgraph PMIS[Procedimento de Manifestação de Interesse Social - Opcional]
+    subgraph PMIS[PMIS (Opcional)]
         P1["OSC/cidadão apresenta proposta (art. 18-19 da Lei)"]
         P2["Órgão publica proposta e instaura PMIS (art. 20 da Lei)"]
         P3["Consulta pública sobre o tema (art. 20 da Lei)"]
@@ -126,11 +126,13 @@ flowchart LR
 
 | Etapa                          | Prazo                    | Base Legal                     |
 |--------------------------------|--------------------------|--------------------------------|
-| Apresentação de propostas      | Mínimo 30 dias           | Art. 23 do Decreto|
-| Recursos                       | Conforme edital          | Art. 24, § 1º, VIII da Lei    |
-| PMIS (se realizado)           | Conforme regulamento     | Art. 20, parágrafo único da Lei|
-| Prestação de contas            | Conforme cronograma      | Art. 63 e seguintes da Lei    |
-| Análise da prestação de contas | 150 dias (prorrogáveis) | Art. 69 da Lei    |
+| PMIS: divulgação da proposta   | 30 dias                  | Art. 15, § 3º do Decreto       |
+| PMIS: decisão final            | 90 dias                  | Art. 15, § 4º do Decreto       |
+| PMIS: consulta pública         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
+| Apresentação de propostas      | Mínimo 30 dias           | Art. 26 da Lei                 |
+| Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto       |
+| Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
+| Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
 
 ## 🛣️ Plano de trabalho
 **Elementos obrigatórios** (art. 22 da Lei):
@@ -212,7 +214,7 @@ flowchart TD
     A1 -->|Sim| A2@{ shape: rounded, label: "Considerar resultado do PMIS realizado (art. 21 da Lei)" } --> B
     A1 -->|Não| B@{ shape: diamond, label: "Fomento é viável?" }
     B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
-    B -->|Sim| D@{ shape: rect, label: "Avaliar viabilidade técnica, orçamentária e operacional (art. 8º da Lei)" }
+    B -->|Sim| D@{ shape: rect, label: "Levantar requisitos técnicos, orçamentários e operacionais" }
     D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
     E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
     F --> G@{ shape: rect, label: "Desenvolver/revisar minuta de edital e anexos, de termo de referência e de Termo de Fomento (art. 24, § 1º da Lei / art. 19 do Decreto)" }
