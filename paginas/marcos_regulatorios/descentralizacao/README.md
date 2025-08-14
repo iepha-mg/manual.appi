@@ -117,7 +117,6 @@ flowchart TB
     OS_ADJ --> OS_COM_MON
     OS_META -- Não --> OS_SAN
     OS_SAN -- Advertência/Suspensão --> OS_ADJ
-    OS_SUS --> OS_ADJ
     OS_SAN -- Rescisão --> OS_RES
 </div>
 
