@@ -107,16 +107,18 @@ flowchart TB
     OS_SAN@{ shape: rect, label: "Medidas Sancionadoras" }
     OS_ADJ@{ shape: rect, label: "Ajustes Operacionais" }
     OS_SUS@{ shape: rect, label: "Advertência/Suspensão" }
-    OS_RES@{ shape: circle, label: "Rescisão do Contrato" }
+    OS_RES@{ shape: circle, label: "Rescisão" }
     OS_GESTORES --> OS_COM_MON
     OS_COM_MON --> OS_REL
     OS_REL --> OS_COM_AV
     OS_COM_AV --> OS_META
     OS_META -- Sim --> OS_CONT
+    OS_CONT --> OS_COM_MON
     OS_META -- Parcialmente --> OS_ADJ
     OS_ADJ --> OS_REL
     OS_META -- Não --> OS_SAN
     OS_SAN -- Advertência/Suspensão --> OS_SUS
+    OS_SUS --> OS_ADJ
     OS_SAN -- Rescisão --> OS_RES
 </div>
 
