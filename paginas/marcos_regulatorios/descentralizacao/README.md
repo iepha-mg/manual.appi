@@ -99,14 +99,13 @@ Todos os instrumentos jurídicos do Modelo OSCIP/OS envolvem transferência de r
 <div class="mermaid">
 flowchart TB
     OS_GESTORES@{ shape: rect, label: "Designação dos gestores da Parceria" }
-    OS_COM_MON@{ shape: rounded, label: "Comissão de Monitoramento" }
+    OS_COM_MON@{ shape: rounded, label: "Comissão de Monitoramento ou Comissão Supervisora" }
     OS_REL@{ shape: rect, label: "Relatórios Trimestrais" }
     OS_COM_AV@{ shape: lean-r, label: "Comissão de Avaliação" }
     OS_META@{ shape: diamond, label: "Metas/Indicadores atingidos?" }
     OS_CONT@{ shape: rect, label: "Continuidade da Gestão" }
     OS_SAN@{ shape: rect, label: "Medidas Sancionadoras" }
     OS_ADJ@{ shape: rect, label: "Ajustes Operacionais" }
-    OS_SUS@{ shape: rect, label: "Advertência/Suspensão" }
     OS_RES@{ shape: circle, label: "Rescisão" }
     OS_GESTORES --> OS_COM_MON
     OS_COM_MON --> OS_REL
@@ -115,9 +114,9 @@ flowchart TB
     OS_META -- Sim --> OS_CONT
     OS_CONT --> OS_COM_MON
     OS_META -- Parcialmente --> OS_ADJ
-    OS_ADJ --> OS_REL
+    OS_ADJ --> OS_COM_MON
     OS_META -- Não --> OS_SAN
-    OS_SAN -- Advertência/Suspensão --> OS_SUS
+    OS_SAN -- Advertência/Suspensão --> OS_ADJ
     OS_SUS --> OS_ADJ
     OS_SAN -- Rescisão --> OS_RES
 </div>
