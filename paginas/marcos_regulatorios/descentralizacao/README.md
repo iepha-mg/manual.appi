@@ -98,68 +98,28 @@ Todos os instrumentos jurídicos do Modelo OSCIP/OS envolvem transferência de r
 
 <div class="mermaid">
 flowchart TB
-    %% Termo de Parceria (OSCIP)
-    OSCIP_START@{ shape: circle, label: "Início do Termo de Parceria" }
-    OSCIP_GP_IEPHA@{ shape: rect, label: "Gestor de Parceria IEPHA-MG" }
-    OSCIP_GP_OSCIP@{ shape: rect, label: "Gestor de Parceria OSCIP" }
-    OSCIP_COM_SUP@{ shape: diamond, label: "Comissão Supervisora" }
-    OSCIP_REL@{ shape: rect, label: "Relatórios Trimestrais" }
-    OSCIP_COM_AV@{ shape: diamond, label: "Comissão de Avaliação" }
-    OSCIP_META@{ shape: diamond, label: "Metas Atingidas?" }
-    OSCIP_CONT@{ shape: rect, label: "Continuidade do Projeto" }
-    OSCIP_COR@{ shape: rect, label: "Medidas Corretivas" }
-    OSCIP_REV@{ shape: rect, label: "Revisão de Estratégias" }
-    OSCIP_AUD@{ shape: trap-b, label: "Auditoria Operacional\nControladoria-Geral" }
-    OSCIP_EXT@{ shape: trap-b, label: "Controle Externo\nMP e TCEMG" }
-    OSCIP_START --> OSCIP_GP_IEPHA
-    OSCIP_START --> OSCIP_GP_OSCIP
-    OSCIP_GP_IEPHA --> OSCIP_COM_SUP
-    OSCIP_GP_OSCIP --> OSCIP_COM_SUP
-    OSCIP_COM_SUP --> OSCIP_REL
-    OSCIP_REL --> OSCIP_COM_AV
-    OSCIP_COM_AV --> OSCIP_META
-    OSCIP_META -- Sim --> OSCIP_CONT
-    OSCIP_META -- Não --> OSCIP_COR
-    OSCIP_COR --> OSCIP_REV
-    OSCIP_REV --> OSCIP_REL
-    OSCIP_COM_AV --> OSCIP_AUD
-    OSCIP_COM_AV --> OSCIP_EXT
-</div>
-
-<div class="mermaid">
-flowchart TB
-    %% Contrato de Gestão (OS)
-    OS_START@{ shape: circle, label: "Início do Contrato de Gestão" }
-    OS_GP_IEPHA@{ shape: rect, label: "Gestor de Parceria IEPHA-MG" }
-    OS_GP_OS@{ shape: rect, label: "Gestor de Parceria OS" }
-    OS_COM_MON@{ shape: diamond, label: "Comissão de Monitoramento" }
+    OS_GESTORES@{ shape: rect, label: "Designação dos gestores da Parceria" }
+    OS_COM_MON@{ shape: rounded, label: "Comissão de Monitoramento" }
     OS_REL@{ shape: rect, label: "Relatórios Trimestrais" }
-    OS_COM_AV@{ shape: diamond, label: "Comissão de Avaliação" }
-    OS_META@{ shape: diamond, label: "Metas/Indicadores Atingidos?" }
+    OS_COM_AV@{ shape: lean-r, label: "Comissão de Avaliação" }
+    OS_META@{ shape: diamond, label: "Metas/Indicadores atingidos?" }
     OS_CONT@{ shape: rect, label: "Continuidade da Gestão" }
     OS_PLAN@{ shape: rect, label: "Plano de Melhorias" }
     OS_SAN@{ shape: rect, label: "Medidas Sancionadoras" }
     OS_ADJ@{ shape: rect, label: "Ajustes Operacionais" }
     OS_SUS@{ shape: rect, label: "Advertência/Suspensão" }
     OS_RES@{ shape: circle, label: "Rescisão do Contrato" }
-    OS_AUD@{ shape: trap-b, label: "Auditoria Operacional\nControladoria-Geral" }
-    OS_EXT@{ shape: trap-b, label: "Controle Externo\nMP e TCEMG" }
-    OS_START --> OS_GP_IEPHA
-    OS_START --> OS_GP_OS
-    OS_GP_IEPHA --> OS_COM_MON
-    OS_GP_OS --> OS_COM_MON
+    OS_GESTORES --> OS_COM_MON
     OS_COM_MON --> OS_REL
     OS_REL --> OS_COM_AV
     OS_COM_AV --> OS_META
     OS_META -- Sim --> OS_CONT
     OS_META -- Parcialmente --> OS_PLAN
-    OS_META -- Não --> OS_SAN
     OS_PLAN --> OS_ADJ
     OS_ADJ --> OS_REL
+    OS_META -- Não --> OS_SAN
     OS_SAN -- Advertência/Suspensão --> OS_SUS
     OS_SAN -- Rescisão --> OS_RES
-    OS_COM_AV --> OS_AUD
-    OS_COM_AV --> OS_EXT
 </div>
 
 <script type="module">
