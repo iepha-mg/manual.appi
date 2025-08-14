@@ -94,7 +94,7 @@ Todos os instrumentos jurídicos do Modelo OSCIP/OS envolvem transferência de r
 
 ## 🏛️ Governança e Controle
 
-### Diagrama resumindo a estrutura de governança do modelo
+### 🔄 Diagrama resumindo a estrutura de governança do modelo
 
 <div class="mermaid">
 flowchart TB
