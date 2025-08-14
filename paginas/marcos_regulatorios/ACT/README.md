@@ -3,7 +3,7 @@
 ## 📌 Definição:
 Instrumento de cooperação para a execução de ações de interesse recíproco e em regime de mútua colaboração, a título gratuito, sem transferência de recursos ou doação de bens, no qual o objeto e as condições da cooperação são ajustados de comum acordo entre as partes.
 
-**Atenção!** Acordos de Cooperação Técnica (ACTs) só poderão ser celebrados entre órgãos públicos (de qualquer esfera - municipal, estadual e federal), consórcios públicos ou serviços sociais autônomos estabelecidos por lei (SSAs, como o [Servas](https://www.almg.gov.br/legislacao-mineira/texto/LEI/22607/2017/?cons=1), por exemplo).
+**Atenção!** Acordos de Cooperação Técnica (ACTs) só poderão ser celebrados entre órgãos públicos (de qualquer esfera - municipal, estadual e federal), consórcios públicos ou Serviços Sociais Autônomos estabelecidos por lei (SSAs, como o [Servas](https://www.almg.gov.br/legislacao-mineira/texto/LEI/22607/2017/?cons=1), por exemplo).
 
 ## 🏛️ Regulamentação:
 Capítulo III - Das Parcerias sem Transferências de Recursos - do [Decreto Federal nº 11.531/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11531.htm).
@@ -58,7 +58,8 @@ Por se tratar de instrumento sem transferência de recursos, dispensa documenta�
 - Descrição clara do objeto da cooperação
 - Definição das responsabilidades de cada parte
 - Prazo de vigência
-> Não é obrigatório, mas é boa prática constar um plano de trabalho simplificado, com ações objetivas visando ao cumprimento do objeto da cooperação, prazos para início e término de cada ação, responsáveis pela ação e fonte de comprovação (documentos, fotografias, relatórios, publicações etc. que atestem a realização daquela atividade).
+ 
+Não é obrigatório - mas é boa prática - constar um plano de trabalho simplificado, com ações objetivas visando ao cumprimento do objeto da cooperação, prazos para início e término de cada ação, responsáveis pela ação e fonte de comprovação (documentos, fotografias, relatórios, publicações etc. que atestem a realização daquela atividade).
 
 ## 🔒 Prestação de contas
 Não é exigida prestação de contas financeira, uma vez que o instrumento não envolve transferência de recursos. Pode ser estabelecida apresentação de relatórios técnicos sobre as atividades desenvolvidas, conforme acordado entre as partes.
@@ -88,28 +89,26 @@ flowchart TD
 <div class="mermaid">
 flowchart TD
     A@{ shape: lean-r, label: "Solicitar cooperação técnica" } --> B@{ shape: rect, label: "Analisar solicitação"}
-    B --> C@{ shape: diamond, label: "Cooperação é viável e de interesse recíproco?"}
+    B --> C@{ shape: diamond, label: "Entidade parceira é da Administração Pública? (art. 25 do Decreto nº 11.531/2023)"}
     C -- Não --> D@{ shape: rect, label: "Justificar negativa à área técnica por e-mail"}
     D --> FIM@{ shape: dbl-circ, label: "Fim do fluxo"}
-    C -- Sim --> E@{ shape: rect, label: "Desenvolver/revisar minuta do Acordo de Cooperação Técnica"}
-    E --> F@{ shape: lean-r, label: "Analisar minutas"}
-    F --> G@{ shape: diamond, label: "Minutas validadas?"}
-    G -- Não --> E
-    G -- Sim --> H@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios"}
-    H --> I@{ shape: rounded, label: "Instruir processo no SEI"}
-    I --> J@{ shape: diamond, label: "Necessária análise jurídica? (negativo se for minuta padrão já analisada previamente)"}
-    J -- Não --> L@{ shape: rect, label: "Assinar Acordo de Cooperação Técnica"}
-    J -- Sim --> K@{ shape: trap-b, label: "Análise jurídica"}
-    K --> M@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora"}
-    M --> L
-    L --> N@{ shape: lean-r, label: "Executar ações de cooperação conforme acordado"}
-    N --> O@{ shape: diamond, label: "Havia previsão de relatório técnico?"}
-    O -- Sim --> P@{ shape: lean-r, label: "Elaborar relatório técnico das atividades"}
-    O -- Não --> FIM
-    P --> Q@{ shape: diamond, label: "Compromissos foram cumpridos adequadamente?"}
-    Q -- Sim --> FIM
-    Q -- Não --> R@{ shape: rounded, label: "Adotar medidas cabíveis conforme acordo"}
-    R --> FIM
+    C -- Sim --> E@{ shape: diamond, label: "Cooperação é viável e de interesse recíproco?"}
+    E -- Não --> D
+    E -- Sim --> F@{ shape: rect, label: "Desenvolver/revisar minuta do Acordo de Cooperação Técnica"}
+    F --> G@{ shape: lean-r, label: "Analisar minutas"}
+    G --> H@{ shape: diamond, label: "Minutas validadas?"}
+    H -- Não --> F
+    H -- Sim --> I@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios"}
+    I --> J@{ shape: rounded, label: "Instruir processo no SEI"}
+    J --> K@{ shape: trap-b, label: "Análise jurídica"}
+    K --> L@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora"}
+    L --> M@{ shape: rect, label: "Assinar Acordo de Cooperação Técnica"}
+    M --> N@{ shape: lean-r, label: "Executar ações de cooperação conforme acordado"}
+    N --> O@{ shape: lean-r, label: "Elaborar relatório técnico das atividades"}
+    O --> P@{ shape: diamond, label: "Compromissos foram cumpridos adequadamente?"}
+    P -- Sim --> FIM
+    P -- Não --> Q@{ shape: rounded, label: "Adotar medidas cabíveis conforme acordo"}
+    Q --> FIM
 </div>
 
 <script type="module">
