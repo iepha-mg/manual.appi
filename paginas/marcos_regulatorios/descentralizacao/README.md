@@ -1,4 +1,4 @@
-# 🤝 Marco Regulatório do Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor
+# 🤝 Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor
 
 <img 
     src="https://github.com/user-attachments/assets/c7833dcc-2eaa-47bc-b3fb-8e81db286aeb" 
@@ -6,7 +6,7 @@
     width="10%" 
     style="margin-right: 1px;">
 
-O Marco Regulatório do Modelo OSCIP/OS, estabelecido pela [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/LEI/23081/2018/) e regulamentado pelo [Decreto nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/DEC/47553/2018/) e pelo [Decreto nº 47.554/2018](https://www.almg.gov.br/legislacao-mineira/DEC/47554/2018/), disciplina o Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor em Minas Gerais.
+O Modelo OSCIP/OS, estabelecido pela [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/LEI/23081/2018/) e regulamentado pelo [Decreto nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/DEC/47553/2018/) e pelo [Decreto nº 47.554/2018](https://www.almg.gov.br/legislacao-mineira/DEC/47554/2018/), disciplina o Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor em Minas Gerais.
 
 Esse marco oferece ao IEPHA-MG instrumentos específicos para parcerias estratégicas com organizações qualificadas, ampliando a capacidade institucional na execução de políticas voltadas ao patrimônio cultural mineiro através da descentralização de serviços públicos.
 
@@ -97,41 +97,35 @@ Todos os instrumentos jurídicos do Modelo OSCIP/OS envolvem transferência de r
 ### Diagrama resumindo a estrutura de governança do modelo
 
 <div class="mermaid">
-flowchart TB
-  subgraph OSCIP[Termo de Parceria (OSCIP)]
-    A1[Início do Projeto] --> A2[Gestores de Parceria<br/>IEPHA-MG e OSCIP]
-    A2 --> A3[Comissão Supervisora]
-    A3 --> A4[Relatórios Trimestrais]
-  end
-
-  subgraph OS[Contrato de Gestão (OS)]
-    B1[Início da Gestão] --> B2[Gestores de Parceria<br/>IEPHA-MG e OS]
-    B2 --> B3[Comissão de Monitoramento]
-    B3 --> B4[Relatórios Trimestrais]
-  end
-
-  A4 & B4 --> C1[Comissão de Avaliação]
-  C1 --> C2{Metas/Indicadores<br/>Atingidos?}
-
-  C2 -->|Sim| D1[Continuidade]
-  C2 -->|Parcialmente| D2[Plano de Melhorias]
-  C2 -->|Não| D3[Medidas Corretivas/Sancionadoras]
-
-  D2 --> C1
-  D3 --> E1{Tipo de Medida}
-  E1 -->|Revisão de Estratégias| C1
-  E1 -->|Advertência/Suspensão| E2[Supervisor Estadual]
-  E1 -->|Rescisão| E3[Fim do Instrumento]
-
-  C1 --> F1[Auditoria Operacional<br/>Controladoria-Geral]
-  C1 --> F2[Controle Externo<br/>MP e TCEMG]
-
-  style OSCIP fill:#e1f5fe,stroke:#444
-  style OS fill:#e8f5e8,stroke:#444
-  style C1 fill:#fff3e0
-  style C2 fill:#f3e5f5
-  style E3 fill:#ffebee
-
+flowchart TD
+    A_OSCIP@{ shape: rect, label: "Início do Termo de Parceria (OSCIP)" }
+    B_OSCIP@{ shape: rect, label: "Gestores de Parceria IEPHA-MG e OSCIP" }
+    C_OSCIP@{ shape: rect, label: "Comissão Supervisora" }
+    A_OS@{ shape: rect, label: "Início do Contrato de Gestão (OS)" }
+    B_OS@{ shape: rect, label: "Gestores de Parceria IEPHA-MG e OS" }
+    C_OS@{ shape: rect, label: "Comissão de Monitoramento" }
+    D_REPORT@{ shape: rect, label: "Relatórios Trimestrais" }
+    E_EVAL@{ shape: diamond, label: "Metas/Indicadores Atingidos?" }
+    F_CONT@{ shape: rect, label: "Continuidade" }
+    G_IMP@{ shape: rect, label: "Plano de Melhorias" }
+    H_CORR@{ shape: rect, label: "Medidas Corretivas/Sancionadoras" }
+    I_REV@{ shape: rect, label: "Revisão de Estratégias" }
+    J_SUP@{ shape: rect, label: "Supervisor Estadual\n(Advertência/Suspensão)" }
+    K_END@{ shape: circle, label: "Fim do Instrumento" }
+    L_AUD@{ shape: rect, label: "Auditoria Operacional\nControladoria-Geral" }
+    M_EXT@{ shape: rect, label: "Controle Externo\nMP e TCEMG" }
+    A_OSCIP --> B_OSCIP --> C_OSCIP --> D_REPORT
+    A_OS --> B_OS --> C_OS --> D_REPORT
+    D_REPORT --> E_EVAL
+    E_EVAL -- Sim --> F_CONT
+    E_EVAL -- Parcialmente --> G_IMP
+    E_EVAL -- Não --> H_CORR
+    G_IMP --> D_REPORT
+    H_CORR --> E_EVAL
+    H_CORR --> I_REV --> D_REPORT
+    H_CORR --> J_SUP --> K_END
+    E_EVAL --> L_AUD
+    E_EVAL --> M_EXT
 </div>
 
 <script type="module">
