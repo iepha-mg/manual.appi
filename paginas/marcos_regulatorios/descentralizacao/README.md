@@ -1,4 +1,4 @@
-# 🤝 Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor
+# 💪 Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor
 
 <img 
     src="https://github.com/user-attachments/assets/c7833dcc-2eaa-47bc-b3fb-8e81db286aeb" 
@@ -97,35 +97,69 @@ Todos os instrumentos jurídicos do Modelo OSCIP/OS envolvem transferência de r
 ### Diagrama resumindo a estrutura de governança do modelo
 
 <div class="mermaid">
-flowchart TD
-    A_OSCIP@{ shape: rect, label: "Início do Termo de Parceria (OSCIP)" }
-    B_OSCIP@{ shape: rect, label: "Gestores de Parceria IEPHA-MG e OSCIP" }
-    C_OSCIP@{ shape: rect, label: "Comissão Supervisora" }
-    A_OS@{ shape: rect, label: "Início do Contrato de Gestão (OS)" }
-    B_OS@{ shape: rect, label: "Gestores de Parceria IEPHA-MG e OS" }
-    C_OS@{ shape: rect, label: "Comissão de Monitoramento" }
-    D_REPORT@{ shape: rect, label: "Relatórios Trimestrais" }
-    E_EVAL@{ shape: diamond, label: "Metas/Indicadores Atingidos?" }
-    F_CONT@{ shape: rect, label: "Continuidade" }
-    G_IMP@{ shape: rect, label: "Plano de Melhorias" }
-    H_CORR@{ shape: rect, label: "Medidas Corretivas/Sancionadoras" }
-    I_REV@{ shape: rect, label: "Revisão de Estratégias" }
-    J_SUP@{ shape: rect, label: "Supervisor Estadual\n(Advertência/Suspensão)" }
-    K_END@{ shape: circle, label: "Fim do Instrumento" }
-    L_AUD@{ shape: rect, label: "Auditoria Operacional\nControladoria-Geral" }
-    M_EXT@{ shape: rect, label: "Controle Externo\nMP e TCEMG" }
-    A_OSCIP --> B_OSCIP --> C_OSCIP --> D_REPORT
-    A_OS --> B_OS --> C_OS --> D_REPORT
-    D_REPORT --> E_EVAL
-    E_EVAL -- Sim --> F_CONT
-    E_EVAL -- Parcialmente --> G_IMP
-    E_EVAL -- Não --> H_CORR
-    G_IMP --> D_REPORT
-    H_CORR --> E_EVAL
-    H_CORR --> I_REV --> D_REPORT
-    H_CORR --> J_SUP --> K_END
-    E_EVAL --> L_AUD
-    E_EVAL --> M_EXT
+flowchart TB
+    %% Termo de Parceria (OSCIP)
+    OSCIP_START@{ shape: circle, label: "Início do Termo de Parceria" }
+    OSCIP_GP_IEPHA@{ shape: rect, label: "Gestor de Parceria IEPHA-MG" }
+    OSCIP_GP_OSCIP@{ shape: rect, label: "Gestor de Parceria OSCIP" }
+    OSCIP_COM_SUP@{ shape: diamond, label: "Comissão Supervisora" }
+    OSCIP_REL@{ shape: rect, label: "Relatórios Trimestrais" }
+    OSCIP_COM_AV@{ shape: diamond, label: "Comissão de Avaliação" }
+    OSCIP_META@{ shape: diamond, label: "Metas Atingidas?" }
+    OSCIP_CONT@{ shape: rect, label: "Continuidade do Projeto" }
+    OSCIP_COR@{ shape: rect, label: "Medidas Corretivas" }
+    OSCIP_REV@{ shape: rect, label: "Revisão de Estratégias" }
+    OSCIP_AUD@{ shape: trap-b, label: "Auditoria Operacional\nControladoria-Geral" }
+    OSCIP_EXT@{ shape: trap-b, label: "Controle Externo\nMP e TCEMG" }
+    OSCIP_START --> OSCIP_GP_IEPHA
+    OSCIP_START --> OSCIP_GP_OSCIP
+    OSCIP_GP_IEPHA --> OSCIP_COM_SUP
+    OSCIP_GP_OSCIP --> OSCIP_COM_SUP
+    OSCIP_COM_SUP --> OSCIP_REL
+    OSCIP_REL --> OSCIP_COM_AV
+    OSCIP_COM_AV --> OSCIP_META
+    OSCIP_META -- Sim --> OSCIP_CONT
+    OSCIP_META -- Não --> OSCIP_COR
+    OSCIP_COR --> OSCIP_REV
+    OSCIP_REV --> OSCIP_REL
+    OSCIP_COM_AV --> OSCIP_AUD
+    OSCIP_COM_AV --> OSCIP_EXT
+</div>
+
+<div class="mermaid">
+flowchart TB
+    %% Contrato de Gestão (OS)
+    OS_START@{ shape: circle, label: "Início do Contrato de Gestão" }
+    OS_GP_IEPHA@{ shape: rect, label: "Gestor de Parceria IEPHA-MG" }
+    OS_GP_OS@{ shape: rect, label: "Gestor de Parceria OS" }
+    OS_COM_MON@{ shape: diamond, label: "Comissão de Monitoramento" }
+    OS_REL@{ shape: rect, label: "Relatórios Trimestrais" }
+    OS_COM_AV@{ shape: diamond, label: "Comissão de Avaliação" }
+    OS_META@{ shape: diamond, label: "Metas/Indicadores Atingidos?" }
+    OS_CONT@{ shape: rect, label: "Continuidade da Gestão" }
+    OS_PLAN@{ shape: rect, label: "Plano de Melhorias" }
+    OS_SAN@{ shape: rect, label: "Medidas Sancionadoras" }
+    OS_ADJ@{ shape: rect, label: "Ajustes Operacionais" }
+    OS_SUS@{ shape: rect, label: "Advertência/Suspensão" }
+    OS_RES@{ shape: circle, label: "Rescisão do Contrato" }
+    OS_AUD@{ shape: trap-b, label: "Auditoria Operacional\nControladoria-Geral" }
+    OS_EXT@{ shape: trap-b, label: "Controle Externo\nMP e TCEMG" }
+    OS_START --> OS_GP_IEPHA
+    OS_START --> OS_GP_OS
+    OS_GP_IEPHA --> OS_COM_MON
+    OS_GP_OS --> OS_COM_MON
+    OS_COM_MON --> OS_REL
+    OS_REL --> OS_COM_AV
+    OS_COM_AV --> OS_META
+    OS_META -- Sim --> OS_CONT
+    OS_META -- Parcialmente --> OS_PLAN
+    OS_META -- Não --> OS_SAN
+    OS_PLAN --> OS_ADJ
+    OS_ADJ --> OS_REL
+    OS_SAN -- Advertência/Suspensão --> OS_SUS
+    OS_SAN -- Rescisão --> OS_RES
+    OS_COM_AV --> OS_AUD
+    OS_COM_AV --> OS_EXT
 </div>
 
 <script type="module">
