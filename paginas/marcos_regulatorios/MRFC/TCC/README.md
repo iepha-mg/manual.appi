@@ -65,7 +65,7 @@ Desde que haja interesse mútuo e viabilidade técnica, um Termo de Cooperação
 - **Reciprocidade:** Benefícios mútuos na execução das ações
 
 ## 📋 Plano de trabalho (Art. 29, parágrafo único)
-**Formulação condicional:** Plano de trabalho será necessário apenas nas hipóteses em que o objeto do termo de cooperação cultural possuir significativa complexidade, conforme análise do caso concreto.
+**Nem sempre é obrigatório:** Plano de trabalho será necessário apenas nas hipóteses em que o objeto do termo de cooperação cultural possuir significativa complexidade, conforme análise do caso concreto.
 
 ### Casos que podem dispensar plano de trabalho:
 - Cooperações técnicas pontuais
