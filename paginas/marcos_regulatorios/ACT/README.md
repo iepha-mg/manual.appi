@@ -73,6 +73,9 @@ Não é exigida prestação de contas financeira, uma vez que o instrumento não
 
 ## 🔍 Saiba mais!
 Modelos e documentos de referência podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html).
+- [Minuta modelo de Acordo de Cooperação Técnica da Advocacia Geral da União (AGU)](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/acordo-de-cooperacao-tecnica.pdf)
+
+**🧩 Dica!** O "texto padrão" n. 522228 no SEI é uma minuta de Acordo de Cooperação Técnica (ACT) já utilizada no âmbito do Iepha-MG, contendo cláusulas padronizadas retiradas do modelo da AGU (acima) e cláusulas ou trechos sinalizados, em azul, para serem preenchidos conforme especificidades da parceria a ser firmada. Isso pode ajudar bastante na elaboração e na tramitação jurídica de um ACT.
 
 ## ↔️ Fluxograma para celebração e execução de Acordo de Cooperação Técnica
 Todos os procedimentos do fluxograma referem-se ao [Decreto Federal nº 11.531/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11531.htm). Diferentes formas das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
