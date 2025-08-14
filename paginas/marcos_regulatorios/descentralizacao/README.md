@@ -104,7 +104,6 @@ flowchart TB
     OS_COM_AV@{ shape: lean-r, label: "Comissão de Avaliação" }
     OS_META@{ shape: diamond, label: "Metas/Indicadores atingidos?" }
     OS_CONT@{ shape: rect, label: "Continuidade da Gestão" }
-    OS_PLAN@{ shape: rect, label: "Plano de Melhorias" }
     OS_SAN@{ shape: rect, label: "Medidas Sancionadoras" }
     OS_ADJ@{ shape: rect, label: "Ajustes Operacionais" }
     OS_SUS@{ shape: rect, label: "Advertência/Suspensão" }
@@ -114,8 +113,7 @@ flowchart TB
     OS_REL --> OS_COM_AV
     OS_COM_AV --> OS_META
     OS_META -- Sim --> OS_CONT
-    OS_META -- Parcialmente --> OS_PLAN
-    OS_PLAN --> OS_ADJ
+    OS_META -- Parcialmente --> OS_ADJ
     OS_ADJ --> OS_REL
     OS_META -- Não --> OS_SAN
     OS_SAN -- Advertência/Suspensão --> OS_SUS
