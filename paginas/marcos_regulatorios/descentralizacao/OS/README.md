@@ -164,7 +164,8 @@ flowchart TD
 flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar Contrato de Gestão" } --> B@{ shape: diamond, label: "Demanda alinhada ao planejamento?" }
-    B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada" } --> FIM
+    B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada" }
+    C --> FIM
     B -->|Sim| D@{ shape: rect, label: "Solicitar estudo de viabilidade à Seplag (art. 10 da Lei)" }
     D --> E@{ shape: diamond, label: "Necessita seleção pública? (arts. 58 e 60 da Lei)" }
     %% Fluxo COM seleção pública
@@ -179,7 +180,8 @@ flowchart TD
     M --> N@{ shape: rounded, label: "Decisão de recursos e publicação do resultado final (art. 22 do Decreto)" }
     N --> O@{ shape: rounded, label: "Verificação de habilitação e documentos (art. 35 do Decreto)" }
     O --> P@{ shape: diamond, label: "OS habilitada?" }
-    P -->|Não| Q@{ shape: rounded, label: "Convocar próxima classificada (art. 22, §5º do Decreto)" } --> O
+    P -->|Não| Q@{ shape: rounded, label: "Convocar próxima classificada (art. 22, §5º do Decreto)" }
+    Q --> O
     P -->|Sim| R@{ shape: rounded, label: "Elaborar programa de trabalho e memória de cálculo (arts. 32 e 33 do Decreto)" }
     %% Fluxo SEM seleção pública (dispensa legal)
     E -->|Não (hipóteses do art. 60 da Lei)| S@{ shape: rect, label: "Justificar dispensa de seleção pública (art. 60 da Lei)" }
@@ -201,25 +203,34 @@ flowchart TD
     AD --> AE@{ shape: stadium, label: "Comissão de Monitoramento realiza checagens amostrais (art. 46 do Decreto)" }
     AE --> AF@{ shape: stadium, label: "Comissão de Avaliação reúne-se trimestralmente (art. 54 do Decreto)" }
     AF --> AG@{ shape: diamond, label: "Metas/indicadores atingidos?" }
-    AG -->|Sim| AH@{ shape: hex, label: "Relatórios gerenciais trimestrais apresentados (art. 50 do Decreto)" } --> AE
-    AG -->|Parcialmente| AI@{ shape: hex, label: "Ajustes operacionais e medidas corretivas" } --> AE
+    AG -->|Sim| AH@{ shape: hex, label: "Relatórios gerenciais trimestrais apresentados (art. 50 do Decreto)" }
+    AH --> AE
+    AG -->|Parcialmente| AI@{ shape: hex, label: "Ajustes operacionais e medidas corretivas" }
+    AI --> AE
     AG -->|Não| AJ@{ shape: hex, label: "Aplicar sanções/medidas (arts. 81 e seguintes do Decreto)" }
     AJ --> AK@{ shape: diamond, label: "Qual a sanção?" }
-    AK -->|Advertência ou Suspensão| AI
-    AK -->|Rescisão| AL@{ shape: rect, label: "Rescindir contrato (conforme normas aplicáveis)" } --> FIM
+    AK -->|Advertência| AI
+    AK -->|Rescisão| AL@{ shape: rect, label: "Rescindir contrato (conforme normas aplicáveis)" }
+    AL --> FIM
     %% Prestação de contas
     AF --> AM@{ shape: rounded, label: "OS apresenta prestação de contas anual (art. 67 do Decreto)" }
     AM --> AN@{ shape: hex, label: "Analisar prestação de contas até 20 dias úteis (art. 68, §1º do Decreto)" }
     AN --> AO@{ shape: diamond, label: "Análise da prestação de contas" }
-    AO -->|Metas integralmente atingidas| AP@{ shape: hex, label: "Aprovação (art. 70, I do Decreto)" } --> AQ@{ shape: stadium, label: "Homologação pela Comissão competente" } --> AE
-    AO -->|Metas parcialmente atingidas| AR@{ shape: hex, label: "Aprovação com ressalvas (art. 70, II do Decreto)" } --> AS@{ shape: stadium, label: "Homologação com ressalvas" } --> AE
-    AO -->|Metas não atingidas| AT@{ shape: hex, label: "Reprovação e devolução de recursos (art. 70, III do Decreto)" } --> AU@{ shape: rect, label: "Aplicar sanções e recuperar recursos (arts. 81 e seguintes do Decreto)" } --> FIM
+    AO -->|Metas integralmente atingidas| AP@{ shape: hex, label: "Aprovação (art. 70, I do Decreto)" } --> AQ@{ shape: stadium, label: "Homologação pela Comissão competente" }
+    AQ --> AE
+    AO -->|Metas parcialmente atingidas| AR@{ shape: hex, label: "Aprovação com ressalvas (art. 70, II do Decreto)" }
+    AR --> AS@{ shape: stadium, label: "Homologação com ressalvas" }
+    AS --> AE
+    AO -->|Metas não atingidas| AT@{ shape: hex, label: "Reprovação e devolução de recursos (art. 70, III do Decreto)" }
+    AT --> AU@{ shape: rect, label: "Aplicar sanções e recuperar recursos (arts. 81 e seguintes do Decreto)" }
+    AU --> FIM
     %% Encerramento
     AE --> AV@{ shape: diamond, label: "Fim da vigência?" }
     AV -->|Não| AE
     AV -->|Sim| AW@{ shape: rounded, label: "Prestação de contas de extinção (art. 67 do Decreto)" }
     AW --> AX@{ shape: hex, label: "Avaliação final pela Comissão de Avaliação (art. 54 do Decreto)" }
-    AX --> AY@{ shape: rect, label: "Encerrar contrato e devolver bens/saldos (normas aplicáveis)" } --> FIM
+    AX --> AY@{ shape: rect, label: "Encerrar contrato e devolver bens/saldos (normas aplicáveis)" }
+    AY --> FIM
 </div>
 
 <script type="module">
