@@ -184,7 +184,7 @@ flowchart TD
     Q --> O
     P -->|Sim| R@{ shape: rounded, label: "Elaborar programa de trabalho e memória de cálculo (arts. 32 e 33 do Decreto)" }
     %% Fluxo SEM seleção pública (dispensa legal)
-    E -->|Não (hipóteses do art. 60 da Lei)| S@{ shape: rect, label: "Justificar dispensa de seleção pública (art. 60 da Lei)" }
+    E -->|Não| S@{ shape: rect, label: "Justificar dispensa de seleção pública (art. 60 da Lei)" }
     S --> T@{ shape: rect, label: "Desenvolver minuta do Contrato de Gestão" }
     T --> U@{ shape: trap-b, label: "Análise jurídica" }
     U --> V@{ shape: rounded, label: "Verificar habilitação e documentos (art. 35 do Decreto)" }
@@ -216,12 +216,12 @@ flowchart TD
     AF --> AM@{ shape: rounded, label: "OS apresenta prestação de contas anual (art. 67 do Decreto)" }
     AM --> AN@{ shape: hex, label: "Analisar prestação de contas até 20 dias úteis (art. 68, §1º do Decreto)" }
     AN --> AO@{ shape: diamond, label: "Análise da prestação de contas" }
-    AO -->|Metas integralmente atingidas| AP@{ shape: hex, label: "Aprovação (art. 70, I do Decreto)" } --> AQ@{ shape: stadium, label: "Homologação pela Comissão competente" }
+    AO -->|Atingidas| AP@{ shape: hex, label: "Aprovação (art. 70, I do Decreto)" } --> AQ@{ shape: stadium, label: "Homologação pela Comissão competente" }
     AQ --> AE
-    AO -->|Metas parcialmente atingidas| AR@{ shape: hex, label: "Aprovação com ressalvas (art. 70, II do Decreto)" }
+    AO -->|Parcialmente| AR@{ shape: hex, label: "Aprovação com ressalvas (art. 70, II do Decreto)" }
     AR --> AS@{ shape: stadium, label: "Homologação com ressalvas" }
     AS --> AE
-    AO -->|Metas não atingidas| AT@{ shape: hex, label: "Reprovação e devolução de recursos (art. 70, III do Decreto)" }
+    AO -->|Atingidas| AT@{ shape: hex, label: "Reprovação e devolução de recursos (art. 70, III do Decreto)" }
     AT --> AU@{ shape: rect, label: "Aplicar sanções e recuperar recursos (arts. 81 e seguintes do Decreto)" }
     AU --> FIM
     %% Encerramento
