@@ -51,7 +51,7 @@ Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispens
 
 <div class="mermaid">
 flowchart LR
-    subgraph Publicação ["Publicação do Edital de seleção"]
+    subgraph Publicação
         A1["Solicitar estudo de viabilidade à Seplag (art. 10 da Lei)"]
         A2["Elaborar edital e minuta de Contrato de Gestão (arts. 12 e 31 §1 do Decreto)"]
         A3["Análise técnica e jurídica (art. 12, §6º do Decreto)"]
@@ -59,7 +59,7 @@ flowchart LR
         A5["Publicar edital e receber propostas"]
         A1 --> A2 --> A3 --> A4 --> A5
     end
-    subgraph Seleção ["Recebimento e julgamento das propostas, recursos e publicação dos resultados"]
+    subgraph Julgamento
         B1["Julgar propostas (art. 20 do Decreto)"]
         B2["Homologar resultado (art. 21 e art. 22 do Decreto)"]
         B3["Prazo para recursos: 5 dias úteis (art. 21 do Decreto)"]
@@ -74,7 +74,7 @@ flowchart LR
         C5["Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)"]
         C1 --> C2 --> C3 --> C4 --> C5
     end
-    Publicação --> Seleção --> Celebração
+    Publicação --> Julgamento --> Celebração
 </div>
 
 ### ⏱️ Prazos relevantes
