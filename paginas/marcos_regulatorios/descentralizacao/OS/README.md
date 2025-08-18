@@ -1,7 +1,7 @@
 # 🏢 Contrato de Gestão (OS)
 
 ## 📌 Definição
-O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria entre a administração pública e uma Organização Social (OS) para a execução descentralizada de atividades e serviços de interesse público, geralmente de grande porte e duração, com transferência de recursos e definição de metas e indicadores de resultados (Lei Estadual nº 23.081/2018, art. 50; Decreto nº 47.553/2018, art. 2º, II). Alo
+O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria entre a administração pública e uma Organização Social (OS) para a execução descentralizada de atividades e serviços de interesse público, geralmente de grande porte e duração, com transferência de recursos e definição de metas e indicadores de resultados (Lei Estadual nº 23.081/2018, art. 50; Decreto nº 47.553/2018, art. 2º, II).
 
 ## 🏛️ Regulamentação
 [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) e [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1).  
@@ -146,6 +146,7 @@ Modelos e minutas do Estado podem ser encontrados em uma página especial do [Po
 
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas do Contrato de Gestão
 
+{% raw %}
 <div class="mermaid">
 flowchart TD
     %% Legenda
@@ -221,6 +222,7 @@ flowchart TD
     AW --> AX@{ shape: hex, label: "Avaliação final pela Comissão de Avaliação (art. 54 do Decreto)" }
     AX --> AY@{ shape: rect, label: "Encerrar contrato e devolver bens/saldos (normas aplicáveis)" } --> FIM((Fim))
 </div>
+{% endraw %}
 
 <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
