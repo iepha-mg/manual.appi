@@ -33,8 +33,8 @@ Aqui você encontra:
    - [Termo de Bolsa Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TBC/README.html)
    - [Termo de Colaboração](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TC/README.html)
    - [Termo de Fomento](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TF/README.html)
-   - Termo de Parceria
-   - Contrato de Gestão
+   - [Termo de Parceria](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OSCIP/README.html)
+   - [Contrato de Gestão](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OS/README.html)
 - 💡 Dicas para gestores ou fiscais de parcerias
    - Sobre celebração de parcerias
       - O que ter em mente ao elaborar um processo de parceria? [alinhar com quem manda: objeto, partes, atribuições, plano de trabalho  - não ser nem genérico, nem exato demais]
