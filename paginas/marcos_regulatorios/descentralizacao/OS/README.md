@@ -50,7 +50,7 @@ Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispens
 ### ↔️ Fluxo Resumido do Processamento do Contrato de Gestão
 
 <div class="mermaid">
-flowchart TD
+flowchart LR
     subgraph Planejamento
         A1["Identificar demanda pública (art. 10, I)"]
         A2["Solicitar estudo de viabilidade (art. 10)"]
