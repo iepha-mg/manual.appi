@@ -164,7 +164,7 @@ flowchart TD
 flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar Contrato de Gestão" } --> B@{ shape: diamond, label: "Demanda alinhada ao planejamento?" }
-    B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada" } --> FIM((Fim))
+    B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada" } --> FIM
     B -->|Sim| D@{ shape: rect, label: "Solicitar estudo de viabilidade à Seplag (art. 10 da Lei)" }
     D --> E@{ shape: diamond, label: "Necessita seleção pública? (arts. 58 e 60 da Lei)" }
     %% Fluxo COM seleção pública
@@ -219,7 +219,7 @@ flowchart TD
     AV -->|Não| AE
     AV -->|Sim| AW@{ shape: rounded, label: "Prestação de contas de extinção (art. 67 do Decreto)" }
     AW --> AX@{ shape: hex, label: "Avaliação final pela Comissão de Avaliação (art. 54 do Decreto)" }
-    AX --> AY@{ shape: rect, label: "Encerrar contrato e devolver bens/saldos (normas aplicáveis)" } --> FIM((Fim))
+    AX --> AY@{ shape: rect, label: "Encerrar contrato e devolver bens/saldos (normas aplicáveis)" } --> FIM
 </div>
 
 <script type="module">
