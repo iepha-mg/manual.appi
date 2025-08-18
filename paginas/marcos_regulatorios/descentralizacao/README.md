@@ -35,12 +35,12 @@ Todos os instrumentos jurídicos do Modelo OSCIP/OS envolvem transferência de r
     <th width="35%">Exemplos</th>
   </tr>
   <tr>
-    <td><strong>Termo de Parceria (OSCIP)</strong></td>
+    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OSCIP/README.html">Termo de Parceria (OSCIP)</a></strong></td>
     <td>Execução de projetos, como atividades de cultura, defesa e conservação do patrimônio histórico e artístico</td>
     <td>Projetos de restauração, inventários de bens culturais, programas de educação patrimonial</td>
   </tr>
   <tr>
-    <td><strong>Contrato de Gestão (OS)</strong></td>
+    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OS/README.html">Contrato de Gestão (OS)</a></strong></td>
     <td>Gestão de equipamentos culturais e execução de atividades de preservação patrimonial</td>
     <td>Administração de museus, centros culturais, bibliotecas públicas, sítios arqueológicos</td>
   </tr>
@@ -65,8 +65,8 @@ Todos os instrumentos jurídicos do Modelo OSCIP/OS envolvem transferência de r
 
 - **Termo de Parceria (OSCIP)**: vigência renovável até o limite de 5 anos (art. 57 do Decreto Estadual nº 47.554/2018)
 - **Contrato de Gestão (OS)**: vigência renovável até o limite de 20 anos (art. 60 do Decreto Estadual nº 47.553/2018)
-- Qualificação OSCIP: válida por 3 anos, renovável (art. 7º, da Lei Estadual nº 23.081/2018)
-- Qualificação OS: válida por até 3 anos, renovável (art. 49, da Lei Estadual nº 23.081/2018)
+- **Qualificação OSCIP**: válida por 3 anos, renovável (art. 7º, da Lei Estadual nº 23.081/2018)
+- **Qualificação OS**: válida por até 3 anos, renovável (art. 49, da Lei Estadual nº 23.081/2018)
 
 ### 5. Supervisão e Controle Especializado
 
@@ -126,7 +126,7 @@ flowchart TB
       mermaid.initialize({ startOnLoad: true });
 </script>
 
-### Estrutura no IEPHA-MG
+### Estruturas de governança
 
 - **Comissão julgadora**: analisa e seleciona propostas, classificando entidades (art. 16, inciso II da Lei nº 23.081/2018 para OSCIP; art. 59, inciso II da Lei nº 23.081/2018 para OS)
 - **Comissão Supervisora**: acompanha a execução de Termos de Parceria (art. 26, §§ 2º e 3º da Lei nº 23.081/2018 para OSCIP)
