@@ -146,7 +146,6 @@ Modelos e minutas do Estado podem ser encontrados em uma página especial do [Po
 
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas do Contrato de Gestão
 
-{% raw %}
 <div class="mermaid">
 flowchart TD
     %% Legenda
@@ -206,7 +205,7 @@ flowchart TD
     AG -->|Parcialmente| AI@{ shape: hex, label: "Ajustes operacionais e medidas corretivas" } --> AE
     AG -->|Não| AJ@{ shape: hex, label: "Aplicar sanções/medidas (arts. 81 e seguintes do Decreto)" }
     AJ --> AK@{ shape: diamond, label: "Qual a sanção?" }
-    AK -->|Advertência/Suspensão| AI
+    AK -->|Advertência ou Suspensão| AI
     AK -->|Rescisão| AL@{ shape: rect, label: "Rescindir contrato (conforme normas aplicáveis)" } --> FIM
     %% Prestação de contas
     AF --> AM@{ shape: rounded, label: "OS apresenta prestação de contas anual (art. 67 do Decreto)" }
@@ -222,7 +221,6 @@ flowchart TD
     AW --> AX@{ shape: hex, label: "Avaliação final pela Comissão de Avaliação (art. 54 do Decreto)" }
     AX --> AY@{ shape: rect, label: "Encerrar contrato e devolver bens/saldos (normas aplicáveis)" } --> FIM((Fim))
 </div>
-{% endraw %}
 
 <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
