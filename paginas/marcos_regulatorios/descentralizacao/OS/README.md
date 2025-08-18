@@ -47,32 +47,32 @@ Lei Estadual nº 23.081/2018 e Decreto Estadual nº 47.553/2018.
 ## 📢 Seleção pública
 Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispensa/indeferimento nos termos legais (art. 60 da Lei).
 
-### ↔️ Fluxo Resumido do Processamento do Contrato de Gestão
+### ↔️ Fluxo Resumido do Contrato de Gestão
 
 <div class="mermaid">
 flowchart LR
     subgraph Planejamento
-        A1["Identificar demanda pública (art. 10, I)"]
+        A1["Identificar demanda pública (art. 10 I)"]
         A2["Solicitar estudo de viabilidade (art. 10)"]
-        A3["Elaborar edital e minuta (arts. 12 e 31, §1º)"]
-        A4["Análise técnica e jurídica (arts. 11, §1º; 36)"]
+        A3["Elaborar edital e minuta (arts. 12 e 31 §1)"]
+        A4["Análise técnica e jurídica (arts. 11, §1; 36)"]
         A5["Constituir Comissão Julgadora (art. 17)"]
         A1 --> A2 --> A3 --> A4 --> A5
     end
     subgraph Processamento
-        B1["Publicar edital e receber propostas (arts. 12 e 54)"]
+        B1["Publicar edital e receber propostas (arts. 12; 54)"]
         B2["Julgar propostas (art. 20)"]
         B3["Homologar resultado (art. 22)"]
-        B4["Prazo para recursos: 5 dias úteis (art. 22, §§1º e 2º)"]
-        B5["Decisão final e publicação (arts. 22, §3º; 23)"]
+        B4["Prazo para recursos: 5 dias úteis (art. 22 §1-§2)"]
+        B5["Decisão final e publicação (arts. 22 §3; 23)"]
         B1 --> B2 --> B3 --> B4 --> B5
     end
     subgraph Habilitação ["Habilitação e Contratação"]
-        C1["Verificar habilitação/documentos (arts. 2 e 13)"]
-        C2["Convocar classificada (art. 22, §§1º e 2º)"]
+        C1["Verificar habilitação/documentos (arts. 2; 13)"]
+        C2["Convocar classificada (art. 22 §1-§2)"]
         C3["Elaborar plano de trabalho (art. 32)"]
-        C4["Emitir nota técnica da Seplag (art. 36, §§1º-3º)"]
-        C5["Assinar contrato e publicar extrato (arts. 37 e 50, VI)"]
+        C4["Emitir nota técnica da Seplag (art. 36 §1-§3)"]
+        C5["Assinar contrato e publicar extrato (arts. 37; 50 VI)"]
         C1 --> C2 --> C3 --> C4 --> C5
     end
     Planejamento --> Processamento --> Habilitação
@@ -103,6 +103,7 @@ flowchart LR
 5. Pareceres dos conselhos fiscal e administrativo da OS (ou equivalente)
 
 ### 👮 Análise da prestação de contas
+
 | **Situação**                    | **Exigência**                     | **Resultado**               |
 |---------------------------------|-----------------------------------|-----------------------------|
 | Metas atingidas integralmente   | Relatório objetivo + financeiro               | Aprovação (art. 70, I, do Decreto) |
@@ -115,7 +116,6 @@ O **gestor da parceria** deve (art. 47 do Decreto):
 - Acompanhar e fiscalizar a execução
 - Emitir relatórios técnicos de monitoramento
 - Informar irregularidades à Comissão de Monitoramento e a seu superior hierárquico
-
 
 A **Comissão de Monitoramento** deve (art. 46 do Decreto):
 - Monitorar a execução física e financeira do Contrato de Gestão, conferindo metas e resultados e realizando checagens amostrais de processos de compras e contratações
