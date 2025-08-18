@@ -67,7 +67,7 @@ flowchart TD
         B5["Decisão final e publicação (arts. 22, §3º; 23)"]
         B1 --> B2 --> B3 --> B4 --> B5
     end
-    subgraph Habilitação e Contratação
+    subgraph Habilitação ["Habilitação e Contratação"]
         C1["Verificar habilitação/documentos (arts. 2 e 13)"]
         C2["Convocar classificada (art. 22, §§1º e 2º)"]
         C3["Elaborar plano de trabalho (art. 32)"]
@@ -75,14 +75,14 @@ flowchart TD
         C5["Assinar contrato e publicar extrato (arts. 37 e 50, VI)"]
         C1 --> C2 --> C3 --> C4 --> C5
     end
-    Planejamento --> Processamento --> Habilitação e Contratação
+    Planejamento --> Processamento --> Habilitação
 </div>
 
 ### ⏱️ Prazos relevantes
 
 | Etapa                           | Prazo                      | Base Legal               |
 |----------------------------------|----------------------------|--------------------------|
-| Apresentação de propostas       | mínimo 15 dias úteis         | Art. 12, §3º do Decreto       |
+| Apresentação de propostas       | 15 dias úteis         | Art. 12, §3º do Decreto       |
 | Recursos                        | 5 dias úteis               | Art. 21, §1º do Decreto  |
 | Prestação de contas (OS)        | Até 90 dias após competência/fim anual | Art. 68 do Decreto  |
 | Análise da prestação de contas   | Até 20 dias úteis               | Art. 68, §1º do Decreto       |
