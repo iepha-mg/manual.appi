@@ -4,7 +4,7 @@
 O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria entre a administração pública e uma Organização Social (OS) para a execução descentralizada de atividades e serviços de interesse público, geralmente de grande porte e duração, com transferência de recursos e definição de metas e indicadores de resultados (Lei Estadual nº 23.081/2018, art. 50; Decreto nº 47.553/2018, art. 2º, II).
 
 ## 🏛️ Regulamentação
-Lei Estadual nº 23.081/2018 e Decreto Estadual nº 47.553/2018.  
+[Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) e [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1).  
 > Daqui em diante, utilizaremos "Lei" ou "Decreto" para citar essas normas.
 
 ## 🎯 Objetivos
@@ -23,7 +23,7 @@ Lei Estadual nº 23.081/2018 e Decreto Estadual nº 47.553/2018.
 **Recursos podem ser usados para atender ao objeto do contrato de gestão:**
 - Pagamento de equipes técnicas, administrativas e operacionais
 - Manutenção, operação e bens patrimoniais dos espaços geridos
-- Aquisição de materiais, equipamentos e serviços necessários
+- Aquisição de materiais, equipamentos e serviços necessários à execução do objeto
 - Despesas de custeio e investimentos necessários à execução do objeto
 - Divulgação das atividades e resultados do Contrato de Gestão
 - Outras despesas previstas no plano de trabalho aprovado
@@ -40,7 +40,7 @@ Lei Estadual nº 23.081/2018 e Decreto Estadual nº 47.553/2018.
 
 ⚠️ **Exigências obrigatórias:**
 - Seleção pública prévia (com exceções legais – art. 60 da Lei)
-- Apresentação detalhada do plano de trabalho e orçamento (art. 31, § 1º, I-V do Decreto)
+- Apresentação detalhada, por parte da OS, do plano de trabalho e orçamento (art. 31, § 1º, I-V do Decreto)
 - Regularidade jurídica, fiscal e trabalhista da OS (art. 35 do Decreto)
 - Designação da Comissão de Monitoramento pelo IEPHA-MG e de Comissão de Avaliação pelo IEPHA-MG e OS (art. 46 e art. 54 do Decreto)
 
@@ -51,31 +51,30 @@ Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispens
 
 <div class="mermaid">
 flowchart LR
-    subgraph Planejamento
-        A1["Identificar demanda pública (art. 10 I)"]
-        A2["Solicitar estudo de viabilidade (art. 10)"]
-        A3["Elaborar edital e minuta (arts. 12 e 31 §1)"]
-        A4["Análise técnica e jurídica (arts. 11, §1; 36)"]
-        A5["Constituir Comissão Julgadora (art. 17)"]
+    subgraph Publicação ["Publicação do Edital de seleção"]
+        A1["Solicitar estudo de viabilidade à Seplag (art. 10 da Lei)"]
+        A2["Elaborar edital e minuta de Contrato de Gestão (arts. 12 e 31 §1 do Decreto)"]
+        A3["Análise técnica e jurídica (art. 12, §6º do Decreto)"]
+        A4["Constituir Comissão Julgadora (art. 17)"]
+        A5["Publicar edital e receber propostas"]
         A1 --> A2 --> A3 --> A4 --> A5
     end
-    subgraph Processamento
-        B1["Publicar edital e receber propostas (arts. 12; 54)"]
-        B2["Julgar propostas (art. 20)"]
-        B3["Homologar resultado (art. 22)"]
-        B4["Prazo para recursos: 5 dias úteis (art. 22 §1-§2)"]
-        B5["Decisão final e publicação (arts. 22 §3; 23)"]
-        B1 --> B2 --> B3 --> B4 --> B5
+    subgraph Seleção ["Recebimento e julgamento das propostas, recursos e publicação dos resultados"]
+        B1["Julgar propostas (art. 20 do Decreto)"]
+        B2["Homologar resultado (art. 21 e art. 22 do Decreto)"]
+        B3["Prazo para recursos: 5 dias úteis (art. 21 do Decreto)"]
+        B4["Decisão final e publicação (arts. 22 do Decreto)"]
+        B1 --> B2 --> B3 --> B4
     end
-    subgraph Habilitação ["Habilitação e Contratação"]
-        C1["Verificar habilitação/documentos (arts. 2; 13)"]
-        C2["Convocar classificada (art. 22 §1-§2)"]
-        C3["Elaborar plano de trabalho (art. 32)"]
-        C4["Emitir nota técnica da Seplag (art. 36 §1-§3)"]
-        C5["Assinar contrato e publicar extrato (arts. 37; 50 VI)"]
+    subgraph Celebração
+        C1["Verificar habilitação/documentos da OS (art. 35 do Decreto)"]
+        C2["Elaborar programa de trabalho e memória de cálculo (art. 32 e art. 33 do Decreto)"]
+        C3["Solicitar manifestação do CONEP (art. 34 do Decreto)"]
+        C4["Emitir nota técnica da Seplag (art. 36 do Decreto)"]
+        C5["Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)"]
         C1 --> C2 --> C3 --> C4 --> C5
     end
-    Planejamento --> Processamento --> Habilitação
+    Publicação --> Seleção --> Celebração
 </div>
 
 ### ⏱️ Prazos relevantes
@@ -118,13 +117,14 @@ O **gestor da parceria** deve (art. 47 do Decreto):
 - Informar irregularidades à Comissão de Monitoramento e a seu superior hierárquico
 
 A **Comissão de Monitoramento** deve (art. 46 do Decreto):
-- Monitorar a execução física e financeira do Contrato de Gestão, conferindo metas e resultados e realizando checagens amostrais de processos de compras e contratações
-- Propor recomendações e medidas corretivas
-- Encaminhar relatório para Comissão de Avaliação, se houver
+- Monitorar a execução física e financeira do Contrato de Gestão
+- Conferir metas e resultados, realizando checagens amostrais de processos de compras e contratações
+- Solicitar auxílio das unidades jurídica ou financeira do IEPHA-MG se for necessário
 
 A **Comissão de Avaliação** deve (art. 54 e art. 55 do Decreto):
+- Reunir-se trimestralmente
 - Analisar resultados alcançados por meio dos relatórios de monitoramento
-- Manifestar-se sobre aditivos, continuidade e penalidades
+- Manifestar-se sobre termos aditivos, continuidade e penalidades
 - Elaborar relatórios de avaliação
 
 ## 🔍 Saiba mais!
