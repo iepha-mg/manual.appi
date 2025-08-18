@@ -106,7 +106,7 @@ flowchart TB
     OS_CONT@{ shape: rect, label: "Continuidade da Gestão" }
     OS_SAN@{ shape: rect, label: "Medidas Sancionadoras" }
     OS_ADJ@{ shape: rect, label: "Ajustes Operacionais" }
-    OS_RES@{ shape: circle, label: "Rescisão" }
+    OS_RES@{ shape: circle, label: "Fim" }
     OS_GESTORES --> OS_COM_MON
     OS_COM_MON --> OS_REL
     OS_REL --> OS_COM_AV
