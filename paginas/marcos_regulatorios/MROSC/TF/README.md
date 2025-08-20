@@ -1,4 +1,4 @@
-# 🌱 Termo de Fomento
+# 🌱💡 Termo de Fomento
 
 ## 📌 Definição:
 Instrumento jurídico para formalizar parcerias entre a administração pública e organizações da sociedade civil, com transferência de recursos financeiros, para consecução de finalidades de interesse público e recíproco **propostas pelas organizações da sociedade civil** (art. 2º, inciso VIII da Lei 13.019/2014).
