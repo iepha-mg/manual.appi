@@ -235,7 +235,7 @@ flowchart TD
     Z1 --> M1@{ shape: hex, label: "Realizar reunião trimestral da Comissão de Avaliação (arts. 52 e 53 do Decreto)" }
     M1 --> M2@{ shape: hex, label: "Publicar Relatório de Avaliação (art. 53 do Decreto)" }
     M2 --> N1@{ shape: diamond, label: "Metas atingidas?" }
-    N1 -->|Sim| O1@{ shape: rounded, label: "Receber prestação de contas em até 90 dias (art. 62 do Decreto)" }
+    N1 -->|Sim| O1@{ shape: rounded, label: "Receber prestação de contas em até 90 dias após fim do ano (art. 65 do Decreto)" }
     N1 -->|Não| N2@{ shape: diamond, label: "Há justificativa formal e coerente? (art. 71, V do Decreto)" }
     N2 -->|Sim| O1
     N2 -->|Não| P1@{ shape: rect, label: "Instaurar processo administrativo (art. 71, §§ 3º, 4º e 5º do Decreto)" }
@@ -244,8 +244,7 @@ flowchart TD
     P2 -->|Sim| P3@{ shape: rect, label: "Rescindir o Termo de Parceria unilateralmente (art. 71 do Decreto) e verificar hipótese de continuidade do serviço público (art. 72 do Decreto)" }
     P3 --> FIM
     %% Prestação de contas
-    O1 --> Z2@{ shape: rounded, label: "Receber prestação de contas anual em até 90 dias após fim do ano (art. 65 do Decreto)" }
-    Z2 --> Q1@{ shape: rounded, label: "Emitir parecer em até 40 dias úteis (art. 65, §1º do Decreto)" } 
+    O1 --> Q1@{ shape: rounded, label: "Emitir parecer em até 40 dias úteis (art. 65, §1º do Decreto)" } 
     Q1 --> Q2@{ shape: diamond, label: "Há irregularidades?" }
     Q2 -->|Não| Q3@{ shape: stadium, label: "Supervisor: elaborar parecer conclusivo e encaminhar para o dirigente máximo (art. 66 do Decreto)" }
     Q2 -->|Sim| Q4@{ shape: rounded, label: "Notificar OSCIP para apresentação de justificativa ou saneamento das irregularidades em até 15 dias úteis (art. 65, §2º do Decreto)" }
