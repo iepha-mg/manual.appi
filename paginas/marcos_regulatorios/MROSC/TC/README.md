@@ -1,4 +1,4 @@
-# 🤝 Termo de Colaboração
+# 🏛️💡 Termo de Colaboração
 
 ## 📌 Definição:
 Instrumento jurídico para formalizar parcerias entre a administração pública e organizações da sociedade civil, com transferência de recursos financeiros, para consecução de finalidades de interesse público e recíproco **propostas pela administração pública** (art. 2º, inciso VII da Lei 13.019/2014).
