@@ -161,15 +161,13 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-%% Etapas iniciais
+    %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar Contrato de Gestão" } --> B@{ shape: rect, label: "Solicitar estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto)" }
     B --> C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
     C -->|Não| FIM
     C -->|Sim| D@{ shape: diamond, label: "Necessita seleção pública? (art. 60 da Lei e art. 24 do Decreto)" }
-    D -->|Sim| E1@{ shape: lean-r, label: "Elaborar edital e minuta do Contrato de Gestão (arts. 12 e 31 do Decreto)" }
-    D -->|Não| F1@{ shape: rect, label: "Instruir justificativa de dispensa de seleção pública (art. 60 da Lei e art. 24 do Decreto)" }
-    %% Fluxo COM seleção pública (concorrência)
-    subgraph SELEÇÃO_PÚBLICA
+    D -->|Sim| subgraph "Seleção Pública"
+        E1@{ shape: lean-r, label: "Elaborar edital e minuta do Contrato de Gestão (arts. 12 e 31 do Decreto)" }
         E1 --> E2@{ shape: diamond, label: "Minutas validadas?" }
         E2 -->|Não| E1
         E2 -->|Sim| E3@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
@@ -184,10 +182,9 @@ flowchart TD
         E11 --> E12@{ shape: odd, label: "Recursos: 5 dias úteis (art. 21 do Decreto)" }
         E12 --> E13@{ shape: rounded, label: "Publicação do resultado final (art. 22 do Decreto)" }
         E13 --> E14@{ shape: rect, label: "Convocar entidade vencedora ou segundo lugar, se for o caso (art. 22, §2º e art. 23 do Decreto)" }
-        E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho e memória de cálculo (arts. 32 e 33 do Decreto)" }
     end
-    %% Fluxo SEM seleção pública (dispensa)
-    subgraph DISPENSA
+    D -->|Não| subgraph "Dispensa"
+        F1@{ shape: rect, label: "Instruir justificativa de dispensa de seleção pública (art. 60 da Lei e art. 24 do Decreto)" }
         F1 --> F2@{ shape: lean-r, label: "Desenvolver minuta do Contrato de Gestão (arts. 24, 27 e 35, §1º do Decreto)" }
         F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
         F3 -->|Não| F2
@@ -197,15 +194,16 @@ flowchart TD
         F6 --> F7@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
         F7 --> F8@{ shape: rounded, label: "Publicar extrato de inviabilidade de competição (art. 27, parágrafo único do Decreto)" }
         F8 --> F9@{ shape: rounded, label: "Receber e analisar eventuais recursos de impugnação à inviabilidade de competição, com prazo de 5 dias úteis (art. 29 do Decreto)" }
-        F9 --> G1@{ shape: rect, label: "Elaborar programa de trabalho e memória de cálculo (arts. 32 e 33 do Decreto)" }
     end
-    %% Celebração
+    E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho e memória de cálculo (arts. 32 e 33 do Decreto)" }
+    F9 --> G1
+    %% Celebração e execução
     G1 --> H1@{ shape: rounded, label: "Providenciar manifestação (não vinculativa) do CONEP (art. 34 do Decreto)" }
     H1 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 35 do Decreto)" }
     I1 --> J1@{ shape: rounded, label: "Providenciar nota técnica da Seplag (art. 36 do Decreto)" }
     J1 --> K1@{ shape: rect, label: "Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)" }
-    K1 --> K2@{ shape: rounded, label: "Instituir Comissão de Monitoramento (art. 46 do Decreto)" }
-    K2 --> K3@{ shape: rounded, label: "Instituir Comissão de Avaliação (art. 54 do Decreto)" }
+    K1 --> K2@{ shape: rect, label: "Instituir Comissão de Monitoramento (art. 46 do Decreto)" }
+    K2 --> K3@{ shape: rect, label: "Instituir Comissão de Avaliação (art. 54 do Decreto)" }
     K3 --> L1@{ shape: stadium, label: "Realizar checagens amostrais trimestrais (art. 49, VI do Decreto)" }
     L1 --> L2@{ shape: stadium, label: "Elaborar relatório de monitoramento (art. 52 do Decreto)" }
     L2 --> L3@{ shape: stadium, label: "Publicar Relatório Gerencial de Resultados, Relatório Gerencial Financeiro (encaminhados pela OS) e Relatório de Monitoramento no site do IEPHA-MG (art. 53 do Decreto)" }
@@ -228,7 +226,6 @@ flowchart TD
     Q2 -->|Sim| Q4@{ shape: rounded, label: "Notificar OS para apresentação de justificativa ou saneamento das irregularidades em até 30 dias úteis (art. 68, § 2º do Decreto)" }
     Q4 --> Q5@{ shape: rounded, label: "Analisar justificativas ou saneamento de irregularidades em até 20 dias úteis e encaminhar novo parecer ao Supervisor (art. 68, § 3º do Decreto)" }
     Q5 --> Q3
-    %% Decisão conclusiva
     Q3 --> R1@{ shape: rect, label: "Dirigente máximo: aprovar ou reprovar as contas (art. 70 do Decreto)" }
     R1 --> R2@{ shape: diamond, label: "Contas aprovadas?" }
     R2 -->|Sim| FIM
@@ -236,9 +233,6 @@ flowchart TD
     R3 --> FIM
     R2 -->|Reprovação| R4@{ shape: rect, label: "Iniciar PACE-Parcerias (art. 70, § 3º do Decreto)" }
     R4 --> FIM
-    %% Ligações entre blocos principais
-    E14 -.->|Continuidade| G1
-    F9 -.->|Continuidade| G1
     classDef lean-r fill:#dae8fc,stroke:#6c8ebf;
     classDef rect fill:#fff2cc,stroke:#b7b700;
     classDef rounded fill:#e1d5e7,stroke:#9673a6,stroke-width:2px,stroke-dasharray:1,4;
