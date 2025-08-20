@@ -1,4 +1,4 @@
-# 🤝 Termo de Parceria (OSCIP)
+# 👥 Termo de Parceria (OSCIP)
 
 ## 📌 Definição
 O **Termo de Parceria** é o instrumento firmado entre a administração pública estadual e a entidade qualificada como Organização da Sociedade Civil de Interesse Público (OSCIP) para fomento e execução de atividades relativas às áreas de interesse público, estabelecendo parceria com vistas à promoção da qualidade e eficiência na prestação dos serviços públicos (Lei Estadual nº 23.081/2018, art. 2º, IV; Decreto nº 47.554/2018, art. 29).
@@ -32,7 +32,6 @@ O **Termo de Parceria** é o instrumento firmado entre a administração públic
 - OSCIP possui autonomia na gestão dos recursos dentro do objeto pactuado
 - Possibilidade de remanejamento entre subcategorias de despesas (exceto pessoal)
 - Aplicação de rendimentos obtidos diretamente no objeto da parceria
-- Possibilidade de celebração simultânea de múltiplos termos de parceria
 
 ## ❌ Não pode
 ⚠️ **Proibições absolutas:**
