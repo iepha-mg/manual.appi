@@ -1,4 +1,4 @@
-# 🤝 Marco Regulatório das Organizações da Sociedade Civil (MROSC)
+# 🌐 Marco Regulatório das Organizações da Sociedade Civil (MROSC)
 
 <img 
     src="https://github.com/user-attachments/assets/89c112fd-90e5-47c9-92a2-f2d861cff87e" 
