@@ -128,7 +128,7 @@ flowchart LR
 | Dano ao erário ou a falta de comprovação total ou parcial da aplicação de recursos do contrato de gestão             | Reprovação das contas (art. 70, III, do Decreto)  | Instaurar PACE-Parcerias (art. 70, §3º do Decreto) |
 
 ## 🔍 Monitoramento e avaliação
-O **gestor da parceria** deve (art. 47 do Decreto):
+O **Supervisor do Contrato de Gestão** deve (art. 47 do Decreto):
 - Presidir a Comissão de Monitoramento
 - Acompanhar e fiscalizar a execução
 - Emitir relatórios técnicos de monitoramento
@@ -161,6 +161,8 @@ Modelos e minutas do Estado podem ser encontrados em uma página especial do [Po
 - [Modelo de Relatório de Monitoramento](https://www.mg.gov.br/planejamento/documento/modelo-de-relatorio-de-monitoramento-0)
 - [Modelo de Relatório de Avaliação dos Resultados](https://www.mg.gov.br/planejamento/documento/modelo-de-relatorio-de-avaliacao-dos-resultados)
 - [Modelo de extrato de análise de prestação de contas](https://www.mg.gov.br/planejamento/documento/modelo-de-extrato-de-analise-de-prestacao-de-contas-0)
+- [Página sobre o Contrato de Gestão nº 05/2019 - Fundação Clóvis Salgado - FCS e Associação Pró Cultura e Promoção das Artes - APPA](https://fcs.mg.gov.br/contrato-de-gestao-termo-de-parceria/), atualmente vigente
+- [Página sobre o Contrato de Gestão nº 06/2020 – Secretaria de Estado de Cultura e Turismo – SECULT e Instituto Cultural Filarmônica - ICF](https://www.secult.mg.gov.br/documentos-administrativos/contratos-de-gestao), atualmente vigente
 
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas do Contrato de Gestão
 
