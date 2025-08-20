@@ -86,9 +86,10 @@ flowchart LR
 | Etapa                           | Prazo                      | Base Legal               |
 |----------------------------------|----------------------------|--------------------------|
 | Apresentação de propostas       | 15 dias úteis         | Art. 12, §3º do Decreto       |
-| Recursos                        | 5 dias úteis               | Art. 21, §1º do Decreto  |
-| Prestação de contas (OS)        | Até 90 dias após competência/fim anual | Art. 68 do Decreto  |
-| Análise da prestação de contas   | Até 20 dias úteis               | Art. 68, §1º do Decreto       |
+| Apresentação de Recursos        | 5 dias úteis               | Art. 21, §1º do Decreto  |
+| Análise de Recursos             | 5 dias úteis               | Art. 21, §2º do Decreto  |
+| Prestação de contas (OS)        | Até 90 dias após competência/extinção | Art. 68 do Decreto  |
+| Análise da prestação de contas  | Até 20 dias úteis               | Art. 68, §1º do Decreto       |
 
 ## 📝 Plano de trabalho
 **Deve conter:** (art. 32 do Decreto)
