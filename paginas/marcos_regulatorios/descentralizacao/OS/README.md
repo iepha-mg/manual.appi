@@ -52,25 +52,25 @@ Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispens
 <div class="mermaid">
 flowchart LR
     subgraph Publicação
-        A1["Solicitar estudo de viabilidade à Seplag (art. 10 da Lei)"]
-        A2["Elaborar edital e minuta de Contrato de Gestão (arts. 12 e 31 §1 do Decreto)"]
-        A3["Análise técnica e jurídica (art. 12, §6º do Decreto)"]
-        A4["Constituir Comissão Julgadora (art. 17)"]
-        A5["Publicar edital e receber propostas"]
+        A1["Solicitar estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto)"]
+        A2["Elaborar edital e minuta de Contrato de Gestão (arts. 12 e 31 do Decreto)"]
+        A3["Análise jurídica (art. 64 da Lei e art. 12, §6º do Decreto)"]
+        A4["Constituir Comissão Julgadora (art. 17 do Decreto)"]
+        A5["Publicar edital e receber propostas (arts. 12, 19 e 20 do Decreto"]
         A1 --> A2 --> A3 --> A4 --> A5
     end
     subgraph Julgamento
         B1["Julgar propostas (art. 20 do Decreto)"]
         B2["Homologar resultado (art. 21 e art. 22 do Decreto)"]
         B3["Prazo para recursos: 5 dias úteis (art. 21 do Decreto)"]
-        B4["Decisão final e publicação (arts. 22 do Decreto)"]
+        B4["Decisão final e publicação (art. 22 do Decreto)"]
         B1 --> B2 --> B3 --> B4
     end
     subgraph Celebração
-        C1["Verificar habilitação/documentos da OS (art. 35 do Decreto)"]
+        C1["Verificar documentos da OS (art. 35 do Decreto)"]
         C2["Elaborar programa de trabalho e memória de cálculo (art. 32 e art. 33 do Decreto)"]
-        C3["Solicitar manifestação do CONEP (art. 34 do Decreto)"]
-        C4["Emitir nota técnica da Seplag (art. 36 do Decreto)"]
+        C3["Solicitar manifestação (não vinculativa) do CONEP (art. 34 do Decreto)"]
+        C4["Receber nota técnica favorável da Seplag (art. 36 do Decreto)"]
         C5["Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)"]
         C1 --> C2 --> C3 --> C4 --> C5
     end
@@ -154,83 +154,99 @@ flowchart TD
     C_LEG@{ shape: rounded, label: "Setor de Contratos e Convênios" }
     D_LEG@{ shape: trap-b, label: "Assessoria Jurídica" }
     E_LEG@{ shape: odd, label: "Comissão Julgadora" }
-    F_LEG@{ shape: hex, label: "Gestores da Parceria" }
     G_LEG@{ shape: stadium, label: "Comissão de Monitoramento" }
-    H_LEG@{ shape: lean-r, label: "Comissão de Avaliação" }
+    H_LEG@{ shape: hex, label: "Comissão de Avaliação" }
     I_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
 </div>
 
 <div class="mermaid">
 flowchart TD
-    %% Etapas iniciais
-    A@{ shape: lean-r, label: "Solicitar Contrato de Gestão" } --> B@{ shape: diamond, label: "Demanda alinhada ao planejamento?" }
-    B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada" }
-    C --> FIM
-    B -->|Sim| D@{ shape: rect, label: "Solicitar estudo de viabilidade à Seplag (art. 10 da Lei)" }
-    D --> E@{ shape: diamond, label: "Necessita seleção pública? (arts. 58 e 60 da Lei)" }
-    %% Fluxo COM seleção pública
-    E -->|Sim| F@{ shape: rect, label: "Elaborar edital e minuta do Contrato de Gestão (arts. 12 e 31, §1º do Decreto)" }
-    F --> G@{ shape: trap-b, label: "Análise técnica e jurídica (art. 12, §6º do Decreto)" }
-    G --> H@{ shape: rounded, label: "Constituir Comissão Julgadora (art. 17 do Decreto)" }
-    H --> I@{ shape: rect, label: "Publicar edital (mín. 15 dias úteis) (art. 12, §3º do Decreto)" }
-    I --> J@{ shape: odd, label: "Receber propostas das OS (art. 18 do Decreto)" }
-    J --> K@{ shape: odd, label: "Julgamento das propostas (art. 20 do Decreto)" }
-    K --> L@{ shape: rounded, label: "Homologação do resultado (arts. 21 e 22 do Decreto)" }
-    L --> M@{ shape: odd, label: "Recursos: 5 dias úteis (art. 21, §1º do Decreto)" }
-    M --> N@{ shape: rounded, label: "Decisão de recursos e publicação do resultado final (art. 22 do Decreto)" }
-    N --> O@{ shape: rounded, label: "Verificação de habilitação e documentos (art. 35 do Decreto)" }
-    O --> P@{ shape: diamond, label: "OS habilitada?" }
-    P -->|Não| Q@{ shape: rounded, label: "Convocar próxima classificada (art. 22, §5º do Decreto)" }
-    Q --> O
-    P -->|Sim| R@{ shape: rounded, label: "Elaborar programa de trabalho e memória de cálculo (arts. 32 e 33 do Decreto)" }
-    %% Fluxo SEM seleção pública (dispensa legal)
-    E -->|Não| S@{ shape: rect, label: "Justificar dispensa de seleção pública (art. 60 da Lei)" }
-    S --> T@{ shape: rect, label: "Desenvolver minuta do Contrato de Gestão" }
-    T --> U@{ shape: trap-b, label: "Análise jurídica" }
-    U --> V@{ shape: rounded, label: "Verificar habilitação e documentos (art. 35 do Decreto)" }
-    V --> W@{ shape: diamond, label: "OS habilitada?" }
-    W -->|Não| C
-    W -->|Sim| R
+%% Etapas iniciais
+    A@{ shape: lean-r, label: "Solicitar Contrato de Gestão" } --> B@{ shape: rect, label: "Solicitar estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto)" }
+    B --> C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
+    C -->|Não| FIM
+    C -->|Sim| D@{ shape: diamond, label: "Necessita seleção pública? (art. 60 da Lei e art. 24 do Decreto)" }
+    D -->|Sim| E1@{ shape: lean-r, label: "Elaborar edital e minuta do Contrato de Gestão (arts. 12 e 31 do Decreto)" }
+    D -->|Não| F1@{ shape: rect, label: "Instruir justificativa de dispensa de seleção pública (art. 60 da Lei e art. 24 do Decreto)" }
+    %% Fluxo COM seleção pública (concorrência)
+    subgraph SELEÇÃO_PÚBLICA
+        E1 --> E2@{ shape: diamond, label: "Minutas validadas?" }
+        E2 -->|Não| E1
+        E2 -->|Sim| E3@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
+        E3 --> E4@{ shape: rounded, label: "Instruir processo no SEI" }
+        E4 --> E5@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 64 da Lei e art. 12, §6º do Decreto)" }
+        E5 --> E6@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+        E6 --> E7@{ shape: rounded, label: "Constituir Comissão Julgadora (art. 17 do Decreto)" }
+        E7 --> E8@{ shape: rect, label: "Publicar edital (mín. 15 dias úteis) (art. 12, §3º do Decreto)" }
+        E8 --> E9@{ shape: odd, label: "Receber propostas das OS (arts. 19 e 20 do Decreto)" }
+        E9 --> E10@{ shape: odd, label: "Julgamento das propostas (art. 20 do Decreto)" }
+        E10 --> E11@{ shape: rounded, label: "Homologação do resultado (arts. 21 e 22 do Decreto)" }
+        E11 --> E12@{ shape: odd, label: "Recursos: 5 dias úteis (art. 21 do Decreto)" }
+        E12 --> E13@{ shape: rounded, label: "Publicação do resultado final (art. 22 do Decreto)" }
+        E13 --> E14@{ shape: rect, label: "Convocar entidade vencedora ou segundo lugar, se for o caso (art. 22, §2º e art. 23 do Decreto)" }
+        E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho e memória de cálculo (arts. 32 e 33 do Decreto)" }
+    end
+    %% Fluxo SEM seleção pública (dispensa)
+    subgraph DISPENSA
+        F1 --> F2@{ shape: lean-r, label: "Desenvolver minuta do Contrato de Gestão (arts. 24, 27 e 35, §1º do Decreto)" }
+        F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
+        F3 -->|Não| F2
+        F3 -->|Sim| F4@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
+        F4 --> F5@{ shape: rounded, label: "Instruir processo no SEI" }
+        F5 --> F6@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 64 da Lei e art. 27, XV do Decreto)" }
+        F6 --> F7@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+        F7 --> F8@{ shape: rounded, label: "Publicar extrato de inviabilidade de competição (art. 27, parágrafo único do Decreto)" }
+        F8 --> F9@{ shape: rounded, label: "Receber e analisar eventuais recursos de impugnação à inviabilidade de competição, com prazo de 5 dias úteis (art. 29 do Decreto)" }
+        F9 --> G1@{ shape: rect, label: "Elaborar programa de trabalho e memória de cálculo (arts. 32 e 33 do Decreto)" }
+    end
     %% Celebração
-    R --> X@{ shape: rounded, label: "Manifestação do CONEP, se aplicável (art. 34 do Decreto)" }
-    X --> Y@{ shape: rounded, label: "Nota técnica da Seplag (art. 36 do Decreto)" }
-    Y --> Z@{ shape: rect, label: "Designar Gestores da Parceria (art. 41, VI do Decreto)" }
-    Z --> AA@{ shape: rect, label: "Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)" }
-    %% Execução e monitoramento
-    AA --> AB@{ shape: stadium, label: "Instituir Comissão de Monitoramento (art. 46 do Decreto)" }
-    AB --> AC@{ shape: stadium, label: "Instituir Comissão de Avaliação (art. 54 do Decreto)" }
-    AC --> AD@{ shape: hex, label: "Gestor acompanha execução e emite relatórios (art. 47 do Decreto)" }
-    AD --> AE@{ shape: stadium, label: "Comissão de Monitoramento realiza checagens amostrais (art. 46 do Decreto)" }
-    AE --> AF@{ shape: stadium, label: "Comissão de Avaliação reúne-se trimestralmente (art. 54 do Decreto)" }
-    AF --> AG@{ shape: diamond, label: "Metas/indicadores atingidos?" }
-    AG -->|Sim| AH@{ shape: hex, label: "Relatórios gerenciais trimestrais apresentados (art. 50 do Decreto)" }
-    AH --> AE
-    AG -->|Parcialmente| AI@{ shape: hex, label: "Ajustes operacionais e medidas corretivas" }
-    AI --> AE
-    AG -->|Não| AJ@{ shape: hex, label: "Aplicar sanções/medidas (arts. 81 e seguintes do Decreto)" }
-    AJ --> AK@{ shape: diamond, label: "Qual a sanção?" }
-    AK -->|Advertência| AI
-    AK -->|Rescisão| AL@{ shape: rect, label: "Rescindir contrato (conforme normas aplicáveis)" }
-    AL --> FIM
+    G1 --> H1@{ shape: rounded, label: "Providenciar manifestação (não vinculativa) do CONEP (art. 34 do Decreto)" }
+    H1 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 35 do Decreto)" }
+    I1 --> J1@{ shape: rounded, label: "Providenciar nota técnica da Seplag (art. 36 do Decreto)" }
+    J1 --> K1@{ shape: rect, label: "Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)" }
+    K1 --> K2@{ shape: rounded, label: "Instituir Comissão de Monitoramento (art. 46 do Decreto)" }
+    K2 --> K3@{ shape: rounded, label: "Instituir Comissão de Avaliação (art. 54 do Decreto)" }
+    K3 --> L1@{ shape: stadium, label: "Realizar checagens amostrais trimestrais (art. 49, VI do Decreto)" }
+    L1 --> L2@{ shape: stadium, label: "Elaborar relatório de monitoramento (art. 52 do Decreto)" }
+    L2 --> L3@{ shape: stadium, label: "Publicar Relatório Gerencial de Resultados, Relatório Gerencial Financeiro (encaminhados pela OS) e Relatório de Monitoramento no site do IEPHA-MG (art. 53 do Decreto)" }
+    L3 --> L4@{ shape: stadium, label: "Encaminhar relatório de Monitoramento para Comissão de Avaliação, 5 dias úteis antes da reunião (art. 55, § 4º do Decreto)" }
+    L4 --> M1@{ shape: hex, label: "Realizar reunião trimestral da Comissão de Avaliação (arts. 54 e 55 do Decreto)" }
+    M1 --> M2@{ shape: hex, label: "Publicar Relatório de Avaliação (art. 56 do Decreto)" }
+    M2 --> N1@{ shape: diamond, label: "Metas atingidas?" }
+    N1 -->|Sim| O1@{ shape: rounded, label: "Receber prestação de contas anual em até 90 dias após fim do ano (arts 66, 67 e 68 do Decreto)" }
+    N1 -->|Não| N2@{ shape: diamond, label: "Há justificativa formal e coerente? (art. 74, V do Decreto)" }
+    N2 -->|Sim| O1
+    N2 -->|Não| P1@{ shape: rect, label: "Instaurar processo administrativo (art. 74, §§ 3º, 4º e 5º do Decreto)" }
+    P1 --> P2@{ shape: diamond, label: "Processo administrativo recomenda rescisão unilateral do Contrato de Gestão? (art. 74, § 2º do Decreto)" }
+    P2 -->|Não| O1
+    P2 -->|Sim| P3@{ shape: rect, label: "Rescindir o Contrato de Gestão unilateralmente (art. 74 do Decreto) e verificar hipótese de continuidade do serviço público (art. 75 do Decreto)" }
+    P3 --> FIM
     %% Prestação de contas
-    AF --> AM@{ shape: rounded, label: "OS apresenta prestação de contas anual (art. 67 do Decreto)" }
-    AM --> AN@{ shape: hex, label: "Analisar prestação de contas até 20 dias úteis (art. 68, §1º do Decreto)" }
-    AN --> AO@{ shape: diamond, label: "Análise da prestação de contas" }
-    AO -->|Atingidas| AP@{ shape: hex, label: "Aprovação (art. 70, I do Decreto)" } --> AQ@{ shape: stadium, label: "Homologação pela Comissão competente" }
-    AQ --> AE
-    AO -->|Parcialmente| AR@{ shape: hex, label: "Aprovação com ressalvas (art. 70, II do Decreto)" }
-    AR --> AS@{ shape: stadium, label: "Homologação com ressalvas" }
-    AS --> AE
-    AO -->|Atingidas| AT@{ shape: hex, label: "Reprovação e devolução de recursos (art. 70, III do Decreto)" }
-    AT --> AU@{ shape: rect, label: "Aplicar sanções e recuperar recursos (arts. 81 e seguintes do Decreto)" }
-    AU --> FIM
-    %% Encerramento
-    AE --> AV@{ shape: diamond, label: "Fim da vigência?" }
-    AV -->|Não| AE
-    AV -->|Sim| AW@{ shape: rounded, label: "Prestação de contas de extinção (art. 67 do Decreto)" }
-    AW --> AX@{ shape: hex, label: "Avaliação final pela Comissão de Avaliação (art. 54 do Decreto)" }
-    AX --> AY@{ shape: rect, label: "Encerrar contrato e devolver bens/saldos (normas aplicáveis)" }
-    AY --> FIM
+    O1 --> Q1@{ shape: rounded, label: "Emitir parecer em até 20 dias úteis (art. 68, § 1º do Decreto)" }
+    Q1 --> Q2@{ shape: diamond, label: "Há irregularidades?" }
+    Q2 -->|Não| Q3@{ shape: stadium, label: "Supervisor: elaborar parecer conclusivo da prestação de contas e encaminhar para o dirigente máximo (art. 69 do Decreto)" }
+    Q2 -->|Sim| Q4@{ shape: rounded, label: "Notificar OS para apresentação de justificativa ou saneamento das irregularidades em até 30 dias úteis (art. 68, § 2º do Decreto)" }
+    Q4 --> Q5@{ shape: rounded, label: "Analisar justificativas ou saneamento de irregularidades em até 20 dias úteis e encaminhar novo parecer ao Supervisor (art. 68, § 3º do Decreto)" }
+    Q5 --> Q3
+    %% Decisão conclusiva
+    Q3 --> R1@{ shape: rect, label: "Dirigente máximo: aprovar ou reprovar as contas (art. 70 do Decreto)" }
+    R1 --> R2@{ shape: diamond, label: "Contas aprovadas?" }
+    R2 -->|Sim| FIM
+    R2 -->|Ressalvas| R3@{ shape: rect, label: "Promover representação ao TCEMG (art. 70, § 2º do Decreto)" }
+    R3 --> FIM
+    R2 -->|Reprovação| R4@{ shape: rect, label: "Iniciar PACE-Parcerias (art. 70, § 3º do Decreto)" }
+    R4 --> FIM
+    %% Ligações entre blocos principais
+    E14 -.->|Continuidade| G1
+    F9 -.->|Continuidade| G1
+    classDef lean-r fill:#dae8fc,stroke:#6c8ebf;
+    classDef rect fill:#fff2cc,stroke:#b7b700;
+    classDef rounded fill:#e1d5e7,stroke:#9673a6,stroke-width:2px,stroke-dasharray:1,4;
+    classDef trap-b fill:#f8cecc,stroke:#b85450;
+    classDef odd fill:#d5e8d4,stroke:#82b366;
+    classDef hex fill:#ffe6cc,stroke:#b97a57,stroke-width:2px;
+    classDef stadium fill:#c9daf8,stroke:#3c78d8;
+    classDef diamond fill:#f9cb9c,stroke:#b45f06;
 </div>
 
 <script type="module">
