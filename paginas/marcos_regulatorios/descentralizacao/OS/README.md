@@ -26,12 +26,16 @@ O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria en
 - Aquisição de materiais, equipamentos e serviços necessários à execução do objeto
 - Despesas de custeio e investimentos necessários à execução do objeto
 - Divulgação das atividades e resultados do Contrato de Gestão
-- Outras despesas previstas no plano de trabalho aprovado
+- Contratação de obras, serviços e consultorias (com aprovação prévia)
+- Outras despesas previstas no plano de trabalho e na memória de cálculo aprovados
 
 **Facilidades administrativas:**
-- OS tem autonomia gerencial e financeira
+- OS possui autonomia na gestão dos recursos dentro do objeto pactuado
+- Possibilidade de remanejamento entre subcategorias de despesas (exceto pessoal)
+- Aplicação de rendimentos obtidos diretamente no objeto da parceria
 - Possibilidade de atualização do plano de trabalho mediante aditivo (art. 61 do Decreto)
 - Aplicação de rendimentos obtidos diretamente no objeto da parceria (art. 86 do Decreto)
+- Possibilidade de celebração simultânea de múltiplos termos de parceria
 
 ## ❌ Não pode
 ⚠️ **Proibições absolutas:**
