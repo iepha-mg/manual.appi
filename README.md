@@ -72,4 +72,6 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 
 <img src="https://github.com/user-attachments/assets/057d28f0-49d2-4ae5-be0c-ade12d75867b">
 
+---
+
 _Foto: Igreja Matriz de Santa Efigênia, Ouro Preto (MG)_
