@@ -217,7 +217,7 @@ flowchart TD
         F5 --> F6@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 64 da Lei e art. 27, XV do Decreto)" }
         F6 --> F7@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
         F7 --> F8@{ shape: rounded, label: "Publicar extrato de inviabilidade de competição (art. 27, parágrafo único do Decreto)" }
-        F8 --> F9@{ shape: rounded, label: "Receber e analisar eventuais recursos de impugnação à inviabilidade de competição, com prazo de 5 dias úteis (art. 29 do Decreto)" }
+        F8 --> F9@{ shape: rect, label: "Receber e analisar eventuais recursos de impugnação à inviabilidade de competição, com prazo de 5 dias úteis (art. 29 do Decreto)" }
     end
     %% Elaboração do programa de trabalho - comum para ambos fluxos
     E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho e memória de cálculo (arts. 32 e 33 do Decreto)" }
