@@ -114,6 +114,12 @@ flowchart LR
 6. Balanço patrimonial e demonstração de resultados do exercício
 
 ### 👮 Análise da prestação de contas
+- A OS deverá encaminhar ao OEP a prestação de contas anual em até 90 dias corridos após o término de cada exercício (art. 68 do Decreto)
+- A área de prestação de contas do IEPHA-MG deverá analisar e emitir parecer em até 20 dias úteis a partir do recebimento (art. 68, § 1º do Decreto)
+- Caso haja irregularidades, o IEPHA-MG deve notificar a OS, que terá 30 dias úteis para justificar ou sanear irregularidades (art. 68, § 2º do Decreto)
+- Recebida a resposta da OS, as áreas técnicas competentes e a área de prestação de contas deverá complementar o parecer em até 20 dias úteis (art. 68, § 3º do Decreto)
+- Então, o Supervisor do Contrato de Gestão deverá elaborar um parecer conclusivo sobre a prestação de contas e o enviar ao dirigente máximo do IEPHA-MG (art. 69 do Decreto)
+- Finalmente, o Dirigente Máximo terá 10 dias úteis para aprovar as contas com ou sem ressalvas, ou reprovar as contas (art. 70 do Decreto)
 
 | **Situação**                    | **Ato do Dirigente Máximo**       | **Resultado**               |
 |---------------------------------|-----------------------------------|-----------------------------|
