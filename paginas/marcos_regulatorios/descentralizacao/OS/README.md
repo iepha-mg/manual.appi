@@ -209,7 +209,7 @@ flowchart TD
     %% Dispensa
     subgraph dis ["Dispensa"]
         F1@{ shape: rect, label: "Instruir justificativa de dispensa de seleção pública (art. 60 da Lei e art. 24 do Decreto)" }
-        F1 --> F2@{ shape: lean-r, label: "Desenvolver minuta do Contrato de Gestão (arts. 24, 27 e 35, §1º do Decreto)" }
+        F1 --> F2@{ shape: rect, label: "Desenvolver minuta do Contrato de Gestão (arts. 24, 27 e 35, §1º do Decreto)" }
         F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
         F3 -->|Não| F2
         F3 -->|Sim| F4@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
