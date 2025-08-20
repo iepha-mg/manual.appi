@@ -197,18 +197,18 @@ flowchart TD
         E4 --> E5@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 10, §6º do Decreto)" }
         E5 --> E6@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
         E6 --> E7@{ shape: rounded, label: "Constituir Comissão Julgadora (art. 15 do Decreto)" }
-        E7 --> E8@{ shape: rect, label: "Publicar edital (mín. 10 dias úteis) (art. 10, §3º do Decreto)" }
+        E7 --> E8@{ shape: rect, label: "Publicar edital (mín. 15 dias úteis) (Art. 10, §3º e Art. 12, §1º do Decreto)" }
         E8 --> E9@{ shape: odd, label: "Receber propostas das OSCIPs (art. 17 e 18 do Decreto)" }
         E9 --> E10@{ shape: odd, label: "Julgamento das propostas (art. 18 do Decreto)" }
-        E10 --> E11@{ shape: rounded, label: "Homologação do resultado (art. 20 do Decreto)" }
+        E10 --> E11@{ shape: rounded, label: "Publicação do resultado (art. 19 do Decreto)" }
         E11 --> E12@{ shape: odd, label: "Recursos: 5 dias úteis (art. 19 do Decreto)" }
-        E12 --> E13@{ shape: rounded, label: "Publicação do resultado final (art. 20 do Decreto)" }
-        E13 --> E14@{ shape: rect, label: "Convocar entidade vencedora ou segunda colocada (art. 20, §2º do Decreto)" }
+        E12 --> E13@{ shape: rounded, label: "Homologação do resultado final (art. 20 do Decreto)" }
+        E13 --> E14@{ shape: rect, label: "Convocar entidade vencedora ou segunda colocada (art. 20, §§ 1º e 2º do Decreto)" }
     end
     %% Dispensa
     subgraph dis ["Dispensa"]
         F1@{ shape: rect, label: "Instruir justificativa de dispensa (art. 17 da Lei e art. 22 do Decreto)" }
-        F1 --> F2@{ shape: lean-r, label: "Desenvolver minuta do Termo de Parceria (art. 25 do Decreto)" }
+        F1 --> F2@{ shape: rect, label: "Desenvolver minuta do Termo de Parceria (art. 25 do Decreto)" }
         F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
         F3 -->|Não| F2
         F3 -->|Sim| F4@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
@@ -216,38 +216,40 @@ flowchart TD
         F5 --> F6@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 22, XIV do Decreto)" }
         F6 --> F7@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
         F7 --> F8@{ shape: rounded, label: "Publicar extrato de dispensa (art. 22, parágrafo único do Decreto)" }
-        F8 --> F9@{ shape: rounded, label: "Receber e analisar eventuais impugnações: 5 dias úteis (art. 24 do Decreto)" }
+        F8 --> F9@{ shape: rect, label: "Receber e analisar eventuais impugnações: 5 dias úteis (art. 24 do Decreto)" }
     end
     %% Elaboração do programa de trabalho - comum para ambos fluxos
     E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho e memória de cálculo (arts. 30 e 31 do Decreto)" }
     F9 --> G1
     %% Celebração
-    G1 --> H1@{ shape: rounded, label: "Providenciar manifestação do conselho de políticas públicas (art. 32 do Decreto)" }
+    G1 --> H1@{ shape: rounded, label: "Providenciar manifestação (não vinculativa) do conselho de políticas públicas (art. 32 do Decreto)" }
     H1 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 33 do Decreto)" }
     I1 --> J1@{ shape: rounded, label: "Providenciar aprovação da Seplag e Cofin (arts. 34 e 35 do Decreto)" }
     J1 --> K1@{ shape: rect, label: "Assinar Termo de Parceria e publicar extrato (art. 22, §1º da Lei)" }
-    K1 --> K2@{ shape: rect, label: "Instituir Comissão Supervisora (art. 42 do Decreto)" }
+    K1 --> K2@{ shape: rect, label: "Instituir Comissão Supervisora (art. 43 do Decreto)" }
     K2 --> K3@{ shape: rect, label: "Instituir Comissão de Avaliação (art. 51 do Decreto)" }
     K3 --> L1@{ shape: stadium, label: "Realizar checagens amostrais (art. 46 do Decreto)" }
     L1 --> L2@{ shape: stadium, label: "Elaborar relatório de monitoramento (art. 50 do Decreto)" }
-    L2 --> L3@{ shape: stadium, label: "Publicar Relatórios Gerenciais e de Monitoramento no site do IEPHA-MG" }
-    L3 --> M1@{ shape: hex, label: "Realizar reunião trimestral da Comissão de Avaliação (art. 52 do Decreto)" }
-    M1 --> M2@{ shape: hex, label: "Publicar Relatório de Avaliação (art. 54 do Decreto)" }
+    L2 --> L3@{ shape: stadium, label: "Publicar Relatório de Resultados e Realtório de Monitoramento no site do IEPHA-MG (art. 50 do Decreto" }
+    L3 --> Z1@{ shape: stadium, label: "Encaminhar relatório de Monitoramento para Comissão de Avaliação, 5 dias úteis antes da reunião (art. 52, § 5º do Decreto)" }
+    Z1 --> M1@{ shape: hex, label: "Realizar reunião trimestral da Comissão de Avaliação (arts. 52 e 53 do Decreto)" }
+    M1 --> M2@{ shape: hex, label: "Publicar Relatório de Avaliação (art. 53 do Decreto)" }
     M2 --> N1@{ shape: diamond, label: "Metas atingidas?" }
     N1 -->|Sim| O1@{ shape: rounded, label: "Receber prestação de contas em até 90 dias (art. 62 do Decreto)" }
-    N1 -->|Não| N2@{ shape: diamond, label: "Há justificativa adequada?" }
+    N1 -->|Não| N2@{ shape: diamond, label: "Há justificativa formal e coerente? (art. 71, V do Decreto)" }
     N2 -->|Sim| O1
-    N2 -->|Não| P1@{ shape: rect, label: "Instaurar processo de desqualificação (art. 7º do Decreto)" }
-    P1 --> P2@{ shape: diamond, label: "Processo recomenda desqualificação?" }
+    N2 -->|Não| P1@{ shape: rect, label: "Instaurar processo administrativo (art. 71, §§ 3º, 4º e 5º do Decreto)" }
+    P1 --> P2@{ shape: diamond, label: "Processo administrativo recomenda rescisão unilateral do Contrato de Gestão? (art. 71, § 2º do Decreto)" }
     P2 -->|Não| O1
-    P2 -->|Sim| P3@{ shape: rect, label: "Desqualificar a OSCIP e extinguir o Termo de Parceria (art. 33, II da Lei)" }
+    P2 -->|Sim| P3@{ shape: rect, label: "Rescindir o Termo de Parceria unilateralmente (art. 71 do Decreto) e verificar hipótese de continuidade do serviço público (art. 72 do Decreto)" }
     P3 --> FIM
     %% Prestação de contas
-    O1 --> Q1@{ shape: rounded, label: "Analisar prestação de contas em até 30 dias (art. 65, §1º do Decreto)" }
+    O1 --> Z2@{ shape: rounded, label: "Receber prestação de contas anual em até 90 dias após fim do ano (art. 65 do Decreto)" }
+    Z2 --> Q1@{ shape: rounded, label: "Emitir parecer em até 40 dias úteis (art. 65, §1º do Decreto)" } 
     Q1 --> Q2@{ shape: diamond, label: "Há irregularidades?" }
     Q2 -->|Não| Q3@{ shape: stadium, label: "Supervisor: elaborar parecer conclusivo e encaminhar para o dirigente máximo (art. 66 do Decreto)" }
-    Q2 -->|Sim| Q4@{ shape: rounded, label: "Notificar OSCIP para saneamento em até 30 dias (art. 65, §2º do Decreto)" }
-    Q4 --> Q5@{ shape: rounded, label: "Analisar saneamento em até 30 dias e encaminhar novo parecer (art. 65, §3º do Decreto)" }
+    Q2 -->|Sim| Q4@{ shape: rounded, label: "Notificar OSCIP para apresentação de justificativa ou saneamento das irregularidades em até 15 dias úteis (art. 65, §2º do Decreto)" }
+    Q4 --> Q5@{ shape: rounded, label: "Analisar saneamento em até 15 dias úteis e encaminhar novo parecer (art. 65, §3º do Decreto)" }
     Q5 --> Q3
     %% Decisão conclusiva
     Q3 --> R1@{ shape: rect, label: "Dirigente máximo: aprovar ou reprovar as contas (art. 67 do Decreto)" }
@@ -255,7 +257,7 @@ flowchart TD
     R2 -->|Sim| FIM
     R2 -->|Ressalvas| R3@{ shape: rect, label: "Promover representação ao TCEMG (art. 67, § 2º do Decreto)" }
     R3 --> FIM
-    R2 -->|Reprovação| R4@{ shape: rect, label: "Instaurar tomada de contas especial (art. 67, § 3º do Decreto)" }
+    R2 -->|Reprovação| R4@{ shape: rect, label: "Iniciar PACE-Parcerias (art. 67, § 3º do Decreto)" }
     R4 --> FIM
     classDef lean-r fill:#dae8fc,stroke:#6c8ebf;
     classDef rect fill:#fff2cc,stroke:#b7b700;
