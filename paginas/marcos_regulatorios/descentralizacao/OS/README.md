@@ -93,26 +93,33 @@ flowchart LR
 
 ## 📝 Plano de trabalho
 **Deve conter:** (art. 32 do Decreto)
-- Metas, indicadores de desempenho e produtos claros e mensuráveis
-- Cronograma de desembolso
-- Cronograma para avaliação dos resultados alcançados
+- Quadro e atributos dos indicadores com metas, prazos e descrições detalhadas
+- Produtos, quando necessário, com prazos e descrições
+- Cronograma de desembolso e condições para repasses financeiros
+- Cronograma para avaliação dos resultados
 - Quadro de pesos para avaliação dos resultados alcançados
 
-## 🔒 Prestação de contas (art. 67 do Decreto)
-### 📋 Principais documentos exigidos
-1. Cópias dos relatórios de monitoramento, de checagem amostral e da comissão de avaliação (art. 67, § 4º do Decreto)
-2. Demonstração de resultados do exercício
-3. Balanço patrimonial
-4. Extratos bancários de todas as contas de recursos vinculados ao contrato de gestão
-5. Pareceres dos conselhos fiscal e administrativo da OS (ou equivalente)
+## 🔒 Prestação de contas
+### 👮 Tipos de prestação de contas (art. 66 do Decreto)
+1. **Prestação de contas anual**: apresentada até 90 dias após o fim do exercício
+2. **Prestação de contas de extinção**: apresentada até 90 dias após extinção do contrato de gestão
+3. **Prestação de contas sob demanda**: apresentada sempre que solicitada pela IEPHA-MG
+
+### 📋 Principais documentos exigidos (art. 67 do Decreto)
+1. Relatório de execução do objeto com comprovação das metas alcançadas
+2. Relatórios gerenciais de resultados e financeiro
+3. Relatórios de Monitoramente, Avaliação e de Checagens Amostrais
+4. Extratos bancários de todas as contas vinculadas ao termo de parceria
+5. Parecer do conselho fiscal ou órgão equivalente da OSCIP
+6. Balanço patrimonial e demonstração de resultados do exercício
 
 ### 👮 Análise da prestação de contas
 
-| **Situação**                    | **Exigência**                     | **Resultado**               |
+| **Situação**                    | **Ato do Dirigente Máximo**       | **Resultado**               |
 |---------------------------------|-----------------------------------|-----------------------------|
-| Metas atingidas integralmente   | Relatório objetivo + financeiro               | Aprovação (art. 70, I, do Decreto) |
-| Metas parcialmente atingidas    | Relatório objetivo + financeiro   | Aprovação com ressalvas (art. 70, II, do Decreto) |
-| Metas não atingidas             | Relatório objetivo + financeiro   | Reprovação + devolução de recursos (art. 70, III, do Decreto) |
+| Regular execução do Contrato de Gestão   | Aprovação sem ressalvas (art. 70, I do Decreto)           | Publicação da Aprovação (art. 70, §2º do Decreto) |
+|  Irregularidade ou invalidade de natureza formal que não resulte em dano ao erário    | Aprovação com ressalvas (art. 70, II do Decreto)  | Publicação da Aprovação ou, em caso de irregularidades graves ou insanáveis, Representação ao Tribunal de Contas do Estado de Minas Gerais (art. 70, §1º do Decreto) |
+| Dano ao erário ou a falta de comprovação total ou parcial da aplicação de recursos do contrato de gestão             | Reprovação das contas (art. 70, III, do Decreto)  | Instaurar PACE-Parcerias (art. 70, §3º do Decreto) |
 
 ## 🔍 Monitoramento e avaliação
 O **gestor da parceria** deve (art. 47 do Decreto):
