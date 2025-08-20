@@ -166,11 +166,11 @@ flowchart TD
     B --> C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
     C -->|Não| FIM
     C -->|Sim| D@{ shape: diamond, label: "Necessita seleção pública? (art. 60 da Lei e art. 24 do Decreto)" }
-    D -->|Sim| SELECAO_PUBLICA_START
-    D -->|Não| DISPENSA_START
+    D -->|Sim| sel
+    D -->|Não| dis
     %% Seleção Pública
-    subgraph "Seleção Pública"
-        SELECAO_PUBLICA_START --> E1@{ shape: lean-r, label: "Elaborar edital e minuta do Contrato de Gestão (arts. 12 e 31 do Decreto)" }
+    subgraph sel ["Seleção Pública"]
+        E1@{ shape: lean-r, label: "Elaborar edital e minuta do Contrato de Gestão (arts. 12 e 31 do Decreto)" }
         E1 --> E2@{ shape: diamond, label: "Minutas validadas?" }
         E2 -->|Não| E1
         E2 -->|Sim| E3@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
@@ -187,8 +187,8 @@ flowchart TD
         E13 --> E14@{ shape: rect, label: "Convocar entidade vencedora ou segundo lugar, se for o caso (art. 22, §2º e art. 23 do Decreto)" }
     end
     %% Dispensa
-    subgraph "Dispensa"
-        DISPENSA_START --> F1@{ shape: rect, label: "Instruir justificativa de dispensa de seleção pública (art. 60 da Lei e art. 24 do Decreto)" }
+    subgraph dis ["Dispensa"]
+        F1@{ shape: rect, label: "Instruir justificativa de dispensa de seleção pública (art. 60 da Lei e art. 24 do Decreto)" }
         F1 --> F2@{ shape: lean-r, label: "Desenvolver minuta do Contrato de Gestão (arts. 24, 27 e 35, §1º do Decreto)" }
         F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
         F3 -->|Não| F2
