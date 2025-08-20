@@ -35,7 +35,6 @@ O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria en
 - Aplicação de rendimentos obtidos diretamente no objeto da parceria
 - Possibilidade de atualização do plano de trabalho mediante aditivo (art. 61 do Decreto)
 - Aplicação de rendimentos obtidos diretamente no objeto da parceria (art. 86 do Decreto)
-- Possibilidade de celebração simultânea de múltiplos termos de parceria
 
 ## ❌ Não pode
 ⚠️ **Proibições absolutas:**
@@ -109,7 +108,7 @@ flowchart LR
 1. Relatório de execução do objeto com comprovação das metas alcançadas
 2. Relatórios gerenciais de resultados e financeiro
 3. Relatórios de Monitoramente, Avaliação e de Checagens Amostrais
-4. Extratos bancários de todas as contas vinculadas ao termo de parceria
+4. Extratos bancários de todas as contas vinculadas ao Contrato de Gestão
 5. Parecer do conselho fiscal ou órgão equivalente da OSCIP
 6. Balanço patrimonial e demonstração de resultados do exercício
 
