@@ -22,7 +22,7 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 | [🤝 O que são parcerias?](https://lucasfainblat.github.io/manual.appi/paginas/parcerias/README.html) | Dicas para quem quer por a mão na massa |
 
 ## 🚀 Guia prático para celebrar parcerias[^1]
-[^1]: 🆓 = parcerias que **não envolvem** transferências de recursos entre as partes | 💰 = parcerias que **envolvem transferências** de recursos entre as partes
+[^1]: 🆓 = parcerias que **não envolvem** transferências de recursos entre as partes; 💰 = parcerias que **envolvem transferências** de recursos entre as partes.
 
 ### Marco Regulatório do Fomento à Cultura (MRFC)
 
