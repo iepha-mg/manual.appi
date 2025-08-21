@@ -26,7 +26,7 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 
 ### Marco Regulatório do Fomento à Cultura (MRFC)
 
-| Instrumento | Descrição |
+| Seção | Descrição |
 |-------------|------|
 | [💡 Marco Regulatório do Fomento à Cultura](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/README.html) | Visão geral do MRFC |
 | [🎪 Termo de Ocupação Cultural](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TOC/README.html) | Ocupação de espaços culturais 🆓 |
@@ -37,7 +37,7 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 
 ### Marco Regulatório das Organizações da Sociedade Civil (MROSC)
 
-| Instrumento | Descrição |
+| Seção | Descrição |
 |-------------|------|
 | [🌐 MROSC](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/README.html) | Visão geral do MROSC |
 | [🫱🫲 Acordo de Cooperação](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/AC/README.html) | Cooperação entre adm. pública e OSCs 🆓 |
@@ -46,7 +46,7 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 
 ### Modelo OSCIP/OS
 
-| Instrumento | Descrição |
+| Seção | Descrição |
 |-------------|------|
 | [💪 Programa de Descentralização](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/README.html) | Visão geral do modelo OSCIP/OS |
 | [👥 Termo de Parceria (OSCIP)](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OSCIP/README.html) | Parcerias com OSCIP para atividades com início e fim 💰 |
@@ -54,14 +54,14 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 
 ### Outros
 
-| Instrumento | Descrição |
+| Seção | Descrição |
 |-------------|------|
 | [🚂 Fundações de Apoio](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/fundacoes/README.html) | Parcerias com fundações de apoio 🆓 |
 | [🧩 Acordo de Cooperação Técnica](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/ACT/README.html) | Cooperação técnica interinstitucional 🆓 |
 
 ## 📂 Repositório de parcerias
 
-| Categoria | Descrição |
+| Seção | Descrição |
 |-----------|-----------|
 | 📄 Publicações acadêmicas | Artigos, teses e estudos sobre parcerias |
 | 📋 Cartilhas | Guias práticos e orientações |
