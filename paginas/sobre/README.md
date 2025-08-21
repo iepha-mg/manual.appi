@@ -8,6 +8,29 @@ Assim, espera-se:
 - Promover a integração interinstitucional, incentivando ações articuladas que ampliem o impacto das políticas de preservação e promoção do patrimônio cultural de Minas Gerais.
 - Uniformizar processos e documentos, facilitando a atuação da APPI e demais setores do IEPHA-MG envolvidos na gestão de parcerias e programas.
 
+# 🧭 Como usar este Manual?
+
+1. Acesse o [índice](https://lucasfainblat.github.io/manual.appi) e clique no link do tema que você procura.  
+2. O conteúdo está organizado por **marco regulatório**.  
+   - Cada seção traz uma explicação sobre as principais leis e decretos.  
+   - Dentro dela, há páginas específicas sobre cada instrumento jurídico (termo de execução cultural, contrato de gestão etc.).  
+
+Essas páginas mostram **tudo o que você precisa saber** para celebrar uma parceria:  
+- quais leis e decretos consultar;  
+- o que é permitido e o que não é;  
+- os motivos e o passo a passo de cada procedimento.  
+
+Você também vai encontrar **fluxogramas práticos**, que mostram o caminho de cada tipo de parceria, do início ao fim:  
+- 🧐📑 Análise técnica
+- 📢📜 Chamamento público (ou dispensa)
+- 🏛️✍️ Assinatura do instrumento jurídico
+- ⚙️📊 Execução e acompanhamento
+- 🔒👮 Prestação de contas
+
+Este Manual foi feito para ser **claro e fácil de usar**, mas sem abrir mão da precisão técnica e jurídica. A ideia é ajudar quem precisa **celebrar, monitorar ou prestar contas** de uma parceria.  
+
+👉 Não esqueça de visitar a nossa [seção de dicas](https://lucasfainblat.github.io/manual.appi/paginas/parcerias/README.html). Lá você encontra orientações práticas que podem facilitar muito a instrução e o trâmite de processos no SEI.  
+
 # ℹ️ Aviso Importante (_disclaimer_)
 
 As informações contidas neste documento:
@@ -16,7 +39,7 @@ As informações contidas neste documento:
 - Devem ser aplicadas em consonância com as políticas públicas e os marcos regulatórios pertinentes às parcerias (Lei nº 14.903/2024 - Marco Regulatório do Fomento à Cultura, Lei nº 13.019/2014 – Marco Regulatório das Organizações da Sociedade Civil, normas do Estado de Minas Gerais, etc.);
 - Estão sujeitas a atualizações periódicas para refletir mudanças legais, institucionais ou operacionais.
 
-O IEPHA-MG e a APPI não se responsabilizam por:
+**O IEPHA-MG e a APPI não se responsabilizam por**:
 - Decisões tomadas com base em interpretações divergentes deste manual sem consulta prévia aos setores jurídicos ou gestores responsáveis;
 - Inconsistências decorrentes de alterações normativas não ainda incorporadas à versão vigente.
 
@@ -26,6 +49,6 @@ Para esclarecimentos adicionais ou situações não abrangidas por este manual, 
 
 # 🗓️ Versão
 
-O MG.APPI está em sua `1ª Versão`, desde o mês de `julho de 2025`.
+O MG.APPI está em sua `1ª Versão`, desde o mês de `agosto de 2025`.
 
 ##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
