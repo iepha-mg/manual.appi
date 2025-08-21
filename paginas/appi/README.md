@@ -108,8 +108,8 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
     style="margin-right: 20px;">
 
 - 👔 Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
-- 📧 priscila.guerra@iepha.mg.gov.br
-- 🎓 http://lattes.cnpq.br/4749109914314491
+- 📧 [priscila.guerra@iepha.mg.gov.br](mailto:priscila.guerra@iepha.mg.gov.br)
+- 🎓 [http://lattes.cnpq.br/4749109914314491](http://lattes.cnpq.br/4749109914314491)
 
 #### **Formação Acadêmica**  
 - **Mestranda** em Economia e Política da Cultura (UFGRS)
@@ -137,8 +137,8 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
     style="margin-right: 20px;">
 
 - 👔 Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
-- 📧 lucas.fainblat@iepha.mg.gov.br
-- 🎓 http://lattes.cnpq.br/1511692902967161 
+- 📧 [lucas.fainblat@iepha.mg.gov.br](mailto:lucas.fainblat@iepha.mg.gov.br)
+- 🎓 [http://lattes.cnpq.br/1511692902967161](http://lattes.cnpq.br/1511692902967161)
 
 #### **Formação Acadêmica**  
 - **Doutorando** em Ciência Política (UFMG)
