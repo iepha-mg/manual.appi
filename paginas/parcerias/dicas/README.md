@@ -2,12 +2,12 @@
 
 Aqui você encontra orientações práticas que podem facilitar muito o trabalho de quem quer celebrar, executar ou prestar contas de uma parceria.
 
-# 🧩➡️🧩 Etapas gerais de uma parceria
+## 🧩➡️🧩 Etapas gerais de uma parceria
 
 As principais fases de qualquer parceria são:
 
 - 🧐📑 **Análise técnica**
-  A ```área técnica``` manifesta ao ```Gabinete``` do IEPHA-MG o desejo de celebrar uma parceria. O ```Gabinete```, então, vai avaliar se a proposta faz sentido, se está alinhada com as políticas do IEPHA-MG e se é viável na prática.
+  A `unidade demandante` manifesta à `APPI` do `IEPHA-MG` o desejo de celebrar uma parceria. A `APPI`, então, vai avaliar se a proposta faz sentido, se está alinhada com as políticas do IEPHA-MG e se é viável na prática.
 
 - 📢📜 **Chamamento público (ou dispensa)**
   É a etapa de abertura para seleção de parceiros (quando for necessário, de acordo com a legislação aplicável e o caso concreto), garantindo transparência e igualdade de oportunidades.
@@ -19,21 +19,16 @@ As principais fases de qualquer parceria são:
   Colocar em prática o que foi acordado e acompanhar o andamento, monitorando prazos, resultados e recursos.
 
 - 🔒👮 **Prestação de contas**
-  Conferir e registrar como os recursos e atividades foram aplicados, garantindo transparência e responsabilidade.
+  Conferir se os resultados foram alcançados e o objeto foi cumprido. Se necessário, conforme legislação, registrar como os recursos e atividades foram aplicados, garantindo transparência e responsabilidade.
 
 Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
 
-# 🧐📑 Processo de Análise Técnica de Parcerias
-
-A análise técnica é a etapa que garante a viabilidade, a pertinência institucional e a conformidade normativa das parcerias a serem celebradas pelo IEPHA-MG.  
-
-O fluxo a seguir organiza as **etapas, atores, documentos e prazos** em detalhe.
-
 ---
 
-## 🧩 Etapas do Processo
+## 🔬 Detalhamento do Processo
 
 ### 1. 🗂️ Protocolo e Registro Inicial
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** ```Unidade demandante``` (do ```IEPHA-MG``` ou da ```entidade parceira```)  
 - **Atividades:**
   - Enviar a proposta de parceria e documentos preliminares à ```APPI```
@@ -55,17 +50,21 @@ O fluxo a seguir organiza as **etapas, atores, documentos e prazos** em detalhe.
 ---
 
 ### 2. 🎯 Triagem Preliminar
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** ```APPI```  
 - **Atividades:**
   - Analisar **viabilidade** da parceria
   - Identificar o **marco regulatório** e o **tipo de instrumento jurídico** adequados
   - Identificar necessidade ou não de **chamamento público**
   - Requisitar complementação de informações, se necessário
+  - Elaborar `minuta de instrumento jurídico`, caso haja viabilidade da parceria
+  - Elaborar `minuta de edital de chamamento público` (e anexos), caso seja necessário
   - Responder `unidade demandante` pelo mesmo meio da etapa anterior
 - **Documentos:**
    - Correspondência de resposta (memorando, e-mail etc.)
    - Se `APPI` julgar que há viabilidade da parceria: `Minuta de instrumento jurídico` (enviada por _link na nuvem_)
-- **Prazo:** até `5 dias úteis`.  
+   - Se `APPI` julgar que há viabilidade e é necessário chamamento público: `minuta de edital de chamamento público` (enviada por _link na nuvem_)
+- **Prazo:** até `5 dias úteis` (se não houver necessidade de chamamento público) / até `15 dias úteis` (se houver necessidade de chamamento público)
 
 | Checklist | Observações | Respostas |
 | :--- | :--- | :--- |
@@ -90,20 +89,22 @@ azul devem ser modificadas conforme cada caso concreto.
 ---
 
 ### 3. 🔎 Análise Técnica Interna
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** `unidade demandante` e, se for o caso, demais Diretorias/Gerências relacionadas ao objeto da parceria no `IEPHA-MG`
 - **Atividades:**
   - Revisar `minuta de instrumento jurídico`
+  - Revisar `minuta de edital de chamamento público`, se for o caso
   - Sugerir alterações
   - Registrar comentários
   - Responder `APPI` pelo mesmo meio da etapa anterior
 - **Documentos:**
    - Correspondência de resposta (memorando, e-mail etc.)
    - `Minuta de instrumento jurídico` comentada e revisada com sugestões (_link na nuvem_)
-- **Prazo:** até `5 dias úteis`
+- **Prazo:** até `5 dias úteis` (se não houver necessidade de chamamento público) / até `10 dias úteis` (se houver necessidade de chamamento público)
 
 ---
 
-| Checklist | Observações |
+| Checklist (instrumento jurídico) | Observações |
 | :--- | :--- |
 | **✅ Preâmbulo** | Introdução de qualquer `minuta de instrumento jurídico`, contendo dados das partes que vão assinar. Cláusula em azul |
 | **✅ Objeto da parceria** | Parte mais importante da `minuta de instrumento jurídico`. Deve ser descrita de forma clara e objetiva: nem vaga demais, nem detalhada em excesso. Assim, permite que diferentes atividades e metas sejam realizadas dentro da parceria. Cláusula em azul. |
@@ -113,21 +114,39 @@ azul devem ser modificadas conforme cada caso concreto.
 | **✅ Justificativa da parceria e público-alvo** | Geralmente parte do `plano de trabalho`, portanto somente necessário em alguns casos. Cláusula em azul |
 | **✅ Outras cláusulas** | Partes do documento como "do foro", "proteção de dados" etc. Geralmente são claúsulas padrão, sinalizadas em preto, portanto modificá-las não é recomendável |
 
+| Checklist (chamamento público, se houver) | Observações |
+| :--- | :--- |
+| **✅ Conformidade entre chamamento e instrumento jurídico** | A `minuta de instrumento jurídico` deve ser `anexo` da `minuta de edital de chamamento público`. Suas cláusulas, itens e remissões devem ter coerência mútua |
+| **✅ Fundamentos e objeto** | A base legal, a motivação e o objeto da parceria devem estar bem explicados para qualquer pessoa entender |
+| **✅ Programação orçamentária (se for o caso)** | Deve estar clara qual dotação orçamentária viabiliza a celebração da parceria, quanto será destinado a ela, como e quando serão feitos os repasses |
+| **✅ Regras de inscrição** | Quem pode participar, quem não pode participar, como participar e se inscrever, até quando serão recebidas propostas e que documentos devem ser apresentados? Geralmente, anexos específicos indicam a plataforma e o formulário de inscrição |
+| **✅ Regras de seleção** | Quais são as categorias das propostas, quantas serão contempladas, quem vai recebê-las e julgá-las, como elas serão julgadas e como serão publicados os resultados. Muitas vezes, anexos específicos são utilizados para os critérios de seleção |
+| **✅ Dúvidas, impugnações e recursos** | Canais e procedimentos para tirar dúvidas, apresentar recursos, defesas e impugnações |
+| **✅ Etapas e prazos** | Cronogramas com etapas e prazos para quem quiser se inscrever e acompanhar o processo |
+| **✅ Declarações** | Se necessário, anexar modelos de declarações, comprovações e outras exigências legais |
+| **✅ Anexos específicos** | São necessários anexos específicos? Exemplo: plantas de espaços que serão ocupados, fichas técnicas de equipamentos, referencial conceitual da política pública etc. |
+
 ---
 
 ### 4. ♻️ Alterações (se houver)
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** `APPI`
-- **Atividades:**
+- **Atividades:** (se não houver chamamento público)
   - Revisar `minuta de instrumento jurídico` conforme etapa anterior
-  - Encaminhar `minuta de instrumento jurídico` à `entidade parceira`
+  - Encaminhar `minuta de instrumento jurídico` à `entidade parceira` (se não houver chamamento público)
+- **Atividades:** (se houver chamamento público)
+  - Revisar `minuta de edital de chamamento público` conforme etapa anterior
+  - Proceder à etapa 7
 - **Documentos:**
-   - Correspondência de encaminhamento (memorando, e-mail etc.)
-   - `Minuta de instrumento jurídico` validada pela `unidade demandante` (_link na nuvem_)
-- **Prazo:** até `2 dias úteis`
+  - Correspondência de encaminhamento (memorando, e-mail etc.)
+  - `Minuta de instrumento jurídico` validada pela `unidade demandante` (_link na nuvem_)
+  - `Minuta de edital de chamamento público` validada pela `unidade demandante` (_link na nuvem_), se houver chamamento público
+- **Prazo:** até `2 dias úteis` (se não houver chamamento público) / até `5 dias úteis` (se houver chamamento público)
 
 ---
 
-### 5. 🔍 Análise Técnica Externa
+### 5. 🔍 Análise Técnica Externa (somente no caso de não haver chamamento público)
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** `entidade parceira`
 - **Atividades:**
   - Revisar `minuta de instrumento jurídico`
@@ -152,6 +171,7 @@ azul devem ser modificadas conforme cada caso concreto.
 ---
 
 ### 6. ♻️ Alterações (se houver)
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** `APPI`
 - **Atividades:**
   - Revisar `minuta de instrumento jurídico` conforme etapa anterior
@@ -162,7 +182,10 @@ azul devem ser modificadas conforme cada caso concreto.
    - `Minuta de instrumento jurídico` validada pela `entidade parceira` (documento no SEI)
 - **Prazo:** até `2 dias úteis`
 
+---
+
 ### 7. ✏️ Manifestação Técnica Interna
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** `APPI`
 - **Atividades:**
   - Emitir `nota técnica`
@@ -183,18 +206,28 @@ azul devem ser modificadas conforme cada caso concreto.
 ---
 
 ### 8. ♻️ Alterações (se houver)
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** `APPI`
 - **Atividades:**
   - Ler `nota técnica`
   - Revisar `minuta de instrumento jurídico` conforme etapa anterior, se for o caso
+  - Revisar `minuta de edital de chamamento público` conforme etapa anterior, se for o caso
   - Encaminhar `processo SEI` à `GLCC` (Gerência de Licitações, Contratos e Convênios da Diretoria de Planejamento, Gestão e Finanças)
 - **Documentos:**
    - Correspondência de encaminhamento (memorando no SEI)
-- **Prazo:** até `2 dias úteis`
+- **Prazo:** até `2 dias úteis` (se não houver chamamento público) / até `5 dias úteis` (se houver chamamento público)
 
 ---
 
 ### 9. 🗃️ Instrução do processo
+
+
+
+PAREI AQUI
+
+
+
+
 - **Ator Responsável:** `GLCC`
 - **Atividades:**
   - Instruir o `processo SEI` com os documentos pertinentes
