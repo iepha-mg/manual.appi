@@ -29,13 +29,13 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
 
 ### 1. 🗂️ Protocolo e Registro Inicial
 - **Fase**: 🧐📑 Análise técnica
-- **Ator Responsável:** ```Unidade demandante``` (do ```IEPHA-MG``` ou da ```entidade parceira```)  
+- **Ator Responsável:** `unidade demandante` (do `IEPHA-MG` ou da `entidade parceira`)  
 - **Atividades:**
-  - Enviar a proposta de parceria e documentos preliminares à ```APPI```
+  - Enviar a proposta de parceria e documentos preliminares à `APPI`
   - Solicitar por SEI, e-mail ou reunião
 - **Documentos:**
   - Ofício, Memorando ou Carta de Intenções
-  - Portfólio da ```entidade parceira``` 
+  - Portfólio da `entidade parceira`
 - **Prazo:** N/A (sob demanda)
 
 | Checklist | Exemplos |
@@ -45,21 +45,22 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
 | **✅ Responsabilidades:** o que se espera do `IEPHA-MG` e o que se espera da `entidade parceira`? | `IEPHA-MG`: disponibilizar uma sala / compartilhar diretrizes técnicas / oferecer capacitações / acompanhar o parceiro em visitas técnicas / `Entidade parceira`: oferecer restauradores para trabalhar numa peça / realizar um seminário / oferecer acesso a uma plataforma digital |
 | **✅ Resultados e metas:** o que especificamente se espera alcançar com a parceria? Quando? | 3 modelos 3D de bens tombados impressos até dezembro / 1 dossiê de tombamento concluído até janeiro / 3 cursos de capacitação realizados e 30 servidores capacitados até junho |
 
-**🚨 Atenção**: ao requisitar uma parceria, a ```unidade demandante``` deve considerar se tem "_pernas_" para executar e monitorar o que está sendo proposto, pois será necessário um ponto focal para gerir o futuro instrumento jurídico, garantir que as metas e resultados estejam sendo cumpridos e organizar a comprovação disso num eventual processo de prestação de contas.
+**🚨 Atenção**: ao requisitar uma parceria, a `unidade demandante` deve considerar se tem "_pernas_" para executar e monitorar o que está sendo proposto, pois será necessário um ponto focal para gerir o futuro instrumento jurídico, garantir que as metas e resultados estejam sendo cumpridos e organizar a comprovação disso num eventual processo de prestação de contas.
 
 ---
 
 ### 2. 🎯 Triagem Preliminar
 - **Fase**: 🧐📑 Análise técnica
-- **Ator Responsável:** ```APPI```  
+- **Ator Responsável:** `APPI`  
 - **Atividades:**
   - Analisar **viabilidade** da parceria
   - Identificar o **marco regulatório** e o **tipo de instrumento jurídico** adequados
   - Identificar necessidade ou não de **chamamento público**
   - Requisitar complementação de informações, se necessário
   - Elaborar `minuta de instrumento jurídico`, caso haja viabilidade da parceria
-  - Elaborar `minuta de edital de chamamento público` (e anexos), caso seja necessário
   - Responder `unidade demandante` pelo mesmo meio da etapa anterior
+- **Atividades:** (se houver chamamento público)
+   - Elaborar `minuta de edital de chamamento público` (e anexos), caso seja necessário
 - **Documentos:**
    - Correspondência de resposta (memorando, e-mail etc.)
    - Se `APPI` julgar que há viabilidade da parceria: `Minuta de instrumento jurídico` (enviada por _link na nuvem_)
@@ -93,13 +94,15 @@ azul devem ser modificadas conforme cada caso concreto.
 - **Ator Responsável:** `unidade demandante` e, se for o caso, demais Diretorias/Gerências relacionadas ao objeto da parceria no `IEPHA-MG`
 - **Atividades:**
   - Revisar `minuta de instrumento jurídico`
-  - Revisar `minuta de edital de chamamento público`, se for o caso
   - Sugerir alterações
   - Registrar comentários
   - Responder `APPI` pelo mesmo meio da etapa anterior
-- **Documentos:**
+- **Atividades:** (se houver chamamento público)
+   - Revisar `minuta de edital de chamamento público` (e anexos), caso seja necessário
+ - **Documentos:**
    - Correspondência de resposta (memorando, e-mail etc.)
-   - `Minuta de instrumento jurídico` comentada e revisada com sugestões (_link na nuvem_)
+   - `minuta de instrumento jurídico` comentada e revisada com sugestões (_link na nuvem_)
+   - `minuta de edital de chamamento público` comentada e revisada com sugestões (_link na nuvem_), se for o caso
 - **Prazo:** até `5 dias úteis` (se não houver necessidade de chamamento público) / até `10 dias úteis` (se houver necessidade de chamamento público)
 
 ---
@@ -131,7 +134,7 @@ azul devem ser modificadas conforme cada caso concreto.
 ### 4. ♻️ Alterações (se houver)
 - **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** `APPI`
-- **Atividades:** (se não houver chamamento público)
+- **Atividades:**
   - Revisar `minuta de instrumento jurídico` conforme etapa anterior
   - Encaminhar `minuta de instrumento jurídico` à `entidade parceira` (se não houver chamamento público)
 - **Atividades:** (se houver chamamento público)
@@ -145,28 +148,23 @@ azul devem ser modificadas conforme cada caso concreto.
 
 ---
 
-### 5. 🔍 Análise Técnica Externa (somente no caso de não haver chamamento público)
+### 5. 🔍 Análise Técnica Externa (ou consulta pública)
 - **Fase**: 🧐📑 Análise técnica
-- **Ator Responsável:** `entidade parceira`
+- **Ator Responsável:** `entidade parceira` (se não houver chamamento) ou `APPI` (se houver chamamento)
 - **Atividades:**
   - Revisar `minuta de instrumento jurídico`
   - Sugerir alterações
   - Registrar comentários
   - Responder `APPI` pelo mesmo meio da etapa anterior
+ - **Atividades:** (se houver chamamento público)
+   - Providenciar consulta pública, sessões técnicas ou procedimento equivalente, para revisar `minuta de edital de chamamento público` (e anexos)
+   - Registrar sugestões, comentários e melhorias, se for o caso
 - **Documentos:**
    - Correspondência de resposta (memorando, e-mail etc.)
    - `Minuta de instrumento jurídico` comentada e revisada com sugestões (_link na nuvem_)
-- **Prazo:** até `5 dias úteis`
+- **Prazo:** até `5 dias úteis` (se não houver chamamento público) / até `15 dias úteis` (se houver chamamento público)
 
-| Checklist | Observações |
-| :--- | :--- |
-| **✅ Preâmbulo** | Introdução de qualquer `minuta de instrumento jurídico`, contendo dados das partes que vão assinar. Cláusula em azul |
-| **✅ Objeto da parceria** | Parte mais importante da `minuta de instrumento jurídico`. Deve ser descrita de forma clara e objetiva: nem vaga demais, nem detalhada em excesso. Assim, permite que diferentes atividades e metas sejam realizadas dentro da parceria. Cláusula em azul. |
-| **✅ Vigência** | Início e fim da parceria. Cada `minuta de instrumento jurídico` terá um limite, conforme `marco regulatório`. Cláusula em azul |
-| **✅ Atribuições das partes** | Define-se as responsabilidades do `IEPHA-MG` e da `entidade parceira`. Cláusula em azul |
-| **✅ Plano de Trabalho** | Definição de `resultados`, `produtos` e `metas`. Somente necessário em alguns casos (estará na minuta se positivo). Cláusula em azul |
-| **✅ Justificativa da parceria e público-alvo** | Geralmente parte do `plano de trabalho`, portanto somente necessário em alguns casos. Cláusula em azul |
-| **✅ Outras cláusulas** | Partes do documento como "do foro", "proteção de dados" etc. Geralmente são claúsulas padrão, sinalizadas em preto, portanto modificá-las não é recomendável |
+**🚨 Atenção**: e etapa 3 traz checklists para análise técnica de `minuta de instrumento jurídico` e `minuta de edital de chamamento público`, que podem ser utilizados também nesta etapa.
 
 ---
 
@@ -177,6 +175,8 @@ azul devem ser modificadas conforme cada caso concreto.
   - Revisar `minuta de instrumento jurídico` conforme etapa anterior
   - Criar `processo SEI` com `minuta de instrumento jurídico` e documentos relevantes (se houver)
   - Encaminhar `processo SEI` à `unidade demandante`
+- **Atividades:** (se houver chamamento público)
+  - Revisar `minuta de edital de chamamento público` conforme sugestões da etapa anterior
 - **Documentos:**
    - Correspondência de encaminhamento (memorando, e-mail etc.)
    - `Minuta de instrumento jurídico` validada pela `entidade parceira` (documento no SEI)
@@ -211,8 +211,9 @@ azul devem ser modificadas conforme cada caso concreto.
 - **Atividades:**
   - Ler `nota técnica`
   - Revisar `minuta de instrumento jurídico` conforme etapa anterior, se for o caso
-  - Revisar `minuta de edital de chamamento público` conforme etapa anterior, se for o caso
   - Encaminhar `processo SEI` à `GLCC` (Gerência de Licitações, Contratos e Convênios da Diretoria de Planejamento, Gestão e Finanças)
+- **Atividades:** (se houver chamamento público)
+  - Revisar `minuta de edital de chamamento público` conforme etapa anterior, se for o caso
 - **Documentos:**
    - Correspondência de encaminhamento (memorando no SEI)
 - **Prazo:** até `2 dias úteis` (se não houver chamamento público) / até `5 dias úteis` (se houver chamamento público)
@@ -220,14 +221,7 @@ azul devem ser modificadas conforme cada caso concreto.
 ---
 
 ### 9. 🗃️ Instrução do processo
-
-
-
-PAREI AQUI
-
-
-
-
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** `GLCC`
 - **Atividades:**
   - Instruir o `processo SEI` com os documentos pertinentes
@@ -235,14 +229,17 @@ PAREI AQUI
 - **Documentos:**
    - Estatutos, certidões negativas e demais documentos aplicáveis conforme o caso (documentos no SEI)
    - Correspondência de encaminhamento (memorando no SEI)
+   - `minuta de instrumento jurídico`
+   - `minuta de edital de chamamento público`, se for o caso
 - **Prazo:** até `5 dias úteis`
 
 ---
 
 ### 10. ⚖️ Análise Jurídica
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** `procuradoria jurídica`
 - **Atividades:**
-  - Verificar a conformidade legal da `minuta de instrumento jurídico` e do `processo SEI`  
+  - Verificar a conformidade legal do `processo SEI`
   - Orientar explicitamente sobre ajustes necessários
   - Emitir `parecer jurídico` conclusivo
   - Enviar o `processo SEI` à `GLCC`
@@ -265,22 +262,76 @@ análise jurídica** - ou seja, esta etapa pode ser "_pulada_" em alguns casos. 
 
 ---
 
-### 11. 🧼 Nota saneadora (se necessário)
+### 11. 🧼 Nota saneadora (se necessário) e publicação (se houver chamamento público)
+- **Fase**: 🧐📑 Análise técnica
 - **Ator Responsável:** `GLCC`
 - **Atividades:**
   - Interpretar `parecer jurídico`
   - Revisar `minuta de instrumento jurídico` conforme `parecer jurídico`
   - Elaborar `nota saneadora`, listando todos os pontos solicitados pela `procuradoria jurídica` e os encaminhamentos dados
-  - Encaminhar `processo SEI` à `APPI`
+  - Proceder diretamente à etapa 14 (no caso de não haver chamamento público)
+ - **Atividades:** (se houver chamamento público)
+  - Revisar `minuta de edital de chamamento público` conforme `parecer jurídico`
+  - Assinar e publicar `edital de chamamento público`
 - **Documentos:**
    - Correspondência de encaminhamento (memorando no SEI)
    - `nota saneadora` (documento no SEI)
-   - `minuta de instrumento jurídico` revisada, se for o caso
+   - `edital de chamamento público`, se for o caso
 - **Prazo:** até `5 dias úteis`
 
 ---
 
-### 12. 📐 Manifestação Técnica Externa
+### 12. 📥 Recebimento e seleção de propostas (somente no caso de chamamento público)
+- **Fase**: 📢📜 Chamamento público
+- **Ator Responsável:** `comissão julgadora` (ou equivalente)
+- **Atividades:**
+  - Receber propostas dos candidatos
+  - Selecionar propostas com base nos critérios do `edital de chamamento público`
+  - Elaborar `parecer` para cada proposta analisada
+  - Publicar `resultado do chamamento público`
+- **Documentos:**
+   - `parecer` de cada proposta analisada
+   - `resultado do chamamento público`
+- **Prazo:** mínimo de `5 dias úteis`, podendo variar conforme `marco regulatório`
+
+---
+
+### 13. 📣 Recursos e homologação do resultado
+- **Fase**: 📢📜 Chamamento público
+- **Ator Responsável:** `comissão de recursos` (ou equivalente)
+- **Atividades:**
+  - Receber recursos dos candidatos
+  - Julgar recursos com base no `edital de chamamento público`
+  - Elaborar `parecer` para cada recurso analisado
+  - Receber contrarrazões, se for o caso (quando recursos modificam a ordem de classificação de outros concorrentes)
+  - Homologar `resultado do chamamento público`
+- **Documentos:**
+   - `parecer` de cada recurso analisado
+   - Homologação do `resultado do chamamento público`
+- **Prazo:** mínimo de `5 dias úteis`, podendo variar conforme `marco regulatório`
+
+---
+
+### 14. 📣 Habilitação
+- **Fase**: 🏛️✍️ Celebração do instrumento jurídico
+- **Ator Responsável:** `GLCC`
+- **Atividades:**
+  - Analisar documentação da `entidade parceira`
+  - Instruir o `processo SEI` com a documentação
+  - Solicitar complementações ou atualizar certidões vencidas, se for o caso
+  - Habilitar `entidade parceria` a celebrar `instrumento jurídico`
+  - Encaminhar `processo SEI` à `APPI` (se houver necessidade de manifestação técnica e jurídica externa) ou proceder diretamente à etapa 16 (assinatura)
+- **Documentos:**
+   - Estatutos, certidões negativas e demais documentos aplicáveis conforme o caso (documentos no SEI)
+- **Prazo:** até `5 dias úteis`, podendo variar conforme `marco regulatório`
+
+**🚨 Atenção**: quanto mais recente o `marco regulatório`, mais flexíveis são as exigências da Habilitação, que passam a ser mais adequadas à realidade do público-alvo, desburocratizando a fase de
+celebração do `instrumento jurídico`. As exigências de habilitação sempre constam no `instrumento jurídico` e no `edital de chamamento público` (se for o caso).
+
+---
+
+### 15. 📐 Manifestação Técnica e Jurídica Externa (se for o caso)
+- **Fase**: 🏛️✍️ Celebração do instrumento jurídico
 - **Ator Responsável:** `APPI` e `entidade parceira`
 - **Atividades:**
   - `APPI` contatar `entidade parceira` 
@@ -288,34 +339,24 @@ análise jurídica** - ou seja, esta etapa pode ser "_pulada_" em alguns casos. 
   - `entidade parceira` emitir `parecer jurídico`
   - `entidade parceira` encaminhar `nota técnica` e `parecer jurídico` à `APPI`
   - `APPI` instruir `processo SEI` com `nota técnica` e `parecer jurídico` da `entidade parceira`
+  - `APPI` encaminhar processo à `GLCC` para proceder à assinatura
 - **Documentos:**
    - Correspondências de encaminhamento (ofícios no SEI, e-mails ou mensagens)
    - `nota técnica` da `entidade parceira` (documento anexado no SEI)
    - `parecer jurídico` da `entidade parceira` (documento anexado no SEI)
 - **Prazo:** até `10 dias úteis`
 
-**🚨 Atenção**: boas práticas para a elaboração de `nota técnica` e `parecer jurídico` constam nas respectivas seções anteriores e podem ser encaminhadas à `entidade parceira`.
+**🚨 Atenção**: boas práticas para a elaboração de `nota técnica` e `parecer jurídico` constam nas etapas 7 e 10 e podem ser encaminhadas à `entidade parceira`.
 
 ---
 
-### 13. ♻️ Alterações (se houver)
-- **Ator Responsável:** `APPI`
-- **Atividades:**
-  - Interpretar `nota técnica` e `parecer jurídico` da `entidade parceira`
-  - Elaborar `memorando` listando sugestões e alterações, conforme item anterior, se for o caso
-  - Encaminhar `processo SEI` à `GLCC`
-- **Documentos:**
-   - Correspondência de encaminhamento (memorando no SEI)
-- **Prazo:** até `2 dias úteis`
-
----
-
-### 14. ✍️ Instrução do Processo e Assinatura
+### 16. ✍️ Assinatura
+- **Fase**: 🏛️✍️ Celebração do instrumento jurídico
 - **Ator Responsável:** `GLCC`
 - **Atividades:**
-  - Promover eventuais alterações restantes, se for o caso
-  - Elaborar `instrumento jurídico` final, a partir da `minuta de instrumento jurídico`
-  - Instruir o `processo SEI` com os documentos pertinentes
+  - Promover alterações restantes, se for o caso
+  - Consolidar o `instrumento jurídico` em sua versão final
+  - Instruir o `processo SEI` com os documentos pertinentes, atualizando o que for necessário
   - Encaminhar `instrumento jurídico` à assinatura do `dirigente máximo` do `IEPHA-MG`
   - Encaminhar `instrumento jurídico` à assinatura do `dirigente máximo` da `entidade parceria`
   - Publicar `instrumento jurídico` assinado (se for exigível pela legislação)
@@ -329,100 +370,172 @@ análise jurídica** - ou seja, esta etapa pode ser "_pulada_" em alguns casos. 
 
 ---
 
-### Quadro-resumo do Processo e Fluxograma
+### 17. 🚀 Execução da parceria
+- **Fase**: ⚙️📊 Execução e acompanhamento
+- **Ator Responsável:** `unidade demandante` (ou comissão de monitoramento, supervisor, gestor do contrato, ou equivalente, dependendo do `marco regulatório`)
+- **Atividades:**
+  - Verificar atribuições, resultados e metas previstos no `instrumento jurídico`
+  - Realizar atividades necessárias para concretizar o objeto do `instrumento jurídico`
+  - Realizar visitas e verificações para averiguar a realização das atividades conforme previsto no `instrumento jurídico`
+  - Comunicar-se e articular o que for necessário junto à `entidade parceira`
+  - Providenciar rodadas de monitoramento e avaliação, caso seja exigido pelo `marco regulatório`
+  - Registrar comprovações da execução da parceria no `processo SEI`
+  - Elaborar `relatório de monitoramento` ou equivalente, se exigido pelo `marco regulatório`
+  - Elaborar `relatório de avaliação` ou equivalente, se exigido pelo `marco regulatório`
+  - Elaborar `relatório de execução do objeto cultural` ou equivalente, se exigido pelo `marco regulatório`
+  - Articular com a `ASCOM` a divulgação de resultados no âmbito do `IEPHA-MG`
+  - Reportar-se ao seu superior hierárquico e ao `gabinete` do `IEPHA-MG` em caso de irregularidades ou suspeitas
+  - Colaborar no que for necessário para o processo de `prestação de contas`
+- **Documentos:**
+   - `fonte de comprovação` dos resultados alcançados (documentos no SEI)
+   - `relatório de monitoramento` ou equivalente, se exigido pelo `marco regulatório`
+   - `relatório de avaliação` ou equivalente, se exigido pelo `marco regulatório`
+   - `relatório de visitação` ou equivalente, se exigido pelo `marco regulatório`
+   - `relatório de execução do objeto cultural` ou equivalente, se exigido pelo `marco regulatório`
+- **Prazo:** N/A (varia conforme o `instrumento jurídico`)
 
-| Etapa                           | Ator Responsável          | Documento Principal             | Prazo |
-|---------------------------------|---------------------------|--------------------------------|-------------|
-| 1. Protocolo e Registro         | Unidade Demandante        | Carta/Minuta/Documentos         | até 5 dias úteis |
-| 2. Triagem Preliminar           | APPI                      | Checklist de Triagem            | 5 dias úteis |
-| 3. Análise Técnica Setorial     | Área Técnica              | Parecer Técnico                 | 10 dias úteis |
-| 4. Análise Jurídica             | Assessoria Jurídica (AJU) | Parecer Jurídico                | 10 dias úteis |
-| 5. Análise de Conformidade/APPi | APPI                      | Parecer de Conformidade         | 5 dias úteis |
-| 6. Consolidação/Decisão         | APPI/Presidência          | Dossiê de Parceria, Despacho    | 3 dias úteis |
-
----
-
-📌 **Observações Importantes**
-- Prazos podem variar de acordo com a complexidade da parceria.  
-- Havendo pendências documentais, o prazo é suspenso até regularização pelo demandante.  
-- O acompanhamento e controle de prazos é responsabilidade da APPI.  
-
-
-
-
-
-
-
-
-
-
-
+**🚨 Atenção**: é desejável que a gestão do `instrumento jurídico` seja feita na `unidade demandante`, que possui domínio técnico e competências para executar a parceria.
 
 ---
 
-### 🧐📑 Análise técnica
-A ```área técnica``` deve comunicar à ```APPI```, no mínimo:
-- [ ] Objeto da parceria: o que se quer fazer por meio de parceria?
-   - Exemplo: modelagem 3D de um bem tombado, dossiê de tombamento, capacitações de servidores, digitalização de documentos etc. 
-- [ ] Justificativa da parceria: por que fazer por parceria, não diretamente?
-   - Exemplo: a entidade parceira possui um projeto captado para executar o objeto; o parceiro interessado possui tecnologia exclusiva que vai doar para o projeto; o bem tombado aguarda, há mais de cinco anos, intervenções, que podem ser concluídas por meio da parceria etc.
-- [ ] Responsabilidades: o que se espera do ```IEPHA-MG``` e o que se espera do ```parceiro```?
-   - Exemplo: o IEPHA-MG vai disponibilizar uma sala, ou vai compartilhar diretrizes técnicas, ou vai oferecer capacitações, ou vai acompanhar o parceiro em visitas técnicas etc.; o parceiro vai oferecer restauradores para trabalhar numa peça, ou vai realizar um seminário, ou vai oferecer uma plataforma digital para o IEPHA-MG acessar etc.
-- [ ] Resultados e metas: o que se espera alcançar, especificamente com a parceria?
-      - Exemplo: 3 modelos 3D de bens tombados impressos até dezembro; 1 dossiê de tombamento concluído até janeiro; 3 cursos de capacitação realizados e 30 servidores capacitados até junho; etc.
+### 18. 👮 Prestação de contas
+- **Fase**: 🔒👮 Prestação de contas
+- **Ator Responsável:** `GLCC`
+- **Atividades:**
+  - Verificar comprovantes de resultados
+  - Verificar comprovantes financeiros, se for o caso
+  - Seguir os procedimentos de prestação de contas definidos em seção específica do `marco regulatório`
+  - Consultar `unidade demandante`, `entidade parceira` ou demais áreas competentes em caso de necessidade de esclarecimentos
+  - Emitir parecer conclusivo sobre `prestação de contas`
+  - Instruir `processo SEI` com a `prestação de contas`
+  - Publicar extrato de aprovação ou reprovação da `prestação de contas`, se exigido pelo `marco regulatório`
+  - Recomendar ao `dirigente máximo` do `IEPHA-MG` sobre aplicação de sanções ou procedimentos de saneamento de irregularidades previstos no `marco regulatório`, se necessário
+- **Documentos:**
+   - `prestação de contas` aprovada (com ou sem ressalvas) ou reprovada
+   - parecer conclusivo (documento no SEI)
+- **Prazo:** N/A (varia conforme o `marco regulatório`)
 
-**Atenção**: ao requisitar uma parceria, a ```área técnica``` deve considerar se tem "_pernas_" para executar e monitorar o que está sendo proposto, pois será necessário um ponto focal para gerir o futuro instrumento jurídico, garantir que as metas e resultados estejam sendo cumpridos e organizar a comprovação disso num eventual processo de prestação de contas.
 
-A partir desse material, a ```APPI``` avalia:
-- [ ] A parceria faz sentido pro ```IEPHA-MG```?
-   - Exemplo: está alinhada ao PPAG, cabe no estatuto e possui coerência com a estratégia institucional.
--  [ ] A parceria é viável na prática?
-   - Exemplo: os resultados são atingíveis, o ```IEPHA-MG``` possui meios para cumprir com as suas obrigações...
-- [ ] Qual o marco regulatório e instrumento jurídico ideal para a parceria?
-   - [ ] A parceria envolve transferências de recursos entre as partes, comodato de bens ou ocupação de algum espaço?
-   - [ ] Envolve concessão de bolsas ou prêmios?
-   - [ ] Foi proposta por algum ```parceiro``` ou pelo ```IEPHA-MG``` diretamente?
-   - [ ] O objeto da parceria é complexo ou simples?
-   - [ ] É necessário um plano de trabalho com resultados e metas detalhadas?
-   - [ ] Seria necessário nomear, formalmente, algum gestor, fiscal, supervisor, comissão de monitoramento ou semelhante para acompanhar a parceria?
-   - [ ] Será necessário chamamento público? Se não, por quê (_não envolve transferências, competição é inviável, situação é hipótese de dispensa etc._)?
+### Quadro de resumo do processo
 
-Com base nessas respostas, a ```APPI``` consegue estipular:
-1. Qual o **Marco Regulatório** adequado à parceria solicitada
-2. Qual o **Instrumento Jurídico** ideal
-3. Se é ou não necessário um **chamamento público**.
+| Etapa                                         | Ator Responsável                                | Documento Principal                              | Prazo |
+|-----------------------------------------------|------------------------------------------------|-------------------------------------------------|-------|
+| 1. Protocolo e Registro Inicial               | Unidade demandante                              | Ofício / Memorando / Carta de Intenções          | N/A   |
+| 2. Triagem Preliminar                         | APPI                                           | Minuta de instrumento jurídico / Edital          | 5 dias úteis (sem cham.) / 15 dias úteis (com cham.) |
+| 3. Análise Técnica Interna                    | Unidade demandante e áreas técnicas do IEPHA   | Minuta revisada do instrumento / edital          | 5 dias úteis (sem cham.) / 10 dias úteis (com cham.) |
+| 4. Alterações (se houver)                     | APPI                                           | Minuta validada                                  | 2 dias úteis (sem cham.) / 5 dias úteis (com cham.) |
+| 5. Análise Técnica Externa / Consulta Pública | Entidade parceira ou APPI (se chamamento)      | Minuta revisada com sugestões                    | 5 dias úteis (sem cham.) / 15 dias úteis (com cham.) |
+| 6. Alterações (se houver)                     | APPI                                           | Minuta validada                                  | 2 dias úteis |
+| 7. Manifestação Técnica Interna               | APPI                                           | Nota técnica                                     | 5 dias úteis |
+| 8. Alterações (se houver)                     | APPI                                           | Minuta revisada + encaminhamento à GLCC          | 2 dias úteis (sem cham.) / 5 dias úteis (com cham.) |
+| 9. Instrução do processo                      | GLCC                                           | Processo SEI instruído                           | 5 dias úteis |
+| 10. Análise Jurídica                          | Procuradoria Jurídica                           | Parecer jurídico                                 | 10 dias úteis |
+| 11. Nota saneadora e/ou publicação            | GLCC                                           | Nota saneadora / Edital de chamamento público    | 5 dias úteis |
+| 12. Recebimento e seleção de propostas        | Comissão julgadora                              | Pareceres de seleção / Resultado do chamamento   | ≥ 5 dias úteis (var. reg.) |
+| 13. Recursos e homologação                    | Comissão de recursos                            | Pareceres de recursos / Homologação              | ≥ 5 dias úteis (var. reg.) |
+| 14. Habilitação                               | GLCC                                           | Documentação habilitatória                       | 5 dias úteis (var. reg.) |
+| 15. Manifestação Técnica e Jurídica Externa   | APPI e Entidade parceira                        | Nota técnica + Parecer jurídico da parceira      | 10 dias úteis |
+| 16. Assinatura                                | GLCC                                           | Instrumento jurídico assinado + Publicações      | 10 dias úteis |
+| 17. Execução da parceria                      | Unidade demandante / Gestor / Comissão         | Relatórios e fontes de comprovação               | N/A (varia pelo instrumento) |
+| 18. Prestação de contas                       | GLCC                                           | Prestação de contas + Parecer conclusivo         | N/A (varia pelo marco regulatório) |
 
-A partir daí, a ```APPI``` elabora, em  até ```5 dias úteis```,  uma ```minuta de instrumento jurídico``` (na nuvem, ou seja, por meio de link) e a remete, por ```e-mail```, para a ```área técnica``` validar em até ```5 dias úteis```.
 
-**Atenção!** A utilização de documentos _na nuvem_ permite que todas as partes possam revisar e comentar, com controle de alterações, dando certeza de que não utilizarão versões diferentes do mesmo documento, garantindo a segurança do processo e a possibilidade de voltar atrás em qualquer alteração. Por isso o alinhamento entre as partes se utiliza desse recurso.
+### 🔄️ Fluxograma do processo
 
-Recebida a resposta e feitos eventuais ajustes, a ```APPI``` envia a minuta por ```e-mail``` para o ```parceiro``` analisar e sugerir alterações em até ```5 dias úteis```.
+<div class="mermaid">
+flowchart TD
+    %% Legenda (adaptada ao contexto IEPHA-MG/APPI)
+    A_LEG@{ shape: lean-r, label: "Unidade demandante (área técnica)" }
+    B_LEG@{ shape: rect, label: "APPI" }
+    C_LEG@{ shape: rounded, label: "GLCC" }
+    D_LEG@{ shape: trap-b, label: "Procuradoria Jurídica" }
+    E_LEG@{ shape: odd, label: "Comissão Julgadora / Recursos" }
+    G_LEG@{ shape: stadium, label: "Monitoramento/Execução" }
+    H_LEG@{ shape: hex, label: "Avaliação/PC" }
+    I_LEG@{ shape: diamond, label: "Decisão" }
+    %% Etapas iniciais
+    A@{ shape: lean-r, label: "1. Protocolo e Registro Inicial\n(Manifestação de interesse + docs preliminares)" } --> B@{ shape: rect, label: "2. Triagem Preliminar (APPI)\nViabilidade, marco regulatório, tipo de instrumento\nNecessita chamamento público?" }
+    B -->|Sim| SEL
+    B -->|Não| DIS
+    %% Seleção Pública
+    subgraph SEL ["Chamamento Público"]
+        direction TB
+        S1@{ shape: rect, label: "Elaborar minuta do edital e do instrumento jurídico" }
+        S1 --> S2@{ shape: diamond, label: "Minutas validadas internamente?" }
+        S2 -->|Não| S1
+        S2 -->|Sim| S3@{ shape: rounded, label: "Instruir no SEI e enviar à análise jurídica via GLCC" }
+        S3 --> S4@{ shape: trap-b, label: "Análise Jurídica (parecer)" }
+        S4 --> S5@{ shape: rounded, label: "Ajustes e nota saneadora (GLCC/APPI)" }
+        S5 --> S6@{ shape: rect, label: "Publicar edital\n(Observância de prazos legais)" }
+        S6 --> S7@{ shape: odd, label: "Receber propostas" }
+        S7 --> S8@{ shape: odd, label: "Julgamento de propostas\n(Comissão Julgadora)" }
+        S8 --> S9@{ shape: rounded, label: "Homologação e publicação do resultado" }
+        S9 --> S10@{ shape: odd, label: "Recursos (se houver)\nJulgamento e publicação final" }
+        S10 --> S11@{ shape: rect, label: "Convocar entidade selecionada" }
+    end
+    %% Dispensa de Chamamento
+    subgraph DIS ["Dispensa"]
+        direction TB
+        D1@{ shape: rect, label: "Justificar dispensa de chamamento público" }
+        D1 --> D2@{ shape: rect, label: "Desenvolver minuta do instrumento jurídico" }
+        D2 --> D3@{ shape: diamond, label: "Minuta validada internamente?" }
+        D3 -->|Não| D2
+        D3 -->|Sim| D4@{ shape: rounded, label: "Instruir no SEI e enviar à análise jurídica via GLCC" }
+        D4 --> D5@{ shape: trap-b, label: "Análise Jurídica (parecer)" }
+        D5 --> D6@{ shape: rounded, label: "Ajustes e nota saneadora (GLCC/APPI)\nPublicações cabíveis (se aplicável)" }
+    end
+    %% Convergência pós-seleção/dispensa
+    S11 --> G1@{ shape: rect, label: "Habilitação (GLCC)\nChecagem de documentos e certidões" }
+    D6 --> G1
+    %% Manifestações externas (se aplicável)
+    G1 --> I1@{ shape: diamond, label: "Exige manifestação técnica/jurídica da entidade parceira?" }
+    I1 -->|Sim| I2@{ shape: rect, label: "Entidade parceira envia nota técnica e parecer jurídico à APPI" }
+    I2 --> I3@{ shape: rounded, label: "APPI instrui no SEI e devolve à GLCC" }
+    I1 -->|Não| I4@{ shape: rounded, label: "Seguir para consolidação" }
+    %% Celebração e assinatura
+    I3 --> J1@{ shape: rounded, label: "Consolidação final do instrumento (GLCC)" }
+    I4 --> J1
+    J1 --> J2@{ shape: rect, label: "Coletas de assinaturas\n(IEPHA-MG e entidade parceira)" }
+    J2 --> J3@{ shape: rect, label: "Publicação/Extrato (quando exigido)\nASCOM informada (se aplicável)" }
+    %% Execução e acompanhamento
+    J3 --> K1@{ shape: stadium, label: "Execução da parceria\n(Unidade demandante/gestor/comissão)" }
+    K1 --> K2@{ shape: stadium, label: "Monitoramento e registros no SEI\nRelatórios (quando exigidos)" }
+    %% Decisão sobre metas/resultados
+    K2 --> L1@{ shape: diamond, label: "Metas e resultados alcançados?" }
+    L1 -->|Sim| M1@{ shape: hex, label: "Prestação de contas (GLCC)\nAnálise de conformidade" }
+    L1 -->|Não| L2@{ shape: diamond, label: "Há justificativas formais adequadas?" }
+    L2 -->|Sim| M1
+    L2 -->|Não| L3@{ shape: rect, label: "Adoção de medidas administrativas\nconforme marco regulatório" } --> M1
+    %% Prestação de Contas e conclusão
+    M1 --> N1@{ shape: diamond, label: "Irregularidades na PC?" }
+    N1 -->|Não| FIM[(Fim)]
+    N1 -->|Sim| N2@{ shape: hex, label: "Notificar para saneamento/justificativas\nReanalisar e emitir parecer conclusivo" } --> N3@{ shape: hex, label: "Decisão: aprovar, aprovar com ressalvas ou reprovar" }
+    N3 -->|Aprovada| FIM
+    N3 -->|Ressalvas| FIM
+    N3 -->|Reprovada| N4@{ shape: rect, label: "Providências cabíveis segundo marco regulatório" } --> FIM
+    %% Estilos
+    classDef lean-r fill:#dae8fc,stroke:#6c8ebf;
+    classDef rect fill:#fff2cc,stroke:#b7b700;
+    classDef rounded fill:#e1d5e7,stroke:#9673a6,stroke-width:2px,stroke-dasharray:1,4;
+    classDef trap-b fill:#f8cecc,stroke:#b85450;
+    classDef odd fill:#d5e8d4,stroke:#82b366;
+    classDef hex fill:#ffe6cc,stroke:#b97a57,stroke-width:2px;
+    classDef stadium fill:#c9daf8,stroke:#3c78d8;
+    classDef diamond fill:#f9cb9c,stroke:#b45f06;
+    %% Classes
+    class A lean-r
+    class B rect
+    class C rounded
+    class D trap-b
+    class E odd
+    class G stadium
+    class H hex
+    class I diamond
+</div>
 
-Quando finalmente todos estão de acordo, a ```APPI``` abre, em até ```2 dias úteis```, um ```processo no SEI```, com a ```minuta de instrumento jurídico```, e envia o material, por ```memorando```, para manifestação da ```área técnica``` em até ```5 dias úteis```.
-
-Uma boa ```nota técnica``` deve conter, no mínimo, considerações sobre:
-- [ ] 1. Objeto da parceria
-- [ ] 2. Justificativa da Parceria e Interesse Público
-- [ ] 3. Alinhamento Institucional com as Competências da ```área técnica```
-- [ ] 4. Viabilidade e Exequibilidade Técnica
-- [ ] 5. Conclusão (favorável à parceria, favorável com ressalvas ou desfavorável)
-
-Recebendo uma ```nota técnica``` **favorável**, a ```APPI``` envia o processo, em até ```2 dias úteis```, por ```memorando```, à ```GLCC``` (Gerência de Licitações, Contratos e Convênios da Diretoria de Planejamento, Gestão e Finanças), solicitando que, em até ```5 dias úteis```, instrua o processo com documentos comprobatórios aplicáveis (conforme o marco legal utilizado) e o envie para a ```procuradoria jurídica``` para manifestação. A ```nota jurídica``` deve ser emitida em até ```10 dias úteis```.
-
-De acordo com o [Manual de Boas Práticas Consultivas (4ª Edição), da Advocacia Geral da União (AGU)](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/manuais/manual-de-boas-praticas-consultivas-4a-edicao.pdf/@@download/file), uma boa ```nota jurídica``` deve:
-- Ter _redação objetiva e clara quanto aos encaminhamentos propostos_ (p. 22 do Manual da AGU): ou seja, ser fácil de entender pra quem requisitou
-- Expor _suas propostas de encaminhamento de forma simples, clara, objetiva e absolutamente inteligível ao consulente_ (p. 22 do Manual da AGU): ou seja, focar na objetividade e clareza dos encaminhamentos que devem ser empreendidos por quem requisitou
-- Somente _quando houver necessidade de detalhar providências e pormenores das atividades recomendadas ao gestor_ é que se admite _que a conclusão da manifestação consultiva faça remissão aos tópicos específicos_ (p. 22 do Manual da AGU): ou seja, deve-se evitar tratados jurídicos em favor do essencial, simples e claro
-- Ser fruto de _interação e a aproximação com os assessorados_, de modo que _a análise jurídica busque preliminarmente estabelecer com as estruturas administrativas [...] interlocuções para obtenção de esclarecimentos sobre os fundamentos da medida pretendida_ (p. 56 do Manual da AGU): ou seja, advir de cooperação não apenas formal e processual entre quem requisitou e quem redigiu a nota jurídica, sendo possíveis consultas formais e informais antes da manifestação final
-- Evitar _posicionamentos conclusivos sobre temas não jurídicos, tais como os técnicos, administrativos ou de conveniência ou oportunidade_ e deixar claro _o caráter discricionário de seu acatamento_ se o fizer (p. 32 do Manual da AGU): ou seja, versar apenas sobre elementos jurídico-legais e, quando for além, dizer com todas as letras que não é necessário atender àquele tópico
-
-Recebida a ```nota jurídica```, a ```GLCC``` tem mais ```5 dias úteis``` para providenciar uma ```nota saneadora``` e as modificações pertinentes na ```minuta de instrumento jurídico```, listando todos os pontos solicitados pela ```procuradoria jurídica``` e os encaminhamentos dados. Ao fim dessa etapa, a ```GLCC``` encaminha o processo à ```APPI``` por ```memorando```.
-
-A ```APPI``` envia o processo para o ```parceiro``` analisar e emitir sua nota jurídica, o que deve ser feito em até ```10 dias úteis```. Ao fim desse período, a ```APPI``` envia o processo à ```GLCC``` em até ```2 dias úteis```, registrando eventuais necessidades de alteração conforme resposta do ```parceiro```.
-
-Finalmente, a ```GLCC``` atualiza o ```processo no SEI``` com os documentos necessários e providencia as assinaturas do ```dirigente do IEPHA-MG``` e do ```dirigente do parceiro```.
-
-#### 🔄️ Fluxograma da Análise técnica
-
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+</script>
 
 
