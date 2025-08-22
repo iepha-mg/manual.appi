@@ -10,26 +10,18 @@ promovendo a cooperação e a inovação na preservação do patrimônio.
 
 É também o setor do Iepha-MG responsável pela elaboração e atualização deste Manual.APPI.
 
-<img align="left" width="90" height="90" src="https://github.com/user-attachments/assets/9f421c8a-abfa-4d4a-a81c-2fef661f65fd">
-
 >**Missão**:
 >
 >Fortalecer a atuação do Iepha-MG por meio de parcerias e programas integrados.
-
----
 
 Para concretizar sua missão, a APPI acredita na cooperação entre diferentes agentes
 institucionais, sociais, públicos e privados, sob arranjos inovadores e sempre com vistas à
 construção de ideias responsáveis e duradouras para a salvaguarda do patrimônio cultural
 mineiro.
 
-<img align="left" width="90" height="90" src="https://github.com/user-attachments/assets/0596db6f-0f82-4b71-b793-c50fa5627bbd">
-
 >**Visão**:
 >
->Ser a unidade de confiança e referência que as áreas técnicas do Iepha-MG e seus parceiros procuram quando querem elaborar, instruir, monitorar ou avaliar parcerias.
-
----
+>Ser reconhecida como unidade estratégica do Iepha-MG que impulsiona inovação e cooperação, oferecendo apoio qualificado às áreas técnicas na elaboração e instrução de parcerias e projetos, fortalecendo a atuação integrada do Instituto com seus parceiros e a sociedade.
 
 A APPI busca criar um ambiente colaborativo onde o conhecimento seja compartilhado
 para se transformar em soluções criativas e sustentáveis. Daí a elaboração deste manual, no
