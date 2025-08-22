@@ -296,7 +296,7 @@ análise jurídica** - ou seja, esta etapa pode ser "_pulada_" em alguns casos. 
 
 ---
 
-### 13. 📣 Recursos e homologação do resultado
+### 13. 📣 Recursos e homologação do resultado (somente no caso de chamamento público)
 - **Fase**: 📢📜 Chamamento público
 - **Ator Responsável:** `comissão de recursos` (ou equivalente)
 - **Atividades:**
