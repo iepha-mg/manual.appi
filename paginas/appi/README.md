@@ -94,7 +94,7 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
 ### **Priscila Guerra Duarte** *(Assessora-Chefe da APPI)*
 
 <img 
-    src="https://github.com/user-attachments/assets/63caf254-f46b-477a-9624-2f0d6adda0c7" 
+    src="https://github.com/user-attachments/assets/ca6a13e4-a0de-44a5-a342-32269b09b730" 
     align="right" 
     width="33%" 
     style="margin-right: 20px;">
