@@ -19,7 +19,7 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 | [📣 Recado do Presidente](https://lucasfainblat.github.io/manual.appi/paginas/recado/README.html) | Mensagem institucional sobre o Manual |
 | [🤗 O que é o Manual.APPI?](https://lucasfainblat.github.io/manual.appi/paginas/sobre/README.html) | Apresentação e objetivos do Manual |
 | [🙋 O que é a APPI/IEPHA-MG?](https://lucasfainblat.github.io/manual.appi/paginas/appi/README.html) | Ficha técnica do Manual e apresentação da Assessoria |
-| [🤝 O que são parcerias?](https://lucasfainblat.github.io/manual.appi/paginas/parcerias/README.html) | Definições importantes sobre parcerias |
+| [❓ O que são parcerias?](https://lucasfainblat.github.io/manual.appi/paginas/parcerias/README.html) | Definições importantes sobre parcerias |
 | [💎 Dicas](https://lucasfainblat.github.io/manual.appi/paginas/parcerias/dicas/README.html) | Dicas para quem quer por a mão na massa |
 
 ## 🚀 Guia prático para celebrar parcerias[^1]
@@ -68,12 +68,3 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 | 📋 Cartilhas | Guias práticos e orientações |
 | 📝 Modelos de referência | Templates e documentos padrão |
 | ⚖️ Instrumentos jurídicos vigentes | Contratos e acordos em andamento |
-
----
-
-<img src="https://github.com/user-attachments/assets/057d28f0-49d2-4ae5-be0c-ade12d75867b">
-
-_Foto: Igreja Matriz de Santa Efigênia, Ouro Preto (MG)_
-
----
-
