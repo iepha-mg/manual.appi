@@ -70,3 +70,5 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 | ⚖️ Instrumentos jurídicos vigentes | Contratos e acordos em andamento |
 
 ---
+
+<img width="4676" height="460" alt="Assin Conjug Horiz MINAS+IEPHA+SECULT+GOV_MG Fundo Claro Coreto CORES" src="https://github.com/user-attachments/assets/22df25a9-7c75-4a6b-8ca3-e6c2bebe1c44" />
