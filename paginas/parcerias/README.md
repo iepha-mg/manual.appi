@@ -1,4 +1,4 @@
-# 🤝 O que são parcerias?
+# ❓ O que são parcerias?
 
 Parcerias são colaborações estratégicas entre o setor público (como o Iepha-MG) e outras
 entidades (públicas, privadas ou da sociedade civil) para alcançar objetivos comuns de
