@@ -24,7 +24,7 @@ As Fundações de Apoio são entidades privadas sem fins lucrativos criadas para
 
 ## ✅ Principais vantagens das Fundações de Apoio
 
-- Maior **agilidade administrativa**, pois dispensam licitação em contratações de pesquisa e serviços técnicos  
+- Maior **agilidade administrativa**, pois utilizam procedimentos do direito privado para adquirir bens e contratar serviços, obedecendo a princípios de moralidade, economicidade e boa governança  
 - **Flexibilidade financeira**: recebem doações, convênios e patrocínios com regras simplificadas  
 - Fortalecimento da **governança**, com conselhos gestores paritários e transparência em prestações de contas  
 - **Suporte técnico** e operacional dedicado ao desenvolvimento de projetos de conservação, restauração e pesquisa  
