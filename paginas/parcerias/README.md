@@ -1,7 +1,7 @@
 # ❓ O que são parcerias?
 
 Parcerias são colaborações estratégicas entre o setor público (como o Iepha-MG) e outras
-entidades (públicas, privadas ou da sociedade civil) para alcançar objetivos comuns de
+entidades públicas, da sociedade civil ou empresas privadas, para alcançar objetivos comuns de
 interesse coletivo. Elas permitem compartilhar recursos financeiros e humanos,
 conhecimentos técnicos e experiências de sucesso para implementar projetos que
 beneficiem a população, como preservação do patrimônio, infraestrutura cultural ou ações
@@ -59,7 +59,7 @@ Estado e entidades sem fins lucrativos, como ONGs ou universidades.
 ### 🎂 Benefícios mútuos
 
 Parcerias são arranjos em que as partes têm interesses comuns, voltados a benefícios
-mútuos: o parceiro  - público, privado ou social - ganha visibilidade, incentivos ou retorno
+mútuos: o parceiro ganha visibilidade, incentivos ou retorno
 financeiro, enquanto o Estado garante eficiência e sustentabilidade.
 
 >_Acordos materializam interesses comuns._
@@ -101,7 +101,7 @@ Toda parceria pode ser alvo de consulta por parte de cidadãos, Ministério Púb
 qualquer parte interessada. Isso ajuda a garantir que tudo o que foi combinado esteja
 sendo cumprido.
 
->_Todos os documentos relativos a uma parceria devem ser publicados no site do Iepha-MG._
+>_Os cidadãos podem ter acesso aos documentos relativos a uma parceria, seguindo as diretrizes da LGPD_
 
 Os acordos e termos de cooperação técnica, seus planos de trabalho e relatórios de
 entregas estarão sempre à disposição de quem se interessar. Por isso, parcerias são
