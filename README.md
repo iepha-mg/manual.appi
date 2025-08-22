@@ -68,3 +68,5 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 | 📋 Cartilhas | Guias práticos e orientações |
 | 📝 Modelos de referência | Templates e documentos padrão |
 | ⚖️ Instrumentos jurídicos vigentes | Contratos e acordos em andamento |
+
+---
