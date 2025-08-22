@@ -102,23 +102,12 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
 - 👔 Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
 - 📧 [priscila.guerra@iepha.mg.gov.br](mailto:priscila.guerra@iepha.mg.gov.br)
 - 🎓 [http://lattes.cnpq.br/4749109914314491](http://lattes.cnpq.br/4749109914314491)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priscila-guerra-duarte-bb12487a/)
 
 #### **Formação Acadêmica**  
-- **Mestranda** em Economia e Política da Cultura (UFGRS)
-- **Especialização** em Gestão Cultural (Centro Universitário UNA, 2012)
+- **Mestranda** em Economia e Política Cultural e Indústrias Criativas (UFRGS)
+- **Especialização** em Economia Criativa e Inovação (UCS, 2022); em Gestão Pública (UEMG, 2018); e em Gestão Cultural (Centro Universitário UNA, 2012) 
 - **Graduação** em Administração Pública (Fundação João Pinheiro, 2010)  
-
-#### **Atuação profissional**  
-- Supervisão de **Termos de Parceria** com OSCIPs (ex.: Orquestra Filarmônica de Minas Gerais, Circuito Cultural Praça da Liberdade).
-- **Planejamento estratégico**, diagnóstico de processos e monitoramento de metas (ex.: Fundação Clóvis Salgado).
-- **Articulação de parcerias**, gestão de convênios e prestação de contas (Secretaria de Estado Extraordinária da Copa do Mundo – SECOPA, Museu Brasileiro do Futebol - parceria com Minas Arena).
-- Expertise em **compliance**, gestão de Acordos de Resultados e integração de políticas culturais.
-
-#### **Competências-Chave**  
-```
-+ Governança de parcerias (OSCIPs/OS)       + Compliance e prestação de contas        + Planejamento estratégico cultural
-+ Gestão de convênios e contratos           + Articulação público-privada             + Políticas culturais integradas
-```
 
 ### **Lucas Fainblat** *(EPPGG na APPI)*
 
@@ -139,16 +128,5 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
 - **Especialização** em Políticas Públicas (UFMG, 2016)
 - **Graduação** em Administração Pública (Fundação João Pinheiro, 2011)  
 
-#### **Atuação profissional**    
-- **Contratos de Gestão**: elaboração e supervisão de contratos com OS/OSCIPs (ex. Orquestra Filarmônica de Minas Gerais, Circuito Cultural Praça da Liberdade).
-- **Planejamento estratégico**, chefiando a Assessoria Estratégica (AEST) da Secult-MG de 2016 a 2023.
-- **Atuação em rede**, idealizando a Rede Estratégia, que integrou as AESTs do Governo de Minas (SEPLAG, 2024).
-- **Orçamento Público**, pela elaboração, monitoramento e avaliação do Plano Plurianual de Ação Governamental (PPAG) da Secult-MG e suas entidades vinculadas (SECULT-MG, 2011 a 2023).
-- **Gestão de dados**, pela coordenação dos painéis de resultados da Lei Aldir Blanc I em MG ([editais](https://www.secult.mg.gov.br/relatorio-aldir-blanc) e [auxílio emergencial](https://www.secult.mg.gov.br/relatorio-emergencial#)).
 
-#### **Competências-chave**  
-```
-+ Políticas culturais             + Simplificação           + Inovação
-+ Planejamento estratégico        + Análise de dados        + Elaboração de editais, instrumentos e normativas
-```
 ##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
