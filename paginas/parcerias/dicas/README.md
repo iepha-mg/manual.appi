@@ -416,7 +416,7 @@ celebração do `instrumento jurídico`. As exigências de habilitação sempre 
 - **Prazo:** N/A (varia conforme o `marco regulatório`)
 
 
-### Quadro de resumo do processo
+### 📌 Quadro de resumo
 
 | Etapa                                         | Ator Responsável                                | Documento Principal                              | Prazo |
 |-----------------------------------------------|------------------------------------------------|-------------------------------------------------|-------|
@@ -444,97 +444,93 @@ celebração do `instrumento jurídico`. As exigências de habilitação sempre 
 
 <div class="mermaid">
 flowchart TD
-    %% Legenda (adaptada ao contexto IEPHA-MG/APPI)
-    A_LEG@{ shape: lean-r, label: "Unidade demandante (área técnica)" }
+    %% Legenda
+    A_LEG@{ shape: lean-r, label: "Unidade demandante" }
     B_LEG@{ shape: rect, label: "APPI" }
     C_LEG@{ shape: rounded, label: "GLCC" }
     D_LEG@{ shape: trap-b, label: "Procuradoria Jurídica" }
-    E_LEG@{ shape: odd, label: "Comissão Julgadora / Recursos" }
-    G_LEG@{ shape: stadium, label: "Monitoramento/Execução" }
-    H_LEG@{ shape: hex, label: "Avaliação/PC" }
+    E1_LEG@{ shape: odd, label: "Comissão Julgadora" }
+    E2_LEG@{ shape: odd, label: "Comissão de Recursos" }
     I_LEG@{ shape: diamond, label: "Decisão" }
 </div>
     
 <div class="mermaid">
 flowchart TD
     %% Etapas iniciais
-    A@{ shape: lean-r, label: "1. Protocolo e Registro Inicial\n(Manifestação de interesse + docs preliminares)" } --> B@{ shape: rect, label: "2. Triagem Preliminar (APPI)\nViabilidade, marco regulatório, tipo de instrumento\nNecessita chamamento público?" }
-    B -->|Sim| SEL
-    B -->|Não| DIS
-    %% Seleção Pública
-    subgraph SEL ["Chamamento Público"]
+    A@{ shape: lean-r, label: "Solicitar parceria (enviar proposta ou manifestação de interesse)" } --> B@{ shape: rect, label: "Triagem preliminar (viabilidade, marco regulatório e instrumento jurídico)" }
+    B --> C@{ shape: diamond, label: "Necessita chamamento público?" }
+    C -->|Sim| SEL
+    C -->|Não| DIS
+    %% Chamamento Público
+    subgraph SEL ["Com chamamento público"]
         direction TB
         S1@{ shape: rect, label: "Elaborar minuta do edital e do instrumento jurídico" }
         S1 --> S2@{ shape: diamond, label: "Minutas validadas internamente?" }
         S2 -->|Não| S1
-        S2 -->|Sim| S3@{ shape: rounded, label: "Instruir no SEI e enviar à análise jurídica via GLCC" }
-        S3 --> S4@{ shape: trap-b, label: "Análise Jurídica (parecer)" }
-        S4 --> S5@{ shape: rounded, label: "Ajustes e nota saneadora (GLCC/APPI)" }
-        S5 --> S6@{ shape: rect, label: "Publicar edital\n(Observância de prazos legais)" }
+        S2 -->|Sim| S1a@{ shape: rect, label: "Realizar consulta pública ou processo equivalente (se exigível pelo marco regulatório)" }
+        S1a --> S1b@{ shape: rect, label: "Ajustar conforme consulta pública (se for o caso)" }
+        S1b --> S1c@{ shape: lean-r, label: "Emitir nota técnica" }
+        S1c --> S3@{ shape: rounded, label: "Instruir processo SEI" }
+        S3 --> S4@{ shape: trap-b, label: "Análise jurídica" }
+        S4 --> S5@{ shape: rounded, label: "Ajustar e elaborar nota saneadora" }
+        S5 --> S6@{ shape: rect, label: "Publicar edital" }
         S6 --> S7@{ shape: odd, label: "Receber propostas" }
-        S7 --> S8@{ shape: odd, label: "Julgamento de propostas\n(Comissão Julgadora)" }
-        S8 --> S9@{ shape: rounded, label: "Homologação e publicação do resultado" }
-        S9 --> S10@{ shape: odd, label: "Recursos (se houver)\nJulgamento e publicação final" }
-        S10 --> S11@{ shape: rect, label: "Convocar entidade selecionada" }
+        S7 --> S8@{ shape: odd, label: "Selecionar propostas" }
+        S8 --> S10@{ shape: odd, label: "Publicar resultado" }
+        S10 --> S12@{ shape: odd, label: "Receber e julgar recursos" }
+        S12 --> S13@{ shape: odd, label: "Homologar resultado" }
     end
-    %% Dispensa de Chamamento
-    subgraph DIS ["Dispensa"]
+    %% Dispensa
+    subgraph DIS ["Sem chamamento público"]
         direction TB
-        D1@{ shape: rect, label: "Justificar dispensa de chamamento público" }
-        D1 --> D2@{ shape: rect, label: "Desenvolver minuta do instrumento jurídico" }
-        D2 --> D3@{ shape: diamond, label: "Minuta validada internamente?" }
+        D2@{ shape: rect, label: "Desenvolver minuta do instrumento jurídico" }
+        D2 --> D3@{ shape: diamond, label: "Minutas validadas internamente?" }
         D3 -->|Não| D2
-        D3 -->|Sim| D4@{ shape: rounded, label: "Instruir no SEI e enviar à análise jurídica via GLCC" }
-        D4 --> D5@{ shape: trap-b, label: "Análise Jurídica (parecer)" }
-        D5 --> D6@{ shape: rounded, label: "Ajustes e nota saneadora (GLCC/APPI)\nPublicações cabíveis (se aplicável)" }
+        D3 -->|Sim| D1c@{ shape: lean-r, label: "Emitir nota técnica" }
+        D1c --> D4@{ shape: rounded, label: "Instruir processo SEI" }
+        D4 --> D5@{ shape: trap-b, label: "Análise jurídica" }
+        D5 --> D6@{ shape: rounded, label: "Ajustar e elaborar nota saneadora" }
     end
     %% Convergência pós-seleção/dispensa
-    S11 --> G1@{ shape: rect, label: "Habilitação (GLCC)\nChecagem de documentos e certidões" }
+    S13 --> G1
     D6 --> G1
-    %% Manifestações externas (se aplicável)
-    G1 --> I1@{ shape: diamond, label: "Exige manifestação técnica/jurídica da entidade parceira?" }
-    I1 -->|Sim| I2@{ shape: rect, label: "Entidade parceira envia nota técnica e parecer jurídico à APPI" }
-    I2 --> I3@{ shape: rounded, label: "APPI instrui no SEI e devolve à GLCC" }
-    I1 -->|Não| I4@{ shape: rounded, label: "Seguir para consolidação" }
-    %% Celebração e assinatura
-    I3 --> J1@{ shape: rounded, label: "Consolidação final do instrumento (GLCC)" }
-    I4 --> J1
-    J1 --> J2@{ shape: rect, label: "Coletas de assinaturas\n(IEPHA-MG e entidade parceira)" }
-    J2 --> J3@{ shape: rect, label: "Publicação/Extrato (quando exigido)\nASCOM informada (se aplicável)" }
+    G1@{ shape: rounded, label: "Verificar documentos e habilitar entidade parceira" } --> I1@{ shape: diamond, label: "Necessária manifestação técnica e jurídica da entidade parceira?" }
+    I1 -->|Sim| I2@{ shape: rect, label: "Solicitar nota técnica e parecer jurídico da entidade parceira" }
+    I2 --> I3@{ shape: rect, label: "Ajustar instrumento jurídico conforme sugestões (se necessário)" }
+    I1 -->|Não| J1
+    I3 --> J1@{ shape: rect, label: "Revisar e consolidar instrumento jurídico" }
+    J1 --> J2@{ shape: rounded, label: "Assinar instrumento jurídico" }
+    J2 --> J3@{ shape: rect, label: "Providenciar publicações exigidas pelo marco regulatório (se for o caso)" }
     %% Execução e acompanhamento
-    J3 --> K1@{ shape: stadium, label: "Execução da parceria\n(Unidade demandante/gestor/comissão)" }
-    K1 --> K2@{ shape: stadium, label: "Monitoramento e registros no SEI\nRelatórios (quando exigidos)" }
+    J3 --> K2@{ shape: lean-r, label: "Executar parceria" }
     %% Decisão sobre metas/resultados
     K2 --> L1@{ shape: diamond, label: "Metas e resultados alcançados?" }
-    L1 -->|Sim| M1@{ shape: hex, label: "Prestação de contas (GLCC)\nAnálise de conformidade" }
+    L1 -->|Sim| M1@{ shape: rounded, label: "Analisar prestação de contas (se exigível pelo marco regulatório)" }
     L1 -->|Não| L2@{ shape: diamond, label: "Há justificativas formais adequadas?" }
     L2 -->|Sim| M1
-    L2 -->|Não| L3@{ shape: rect, label: "Adoção de medidas administrativas\nconforme marco regulatório" } --> M1
+    L2 -->|Não| L3@{ shape: rect, label: "Adotar medidas cabíveis conforme marco regulatório" } --> M1
     %% Prestação de Contas e conclusão
-    M1 --> N1@{ shape: diamond, label: "Irregularidades na PC?" }
-    N1 -->|Não| FIM[(Fim)]
-    N1 -->|Sim| N2@{ shape: hex, label: "Notificar para saneamento/justificativas\nReanalisar e emitir parecer conclusivo" } --> N3@{ shape: hex, label: "Decisão: aprovar, aprovar com ressalvas ou reprovar" }
+    M1 --> N1@{ shape: diamond, label: "Há irregularidades na prestação de contas?" }
+    N1 -->|Não| FIM(((Fim)))
+    N1 -->|Sim| N2@{ shape: rounded, label: "Notificar entidade parceira para esclarecimentos" } --> N3@{ shape: rounded, label: "Emitir parecer sobre prestação de contas (aprovar, aprovar com ressalvas ou reprovar)" }
     N3 -->|Aprovada| FIM
-    N3 -->|Ressalvas| FIM
-    N3 -->|Reprovada| N4@{ shape: rect, label: "Providências cabíveis segundo marco regulatório" } --> FIM
+    N3 -->|Ressalvas| N4@{ shape: rounded, label: "Aplicar providências cabíveis conforme marco regulatório" } --> FIM
+    N3 -->|Reprovada| N4 --> FIM
     %% Estilos
     classDef lean-r fill:#dae8fc,stroke:#6c8ebf;
     classDef rect fill:#fff2cc,stroke:#b7b700;
     classDef rounded fill:#e1d5e7,stroke:#9673a6,stroke-width:2px,stroke-dasharray:1,4;
     classDef trap-b fill:#f8cecc,stroke:#b85450;
     classDef odd fill:#d5e8d4,stroke:#82b366;
-    classDef hex fill:#ffe6cc,stroke:#b97a57,stroke-width:2px;
-    classDef stadium fill:#c9daf8,stroke:#3c78d8;
     classDef diamond fill:#f9cb9c,stroke:#b45f06;
-    %% Classes
+    %% Classes (aplicação de estilos da legenda)
     class A lean-r
     class B rect
     class C rounded
     class D trap-b
-    class E odd
-    class G stadium
-    class H hex
-    class I diamond
+    class E1_LEG odd
+    class E2_LEG odd
+    class I_LEG diamond
 </div>
 
 <script type="module">
