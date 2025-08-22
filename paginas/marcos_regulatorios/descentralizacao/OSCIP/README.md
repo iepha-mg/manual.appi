@@ -14,7 +14,7 @@ O **Termo de Parceria** é o instrumento firmado entre a administração públic
 - Fortalecer o controle social e a transparência nas políticas públicas
 
 ## 🛠️ Exemplos de aplicação no Iepha-MG
-1. Ações pontuais (com data de início e fim) de promoção, defesa e conservação do patrimônio histórico e artístico
+1. Projetos pontuais (com data de início e fim) de promoção, defesa e conservação do patrimônio histórico e artístico
 2. Desenvolvimento de dossiês, estudos, pesquisas e produção de conhecimentos técnicos sobre patrimônio cultural
 3. Ações educativas e de formação, relacionadas ao patrimônio cultural mineiro, de curto ou médio prazo
 4. Aplicação de tecnologias e divulgação de informações sobre patrimônio cultural
