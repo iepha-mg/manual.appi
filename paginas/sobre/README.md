@@ -11,7 +11,7 @@ Assim, espera-se:
 # 🧭 Como usar este Manual?
 
 1. Acesse o [índice](https://lucasfainblat.github.io/manual.appi) e clique no link do tema que você procura.  
-2. O conteúdo está organizado por **marco regulatório**.  
+2. O conteúdo está organizado por **marco regulatório** (conjuntos de leis e decretos que estabelecem diretrizes pra cada tipo de parceria).
    - Cada seção traz uma explicação sobre as principais leis e decretos.  
    - Dentro dela, há páginas específicas sobre cada instrumento jurídico (termo de execução cultural, contrato de gestão etc.).  
 
