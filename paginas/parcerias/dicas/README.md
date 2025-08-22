@@ -6,19 +6,19 @@ Aqui você encontra orientações práticas que podem facilitar muito o trabalho
 
 As principais fases de qualquer parceria são:
 
-- 🧐📑 **Análise técnica**
+- 🧐📑 **Análise técnica**:
   A `unidade demandante` manifesta à `APPI` do `IEPHA-MG` o desejo de celebrar uma parceria. A `APPI`, então, vai avaliar se a proposta faz sentido, se está alinhada com as políticas do IEPHA-MG e se é viável na prática.
 
-- 📢📜 **Chamamento público (ou dispensa)**
+- 📢📜 **Chamamento público (ou dispensa)**:
   É a etapa de abertura para seleção de parceiros (quando for necessário, de acordo com a legislação aplicável e o caso concreto), garantindo transparência e igualdade de oportunidades.
 
-- 🏛️✍️ **Celebração do instrumento jurídico**
+- 🏛️✍️ **Celebração do instrumento jurídico**:
   Formalização e assinatura da parceria por meio de contrato, termo, acordo ou outro instrumento previsto em lei.
 
-- ⚙️📊 **Execução e acompanhamento**
+- ⚙️📊 **Execução e acompanhamento**:
   Colocar em prática o que foi acordado e acompanhar o andamento, monitorando prazos, resultados e recursos.
 
-- 🔒👮 **Prestação de contas**
+- 🔒👮 **Prestação de contas**:
   Conferir se os resultados foram alcançados e o objeto foi cumprido. Se necessário, conforme legislação, registrar como os recursos e atividades foram aplicados, garantindo transparência e responsabilidade.
 
 Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
@@ -457,7 +457,7 @@ flowchart TD
 <div class="mermaid">
 flowchart TD
     %% Etapas iniciais
-    A@{ shape: lean-r, label: "Solicitar parceria (enviar proposta ou manifestação de interesse)" } --> B@{ shape: rect, label: "Triagem preliminar (viabilidade, marco regulatório e instrumento jurídico)" }
+    A@{ shape: lean-r, label: "Solicitar parceria (enviar proposta ou manifestação de interesse)" } --> B@{ shape: rect, label: "Realizar triagem preliminar (viabilidade, marco regulatório e instrumento jurídico)" }
     B --> C@{ shape: diamond, label: "Necessita chamamento público?" }
     C -->|Sim| SEL
     C -->|Não| DIS
