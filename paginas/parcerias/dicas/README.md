@@ -450,7 +450,7 @@ flowchart TD
     C_LEG@{ shape: rounded, label: "GLCC" }
     D_LEG@{ shape: trap-b, label: "Procuradoria Jurídica" }
     E1_LEG@{ shape: odd, label: "Comissão Julgadora" }
-    E2_LEG@{ shape: odd, label: "Comissão de Recursos" }
+    E2_LEG@{ shape: stadium, label: "Comissão de Recursos" }
     I_LEG@{ shape: diamond, label: "Decisão" }
 </div>
     
@@ -477,7 +477,7 @@ flowchart TD
         S6 --> S7@{ shape: odd, label: "Receber propostas" }
         S7 --> S8@{ shape: odd, label: "Selecionar propostas" }
         S8 --> S10@{ shape: odd, label: "Publicar resultado" }
-        S10 --> S12@{ shape: odd, label: "Receber e julgar recursos" }
+        S10 --> S12@{ shape: stadium, label: "Receber e julgar recursos" }
         S12 --> S13@{ shape: odd, label: "Homologar resultado" }
     end
     %% Dispensa
@@ -516,21 +516,6 @@ flowchart TD
     N3 -->|Aprovada| FIM
     N3 -->|Ressalvas| N4@{ shape: rounded, label: "Aplicar providências cabíveis conforme marco regulatório" } --> FIM
     N3 -->|Reprovada| N4 --> FIM
-    %% Estilos
-    classDef lean-r fill:#dae8fc,stroke:#6c8ebf;
-    classDef rect fill:#fff2cc,stroke:#b7b700;
-    classDef rounded fill:#e1d5e7,stroke:#9673a6,stroke-width:2px,stroke-dasharray:1,4;
-    classDef trap-b fill:#f8cecc,stroke:#b85450;
-    classDef odd fill:#d5e8d4,stroke:#82b366;
-    classDef diamond fill:#f9cb9c,stroke:#b45f06;
-    %% Classes (aplicação de estilos da legenda)
-    class A lean-r
-    class B rect
-    class C rounded
-    class D trap-b
-    class E1_LEG odd
-    class E2_LEG odd
-    class I_LEG diamond
 </div>
 
 <script type="module">
