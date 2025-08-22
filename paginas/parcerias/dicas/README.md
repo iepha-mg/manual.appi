@@ -269,7 +269,7 @@ análise jurídica** - ou seja, esta etapa pode ser "_pulada_" em alguns casos. 
   - Interpretar `parecer jurídico`
   - Revisar `minuta de instrumento jurídico` conforme `parecer jurídico`
   - Elaborar `nota saneadora`, listando todos os pontos solicitados pela `procuradoria jurídica` e os encaminhamentos dados
-  - Proceder diretamente à etapa 14 (no caso de não haver chamamento público)
+  - Proceder diretamente à [etapa 14](https://lucasfainblat.github.io/manual.appi/paginas/parcerias/dicas/README.html#14--habilita%C3%A7%C3%A3o) (no caso de não haver chamamento público)
  - **Atividades:** (se houver chamamento público)
   - Revisar `minuta de edital de chamamento público` conforme `parecer jurídico`
   - Assinar e publicar `edital de chamamento público`
