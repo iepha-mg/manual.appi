@@ -1,4 +1,4 @@
-# 💡 Dicas
+# 💎 Dicas
 
 Aqui você encontra orientações práticas que podem facilitar muito o trabalho de quem quer celebrar, executar ou prestar contas de uma parceria.
 
@@ -453,6 +453,10 @@ flowchart TD
     G_LEG@{ shape: stadium, label: "Monitoramento/Execução" }
     H_LEG@{ shape: hex, label: "Avaliação/PC" }
     I_LEG@{ shape: diamond, label: "Decisão" }
+</div>
+    
+<div class="mermaid">
+flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "1. Protocolo e Registro Inicial\n(Manifestação de interesse + docs preliminares)" } --> B@{ shape: rect, label: "2. Triagem Preliminar (APPI)\nViabilidade, marco regulatório, tipo de instrumento\nNecessita chamamento público?" }
     B -->|Sim| SEL
@@ -538,4 +542,4 @@ flowchart TD
     mermaid.initialize({ startOnLoad: true });
 </script>
 
-
+##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
