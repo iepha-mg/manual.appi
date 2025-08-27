@@ -1,11 +1,11 @@
 # 🏢 Contrato de Gestão (OS)
 
 ## 📌 Definição
-O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria entre a administração pública e uma Organização Social (OS) para a execução descentralizada de atividades e serviços de interesse público, geralmente de grande porte e duração, com transferência de recursos e definição de metas e indicadores de resultados (Lei Estadual nº 23.081/2018, art. 50; Decreto nº 47.553/2018, art. 2º, II).
+O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria entre a administração pública e uma Organização Social (OS) para a execução descentralizada de atividades e serviços de interesse público, geralmente de grande porte e duração, com transferência de recursos e definição de metas e indicadores de resultados (Lei Estadual nº 23.081/2018, art. 2º, V).
 
 ## 🏛️ Regulamentação
-[Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) e [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1).  
-> Daqui em diante, utilizaremos "Lei" ou "Decreto" para citar essas normas.
+[Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) e [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1). Daqui em diante, utilizaremos "Lei" ou "Decreto" para citar essas normas.
+> **Você sabia?** Existe a possibilidade de cessão de servidores públicos para trabalhar em Organizações Sociais (OS). Os procedimentos específicos estão no [Decreto Estadual nº 47.742/2019](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47742/2019/?cons=1). Entretanto, nesta página não vamos tratar desse tema, já que nosso foco é o funcionamento do Modelo OS em si. 
 
 ## 🎯 Objetivos
 - Execução eficiente de atividades e serviços de interesse público
@@ -25,25 +25,36 @@ O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria en
 - Manutenção, operação e bens patrimoniais dos espaços geridos
 - Aquisição de materiais, equipamentos e serviços necessários à execução do objeto
 - Despesas de custeio e investimentos necessários à execução do objeto
-- Divulgação das atividades e resultados do Contrato de Gestão
+- Divulgação das atividades e resultados do Contrato de Gestão (com atenção ao art. 84 do Decreto)
 - Contratação de obras, serviços e consultorias (com aprovação prévia)
-- Outras despesas previstas no plano de trabalho e na memória de cálculo aprovados
+- Outras despesas previstas no programa de trabalho e na memória de cálculo aprovados
 
 **Facilidades administrativas:**
 - OS possui autonomia na gestão dos recursos dentro do objeto pactuado
-- Possibilidade de remanejamento entre subcategorias de despesas (exceto pessoal)
-- Aplicação de rendimentos obtidos diretamente no objeto da parceria
-- Possibilidade de atualização do plano de trabalho mediante aditivo (art. 61 do Decreto)
+- Possibilidade de remanejamento entre subcategorias de despesas _desde que respeitado o valor global planejado da categoria e as condições estabelecidas no edital de seleção_
+- Aplicação de rendimentos obtidos para composição de reserva de recursos com vistas a (art. 89, § 1º do Decreto):
+   - demandas judiciais ou administrativas
+   - despesas oriundas de eventual atraso de repasse de recursos
+   - despesas de desmobilização quando encerrada a parceria
 - Aplicação de rendimentos obtidos diretamente no objeto da parceria (art. 86 do Decreto)
+- Possibilidade de atualização do programa de trabalho mediante aditivo (art. 61 do Decreto)
+- Possibilidade de adaptação do regulamento de compras e contratações à realidade e necessidade da política pública
+- Gestão baseada em resultados: toda a execução é voltada ao alcance das metas estabelecidas no programa de trabalho, direcionando os esforços e evidenciando os resultados alcançados
+- Possibilidade de cessão de servidores efetivos para exercício na OS ([Decreto Estadual nº 47.742/2019](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47742/2019/?cons=1))
+- Possibilidade de selecionar entidades _antes de se qualificarem como OS_. Mas, **atenção!** A qualificação é **obrigatória** para a assinatura do Contrato de Gestão.
 
 ## ❌ Não pode
 ⚠️ **Proibições absolutas:**
 - Empregar recursos em despesas alheias ao objeto pactuado
-- Pagar multas, juros ou encargos por atraso em obrigações da OS (art. 86, §10 do Decreto)
+- Pagar taxas administrativas (art. 90, I do Decreto), multas, juros ou encargos (art. 86, §10 do Decreto)
+- Iniciar a execução do contrato antes da sua entrada em vigência
+- Executar despesas ou liberar recursos à OS antes da aprovação do Regulamento de Compras e Contratações (art. 38 do Decreto)
+- Pagar agentes públicos com recursos do Contrato de Gestão, salvo servidores cedidos à OS (art. 90, II e III do Decreto)
+- Executar despesas de publicidade, salvo as de caráter educativo, informativo ou de orientação social (art. 90, IV do Decreto)
 
 ⚠️ **Exigências obrigatórias:**
 - Seleção pública prévia (com exceções legais – art. 60 da Lei)
-- Apresentação detalhada, por parte da OS, do plano de trabalho e orçamento (art. 31, § 1º, I-V do Decreto)
+- Apresentação de programa de trabalho e memória de cálculo do Contrato de Gestão (art. 31, § 1º, I a V do Decreto), construídos conjuntamente entre o IEPHA-MG e a OS, de acordo com os parâmetros do edital
 - Regularidade jurídica, fiscal e trabalhista da OS (art. 35 do Decreto)
 - Designação da Comissão de Monitoramento pelo IEPHA-MG e de Comissão de Avaliação pelo IEPHA-MG e OS (art. 46 e art. 54 do Decreto)
 
@@ -55,25 +66,27 @@ Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispens
 <div class="mermaid">
 flowchart LR
     subgraph Publicação
-        A1["Solicitar estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto)"]
+        A1["Solicitar análise do estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto)"]
         A2["Elaborar edital e minuta de Contrato de Gestão (arts. 12 e 31 do Decreto)"]
-        A3["Análise jurídica (art. 64 da Lei e art. 12, §6º do Decreto)"]
-        A4["Constituir Comissão Julgadora (art. 17 do Decreto)"]
-        A5["Publicar edital e receber propostas (arts. 12, 19 e 20 do Decreto"]
-        A1 --> A2 --> A3 --> A4 --> A5
+        A3["Solicitar aprovação orçamentária do Cofin (art. 12, § 7º do Decreto)"]
+        A4["Análise jurídica do edital de chamamento público (art. 64 da Lei e art. 12, §6º do Decreto)"]
+        A5["Constituir Comissão Julgadora (art. 17 do Decreto)"]
+        A6["Publicar edital e receber propostas (arts. 12, 19 e 20 do Decreto"]
+        A1 --> A2 --> A3 --> A4 --> A5 --> A6
     end
     subgraph Julgamento
         B1["Julgar propostas (art. 20 do Decreto)"]
-        B2["Homologar resultado (art. 21 e art. 22 do Decreto)"]
-        B3["Prazo para recursos: 5 dias úteis (art. 21 do Decreto)"]
-        B4["Decisão final e publicação (art. 22 do Decreto)"]
+        B2["Publicar resultado (art. 21 e art. 22 do Decreto)"]
+        B3["Recursos: 5 dias úteis (art. 21 do Decreto)"]
+        B4["Homologar resultado final e convocar OSs (art. 22 do Decreto)"]
         B1 --> B2 --> B3 --> B4
     end
     subgraph Celebração
         C1["Verificar documentos da OS (art. 35 do Decreto)"]
-        C2["Elaborar programa de trabalho e memória de cálculo (art. 32 e art. 33 do Decreto)"]
+        C2["Elaborar programa de trabalho, memória de cálculo (art. 32 e art. 33 do Decreto) e Regulamento de Compras e Contratações da OS (art. 38 do Decreto)"]
         C3["Solicitar manifestação (não vinculativa) do CONEP (art. 34 do Decreto)"]
-        C4["Receber nota técnica favorável da Seplag (art. 36 do Decreto)"]
+        C4["Análise jurídica para celebração do Contrato de Gestão (art. 35, IX do Decreto)"]
+        C4["Enviar solicitação de análise e receber nota técnica favorável da Seplag (arts. 36 e 37 do Decreto)"]
         C5["Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)"]
         C1 --> C2 --> C3 --> C4 --> C5
     end
@@ -82,21 +95,56 @@ flowchart LR
 
 ### ⏱️ Prazos relevantes
 
-| Etapa                           | Prazo                      | Base Legal               |
-|----------------------------------|----------------------------|--------------------------|
-| Apresentação de propostas       | 15 dias úteis         | Art. 12, §3º do Decreto       |
-| Apresentação de Recursos        | 5 dias úteis               | Art. 21, §1º do Decreto  |
-| Análise de Recursos             | 5 dias úteis               | Art. 21, §2º do Decreto  |
-| Prestação de contas (OS)        | Até 90 dias após competência/extinção | Art. 68 do Decreto  |
-| Análise da prestação de contas  | Até 20 dias úteis               | Art. 68, §1º do Decreto       |
+| Etapa                                                                                            | Prazo                                                | Base Legal                           |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------|
+| Publicidade do edital                                                                            | 15 dias úteis (mínimo)                               | Art. 12, §3º do Decreto              |
+| Apresentação de propostas                                                                        | 5 dias úteis (mínimo)                                | Art. 12, §4º do Decreto              |
+| Apresentação de recursos                                                                         | 5 dias úteis (mínimo)                                | Art. 21, §1º do Decreto              |
+| Análise de recursos                                                                              | Até 5 dias úteis (prorrogável por igual período)     | Art. 21, §2º do Decreto              |
+| Publicação do Contrato de Gestão e sua Memória de Cálculo (IEPHA-MG e OS)                        | Até 5 dias úteis após início da vigência             | Art. 37, §2º do Decreto              |
+| Realização de checagens amostrais e de efetividade (IEPHA-MG e OS)                               | Trimestralmente (conforme Contrato de Gestão)        | Art. 51 do Decreto                   |
+| Entrega de Relatórios Gerenciais de Resultados e Financeiro (OS)                                 | Até 7 dias úteis após fim do período avaliatório     | Art. 50, §2º do Decreto              |
+| Elaboração do Relatório de Monitoramento (Comissão de Monitoramento)                             | Até 8 dias úteis após etapa anterior                 | Art. 52, parágrafo único do Decreto  |
+| Encaminhamento do Relatório de Monitoramento à Comissão de Avaliação (Comissão de Monitoramento) | 5 dias úteis antes da reunião da Comissão de Avaliação (mínimo) | Art. 55, § 4º do Decreto  |
+| Publicação de Relatórios de Resultados, Financeiro e de Monitoramento (IEPHA-MG e OS)            | Trimestralmente (conforme supervisor)                | Art. 53 do Decreto                   |
+| Realização de Reunião de Avaliação (IEPHA-MG e OS)                                               | Trimestralmente (data definida pelo supervisor)      | Art. 55, § 1º do Decreto             |
+| Publicação de Relatório de Avaliação (IEPHA-MG e OSCIP)                                          | Até 5 dias úteis após formalização do documento      | Art. 56, § 2º do Decreto             |
+| Prestação de contas (OSCIP)                                                                      | Até 90 dias corridos após competência/extinção       | Art. 68 do Decreto                   |
+| Análise da prestação de contas (unidade de prestação de contas do IEPHA-MG)                      | Até 20 dias úteis após o recebimento                 | Art. 68, §1º do Decreto              |
+| Elaboração de parecer conclusivo sobre prestação de contas (dirigente máximo)                    | Até 10 dias úteis após o recebimento                 | Art. 70 do Decreto                   |
 
-## 📝 Plano de trabalho
+## 📝 Programa de trabalho
 **Deve conter:** (art. 32 do Decreto)
-- Quadro e atributos dos indicadores com metas, prazos e descrições detalhadas
-- Produtos, quando necessário, com prazos e descrições
-- Cronograma de desembolso e condições para repasses financeiros
-- Cronograma para avaliação dos resultados
-- Quadro de pesos para avaliação dos resultados alcançados
+- ✅ Quadro e atributos dos indicadores com metas, prazos e descrições detalhadas
+- ✅ Quadro e atributos dos produtos, quando necessário, com prazos e descrições
+- ✅ Cronograma de Desembolsos
+- ✅ Cronograma de Avaliações
+- ✅ Quadro de pesos para avaliação
+
+## 🔍 Monitoramento e avaliação
+O **Supervisor do Contrato de Gestão** deve (art. 47 do Decreto):
+- Presidir a Comissão de Monitoramento
+- Presidir a Comissão de Avaliação (art. 55, § 1º do Decreto)
+- Acompanhar e fiscalizar a execução
+- Analisar relatórios de resultados e relatórios financeiros elaborados e entregues pela OS
+- Emitir relatórios de monitoramento
+- Informar irregularidades à Comissão de Monitoramento e a seu superior hierárquico
+- Participar com poder de veto nas decisões da OSCIP relativas ao termo de parceria
+
+A **Comissão de Monitoramento** deve (art. 49 do Decreto):
+- Ser composta por supervisor e supervisor adjunto
+- Monitorar a execução física e financeira do Contrato de Gestão
+- Realizar checagens amostrais dos procedimentos de compras e contratações, elaborando os relatórios pertinentes
+- Conferir metas e resultados, realizando checagens amostrais de processos de compras e contratações
+- Solicitar auxílio das unidades jurídica ou financeira do IEPHA-MG se for necessário
+
+A **Comissão de Avaliação** deve (art. 54 e art. 55 do Decreto):
+- Reunir-se trimestralmente, no mínimo
+- Ser integrada por representantes do IEPHA-MG, Órgão Estatal Interveniente (se houver), OS, Seplag e Conselho de políticas públicas (frequentemente o CONEP, no caso do IEPHA-MG) e especialista da área
+- Analisar resultados alcançados por meio dos relatórios de monitoramento
+- Elaborar relatórios de avaliação
+- Recomendar rescisão do Contrato de Gestão em caso de irregularidades
+- Solicitar reuniões extraordinárias sempre que necessário
 
 ## 🔒 Prestação de contas
 ### 👮 Tipos de prestação de contas (art. 66 do Decreto)
@@ -109,7 +157,7 @@ flowchart LR
 2. Relatórios gerenciais de resultados e financeiro
 3. Relatórios de Monitoramente, Avaliação e de Checagens Amostrais
 4. Extratos bancários de todas as contas vinculadas ao Contrato de Gestão
-5. Parecer do conselho fiscal ou órgão equivalente da OSCIP
+5. Parecer do conselho fiscal ou órgão equivalente da OS
 6. Balanço patrimonial e demonstração de resultados do exercício
 
 ### 👮 Análise da prestação de contas
@@ -125,24 +173,6 @@ flowchart LR
 | Regular execução do Contrato de Gestão   | Aprovação sem ressalvas (art. 70, I do Decreto)           | Publicação da Aprovação (art. 70, §2º do Decreto) |
 |  Irregularidade ou invalidade de natureza formal que não resulte em dano ao erário    | Aprovação com ressalvas (art. 70, II do Decreto)  | Publicação da Aprovação ou, em caso de irregularidades graves ou insanáveis, Representação ao Tribunal de Contas do Estado de Minas Gerais (art. 70, §1º do Decreto) |
 | Dano ao erário ou a falta de comprovação total ou parcial da aplicação de recursos do contrato de gestão             | Reprovação das contas (art. 70, III, do Decreto)  | Instaurar PACE-Parcerias (art. 70, §3º do Decreto) |
-
-## 🔍 Monitoramento e avaliação
-O **Supervisor do Contrato de Gestão** deve (art. 47 do Decreto):
-- Presidir a Comissão de Monitoramento
-- Acompanhar e fiscalizar a execução
-- Emitir relatórios técnicos de monitoramento
-- Informar irregularidades à Comissão de Monitoramento e a seu superior hierárquico
-
-A **Comissão de Monitoramento** deve (art. 46 do Decreto):
-- Monitorar a execução física e financeira do Contrato de Gestão
-- Conferir metas e resultados, realizando checagens amostrais de processos de compras e contratações
-- Solicitar auxílio das unidades jurídica ou financeira do IEPHA-MG se for necessário
-
-A **Comissão de Avaliação** deve (art. 54 e art. 55 do Decreto):
-- Reunir-se trimestralmente
-- Analisar resultados alcançados por meio dos relatórios de monitoramento
-- Manifestar-se sobre termos aditivos, continuidade e penalidades
-- Elaborar relatórios de avaliação
 
 ## 🔍 Saiba mais!
 Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os) e no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html).
@@ -161,7 +191,7 @@ Modelos e minutas do Estado podem ser encontrados em uma página especial do [Po
 - [Modelo de Relatório de Avaliação dos Resultados](https://www.mg.gov.br/planejamento/documento/modelo-de-relatorio-de-avaliacao-dos-resultados)
 - [Modelo de extrato de análise de prestação de contas](https://www.mg.gov.br/planejamento/documento/modelo-de-extrato-de-analise-de-prestacao-de-contas-0)
 - [Página sobre o Contrato de Gestão nº 05/2019 - Fundação Clóvis Salgado - FCS e Associação Pró Cultura e Promoção das Artes - APPA](https://fcs.mg.gov.br/contrato-de-gestao-termo-de-parceria/), atualmente vigente
-- [Página sobre o Contrato de Gestão nº 06/2020 – Secretaria de Estado de Cultura e Turismo – SECULT e Instituto Cultural Filarmônica - ICF](https://www.secult.mg.gov.br/documentos-administrativos/contratos-de-gestao), atualmente vigente
+- [Página sobre o Contrato de Gestão nº 06/2020 – Secretaria de Estado de Cultura e Turismo – SECULT e Instituto Cultural Filarmônica - ICF](https://www.secult.mg.gov.br/documentos-administrativos/contrato-de-gestao), atualmente vigente
 
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas do Contrato de Gestão
 
@@ -181,7 +211,7 @@ flowchart TD
 <div class="mermaid">
 flowchart TD
     %% Etapas iniciais
-    A@{ shape: lean-r, label: "Solicitar Contrato de Gestão" } --> B@{ shape: rect, label: "Solicitar estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto)" }
+    A@{ shape: lean-r, label: "Solicitar Contrato de Gestão" } --> B@{ shape: rect, label: "Solicitar análise do estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto) e aprovação orçamentária do Cofin (art. 12, § 7º do Decreto" }
     B --> C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
     C -->|Não| FIM
     C -->|Sim| D@{ shape: diamond, label: "Necessita seleção pública? (art. 60 da Lei e art. 24 do Decreto)" }
@@ -200,13 +230,13 @@ flowchart TD
         E7 --> E8@{ shape: rect, label: "Publicar edital (mín. 15 dias úteis) (art. 12, §3º do Decreto)" }
         E8 --> E9@{ shape: odd, label: "Receber propostas das OS (arts. 19 e 20 do Decreto)" }
         E9 --> E10@{ shape: odd, label: "Julgamento das propostas (art. 20 do Decreto)" }
-        E10 --> E11@{ shape: rounded, label: "Homologação do resultado (arts. 21 e 22 do Decreto)" }
+        E10 --> E11@{ shape: rounded, label: "Publicação do resultado (arts. 21 e 22 do Decreto)" }
         E11 --> E12@{ shape: odd, label: "Recursos: 5 dias úteis (art. 21 do Decreto)" }
-        E12 --> E13@{ shape: rounded, label: "Publicação do resultado final (art. 22 do Decreto)" }
+        E12 --> E13@{ shape: rounded, label: "Homologação do resultado final (art. 22 do Decreto)" }
         E13 --> E14@{ shape: rect, label: "Convocar entidade vencedora ou segundo lugar, se for o caso (art. 22, §2º e art. 23 do Decreto)" }
     end
     %% Dispensa
-    subgraph dis ["Dispensa"]
+    subgraph dis ["Dispensa/Inexigibilidade"]
         F1@{ shape: rect, label: "Instruir justificativa de dispensa de seleção pública (art. 60 da Lei e art. 24 do Decreto)" }
         F1 --> F2@{ shape: rect, label: "Desenvolver minuta do Contrato de Gestão (arts. 24, 27 e 35, §1º do Decreto)" }
         F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
@@ -219,20 +249,23 @@ flowchart TD
         F8 --> F9@{ shape: rect, label: "Receber e analisar eventuais recursos de impugnação à inviabilidade de competição, com prazo de 5 dias úteis (art. 29 do Decreto)" }
     end
     %% Elaboração do programa de trabalho - comum para ambos fluxos
-    E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho e memória de cálculo (arts. 32 e 33 do Decreto)" }
+    E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho, memória de cálculo (arts. 32 e 33 do Decreto) e Regulamento de Compras e Contratações (art. 38 do Decreto)" }
     F9 --> G1
     %% Celebração
     G1 --> H1@{ shape: rounded, label: "Providenciar manifestação (não vinculativa) do CONEP (art. 34 do Decreto)" }
-    H1 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 35 do Decreto)" }
+    H1 --> Z11{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, IX do Decreto)" }
+    Z11 --> Z12@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    Z12 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 35 do Decreto)" }
     I1 --> J1@{ shape: rounded, label: "Providenciar nota técnica da Seplag (art. 36 do Decreto)" }
-    J1 --> K1@{ shape: rect, label: "Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)" }
-    K1 --> K2@{ shape: rect, label: "Instituir Comissão de Monitoramento (art. 46 do Decreto)" }
+    J1 --> K1@{ shape: rect, label: "Instituir Comissão de Monitoramento (art. 46 do Decreto)" }
+    K1 --> K2@{ shape: rect, label: "Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)" }
     K2 --> K3@{ shape: rect, label: "Instituir Comissão de Avaliação (art. 54 do Decreto)" }
-    K3 --> L1@{ shape: stadium, label: "Realizar checagens amostrais trimestrais (art. 49, VI do Decreto)" }
-    L1 --> L2@{ shape: stadium, label: "Elaborar relatório de monitoramento (art. 52 do Decreto)" }
+    K3 --> L1@{ shape: stadium, label: "Realizar trimestralmente checagens amostrais e de efetividade (art. 49, VI do Decreto)" }
+    L1 --> Z77@{ shape: stadium, label: "Receber trimestralmente Relatórios de Resultados e Financeiro da OS (art. 50 do Decreto)" }
+    Z77 --> L2@{ shape: stadium, label: "Elaborar trimestralmente Relatório de Monitoramento (art. 52 do Decreto)" }
     L2 --> L3@{ shape: stadium, label: "Publicar Relatório Gerencial de Resultados, Relatório Gerencial Financeiro (encaminhados pela OS) e Relatório de Monitoramento no site do IEPHA-MG (art. 53 do Decreto)" }
-    L3 --> L4@{ shape: stadium, label: "Encaminhar relatório de Monitoramento para Comissão de Avaliação, 5 dias úteis antes da reunião (art. 55, § 4º do Decreto)" }
-    L4 --> M1@{ shape: hex, label: "Realizar reunião trimestral da Comissão de Avaliação (arts. 54 e 55 do Decreto)" }
+    L3 --> L4@{ shape: stadium, label: "Encaminhar Relatório de Monitoramento para Comissão de Avaliação, 5 dias úteis antes da reunião (art. 55, § 4º do Decreto)" }
+    L4 --> M1@{ shape: hex, label: "Realizar trimestralmente reunião da Comissão de Avaliação (arts. 54 e 55 do Decreto)" }
     M1 --> M2@{ shape: hex, label: "Publicar Relatório de Avaliação (art. 56 do Decreto)" }
     M2 --> N1@{ shape: diamond, label: "Metas atingidas?" }
     N1 -->|Sim| O1@{ shape: rounded, label: "Receber prestação de contas anual em até 90 dias após fim do ano (arts 66, 67 e 68 do Decreto)" }
