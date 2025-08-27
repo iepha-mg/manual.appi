@@ -178,6 +178,17 @@ flowchart LR
 
 > **Importante**: O plano de trabalho em Acordos de Cooperação é simplificado, focando na descrição das atividades e resultados esperados.
 
+## 🔍 Monitoramento e avaliação
+**Monitoramento simplificado** (art. 56, § 1º do Decreto):
+
+O **gestor da parceria** deve (arts. 61 e 62 da Lei):
+- Acompanhar a execução das atividades
+- Orientar a OSC durante a execução
+- Emitir relatório técnico simplificado de monitoramento
+- Informar irregularidades ao superior hierárquico
+
+**Flexibilidade**: As regras de monitoramento podem ser afastadas quando a exigência for desproporcional à complexidade do acordo, mediante justificativa prévia e anuência do administrador público (art. 5º, § 2º do Decreto).
+
 ## 🔒 Prestação de contas
 **Simplificada e focada em resultados** (art. 71, parágrafo único do Decreto):
 
@@ -189,17 +200,6 @@ flowchart LR
 ### 🕒 Prazos da prestação de contas (art. 63 e seguintes da Lei):
 - **OSC**: apresentar prestação de contas até 90 dias após o término da parceria ou ao fim de cada exercício, se a parceria durar mais de 1 ano
 - **Administração**: analisar em até 150 dias do recebimento da prestação de contas
-
-## 🔍 Monitoramento e avaliação
-**Monitoramento simplificado** (art. 56, § 1º do Decreto):
-
-O **gestor da parceria** deve (arts. 61 e 62 da Lei):
-- Acompanhar a execução das atividades
-- Orientar a OSC durante a execução
-- Emitir relatório técnico simplificado de monitoramento
-- Informar irregularidades ao superior hierárquico
-
-**Flexibilidade**: As regras de monitoramento podem ser afastadas quando a exigência for desproporcional à complexidade do acordo, mediante justificativa prévia e anuência do administrador público (art. 5º, § 2º do Decreto).
 
 ## 🔍 Saiba mais!
 Modelos e documentos de referência podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
