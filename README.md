@@ -61,13 +61,14 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 | [🧩 Acordo de Cooperação Técnica](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/ACT/README.html) | Cooperação técnica interinstitucional 🆓 |
 
 ## 📂 Repositório de parcerias
+Clique para acessar nosso [repositório](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html).
 
 | Seção | Descrição |
 |-----------|-----------|
-| 📄 Publicações acadêmicas | Artigos, teses e estudos sobre parcerias |
-| 📋 Cartilhas | Guias práticos e orientações |
-| 📝 Modelos de referência | Templates e documentos padrão |
-| ⚖️ Instrumentos jurídicos vigentes | Contratos e acordos em andamento |
+| [📄 Publicações acadêmicas](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-publicações-acadêmicas) | Artigos, teses e estudos sobre parcerias |
+| [📋 Cartilhas](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-cartilhas) | Guias práticos e orientações |
+| [📝 Modelos de referência](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-modelos-de-referência) | Templates e documentos padrão |
+| [⚖️ Instrumentos jurídicos vigentes](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#%EF%B8%8F-instrumentos-jurídicos-vigentes) | Contratos e acordos em andamento |
 
 ---
 
