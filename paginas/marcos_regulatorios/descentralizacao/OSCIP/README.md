@@ -237,7 +237,7 @@ flowchart TD
     F9 --> G1
     %% Celebração
     G1 --> H1@{ shape: rounded, label: "Providenciar manifestação (não vinculativa) do conselho de políticas públicas (art. 32 do Decreto)" }
-    H1 --> Z11{ shape: trap-b, label: "Análise jurídica obrigatória (art. 33, VIII do Decreto)" }
+    H1 --> Z11@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 33, VIII do Decreto)" }
     Z11 --> Z12@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
     Z12 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 33 do Decreto)" }
     I1 --> J1@{ shape: rounded, label: "Providenciar aprovação da Seplag e Cofin (arts. 34 e 35 do Decreto)" }
