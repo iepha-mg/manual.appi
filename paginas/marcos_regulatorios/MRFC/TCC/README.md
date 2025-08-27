@@ -80,7 +80,7 @@ Desde que haja interesse mútuo e viabilidade técnica, um Termo de Cooperação
 - Projetos com alta complexidade técnica
 
 ## 🔒 Prestação de contas (Art. 30,  § 1º)
-Não é exigida prestação de contas. A única exceção é se houver plano de trabalho. Nesse caso, deve-se apresentar o Relatório de Cooperação Cultural ao fim da parceria, sendo proibida qualquer exigência de comprovação financeira, já que o instrmento jurídico não envolve repasse de recursos entre as partes.
+Não é exigida prestação de contas. A única exceção é se houver plano de trabalho. Nesse caso, deve-se apresentar o Relatório de Cooperação Cultural ao fim da parceria, sendo proibida qualquer exigência de comprovação financeira, já que o instrumento jurídico não envolve repasse de recursos entre as partes.
 
 **Conteúdo do relatório:**
 - Descrição das atividades realizadas
