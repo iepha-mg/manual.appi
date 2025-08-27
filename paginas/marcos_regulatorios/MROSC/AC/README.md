@@ -210,7 +210,7 @@ Modelos e documentos de referência podem ser encontrados no nosso [Repositório
 - [Minuta de Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/minuta_padrao_segov_age_acordo_de_cooperacao.docx)
 - [Modelo de Proposta de Plano de Trabalho para Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/acordo_cooperacao_modelo_proposta_plano_trabalho.docx)
 - [Modelo de Plano de Trabalho para Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/acordo_cooperacao_modelo_plano_trabalho.docx)
-- [Modelo de Termo de Designação de Comsisão de Seleção](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_resolucao_designacao_comissao_selecao.docx)
+- [Modelo de Termo de Designação de Comissão de Seleção](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_resolucao_designacao_comissao_selecao.docx)
 - [Modelo de Termo de Designação de Gestor](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_termo_designacao_gestor_parceria.docx)
 - [Checklist de Celebração de Acordo de Cooperação](https://sigconsaida.mg.gov.br/checklists/)
 - [Relatório de Monitoramento - produzido pela OSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_monitoramento_acordo_cooperacao.docx)
