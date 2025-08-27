@@ -38,12 +38,8 @@ Nas seções a seguir você encontrará:
 - [Anexo 07 - Declaração PCDs](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/politica-nacional-aldir-blanc/copy_of_Anexo07DeclaraoPCDsAtualizadoem02.06.2025.docx)
 - [Anexo 09 - Formulário de recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/politica-nacional-aldir-blanc/Anexo09FormulriodeRecursoBolsaCulturaldePesquisaAtualizadoem02.06.2025.docx)
 
----
-
 #### 🤝 Termo de Cooperação Cultural
 - [Termo de Cooperação Cultural (modelo do IBRAM)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiU8OmFs-qOAxX3tZUCHb66HzMQFnoECBkQAQ&url=https%3A%2F%2Fwww.gov.br%2Fmuseus%2Fpt-br%2Facesso-a-informacao%2Fparticipacao-social%2Feditais-de-chamamento-publico%2Fchamadas-publicas-outras-iniciativas%2Fchamadas-publicas-2024%2Fedital-de-chamamento-publico-n19-comunicacoes-coordenadas-no-8fnm-anexo-v-termo-de-cooperacao-cultural.pdf&usg=AOvVaw3Jii3hCWgrZ3uRVC6N6Gh4&opi=89978449)
-
----
 
 #### 🎨 Termo de Execução Cultural
 - [Minuta Padrão de Edital de Fomento à Execução de Ações Culturais](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/edital-fomento-a-execucao-de-acoes-culturais)
@@ -57,12 +53,8 @@ Nas seções a seguir você encontrará:
 - [Anexo 08 - Declaração para cotas (PCDs)](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-viii-declaracao-para-cotas-pcd)
 - [Anexo 09 - Formulário de recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-ix-formulario-de-recurso)
 
----
-
 #### 🎪 Termo de Ocupação Cultural
 - [Modelo de Termo de Ocupação Cultural - FUNARTE](https://www.gov.br/funarte/pt-br/editais-1/2024/programa-funarte-aberta-2025-ocupacao-dos-espacos-culturais-da-funarte-mg-e-sp/AnexoIModeloTERMODEOCUPAOCULTURALFUNARTEProjurem191224psrevisoprojur.docx)
-
----
 
 #### 🏆 Termo de Premiação Cultural
 - [Minuta Padrão de Edital de Premiação para Culturas Populares](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/edital-de-premiacao-culturas-populares/minuta-edital-de-premiacao-culturas-populares.docx)
@@ -90,8 +82,6 @@ Nas seções a seguir você encontrará:
 - [Relatório Técnico de Monitoramento e Avaliação - produzido pelo Gestor da Parceria](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_tecnico_monitoramento.docx)
 - [Prestação de Contas: Relatório de Execução do Objeto](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
 
----
-
 #### 🏛️💡 Termo de Colaboração
 **Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
 - [Minuta Padrão de Edital de Chamamento Público para Termo de Colaboração MROSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_edital_chamamento_publico_termo_colaboracao.docx)
@@ -105,8 +95,6 @@ Nas seções a seguir você encontrará:
 - [Relatórios Técnicos de Monitoramento e Avaliação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_tecnico_monitoramento.docx)
 - [Prestação de Contas: Relatório de Execução do Objeto](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
 - [Prestação de Contas: Relatório de Execução Financeira MROSC](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_financeira_mrosc.docx)
-
----
 
 #### 🌱💡 Termo de Fomento
 **Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
