@@ -144,6 +144,19 @@ flowchart LR
 
 > **Importante**: As metas devem ser mensuráveis e verificáveis, permitindo avaliação objetiva do cumprimento do objeto da parceria (art. 59 da Lei).
 
+## 🔍 Monitoramento e avaliação
+O **gestor da parceria** deve (art. 61 da Lei):
+- Acompanhar e fiscalizar a execução
+- Orientar a OSC durante a execução
+- Emitir relatório técnico de monitoramento
+- Informar irregularidades ao superior hierárquico
+- Emitir parecer conclusivo sobre prestação de contas
+
+A **Comissão de Monitoramento e Avaliação** deve (art. 2º, inciso XI da Lei):
+- Avaliar as parcerias periodicamente
+- Homologar relatórios técnicos de monitoramento
+- Propor melhorias nos procedimentos
+
 ## 🔒 Prestação de contas
 Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei), compreendendo:
 
@@ -164,19 +177,6 @@ Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei),
 - **OSC**: apresentar prestação de contas conforme cronograma estabelecido (art. 66 da Lei)
 - **Administração**: analisar em até 150 dias, prorrogáveis por igual período (art. 69 da Lei)
 - **Recurso**: prazo definido no termo de colaboração (art. 70 da Lei)
-
-## 🔍 Monitoramento e avaliação
-O **gestor da parceria** deve (art. 61 da Lei):
-- Acompanhar e fiscalizar a execução
-- Orientar a OSC durante a execução
-- Emitir relatório técnico de monitoramento
-- Informar irregularidades ao superior hierárquico
-- Emitir parecer conclusivo sobre prestação de contas
-
-A **Comissão de Monitoramento e Avaliação** deve (art. 2º, inciso XI da Lei):
-- Avaliar as parcerias periodicamente
-- Homologar relatórios técnicos de monitoramento
-- Propor melhorias nos procedimentos
 
 ## 🔍 Saiba mais!
 Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
