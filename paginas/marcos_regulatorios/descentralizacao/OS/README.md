@@ -219,8 +219,7 @@ flowchart TD
     D -->|Não| dis
     %% Seleção Pública
     subgraph sel ["Seleção Pública"]
-        E1@{ shape: lean-r, label: "Elaborar edital e minuta do Contrato de Gestão (arts. 12 e 31 do Decreto)" }
-        E1 --> E2@{ shape: diamond, label: "Minutas validadas?" }
+        E1@{ shape: lean-r, label: "Elaborar edital e minuta do Contrato de Gestão (arts. 12 e 31 do Decreto)" } --> E2@{ shape: diamond, label: "Minutas validadas?" }
         E2 -->|Não| E1
         E2 -->|Sim| E3@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
         E3 --> E4@{ shape: rounded, label: "Instruir processo no SEI" }
@@ -253,7 +252,7 @@ flowchart TD
     F9 --> G1
     %% Celebração
     G1 --> H1@{ shape: rounded, label: "Providenciar manifestação (não vinculativa) do CONEP (art. 34 do Decreto)" }
-    H1 --> Z11{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, IX do Decreto)" }
+    H1 --> Z11@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, IX do Decreto)" }
     Z11 --> Z12@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
     Z12 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 35 do Decreto)" }
     I1 --> J1@{ shape: rounded, label: "Providenciar nota técnica da Seplag (art. 36 do Decreto)" }
