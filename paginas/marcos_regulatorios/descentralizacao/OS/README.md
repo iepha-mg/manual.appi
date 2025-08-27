@@ -155,7 +155,7 @@ A **Comissão de Avaliação** deve (art. 54 e art. 55 do Decreto):
 ### 📋 Principais documentos exigidos (art. 67 do Decreto)
 1. Relatório de execução do objeto com comprovação das metas alcançadas
 2. Relatórios gerenciais de resultados e financeiro
-3. Relatórios de Monitoramente, Avaliação e de Checagens Amostrais
+3. Relatórios de Monitoramento, Avaliação e de Checagens Amostrais
 4. Extratos bancários de todas as contas vinculadas ao Contrato de Gestão
 5. Parecer do conselho fiscal ou órgão equivalente da OS
 6. Balanço patrimonial e demonstração de resultados do exercício
