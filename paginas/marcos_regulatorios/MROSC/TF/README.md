@@ -87,7 +87,7 @@ flowchart LR
     end
     subgraph Planejamento
         A1["Identificar área de interesse para fomento (art. 18 do Decreto)"]
-        A2["Elaborar termo de referência com diretrizes (art. 19 do Decreto)"]
+        A2["Elaborar termo de referência (art. 19 do Decreto)"]
         A3["Desenvolver minuta de edital e termo de fomento (art. 24, § 1º da Lei)"]
         A4["Análise jurídica obrigatória (art. 35, VI da Lei)"]
         A5["Constituir comissão de seleção por ato oficial (art. 20 do Decreto)"]
@@ -96,7 +96,7 @@ flowchart LR
     end
     subgraph Processamento
         B1["Receber propostas das OSCs (art. 22 do Decreto)"]
-        B2["Análise técnica e julgamento pela comissão (art. 23 do Decreto / art. 27 da Lei)"]
+        B2["Análise técnica e julgamento pela comissão (art. 22 do Decreto / art. 27 da Lei)"]
         B3["Homologação e divulgação de resultado provisório (art. 24 do Decreto / art. 27, § 4º da Lei)"]
         B4["Prazo para recursos administrativos (art. 25 do Decreto / art. 24, § 1º, VIII da Lei)"]
         B5["Análise de recursos e resultado final (art. 26 do Decreto / art. 27, § 6º da Lei)"]
@@ -117,7 +117,7 @@ flowchart LR
 ### 🔑 Regras-Chave
 - **Dispensa de chamamento público** somente em casos excepcionais previstos em lei (art. 30 da Lei)
 - **Comissão de seleção** obrigatória, com pelo menos um servidor efetivo (art. 2º, inciso X da Lei)
-- **Prazo mínimo** de 30 dias para apresentação de propostas (art. 23 do Decreto)
+- **Prazo mínimo** de 30 dias para apresentação de propostas (art. 20 do Decreto)
 - **Critérios objetivos** de seleção focados na melhor proposta técnica (art. 27 da Lei)
 - **Habilitação** somente após seleção das propostas (art. 28 da Lei)
 - **PMIS é facultativo** e não condiciona o chamamento público (art. 21, § 3º da Lei)
@@ -232,7 +232,7 @@ flowchart TD
     M --> N@{ shape: rounded, label: "Constituir comissão de seleção (art. 20 do Decreto)" }
     N --> O@{ shape: rect, label: "Publicar edital com 30 dias de antecedência (art. 21 do Decreto / art. 26 da Lei)" }
     O --> P@{ shape: odd, label: "Receber propostas das OSCs (art. 22 do Decreto)" }
-    P --> Q@{ shape: odd, label: "Análise técnica pela comissão (art. 23 do Decreto / art. 27 da Lei)" }
+    P --> Q@{ shape: odd, label: "Análise técnica pela comissão (art. 22 do Decreto / art. 27 da Lei)" }
     Q --> R@{ shape: rounded, label: "Homologar e divulgar resultado provisório (art. 24 do Decreto)" }
     R --> S@{ shape: odd, label: "Analisar recursos se houver (art. 25 do Decreto / art. 24, § 1º, VIII da Lei)" }
     S --> T@{ shape: rounded, label: "Homologar resultado final (art. 26 do Decreto)" }
