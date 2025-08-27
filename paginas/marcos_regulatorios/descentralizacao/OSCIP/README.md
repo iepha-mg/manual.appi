@@ -132,7 +132,7 @@ A **Comissão de Avaliação** deve (art. 32 da Lei e arts. 51 a 54 do Decreto):
 - Reunir-se trimestralmente, no mínimo
 - Ser integrada por representantes do IEPHA-MG, Órgão Estatal Interveniente (se houver), OSCIP, Seplag e Conselho de políticas públicas (frequentemente o CONEP, no caso do IEPHA-MG) e especialista da área
 - Analisar os resultados alcançados por meio dos relatórios de monitoramento
-- Elaborar relatórios de avaliação dos resultados
+- Elaborar relatórios de avaliação
 
 ## 🔒 Prestação de contas
 ### 👮 Tipos de prestação de contas (art. 63 do Decreto)
@@ -195,7 +195,7 @@ flowchart TD
 <div class="mermaid">
 flowchart TD
     %% Etapas iniciais
-    A@{ shape: lean-r, label: "Solicitar Termo de Parceria" } --> B@{ shape: rect, label: "Solicitar estudo de viabilidade à Seplag (art. 15 da Lei e art. 8º do Decreto) e aprovação orçamentária do Cofin (art. 10, § 7º do Decreto)" }
+    A@{ shape: lean-r, label: "Solicitar Termo de Parceria" } --> B@{ shape: rect, label: "Solicitar análise do estudo de viabilidade à Seplag (art. 15 da Lei e art. 8º do Decreto) e aprovação orçamentária do Cofin (art. 10, § 7º do Decreto)" }
     B --> C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
     C -->|Não| FIM
     C -->|Sim| D@{ shape: diamond, label: "Necessita processo de seleção pública? (art. 17 da Lei)" }
@@ -220,7 +220,7 @@ flowchart TD
         E13 --> E14@{ shape: rect, label: "Convocar entidade vencedora ou segunda colocada (art. 20, §§ 1º e 2º do Decreto)" }
     end
     %% Dispensa
-    subgraph dis ["Dispensa"]
+    subgraph dis ["Dispensa/Inexigibilidade"]
         F1@{ shape: rect, label: "Instruir justificativa de dispensa (art. 17 da Lei e art. 22 do Decreto)" }
         F1 --> F2@{ shape: rect, label: "Desenvolver minuta do Termo de Parceria (art. 25 do Decreto)" }
         F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
@@ -233,21 +233,23 @@ flowchart TD
         F8 --> F9@{ shape: rect, label: "Receber e analisar eventuais impugnações: 5 dias úteis (art. 24 do Decreto)" }
     end
     %% Elaboração do programa de trabalho - comum para ambos fluxos
-    E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho e memória de cálculo (arts. 30 e 31 do Decreto)" }
+    E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho, memória de cálculo (arts. 30 e 31 do Decreto) e Regulamento de Compras e Contratações (art. 36 do Decreto)" }
     F9 --> G1
     %% Celebração
     G1 --> H1@{ shape: rounded, label: "Providenciar manifestação (não vinculativa) do conselho de políticas públicas (art. 32 do Decreto)" }
-    H1 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 33 do Decreto)" }
+    H1 --> Z11{ shape: trap-b, label: "Análise jurídica obrigatória (art. 33, VIII do Decreto)" }
+    Z11 --> Z12@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    Z12 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 33 do Decreto)" }
     I1 --> J1@{ shape: rounded, label: "Providenciar aprovação da Seplag e Cofin (arts. 34 e 35 do Decreto)" }
     J1 --> K1@{ shape: rect, label: "Instituir Comissão Supervisora (art. 43 do Decreto)" }
     K1 --> K2@{ shape: rect, label: "Assinar Termo de Parceria e publicar extrato (art. 22, §1º da Lei)" }
     K2 --> K3@{ shape: rect, label: "Instituir Comissão de Avaliação (art. 51 do Decreto)" }
-    K3 --> L1@{ shape: stadium, label: "Realizar checagens amostrais (art. 46 do Decreto)" }
-    L1 --> Z9@{ shape: stadium, label: "Receber Relatórios de Resultados e Financeiro da OSCIP (art. 48 do Decreto)" }
-    Z9 --> L2@{ shape: stadium, label: "Elaborar Relatório de Monitoramento (art. 50 do Decreto)" }
+    K3 --> L1@{ shape: stadium, label: "Realizar trimestralmente checagens amostrais e de efetividade (art. 46 do Decreto)" }
+    L1 --> Z9@{ shape: stadium, label: "Receber trimestralmente Relatórios de Resultados e Financeiro da OSCIP (art. 48 do Decreto)" }
+    Z9 --> L2@{ shape: stadium, label: "Elaborar trimestralmente Relatório de Monitoramento (art. 50 do Decreto)" }
     L2 --> L3@{ shape: stadium, label: "Publicar Relatório de Resultados e Realtório de Monitoramento no site do IEPHA-MG (art. 50 do Decreto" }
-    L3 --> Z1@{ shape: stadium, label: "Encaminhar relatório de Monitoramento para Comissão de Avaliação, 5 dias úteis antes da reunião (art. 52, § 5º do Decreto)" }
-    Z1 --> M1@{ shape: hex, label: "Realizar reunião trimestral da Comissão de Avaliação (arts. 52 e 53 do Decreto)" }
+    L3 --> Z1@{ shape: stadium, label: "Encaminhar Relatório de Monitoramento para Comissão de Avaliação, 5 dias úteis antes da reunião (art. 52, § 5º do Decreto)" }
+    Z1 --> M1@{ shape: hex, label: "Realizar trimestralmente reunião da Comissão de Avaliação (arts. 52 e 53 do Decreto)" }
     M1 --> M2@{ shape: hex, label: "Publicar Relatório de Avaliação (art. 53 do Decreto)" }
     M2 --> N1@{ shape: diamond, label: "Metas atingidas?" }
     N1 -->|Sim| O1@{ shape: rounded, label: "Receber prestação de contas em até 90 dias após fim do ano (art. 65 do Decreto)" }
