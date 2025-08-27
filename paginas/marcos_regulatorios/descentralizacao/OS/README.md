@@ -236,7 +236,7 @@ flowchart TD
         E13 --> E14@{ shape: rect, label: "Convocar entidade vencedora ou segundo lugar, se for o caso (art. 22, §2º e art. 23 do Decreto)" }
     end
     %% Dispensa
-    subgraph dis ["Dispensa/Inexigibilidade"]
+    subgraph dis ["Dispensa ou Inexigibilidade"]
         F1@{ shape: rect, label: "Instruir justificativa de dispensa de seleção pública (art. 60 da Lei e art. 24 do Decreto)" }
         F1 --> F2@{ shape: rect, label: "Desenvolver minuta do Contrato de Gestão (arts. 24, 27 e 35, §1º do Decreto)" }
         F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
@@ -261,8 +261,8 @@ flowchart TD
     K1 --> K2@{ shape: rect, label: "Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)" }
     K2 --> K3@{ shape: rect, label: "Instituir Comissão de Avaliação (art. 54 do Decreto)" }
     K3 --> L1@{ shape: stadium, label: "Realizar trimestralmente checagens amostrais e de efetividade (art. 49, VI do Decreto)" }
-    L1 --> Z77@{ shape: stadium, label: "Receber trimestralmente Relatórios de Resultados e Financeiro da OS (art. 50 do Decreto)" }
-    Z77 --> L2@{ shape: stadium, label: "Elaborar trimestralmente Relatório de Monitoramento (art. 52 do Decreto)" }
+    L1 --> Z13@{ shape: stadium, label: "Receber trimestralmente Relatórios de Resultados e Financeiro da OS (art. 50 do Decreto)" }
+    Z13 --> L2@{ shape: stadium, label: "Elaborar trimestralmente Relatório de Monitoramento (art. 52 do Decreto)" }
     L2 --> L3@{ shape: stadium, label: "Publicar Relatório Gerencial de Resultados, Relatório Gerencial Financeiro (encaminhados pela OS) e Relatório de Monitoramento no site do IEPHA-MG (art. 53 do Decreto)" }
     L3 --> L4@{ shape: stadium, label: "Encaminhar Relatório de Monitoramento para Comissão de Avaliação, 5 dias úteis antes da reunião (art. 55, § 4º do Decreto)" }
     L4 --> M1@{ shape: hex, label: "Realizar trimestralmente reunião da Comissão de Avaliação (arts. 54 e 55 do Decreto)" }
