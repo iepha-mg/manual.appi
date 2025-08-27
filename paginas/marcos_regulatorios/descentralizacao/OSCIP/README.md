@@ -130,7 +130,7 @@ A **Comissão Supervisora** deve (art. 43 do Decreto):
 
 A **Comissão de Avaliação** deve (art. 32 da Lei e arts. 51 a 54 do Decreto):
 - Reunir-se trimestralmente, no mínimo
-- Ser integrada por representantes do IEPHA-MG, Órgão Estatal Interveniente (se houver), OSCIP, Seplag e Conselho de políticas públicas e especialista da área (frequentemente o CONEP, no caso do IEPHA-MG)
+- Ser integrada por representantes do IEPHA-MG, Órgão Estatal Interveniente (se houver), OSCIP, Seplag e Conselho de políticas públicas (frequentemente o CONEP, no caso do IEPHA-MG) e especialista da área
 - Analisar os resultados alcançados por meio dos relatórios de monitoramento
 - Elaborar relatórios de avaliação dos resultados
 
