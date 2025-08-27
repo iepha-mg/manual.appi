@@ -112,6 +112,28 @@ flowchart LR
 - ✅ Cronograma de Avaliações
 - ✅ Quadro de pesos para avaliação
 
+## 🔍 Monitoramento e avaliação
+O **Supervisor do Termo de Parceria** deve (art. 43, I do Decreto):
+- Presidir a Comissão Supervisora
+- Presidir a Comissão de Avaliação
+- Acompanhar e fiscalizar a execução
+- Analisar relatórios de resultados e relatórios financeiros elaborados e entregues pela OSCIP
+- Emitir relatórios de monitoramento
+- Informar irregularidades à Comissão de Monitoramento e a seu superior hierárquico
+
+A **Comissão Supervisora** deve (art. 43 do Decreto):
+- Ser composta por supervisor e supervisor adjunto
+- Monitorar a execução física e financeira do termo de parceria
+- Realizar checagens amostrais dos procedimentos de compras e contratações
+- Participar com poder de veto nas decisões da OSCIP relativas ao termo de parceria
+- Elaborar relatórios de checagem amostral e relatórios de monitoramento
+
+A **Comissão de Avaliação** deve (art. 32 da Lei e arts. 51 a 54 do Decreto):
+- Reunir-se trimestralmente, no mínimo
+- Ser integrada por representantes do IEPHA-MG, Órgão Estatal Interveniente (se houver), OSCIP, Seplag e Conselho de políticas públicas e especialista da área (frequentemente o CONEP, no caso do IEPHA-MG)
+- Analisar os resultados alcançados por meio dos relatórios de monitoramento
+- Elaborar relatórios de avaliação dos resultados
+
 ## 🔒 Prestação de contas
 ### 👮 Tipos de prestação de contas (art. 63 do Decreto)
 1. **Prestação de contas anual**: apresentada até 90 dias após o fim do exercício
@@ -138,28 +160,6 @@ flowchart LR
 | Regular execução do Termo de Parceria   | Aprovação sem ressalvas (art. 67, I do Decreto)           | Publicação da Aprovação (art. 67, §2º do Decreto) |
 |  Irregularidade ou invalidade de natureza formal que não resulte em dano ao erário    | Aprovação com ressalvas (art. 67, II do Decreto)  | Publicação da Aprovação ou, em caso de irregularidades graves ou insanáveis, Representação ao Tribunal de Contas do Estado de Minas Gerais (art. 67, §1º do Decreto) |
 | Dano ao erário ou a falta de comprovação total ou parcial da aplicação de recursos do contrato de gestão             | Reprovação das contas (art. 67, III, do Decreto)  | Instaurar PACE-Parcerias (art. 67, §3º do Decreto) |
-
-## 🔍 Monitoramento e avaliação
-O **Supervisor do Termo de Parceria** deve (art. 43, I do Decreto):
-- Presidir a Comissão Supervisora
-- Presidir a Comissão de Avaliação
-- Acompanhar e fiscalizar a execução
-- Analisar relatórios de resultados e relatórios financeiros elaborados e entregues pela OSCIP
-- Emitir relatórios de monitoramento
-- Informar irregularidades à Comissão de Monitoramento e a seu superior hierárquico
-
-A **Comissão Supervisora** deve (art. 43 do Decreto):
-- Ser composta por supervisor e supervisor adjunto
-- Monitorar a execução física e financeira do termo de parceria
-- Realizar checagens amostrais dos procedimentos de compras e contratações
-- Participar com poder de veto nas decisões da OSCIP relativas ao termo de parceria
-- Elaborar relatórios de checagem amostral e relatórios de monitoramento
-
-A **Comissão de Avaliação** deve (art. 32 da Lei e arts. 51 a 54 do Decreto):
-- Reunir-se trimestralmente, no mínimo
-- Ser integrada por representantes do IEPHA-MG, Órgão Estatal Interveniente (se houver), OSCIP, Seplag e Conselho de políticas públicas e especialista da área (frequentemente o CONEP, no caso do IEPHA-MG)
-- Analisar os resultados alcançados por meio dos relatórios de monitoramento
-- Elaborar relatórios de avaliação dos resultados
 
 ## 🔍 Saiba mais!
 Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip) e no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html).
