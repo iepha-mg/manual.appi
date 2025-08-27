@@ -111,7 +111,7 @@ flowchart TD
     A@{ shape: lean-r, label: "Solicitar parceria" } --> B@{ shape: rect, label: "Analisar solicitação"}
     B --> C@{ shape: diamond, label: "Parceria é viável?"}
     C -- Não --> D@{ shape: rect, label: "Justificar negativa à área técnica por e-mail"}
-    D --> FIM@{ shape: dbl-circ, label: "Fim do fluxo"}
+    D --> FIM@{ shape: dbl-circ, label: "Fim"}
     C -- Sim --> E@{ shape: diamond, label: "Cooperação possui significativa complexidade? (art. 29, parágrafo único)"}
     E -- Sim --> F@{ shape: rect, label: "Elaborar plano de trabalho"}
     E -- Não --> G@{ shape: rect, label: "Desenvolver/revisar minuta do Termo de Cooperação Cultural"}
