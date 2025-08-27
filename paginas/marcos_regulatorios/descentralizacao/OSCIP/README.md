@@ -92,8 +92,11 @@ flowchart LR
 | Apresentação de propostas                                                                | 5 dias úteis (mínimo)                                | Art. 12, §1º do Decreto  |
 | Apresentação de recursos                                                                 | 5 dias úteis (mínimo)                                | Art. 19 do Decreto       |
 | Análise de recursos                                                                      | Até 5 dias úteis (prorrogável por igual período)     | Art. 19, §2º do Decreto  |
+| Publicação do Termo de Parceria e sua Memória de Cálculo (IEPHA-MG e OSCIP)              | Até 5 dias úteis após início da vigência             | Art. 35, §2º do Decreto  |
 | Realização de checagens amostrais e de efetividade (IEPHA-MG e OSCIP)                    | Trimestralmente (conforme Termo de Parceria)         | Art. 29, V do Decreto    |
 | Entrega de Relatórios de Resultados e Financeiro (OSCIP)                                 | Até 10 dias úteis após fim do período avaliatório    | Art. 48 do Decreto       |
+| Elaboração do Relatório de Monitoramento (Comissão Supervisora)                          | Trimestralmente (conforme Comissão Supervisora)      | Art. 49 do Decreto       |
+| Encaminhamento do Relatório de Monitoramento à Comissão de Avaliação (Comissão Supervisora) | 5 dias úteis antes da reunião da Comissão de Avaliação (mínimo) | Art. 52, § 5º do Decreto  |
 | Publicação de Relatórios de Resultados, Financeiro e de Monitoramento (IEPHA-MG e OSCIP) | Até 5 dias úteis após formalização de cada documento | Art. 50 do Decreto       |
 | Realização de Reunião de Avaliação (IEPHA-MG e OSCIP)                                    | Trimestralmente (data definida pelo supervisor)      | Art. 52, § 1º do Decreto |
 | Publicação de Relatório de Avaliação (IEPHA-MG e OSCIP)                                  | Até 5 dias úteis após formalização do documento      | Art. 53, § 2º do Decreto |
@@ -105,10 +108,9 @@ flowchart LR
 **Deve conter:** (art. 30 do Decreto)
 - ✅ Quadro e atributos dos indicadores com metas, prazos e descrições detalhadas
 - ✅ Quadro e atributos dos produtos, quando necessário, com prazos e descrições
+- ✅ Cronograma de Desembolsos
 - ✅ Cronograma de Avaliações
 - ✅ Quadro de pesos para avaliação
-- ✅ Cronograma de Desembolsos
-- ✅ Quadro de Previsão de Receitas e Despesas
 
 ## 🔒 Prestação de contas
 ### 👮 Tipos de prestação de contas (art. 63 do Decreto)
