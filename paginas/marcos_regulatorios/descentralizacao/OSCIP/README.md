@@ -58,10 +58,10 @@ Obrigatório para seleção de OSCIPs (art. 16 da Lei), salvo hipóteses de disp
 <div class="mermaid">
 flowchart LR
     subgraph Publicacao["Publicação"]
-        A1["Solicitar estudo de viabilidade à Seplag (art. 15 da Lei e art. 8º do Decreto)"]
+        A1["Solicitar análise do estudo de viabilidade à Seplag (art. 15 da Lei e art. 8º do Decreto)"]
         A2["Elaborar edital e minuta de Termo de Parceria (art. 10 do Decreto)"]
         A3["Solicitar aprovação orçamentária do Cofin (art. 10, § 7º do Decreto)"]
-        A4["Análise jurídica obrigatória (art. 10, §6º do Decreto)"]
+        A4["Análise jurídica (art. 10, §6º do Decreto)"]
         A5["Constituir Comissão Julgadora (art. 15 do Decreto)"]
         A6["Publicar edital (mín. 10 dias úteis) (art. 10, §3º do Decreto)"]
         A1 --> A2 --> A3 --> A4 --> A5 --> A6
