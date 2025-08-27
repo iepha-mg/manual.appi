@@ -3,6 +3,8 @@
 ## 📌 Definição
 O **Termo de Parceria** é o instrumento firmado entre a administração pública estadual e a entidade qualificada como Organização da Sociedade Civil de Interesse Público (OSCIP) para fomento e execução de atividades relativas às áreas de interesse público, estabelecendo parceria com vistas à promoção da qualidade e eficiência na prestação dos serviços públicos (Lei Estadual nº 23.081/2018, art. 2º, IV; Decreto nº 47.554/2018, art. 29).
 
+> **Você sabia?** As _áreas de interesse público_ do Modelo OSCIP estão definidas no art. 5º da [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1)
+
 ## 🏛️ Regulamentação
 [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) e [Decreto Estadual nº 47.554/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47554/2018/?cons=1).  
 > Daqui em diante, utilizaremos "Lei" ou "Decreto" para citar essas normas.
@@ -35,10 +37,11 @@ O **Termo de Parceria** é o instrumento firmado entre a administração públic
 
 ## ❌ Não pode
 ⚠️ **Proibições absolutas:**
-- Realizar pagamentos a fornecedores e prestadores de serviços da OSCIP por meio de adiantamento de recursos (art. 87, I do Decreto)
-- Pagar multas, juros ou encargos por atraso no cumprimento de obrigações da OSCIP, salvo por atraso no repasse pelo Estado (art. 87, III do Decreto)
+- Pagar multas, juros ou encargos (art. 83, § 8º do Decreto), salvo por atraso no repasse pelo Estado (art. 84 do Decreto)
 - Usar recursos para finalidade diversa da estabelecida no termo de parceria
 - Realizar obras sem disposição expressa e autorização prévia do dirigente máximo do OEP
+- Contratar consultorias ou assessorias externas não previstas no termo de parceria e que não sejam aprovadas prévia e formalmente pelo dirigente máximo (art. 87, III do Decreto)
+- Realizar despesas antes da aprovação do RCC pelo IEPHA e pela Seplag (art. 85, § 4º)
 
 ⚠️ **Exigências obrigatórias:**
 - Processo de seleção pública prévia (com exceções legais – art. 17 da Lei)
@@ -57,10 +60,11 @@ flowchart LR
     subgraph Publicacao["Publicação"]
         A1["Solicitar estudo de viabilidade à Seplag (art. 15 da Lei e art. 8º do Decreto)"]
         A2["Elaborar edital e minuta de Termo de Parceria (art. 10 do Decreto)"]
-        A3["Análise jurídica obrigatória (art. 10, §6º do Decreto)"]
-        A4["Constituir Comissão Julgadora (art. 15 do Decreto)"]
-        A5["Publicar edital (mín. 10 dias úteis) (art. 10, §3º do Decreto)"]
-        A1 --> A2 --> A3 --> A4 --> A5
+        A3["Solicitar aprovação orçamentária do Cofin (art. 10, § 7º do Decreto)"]
+        A4["Análise jurídica obrigatória (art. 10, §6º do Decreto)"]
+        A5["Constituir Comissão Julgadora (art. 15 do Decreto)"]
+        A6["Publicar edital (mín. 10 dias úteis) (art. 10, §3º do Decreto)"]
+        A1 --> A2 --> A3 --> A4 --> A5 --> A6
     end
     subgraph Julgamento
         B1["Julgar propostas (art. 18 do Decreto)"]
@@ -82,21 +86,29 @@ flowchart LR
 
 ### ⏱️ Prazos relevantes
 
-| Etapa                           | Prazo                      | Base Legal               |
-|----------------------------------|----------------------------|--------------------------|
-| Apresentação de propostas       | 15 dias úteis (mínimo)     | Art. 10, §3º e Art. 12, §1º do Decreto  |
-| Apresentação de Recursos                        | 5 dias úteis               | Art. 19 do Decreto  |
-| Análise de recursos             | 5 dias úteis (prorrogável) | Art. 19, §2º do Decreto  |
-| Prestação de contas (OSCIP)     | Até 90 dias após competência/extinção | Art. 62 do Decreto  |
-| Análise da prestação de contas   | Até 40 dias úteis após o recebimento      | Art. 65, §1º do Decreto  |
+| Etapa                                                                                    | Prazo                                                | Base Legal               |
+|------------------------------------------------------------------------------------------|------------------------------------------------------|--------------------------|
+| Publicidade do edital                                                                    | 10 dias úteis (mínimo)                               | Art. 10, §3º do Decreto  |
+| Apresentação de propostas                                                                | 5 dias úteis (mínimo)                                | Art. 12, §1º do Decreto  |
+| Apresentação de recursos                                                                 | 5 dias úteis (mínimo)                                | Art. 19 do Decreto       |
+| Análise de recursos                                                                      | Até 5 dias úteis (prorrogável por igual período)     | Art. 19, §2º do Decreto  |
+| Realização de checagens amostrais e de efetividade (IEPHA-MG e OSCIP)                    | Trimestralmente (conforme Termo de Parceria)         | Art. 29, V do Decreto    |
+| Entrega de Relatórios de Resultados e Financeiro (OSCIP)                                 | Até 10 dias úteis após fim do período avaliatório    | Art. 48 do Decreto       |
+| Publicação de Relatórios de Resultados, Financeiro e de Monitoramento (IEPHA-MG e OSCIP) | Até 5 dias úteis após formalização de cada documento | Art. 50 do Decreto       |
+| Realização de Reunião de Avaliação (IEPHA-MG e OSCIP)                                    | Trimestralmente (data definida pelo supervisor)      | Art. 52, § 1º do Decreto |
+| Publicação de Relatório de Avaliação (IEPHA-MG e OSCIP)                                  | Até 5 dias úteis após formalização do documento      | Art. 53, § 2º do Decreto |
+| Prestação de contas (OSCIP)                                                              | Até 90 dias após competência/extinção                | Art. 62 do Decreto       |
+| Análise da prestação de contas (unidade de prestação de contas do IEPHA-MG)              | Até 40 dias úteis após o recebimento                 | Art. 65, §1º do Decreto  |
+| Elaboração de parecer conclusivo sobre prestação de contas (dirigente máximo)            | Até 10 dias úteis após o recebimento                 | Art. 67 do Decreto       |
 
 ## 📝 Programa de trabalho
 **Deve conter:** (art. 30 do Decreto)
-- Quadro e atributos dos indicadores com metas, prazos e descrições detalhadas
-- Produtos, quando necessário, com prazos e descrições
-- Cronograma de desembolso e condições para repasses financeiros
-- Cronograma para avaliação dos resultados
-- Quadro de pesos para avaliação dos resultados alcançados
+- ✅ Quadro e atributos dos indicadores com metas, prazos e descrições detalhadas
+- ✅ Quadro e atributos dos produtos, quando necessário, com prazos e descrições
+- ✅ Cronograma de Avaliações
+- ✅ Quadro de pesos para avaliação
+- ✅ Cronograma de Desembolsos
+- ✅ Quadro de Previsão de Receitas e Despesas
 
 ## 🔒 Prestação de contas
 ### 👮 Tipos de prestação de contas (art. 63 do Decreto)
@@ -115,8 +127,8 @@ flowchart LR
 - A OSCIP deverá encaminhar ao OEP a prestação de contas anual em até 90 dias corridos após o término de cada exercício (art. 65 do Decreto)
 - A área de prestação de contas do IEPHA-MG deverá analisar e emitir parecer em até 40 dias úteis a partir do recebimento (art. 65, § 1º do Decreto)
 - Caso haja irregularidades, o IEPHA-MG deve notificar a OSCIP, que terá 15 dias úteis para justificar ou sanear irregularidades (art. 65, § 2º do Decreto)
-- Recebida a resposta da OS, as áreas técnicas competentes e a área de prestação de contas deverá complementar o parecer em até 15 dias úteis (art. 65, § 3º do Decreto)
-- Então, o Supervisor do Contrato de Gestão deverá elaborar um parecer conclusivo sobre a prestação de contas e o enviar ao dirigente máximo do IEPHA-MG (art. 66 do Decreto)
+- Recebida a resposta da OSCIP, as áreas técnicas competentes e a área de prestação de contas deverão complementar o parecer em até 15 dias úteis (art. 65, § 3º do Decreto)
+- Então, o Supervisor do Termo de Parceria deverá elaborar um parecer conclusivo sobre a prestação de contas e o enviar ao dirigente máximo do IEPHA-MG (art. 66 do Decreto)
 - Finalmente, o Dirigente Máximo terá 10 dias úteis para aprovar as contas com ou sem ressalvas, ou reprovar as contas (art. 67 do Decreto)
 
 | **Situação**                    | **Ato do Dirigente Máximo**       | **Resultado**               |
@@ -127,10 +139,11 @@ flowchart LR
 
 ## 🔍 Monitoramento e avaliação
 O **Supervisor do Termo de Parceria** deve (art. 43, I do Decreto):
-- Presidir a Comissão de Monitoramento
+- Presidir a Comissão Supervisora
 - Presidir a Comissão de Avaliação
 - Acompanhar e fiscalizar a execução
-- Emitir relatórios técnicos de monitoramento
+- Analisar relatórios de resultados e relatórios financeiros elaborados e entregues pela OSCIP
+- Emitir relatórios de monitoramento
 - Informar irregularidades à Comissão de Monitoramento e a seu superior hierárquico
 
 A **Comissão Supervisora** deve (art. 43 do Decreto):
@@ -180,7 +193,7 @@ flowchart TD
 <div class="mermaid">
 flowchart TD
     %% Etapas iniciais
-    A@{ shape: lean-r, label: "Solicitar Termo de Parceria" } --> B@{ shape: rect, label: "Solicitar estudo de viabilidade à Seplag (art. 15 da Lei e art. 8º do Decreto)" }
+    A@{ shape: lean-r, label: "Solicitar Termo de Parceria" } --> B@{ shape: rect, label: "Solicitar estudo de viabilidade à Seplag (art. 15 da Lei e art. 8º do Decreto) e aprovação orçamentária do Cofin (art. 10, § 7º do Decreto)" }
     B --> C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
     C -->|Não| FIM
     C -->|Sim| D@{ shape: diamond, label: "Necessita processo de seleção pública? (art. 17 da Lei)" }
@@ -224,11 +237,12 @@ flowchart TD
     G1 --> H1@{ shape: rounded, label: "Providenciar manifestação (não vinculativa) do conselho de políticas públicas (art. 32 do Decreto)" }
     H1 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 33 do Decreto)" }
     I1 --> J1@{ shape: rounded, label: "Providenciar aprovação da Seplag e Cofin (arts. 34 e 35 do Decreto)" }
-    J1 --> K1@{ shape: rect, label: "Assinar Termo de Parceria e publicar extrato (art. 22, §1º da Lei)" }
-    K1 --> K2@{ shape: rect, label: "Instituir Comissão Supervisora (art. 43 do Decreto)" }
+    J1 --> K1@{ shape: rect, label: "Instituir Comissão Supervisora (art. 43 do Decreto)" }
+    K1 --> K2@{ shape: rect, label: "Assinar Termo de Parceria e publicar extrato (art. 22, §1º da Lei)" }
     K2 --> K3@{ shape: rect, label: "Instituir Comissão de Avaliação (art. 51 do Decreto)" }
     K3 --> L1@{ shape: stadium, label: "Realizar checagens amostrais (art. 46 do Decreto)" }
-    L1 --> L2@{ shape: stadium, label: "Elaborar relatório de monitoramento (art. 50 do Decreto)" }
+    L1 --> Z9@{ shape: stadium, label: "Receber Relatórios de Resultados e Financeiro da OSCIP (art. 48 do Decreto)" }
+    Z9 --> L2@{ shape: stadium, label: "Elaborar Relatório de Monitoramento (art. 50 do Decreto)" }
     L2 --> L3@{ shape: stadium, label: "Publicar Relatório de Resultados e Realtório de Monitoramento no site do IEPHA-MG (art. 50 do Decreto" }
     L3 --> Z1@{ shape: stadium, label: "Encaminhar relatório de Monitoramento para Comissão de Avaliação, 5 dias úteis antes da reunião (art. 52, § 5º do Decreto)" }
     Z1 --> M1@{ shape: hex, label: "Realizar reunião trimestral da Comissão de Avaliação (arts. 52 e 53 do Decreto)" }
