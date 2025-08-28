@@ -18,6 +18,7 @@ Nas seções a seguir você encontrará:
 ## 📋 Checklists e Cartilhas
 ### 🧩 Acordo de Cooperação Técnica
 
+
 ---
 
 ### 💡 Marco Regulatório do Fomento à Cultura (MRFC)
@@ -48,6 +49,9 @@ Nas seções a seguir você encontrará:
 #### 🏛️💡 Termo de Colaboração
 - [Checklist de Celebração de Termo de Colaboração/Fomento](https://sigconsaida.mg.gov.br/padronizacoes-parcerias)
 
+#### 🌱💡 Termo de Fomento
+- [Checklist de Celebração de Termo de Colaboração/Fomento](https://sigconsaida.mg.gov.br/padronizacoes-parcerias)
+
 ---
 
 ### 💪 Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor
@@ -67,12 +71,11 @@ Nas seções a seguir você encontrará:
 
 ## 📝 Modelos de referência
 ### Documentos processuais (para usar no SEI ou e-mail ao montar o seu processo)
-- [Modelo de solicitação de parceria]
-- [Modelo de carta de intenções]
-- [Modelo de apresentação de projeto]
-- [Modelo de nota técnica sobre parcerias]
-- [Modelo de parecer jurídico sobre parcerias]
-- [Modelo de nota saneadora]
+- [Modelo de solicitação de parceria](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EYdfxSvs8RBGiVch2U930DQBEUJdB1DgexiM9XD4DYPPdw?e=RDK8Ga)
+- [Modelo 1 de apresentação de projeto](https://www.gov.br/iphan/pt-br/assuntos/andancas/CadernoAndanasdoPatrimniofinal22_041.pdf): Andanças do Patrimônio, do IPHAN
+- [Modelo 2 de apresentação de projeto](https://museudarepublica.museus.gov.br/wp-content/uploads/2019/02/revista-do-professor_PEJA_para-internet.pdf): Programa de Educação de Jovens e Adultos (PEJA), do Museu da República
+- [Modelo de nota técnica sobre parcerias](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EQjHT3MfaOxLvOt_eijbS0UBjqPOARFzOHEzE3M0ZfpTBQ?e=G6poy7)
+- [Modelo de nota saneadora](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EZO8QeWCKNZLpIBIvvBUFTkBuLOG3LKL0L-vUQP94i2D6w?e=UyOhXf)
 
 ### 🧩 Acordo de Cooperação Técnica
 - [Minuta modelo de Acordo de Cooperação Técnica da Advocacia Geral da União (AGU)](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/acordo-de-cooperacao-tecnica.pdf)
@@ -107,6 +110,7 @@ Nas seções a seguir você encontrará:
 - [Anexo 09 - Formulário de recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-ix-formulario-de-recurso)
 
 #### 🎪 Termo de Ocupação Cultural
+- 
 - [Modelo de Termo de Ocupação Cultural - FUNARTE](https://www.gov.br/funarte/pt-br/editais-1/2024/programa-funarte-aberta-2025-ocupacao-dos-espacos-culturais-da-funarte-mg-e-sp/AnexoIModeloTERMODEOCUPAOCULTURALFUNARTEProjurem191224psrevisoprojur.docx)
 
 #### 🏆 Termo de Premiação Cultural
@@ -197,23 +201,36 @@ Nas seções a seguir você encontrará:
 ---
 
 ## ⚖️ Instrumentos jurídicos vigentes
+**Atenção!** Instrumentos jurídicos efetivamente vigentes muitas vezes trazem dados sensíveis que não devem ser veiculados, conforme diretrizes da [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm). Isso é principalmente importante nos casos de instrumentos celebrados junto a pessoas físicas, como Termos de Execução Cultural ou Termos de Bolsa Cultural fruto da PNAB (Política Nacional Aldir Blanc de Fomento à Cultura). Por esse motivo, nesses casos optou-se por disponibilizar as minutas anexas aos respectivos editais em detrimento de documentos efetivamente assinados (mas idênticos em seu teor), preservando dados sensíveis.
+
 ### 🧩 Acordo de Cooperação Técnica
 - [Acordo de Cooperação Técnica Nº 107773432, entre IEPHA-MG e Fundação do Patrimônio Histórico e Artístico de Pernambuco (FUNDARPE)](https://iepha303-my.sharepoint.com/:b:/g/personal/lucas_fainblat_iepha_mg_gov_br/EbHwEMVFsXBDhyI7K8Y6YicBWFYHDhba4qOJ_cPTPn1N1Q?e=U6Fa7Q)
 - [Termo de Cooperação nº 18/2025, entre IEPHA-MG e UFMG](https://iepha303-my.sharepoint.com/:b:/g/personal/lucas_fainblat_iepha_mg_gov_br/EW_fKJ-OsTBKmfCenbZ7iy8BJKzjuxkhD6Se09wRIuvnOg?e=qA5dzC)
+- [Acordo de Cooperação Técnica nº 67495522, entre IEPHA-MG e Associação Pró-Cultura e Promoção das Artes (APPA)](https://drive.google.com/file/d/1kylgDIB3KSRdVUvREAC_WQUJ9z8RJ7wJ/view)
 - [Acordo de Cooperação Técnica nº 3/2025, entre Prefeitura do Município de São Paulo e Fundação Bienal de São Paulo](https://diariooficial.prefeitura.sp.gov.br/md_epubli_visualizar.php?Cbrgr-K4yy4jyMV5onWaAtJtkvsg8CFNbLzyuqdFm3lRALU_c67bR7xyCAVDI4-pdAB_uBK3sxMU87iOGKdSPx7R9Ep7JP3KfokBlIlwI5MTbsFveiy6xc0ToYnkjVrn)
 
 ---
 
 ### 💡 Marco Regulatório do Fomento à Cultura (MRFC)
 #### 🎓 Termo de Bolsa Cultural
+- [Edital MinC nº 3/2025, para celebração de Termos de Bolsa Cultural](https://mapa.cultura.gov.br/files/opportunity/5746/edital-de-chamamento-publico-minc-n-3-2025-micbr-2025.pdf): no anexo VIII do documento, é possível acessar um Termo de Bolsa Cultural que será firmado, efetivamente, entre o MinC e candidatos selecionados pelo edital
+- [Edital PNAB 12/2024 da Secult-MG, para celebração de Termos de Bolsa Cultural](https://www.secult.mg.gov.br/download/category/41-pnab?download=4028:edital-12-2024-bolsas-de-pesquisa-retificado-06-02-2025): no anexo IV do documento, é possível acessar um Termo de Bolsa Cultural que foi firmado entre a Secult-MG e candidatos selecionados pelo edital
 
 #### 🤝 Termo de Cooperação Cultural
+- [Edital FAOP 04/2025, para celebração de Termo de Cooperação Cultural](http://www.faop.mg.gov.br/faop-lanca-edital-para-banco-de-projetos-culturais-com-potencial-de-cooperacao-institucional/) traz, em seu [Anexo III - Minuta do Termo de Cooperação Cultural](https://drive.google.com/file/d/17XBSAy4O7_-gy-QYtYF8xVtUTffAqUkr/view?usp=drive_link), o modelo de documento assinado entre a Fundação de Arte de Ouro Preto e os candidatos selecionados em edital
+- [Termo de Cooperação Cultural nº 02/2025, entre Instituto Guimarães Rosa (IGR) e Associação Pró-Cultura e Promoção das Artes (APPA)](https://drive.google.com/file/d/1Bkxnv2GD9YogR7Ji_Itv0RcozzYESQZM/view)
 
 #### 🎨 Termo de Execução Cultural
+- [Edital PNAB 06/2024 da Secult-MG, para celebração de Termos de Execução/Compromisso Cultural](https://www.secult.mg.gov.br/download/category/41-pnab?download=3998:edital-06-2024-producoes-de-obras-retificado-14-01-2025): no anexo IV do documento, é possível acessar um Termo de Execução Cultural que foi firmado entre a Secult-MG e candidatos selecionados pelo edital
+- [Anexo XII aos Editais do Programa de Ação Cultural (ProAC) do Estado de São Paulo: Termo de Execução Cultural](https://storageproac.blob.core.windows.net/uploads/2024/07/Anexo-XII-–-Modelo-de-Termo-de-Execucao-Cultural-Pessoa-Fisica.pdf): esta minuta de Termo de Execução Cultural corresponde ao documento que foi efetivamente firmado junto a diversos candidatos selecionados em chamada pública
 
 #### 🎪 Termo de Ocupação Cultural
+- [Anexo VI da Chamada Pública para Ocupação Artístico-Cultural da Casa da Cultura 2024 - Termo de Ocupação Cultural entre a Secretaria da Cultura e Turismo de Sobral (CE) e permissionários](https://mapacultural.secult.ce.gov.br/files/opportunity/5099/anexo-vi-termo-de-ocupacao-cultural.pdf): esta minuta de Termo de Ocupação Cultural corresponde ao documento que foi efetivamente firmado junto a diversos candidatos selecionados em chamada pública
+- [Chamamento Público nº 05/2025 da Secretaria Municipal de Cultura da Prefeitura Municipal de Campo Mourão (PR), para celebração de Termo de Ocupação Cultural](https://campomourao.atende.net/subportal/secretaria-municipal-de-cultura/pagina/edital-termo-de-ocupacao-cultural): no anexo I do documento, é possível acessar um Termo de Ocupação Cultural que foi firmado entre a Secult do município e candidatos selecionados pelo edital
 
 #### 🏆 Termo de Premiação Cultural
+- [Edital PNAB 02/2024 da Secult-MG, para celebração de Termos de Premiação Cultural](https://www.secult.mg.gov.br/download/category/41-pnab?download=4026:edital-02-2024-raizes-de-minas-premiacao-as-trajetorias-artisticas-culturais-e-tradicionais-retificado-31-01-2025): no anexo II do documento, é possível acessar um Termo de Premiação Cultural que foi firmado entre a Secult-MG e candidatos selecionados pelo edital
+- [Anexo III ao Chamamento Público 007/2024, para celebração de Termos de Premiação Cultural junto ao Estado do Paraná](https://www.cultura.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-08/pnab-premiotrajetoria-anexoiii.pdf): esta minuta de Termo de Premiação Cultural corresponde ao documento que foi efetivamente firmado junto a diversos candidatos selecionados em chamada pública
 
 ---
 
@@ -233,6 +250,8 @@ Nas seções a seguir você encontrará:
 #### 🌱💡 Termo de Fomento
 - [Termo de Fomento nº 05/2025, entre Secretaria da Cultura, Economia e Indústria Criativas do Estado de São Paulo e Instituto Bacarelli](https://www.transparenciacultura.sp.gov.br/wp-content/uploads/2025/02/SEI_GESP-0058442333-Despacho.pdf)
 - [Termo de Fomento nº 000913/2025, entre Secretaria de Estado de Cultura e Turismo de Minas Gerais e União dos Cegos de Santa Tereza de Minas Gerais (UCST-MG)](https://transparencia.sigconsaida.mg.gov.br/#/instrumento/2025/1271000511/pdf)
+- [Termo de Fomento nº FUMCULT/001/2024, entre Fundação Municipal de Cultura, Lazer e Turismo de Congonhas (FUMCULT) e Associação Pró-Cultura e Promoção das Artes (APPA)](https://drive.google.com/file/d/1Y1g1B-VCpuD_eNhNfCh5yWg8rHLkG5AI/view)
+- [Termo de Fomento nº 010/2024, entre Município de Nova Lima (MG) e Associação Pró-Cultura e Promoção das Artes (APPA)](https://drive.google.com/file/d/1CVUnz_fbk66dz84lZyScum0-yjZoAh_t/view)
 
 ---
 
