@@ -18,7 +18,6 @@ Nas seções a seguir você encontrará:
 ## 📋 Checklists e Cartilhas
 ### 🧩 Acordo de Cooperação Técnica
 
-
 ---
 
 ### 💡 Marco Regulatório do Fomento à Cultura (MRFC)
@@ -77,6 +76,8 @@ Nas seções a seguir você encontrará:
 - [Modelo de nota técnica sobre parcerias](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EQjHT3MfaOxLvOt_eijbS0UBjqPOARFzOHEzE3M0ZfpTBQ?e=G6poy7)
 - [Modelo de nota saneadora](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EZO8QeWCKNZLpIBIvvBUFTkBuLOG3LKL0L-vUQP94i2D6w?e=UyOhXf)
 
+---
+
 ### 🧩 Acordo de Cooperação Técnica
 - [Minuta modelo de Acordo de Cooperação Técnica da Advocacia Geral da União (AGU)](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/acordo-de-cooperacao-tecnica.pdf)
 
@@ -110,7 +111,6 @@ Nas seções a seguir você encontrará:
 - [Anexo 09 - Formulário de recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-ix-formulario-de-recurso)
 
 #### 🎪 Termo de Ocupação Cultural
-- 
 - [Modelo de Termo de Ocupação Cultural - FUNARTE](https://www.gov.br/funarte/pt-br/editais-1/2024/programa-funarte-aberta-2025-ocupacao-dos-espacos-culturais-da-funarte-mg-e-sp/AnexoIModeloTERMODEOCUPAOCULTURALFUNARTEProjurem191224psrevisoprojur.docx)
 
 #### 🏆 Termo de Premiação Cultural
@@ -126,7 +126,7 @@ Nas seções a seguir você encontrará:
 
 ### 🌐 Marco Regulatório das Organizações da Sociedade Civil (MROSC)
 #### 🫱🫲 Acordo de Cooperação
-**Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
+Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):
 - [Modelo de Encaminhamento de Proposta para o Procedimento de Manifestação de Interesse Social](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_modelo_proposta_manifetacao_interesse_social.docx)
 - [Modelo de Edital de Chamamento Público – Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_edital_chamamento_publico_acordo_cooperacao.docx)
 - [Minuta de Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/minuta_padrao_segov_age_acordo_de_cooperacao.docx)
@@ -139,7 +139,7 @@ Nas seções a seguir você encontrará:
 - [Prestação de Contas: Modelo de Relatório de Execução do Objeto](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
 
 #### 🏛️💡 Termo de Colaboração
-**Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
+Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):
 - [Minuta Padrão de Edital de Chamamento Público para Termo de Colaboração MROSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_edital_chamamento_publico_termo_colaboracao.docx)
 - [Modelo de Extrato de Edital para Chamamento Público](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_extrato_edital_divulgacao.docx)
 - [Minuta de Termo de Colaboração / Termo de Fomento](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/Minuta%20de%20Termo%20de%20Colabora%C3%A7%C3%A3o-Fomento%20(Alterada%20em%202025).docx)
@@ -152,7 +152,7 @@ Nas seções a seguir você encontrará:
 - [Prestação de Contas: Modelo de Relatório de Execução Financeira MROSC](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_financeira_mrosc.docx)
 
 #### 🌱💡 Termo de Fomento
-**Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
+Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):
 - [Minuta Padrão de Edital de Chamamento Público para Termo de Fomento MROSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_edital_chamamento_publico_termo_fomento.docx)
 - [Modelo de Extrato de Edital para Chamamento Público](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_extrato_edital_divulgacao.docx)
 - [Minuta de Termo de Colaboração / Termo de Fomento](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/Minuta%20de%20Termo%20de%20Colabora%C3%A7%C3%A3o-Fomento%20(Alterada%20em%202025).docx)
@@ -168,7 +168,7 @@ Nas seções a seguir você encontrará:
 
 ### 💪 Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor
 #### 👥 Termo de Parceria (OSCIP)
-**Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip):**
+Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip):
 - [Modelo de qualificação como OSCIP](https://www.mg.gov.br/planejamento/documento/modelo-de-requerimento-de-qualificacaorenovacao-como-oscip)
 - [Modelo de solicitação de estudo de viabilidade](https://www.mg.gov.br/planejamento/documento/modelo-de-solicitacao-de-estudo-de-viabilidade)
 - [Modelo de edital de processo de seleção pública](https://www.mg.gov.br/planejamento/documento/maio_25-modelo-de-edital-processo-de-selecao-publica-oscip_vr9docx)
@@ -182,7 +182,7 @@ Nas seções a seguir você encontrará:
 - [Modelo de relatório de avaliação](https://www.mg.gov.br/planejamento/documento/jan_25-modelo-de-relatorio-da-comissao-de-avaliacao_20docx-1)
 
 #### 🏢 Contrato de Gestão (OS)
-**Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os)**:
+Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os)
 - [Modelo de qualificação como OS](https://www.mg.gov.br/system/files/media/planejamento/documento_detalhado/2023/modelo_requerimento_qualificacao_os.doc)
 - [Modelo de solicitação de estudo de viabilidade](https://www.mg.gov.br/planejamento/documento/modelo-de-solicitacao-de-estudo-de-viabilidade)
 - [Modelo de edital de seleção pública](https://www.mg.gov.br/system/files/media/documento_detalhado/2025-05/Modelo%20de%20edital%20processo%20de%20sele%C3%A7%C3%A3o%20p%C3%BAblica%20-%20Contrato%20de%20Gest%C3%A3o%20-%20atualizado%20em%20mai.%20de%202025.docx)
@@ -201,7 +201,9 @@ Nas seções a seguir você encontrará:
 ---
 
 ## ⚖️ Instrumentos jurídicos vigentes
-**Atenção!** Instrumentos jurídicos efetivamente vigentes muitas vezes trazem dados sensíveis que não devem ser veiculados, conforme diretrizes da [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm). Isso é principalmente importante nos casos de instrumentos celebrados junto a pessoas físicas, como Termos de Execução Cultural ou Termos de Bolsa Cultural fruto da PNAB (Política Nacional Aldir Blanc de Fomento à Cultura). Por esse motivo, nesses casos optou-se por disponibilizar as minutas anexas aos respectivos editais em detrimento de documentos efetivamente assinados (mas idênticos em seu teor), preservando dados sensíveis.
+**Atenção!** Instrumentos jurídicos efetivamente vigentes muitas vezes trazem dados sensíveis que não devem ser veiculados, conforme diretrizes da [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm).
+
+Isso é principalmente importante nos casos de instrumentos celebrados junto a pessoas físicas, como Termos de Execução Cultural ou Termos de Bolsa Cultural fruto da PNAB (Política Nacional Aldir Blanc de Fomento à Cultura). Por esse motivo, nesses casos optou-se por disponibilizar as minutas anexas aos respectivos editais em detrimento de documentos efetivamente assinados (mas idênticos em seu teor), preservando dados sensíveis.
 
 ### 🧩 Acordo de Cooperação Técnica
 - [Acordo de Cooperação Técnica Nº 107773432, entre IEPHA-MG e Fundação do Patrimônio Histórico e Artístico de Pernambuco (FUNDARPE)](https://iepha303-my.sharepoint.com/:b:/g/personal/lucas_fainblat_iepha_mg_gov_br/EbHwEMVFsXBDhyI7K8Y6YicBWFYHDhba4qOJ_cPTPn1N1Q?e=U6Fa7Q)
@@ -235,7 +237,7 @@ Nas seções a seguir você encontrará:
 ---
 
 ### 🌐 Marco Regulatório das Organizações da Sociedade Civil (MROSC)
-- [Página do SIGCON](https://sigconsaida.mg.gov.br/editais) com todos os editais, dispensas e inexigibilidades sobre parcerias do MROSC em Minas Gerais
+[Página do SIGCON](https://sigconsaida.mg.gov.br/editais) com todos os editais, dispensas e inexigibilidades sobre parcerias do MROSC em Minas Gerais
 
 #### 🫱🫲 Acordo de Cooperação
 - [Acordo de Cooperação Nº 115412273, entre IEPHA-MG e Comissão Mineira de Folclore (CMFL)](https://iepha303-my.sharepoint.com/:b:/g/personal/lucas_fainblat_iepha_mg_gov_br/EZ5LO4xqjXtMv7FbVvVorZYB8mYX3HilF4ITyEwLHjtBkg?e=1LWhXY)
@@ -257,14 +259,14 @@ Nas seções a seguir você encontrará:
 
 ### 💪 Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor
 #### 👥 Termo de Parceria (OSCIP)
-- [Página sobre o Termo de Parceria nº 53/2023 - Fundação Clóvis Salgado e Associação Pró Cultura e Promoção das Artes  - APPA](https://fcs.mg.gov.br/contrato-de-gestao-termo-de-parceria), atualmente vigente
-- [Página sobre o Termo de Parceria nº 51/2021 - Instituto Estadual de Florestas - IEF e Instituto Ekos Brasil](https://www.ief.mg.gov.br/termos-de-parceria1), atualmente vigente
-- [Página sobre o Termo de Parceria nº 52/2023 - Secretaria de Estado de Desenvolvimento Social - SEDESE e Federação de Esportes Estudantis de Minas Gerais - FEEMG](https://social.mg.gov.br/esportes/editais-e-termos-de-parceria), atualmente vigente
+- [Página sobre o Termo de Parceria nº 53/2023 - Fundação Clóvis Salgado e Associação Pró Cultura e Promoção das Artes  - APPA](https://fcs.mg.gov.br/contrato-de-gestao-termo-de-parceria)
+- [Página sobre o Termo de Parceria nº 51/2021 - Instituto Estadual de Florestas - IEF e Instituto Ekos Brasil](https://www.ief.mg.gov.br/termos-de-parceria1)
+- [Página sobre o Termo de Parceria nº 52/2023 - Secretaria de Estado de Desenvolvimento Social - SEDESE e Federação de Esportes Estudantis de Minas Gerais - FEEMG](https://social.mg.gov.br/esportes/editais-e-termos-de-parceria)
 
 #### 🏢 Contrato de Gestão (OS)
-- [Página sobre o Contrato de Gestão nº 05/2019 - Fundação Clóvis Salgado - FCS e Associação Pró Cultura e Promoção das Artes - APPA](https://fcs.mg.gov.br/contrato-de-gestao-termo-de-parceria/), atualmente vigente
-- [Página sobre o Contrato de Gestão nº 06/2020 – Secretaria de Estado de Cultura e Turismo – SECULT e Instituto Cultural Filarmônica - ICF](https://www.secult.mg.gov.br/documentos-administrativos/contrato-de-gestao), atualmente vigente
-- [Página sobre o Contrato de Gestão nº 08/2021 - Secretaria de Estado de Justiça e Segurança Pública - SEJUSP e Instituto Elo - IELO](https://www.seguranca.mg.gov.br/index.php/component/sppagebuilder/page/277), atualmente vigente
+- [Página sobre o Contrato de Gestão nº 05/2019 - Fundação Clóvis Salgado - FCS e Associação Pró Cultura e Promoção das Artes - APPA](https://fcs.mg.gov.br/contrato-de-gestao-termo-de-parceria/)
+- [Página sobre o Contrato de Gestão nº 06/2020 – Secretaria de Estado de Cultura e Turismo – SECULT e Instituto Cultural Filarmônica - ICF](https://www.secult.mg.gov.br/documentos-administrativos/contrato-de-gestao)
+- [Página sobre o Contrato de Gestão nº 08/2021 - Secretaria de Estado de Justiça e Segurança Pública - SEJUSP e Instituto Elo - IELO](https://www.seguranca.mg.gov.br/index.php/component/sppagebuilder/page/277)
 
 ---
 
