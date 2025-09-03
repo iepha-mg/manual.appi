@@ -3,7 +3,7 @@
 Prezadas servidoras e prezados servidores,
 
 É com grande satisfação que apresentamos o Manual de Governança de Ações em Parcerias
-e Programas Integrados (MG.APPI), um instrumento essencial para fortalecer nossa atuação
+e Programas Integrados, um instrumento essencial para fortalecer nossa atuação
 no Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais (Iepha-MG).
 
 <img 
@@ -28,7 +28,7 @@ A História se apresenta ao coração do povo quando está diante de seus olhos.
 firmamos, cada programa que desenvolvemos, é um passo na construção de um legado
 que ilumina nossa memória e inspira um futuro melhor.
 
-O MG.APPI não é apenas um conjunto de conceitos, normas e procedimentos; é um convite
+O Manual de Governança não é apenas um conjunto de conceitos, normas e procedimentos; é um convite
 para que todos nós, em equipe e com nossos parceiros, trabalhemos com segurança,
 confiança e qualidade. Ele reflete nosso compromisso com a salvaguarda do patrimônio
 cultural mineiro, garantindo que nossas ações sejam tão duradouras e significativas quanto
