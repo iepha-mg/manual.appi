@@ -95,38 +95,49 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
 
 <img 
     src="https://github.com/user-attachments/assets/ca6a13e4-a0de-44a5-a342-32269b09b730" 
-    align="right" 
-    width="33%" 
+    align="left" 
+    width="25%" 
     style="margin-right: 20px;">
 
-- 👔 Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
-- 📧 [priscila.guerra@iepha.mg.gov.br](mailto:priscila.guerra@iepha.mg.gov.br)
-- 🎓 [http://lattes.cnpq.br/4749109914314491](http://lattes.cnpq.br/4749109914314491)
-- 💼 [LinkedIn](https://www.linkedin.com/in/priscila-guerra-duarte-bb12487a/)
+👔 Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
+
+📧 [priscila.guerra@iepha.mg.gov.br](mailto:priscila.guerra@iepha.mg.gov.br)
+
+🎓 [http://lattes.cnpq.br/4749109914314491](http://lattes.cnpq.br/4749109914314491)
+
+💼 [LinkedIn](https://www.linkedin.com/in/priscila-guerra-duarte-bb12487a/)
 
 #### **Formação Acadêmica**  
-- **Mestranda** em Economia e Política Cultural e Indústrias Criativas (UFRGS)
-- **Especialização** em Economia Criativa e Inovação (UCS, 2022); em Gestão Pública (UEMG, 2018); e em Gestão Cultural (Centro Universitário UNA, 2012) 
-- **Graduação** em Administração Pública (Fundação João Pinheiro, 2010)  
+**Mestranda** em Economia e Política Cultural e Indústrias Criativas (UFRGS)
+
+**Especialização** em Economia Criativa e Inovação (UCS, 2022); em Gestão Pública (UEMG, 2018); e em Gestão Cultural (Centro Universitário UNA, 2012) 
+
+**Graduação** em Administração Pública (Fundação João Pinheiro, 2010)
+
+---
 
 ### **Lucas Fainblat** *(EPPGG na APPI)*
 
 <img 
     src="https://github.com/user-attachments/assets/f7d17132-5741-4ba4-b7e5-04567ee709f5"
     align="right" 
-    width="33%" 
-    style="margin-right: 20px;">
+    width="22%" 
+    style="margin-left: 20px;">
 
-- 👔 Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
-- 📧 [lucas.fainblat@iepha.mg.gov.br](mailto:lucas.fainblat@iepha.mg.gov.br)
-- 🎓 [http://lattes.cnpq.br/1511692902967161](http://lattes.cnpq.br/1511692902967161)
+👔 Especialista em Políticas Públicas e Gestão Governamental (EPPGG)
+
+📧 [lucas.fainblat@iepha.mg.gov.br](mailto:lucas.fainblat@iepha.mg.gov.br)
+
+🎓 [http://lattes.cnpq.br/1511692902967161](http://lattes.cnpq.br/1511692902967161)
 
 #### **Formação Acadêmica**  
-- **Doutorando** em Ciência Política (UFMG)
-- **Mestre** em Ciência Política (UFMG, 2024)
-   - _Dissertação_: "Quem entra e quem fica de fora? Ônus administrativos e reprodução de desigualdades na implementação dos editais da Lei Aldir Blanc (LAB): um estudo de caso em Minas Gerais"
-- **Especialização** em Políticas Públicas (UFMG, 2016)
-- **Graduação** em Administração Pública (Fundação João Pinheiro, 2011)  
+**Doutorando** em Ciência Política (UFMG)
 
+**Mestre** em Ciência Política (UFMG, 2024)
+- _Dissertação_: "Quem entra e quem fica de fora? Ônus administrativos e reprodução de desigualdades na implementação dos editais da Lei Aldir Blanc (LAB): um estudo de caso em Minas Gerais"
+
+**Especialização** em Políticas Públicas (UFMG, 2016)
+
+**Graduação** em Administração Pública (Fundação João Pinheiro, 2011)  
 
 ##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
