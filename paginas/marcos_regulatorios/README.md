@@ -29,7 +29,6 @@ Cada um deles possui seus respectivos instrumentos jurídicos.
 > podendo ser utilizado em processos judiciais ou para garantir direitos e deveres.
 
 ### 💼 Instrumentos jurídicos das parcerias do Iepha-MG
-Tipos de instrumentos jurídicos por marco regulatório (com e sem previsão de transferências de recursos entre as partes)
 
 <img src="https://github.com/user-attachments/assets/6c03dab4-e02f-4ca6-a558-9dafe3326c3b" width="100%">
 
