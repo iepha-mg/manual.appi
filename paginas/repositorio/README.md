@@ -13,53 +13,37 @@ Nas seções a seguir você encontrará:
 
 ## 📄 Publicações
 ### 📚 Livros
-- **Por uma cultura pública: Organizações Sociais, Oscips e a Gestão Pública não estatal na área da cultura**
+- [Por uma cultura pública: Organizações Sociais, Oscips e a Gestão Pública não estatal na área da cultura]((https://www.santoandre.sp.gov.br/pesquisa/ebooks/355427.pdf))
    - Autora: Elizabeth Ponte
-   - [Acesso](https://www.santoandre.sp.gov.br/pesquisa/ebooks/355427.pdf)
-- **O Terceiro Setor na gestão da cultura: a perspectiva a partir do Museu de Arte do Rio**
+- [O Terceiro Setor na gestão da cultura: a perspectiva a partir do Museu de Arte do Rio](https://museudeartedorio.org.br/wp-content/uploads/2020/09/o-terceiro-setor-na-gestao-.pdf)
    - Organização: Carlos Gradim
-   - [Acesso](https://museudeartedorio.org.br/wp-content/uploads/2020/09/o-terceiro-setor-na-gestao-.pdf)
-- **Marco Regulatório das Organizações da Sociedade Civil: Avanços e Desafios**
+- [Marco Regulatório das Organizações da Sociedade Civil: Avanços e Desafios](https://repositorio.fgv.br/bitstreams/65613987-665a-4232-acd1-1066abfe25ea/download)
    - Autores: Leichsenring, Alexandre Ribeiro; Souza, Aline Gonçalves de; Oliveira, Letícia de; Boas, Lucas Vilas; Mendonça, Patricia; Donnini, Thiago
-   - [Acesso](https://repositorio.fgv.br/bitstreams/65613987-665a-4232-acd1-1066abfe25ea/download)
-- **O Perfil das Organizações da Sociedade Civil no Brasil (2016-2025)**
+- [O Perfil das Organizações da Sociedade Civil no Brasil (2016-2025)](https://bookdown.org/mosc_ipea/relatorio-estatistico-MOSC-2025)
    - Organização: Murilo de Oliveira Junqueira; Felix Garcia Lopez Júnio; Alexandre Pires Dominges
-   - [Acesso](https://bookdown.org/mosc_ipea/relatorio-estatistico-MOSC-2025)
 
 ### 📜 Artigos
-- **O Terceiro Setor e a provisão de políticas sociais: desafios, perspectivas e armadilhas da relação entre organizações da sociedade civil e estado em Minas Gerais**
+- [O Terceiro Setor e a provisão de políticas sociais: desafios, perspectivas e armadilhas da relação entre organizações da sociedade civil e estado em Minas Gerais](https://diamantina.cedeplar.ufmg.br/portal/download/diamantina-2002/D62.pdf)
    - Autor: Armindo dos Santos de Sousa Teodósio
-   - [Acesso](https://diamantina.cedeplar.ufmg.br/portal/download/diamantina-2002/D62.pdf)
-- **O Marco Regulatório do Fomento à Cultura no âmbito da Administração Pública e as novidades introduzidas pela Lei 14.903, de 27 de junho de 2024**
+- [O Marco Regulatório do Fomento à Cultura no âmbito da Administração Pública e as novidades introduzidas pela Lei 14.903, de 27 de junho de 2024](https://revistaconsinter.com/index.php/ojs/article/view/815/1220)
    - Autor: Silvio Luís Ferreira da Rocha
-   - [Acesso](https://revistaconsinter.com/index.php/ojs/article/view/815/1220)
-- **Terceiro setor e políticas públicas na área da cultura: oportunidades e desafios**
+- [Terceiro setor e políticas públicas na área da cultura: oportunidades e desafios](https://sinapse.gife.org.br/dlm_file/terceiro-setor-e-politicas-publicas-na-area-da-cultura-oportunidades-e-desafios/)
    - Autoras: Cecília Cristófaro Ribeiro e Letícia Agati Madeira
-   - [Acesso](https://sinapse.gife.org.br/dlm_file/terceiro-setor-e-politicas-publicas-na-area-da-cultura-oportunidades-e-desafios/)
-- **Sustentabilidade Econômica das Organizações da Sociedade Civil**
+- [Sustentabilidade Econômica das Organizações da Sociedade Civil](https://repositorio.fgv.br/server/api/core/bitstreams/aa1efb51-bf75-4ff6-8e8a-1b2d1bb80ac1/content)
    - Coordenação: Luciana de Oliveira Ramos (FGV)
-   - [Acesso](https://repositorio.fgv.br/server/api/core/bitstreams/aa1efb51-bf75-4ff6-8e8a-1b2d1bb80ac1/content)
 
 ### ▶️ Vídeos
-- **Você conhece o Marco Regulatório do Fomento à Cultura?**  
-   - [Acesso](https://radar.ibegesp.org.br/voce-conhece-o-marco-regulatorio-do-fomento-a-cultura/)
-- **III Seminário Internacional MROSC - Parcerias Transformadoras (10 anos de MROSC)**  
-   - [Acesso](https://www.youtube.com/watch?v=ddPFyNzM6rg)
-- **Seminário sobre Atualização nas Regras das Parcerias do MROSC** 
-   - [Acesso](https://www.youtube.com/watch?v=OTuTPMipYNE)
-- **"Live FUNDAMIG: Sua organização no Mapa das OSC"**
-   - [Acesso](https://www.youtube.com/watch?v=GQQ1Payx5-s)
-- **Webinar Modelos de gestão de museus e os desafios para a captação de recursos**
-   - [Acesso](https://www.youtube.com/watch?v=igFeFvPWYZg)
-- **Papo PNAB | O que muda na PNAB com o Marco Regulatório do Fomento à Cultura?**
-   - [Acesso](https://www.youtube.com/watch?v=ip_LORWYubg)
+- [Você conhece o Marco Regulatório do Fomento à Cultura?](https://radar.ibegesp.org.br/voce-conhece-o-marco-regulatorio-do-fomento-a-cultura/)
+- [III Seminário Internacional MROSC - Parcerias Transformadoras (10 anos de MROSC)](https://www.youtube.com/watch?v=ddPFyNzM6rg)
+- Seminário sobre Atualização nas Regras das Parcerias do MROSC](https://www.youtube.com/watch?v=OTuTPMipYNE)
+- [Live FUNDAMIG: Sua organização no Mapa das OSC](https://www.youtube.com/watch?v=GQQ1Payx5-s)
+- [Webinar Modelos de gestão de museus e os desafios para a captação de recursos](https://www.youtube.com/watch?v=igFeFvPWYZg)
+- [Papo PNAB - O que muda na PNAB com o Marco Regulatório do Fomento à Cultura?](https://www.youtube.com/watch?v=ip_LORWYubg)
 
 ### 📰 Matérias e Outros
-- **Colocando o Marco Regulatório do Fomento à Cultura no seu devido lugar**
+- [Colocando o Marco Regulatório do Fomento à Cultura no seu devido lugar](https://www.ibdcult.org/post/colocando-o-marco-regulatório-do-fomento-à-cultura-no-seu-devido-lugar)
    - Autor: Mário Pragmácio
-   - [Acesso](https://www.ibdcult.org/post/colocando-o-marco-regulatório-do-fomento-à-cultura-no-seu-devido-lugar)
-- **Plataforma MROSC - Publicações**
-   - [Acesso](https://plataformaosc.org.br/publicacoes)
+- [Plataforma MROSC - Publicações](https://plataformaosc.org.br/publicacoes)
 
 ---
 
@@ -70,7 +54,7 @@ Nas seções a seguir você encontrará:
 ---
 
 ### 💡 Marco Regulatório do Fomento à Cultura (MRFC)
-- [Portal do Governo Federal sobre o Marco Regulatório do Fomento à Cultura](https://marcodacultura.com.br) **Atenção!** Aqui você encontra diversos informativos sobre o Marco Regulatório do Fomento à Cultura.
+- [Portal do Governo Federal sobre o Marco Regulatório do Fomento à Cultura](https://marcodacultura.com.br) **Atenção!** Aqui você encontra diversos informativos sobre o Marco Regulatório do Fomento à Cultura
 
 ---
 
