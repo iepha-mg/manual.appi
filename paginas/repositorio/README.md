@@ -39,9 +39,9 @@ Nas seções a seguir você encontrará:
 | Tipo                                 | Descrição                                                                                                                        |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **🧩 Acordo de Cooperação Técnica**  | [Checklist para celebração de ACT (UFVJM)](https://portal.ufvjm.edu.br/proplan/convenios-e-projetos/modelos-manuais-e-orientacoes/modelos/acordo-de-cooperacao-tecnica/checklist-acordo-de-cooperacao-tecnica.pdf) - Este documento foi elaborado pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) para celebração de ACTs no âmbito de suas competências. Para utilizar a checklist no âmbito do IEPHA-MG, tenha em mente que algumas especificidades deverão ser adaptadas |
-|   |   |   |
+|   |   |
 | **💡Marco Regulatório do Fomento à Cultura (MRFC)** | [Portal do Governo Federal sobre o Marco Regulatório do Fomento à Cultura](https://marcodacultura.com.br) - Aqui você encontra diversos informativos sobre o Marco Regulatório do Fomento à Cultura |
-|   |   |   |
+|   |   |
 | **🌐 Marco Regulatório das Organizações da Sociedade Civil (MROSC)** | [Painel em PowerBI para visualização das parcerias MROSC firmadas em MG](https://app.powerbi.com/view?r=eyJrIjoiMzY1NjVkNzgtZDlhYy00ZWI0LThhM2UtMjY5MzliMzkzYWU2IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9) |
 |                                     | [Manual de Usuários para Parcerias – SOMENTE PARA ÓRGÃOS OU ENTIDADES ESTADUAIS PARCEIROS](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/manuais/v2/manual_sigcon_mrosc_orgao_parceiro.pdf) |
 |                                     | [Manual de Usuários para Parcerias – SOMENTE PARA OSCs](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/manuais/v2/manual_sigcon_mrosc_osc.pdf) |
@@ -52,7 +52,7 @@ Nas seções a seguir você encontrará:
 | 🫱🫲 Acordo de Cooperação          | [Checklist de Celebração de Acordo de Cooperação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/checklists/anexo_I_resolucao_conjunta_segov_age_007_2017_atualizada_resolucao_001_2021.docx) |
 | 🏛️💡 Termo de Colaboração          | [Checklist de Celebração de Termo de Colaboração/Fomento](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/checklists/anexo_II_resolucao_conjunta_segov_age_007_2017_atualizada_resolucao_001_2021.docx) |
 | 🌱💡 Termo de Fomento              | [Checklist de Celebração de Termo de Colaboração/Fomento](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/checklists/anexo_II_resolucao_conjunta_segov_age_007_2017_atualizada_resolucao_001_2021.docx) |
-|   |   |   |
+|   |   |
 | **💪 Modelo OSCIP/OS**                |                                                                                                                                           |
 | 👥 Termo de Parceria (OSCIP)      | [Portal da Seplag para o Modelo OSCIP](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip) - Contém todos os editais, manuais, legislação e diretivas sobre parcerias sob o Modelo OSCIP em MG |
 |                                     | [Manual de orientações para elaboração dos regulamentos da Oscip](https://www.mg.gov.br/planejamento/documento/manual_rcc_vr_final_jan_25pdf-3) |
@@ -72,9 +72,9 @@ Nas seções a seguir você encontrará:
 | **📑 Documentos processuais** | [Modelo de solicitação de parceria](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EYdfxSvs8RBGiVch2U930DQBEUJdB1DgexiM9XD4DYPPdw?e=RDK8Ga) - Para utilização no SEI ou e-mail |
 |             | [Modelo de nota técnica sobre parcerias](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EQjHT3MfaOxLvOt_eijbS0UBjqPOARFzOHEzE3M0ZfpTBQ?e=G6poy7) |
 |             | [Modelo de nota saneadora](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EZO8QeWCKNZLpIBIvvBUFTkBuLOG3LKL0L-vUQP94i2D6w?e=UyOhXf) |
-|   |   |   |
+|   |   |
 | **🧩 Acordo de Cooperação Técnica** | [Minuta modelo de Acordo de Cooperação Técnica da Advocacia Geral da União (AGU)](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/acordo-de-cooperacao-tecnica.pdf) |
-|   |   |   |
+|   |   |
 | **💡 Marco Regulatório do Fomento à Cultura (MRFC)** | [Portal Governo Federal sobre Marco do Fomento](https://marcodacultura.com.br) - Contém material instrutivo sobre o Marco do Fomento |
 | 🎓 Termo de Bolsa Cultural | [Minuta de Edital Padrão para Bolsas Culturais de Pesquisa (PNAB)](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-para-bolsas-de-pesquisa-pnab/edital-bolsas-de-pesquisa) |
 |             | [Anexo 01 - Categorias](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-para-bolsas-de-pesquisa-pnab/anexo-i-bolsa-de-pesquisa.docx) |
@@ -104,7 +104,7 @@ Nas seções a seguir você encontrará:
 |             | [Anexo: 3 Declaração Representação Grupo ou Coletivo](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_3_declaracao_representacao_grupo_ou_coletivo/view) |
 |             | [Anexo 4: Termo de Premiação Cultural](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_4_termo_de_premiacao_cultural/view) |
 |             | [Anexo 5: Formulário de Recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_5_formulario_de_recurso/view) |
-|   |   |   |
+|   |   |
 | **🌐 Marco Regulatório das Organizações da Sociedade Civil (MROSC)** | [Página do SIGCON](https://sigconsaida.mg.gov.br/editais) - Contém todos os editais, dispensas e inexigibilidades sobre parcerias do MROSC em Minas Gerais |
 | 🫱🫲 Acordo de Cooperação | [Portal Sigcon-Saída: página de padronização de parcerias MROSC](https://sigconsaida.mg.gov.br/padronizacoes-parcerias) - Contém todos os modelos padronizados para parcerias MROSC em MG |
 |   | [Modelo de Encaminhamento de Proposta para o Procedimento de Manifestação de Interesse Social](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_modelo_proposta_manifetacao_interesse_social.docx) |
@@ -139,7 +139,7 @@ Nas seções a seguir você encontrará:
 |    | [Modelo de Relatórios Técnicos de Monitoramento e Avaliação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_tecnico_monitoramento.docx) |
 |    | [Prestação de Contas: Modelo de Relatório de Execução do Objeto](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx) |
 |    | [Prestação de Contas: Modelo de Relatório de Execução Financeira MROSC](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_financeira_mrosc.docx) |
-|   |   |   |
+|   |   |
 | **💪 Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor** |  |
 | 👥 Termo de Parceria (OSCIP) | [Portal da Seplag para o Modelo OSCIP](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip) - Contém todos os editais, manuais, legislação e diretivas sobre parcerias sob o Modelo OSCIP em MG |
 |   | [Modelo de qualificação como OSCIP](https://www.mg.gov.br/planejamento/documento/modelo-de-requerimento-de-qualificacaorenovacao-como-oscip) |
@@ -181,7 +181,7 @@ Isso é principalmente importante nos casos de instrumentos celebrados junto a p
 |  | [Termo de Cooperação nº 18/2025, entre IEPHA-MG e UFMG](https://iepha303-my.sharepoint.com/:b:/g/personal/lucas_fainblat_iepha_mg_gov_br/EW_fKJ-OsTBKmfCenbZ7iy8BJKzjuxkhD6Se09wRIuvnOg?e=qA5dzC) |
 |  | [Acordo de Cooperação Técnica nº 67495522, entre IEPHA-MG e Associação Pró-Cultura e Promoção das Artes (APPA)](https://drive.google.com/file/d/1kylgDIB3KSRdVUvREAC_WQUJ9z8RJ7wJ/view) |
 |  | [Acordo de Cooperação Técnica nº 3/2025, entre Prefeitura do Município de São Paulo e Fundação Bienal de São Paulo](https://diariooficial.prefeitura.sp.gov.br/md_epubli_visualizar.php?Cbrgr-K4yy4jyMV5onWaAtJtkvsg8CFNbLzyuqdFm3lRALU_c67bR7xyCAVDI4-pdAB_uBK3sxMU87iOGKdSPx7R9Ep7JP3KfokBlIlwI5MTbsFveiy6xc0ToYnkjVrn) |
-|   |   |   |
+|   |   |
 | **💡 Marco Regulatório do Fomento à Cultura (MRFC)** | [Edital MinC nº 3/2025, para celebração de Termos de Bolsa Cultural](https://mapa.cultura.gov.br/files/opportunity/5746/edital-de-chamamento-publico-minc-n-3-2025-micbr-2025.pdf) - No anexo VIII do documento, é possível acessar um Termo de Bolsa Cultural que será firmado entre o MinC e candidatos selecionados pelo edital |
 |  | [Edital PNAB 12/2024 da Secult-MG, para celebração de Termos de Bolsa Cultural](https://www.secult.mg.gov.br/download/category/41-pnab?download=4028:edital-12-2024-bolsas-de-pesquisa-retificado-06-02-2025) - No anexo IV do documento, é possível acessar um Termo de Bolsa Cultural firmado entre a Secult-MG e candidatos selecionados pelo edital |
 | 🤝 Termo de Cooperação Cultural | [Edital FAOP 04/2025, para celebração de Termo de Cooperação Cultural](http://www.faop.mg.gov.br/faop-lanca-edital-para-banco-de-projetos-culturais-com-potencial-de-cooperacao-institucional/) - Traz em seu [Anexo III - Minuta do Termo de Cooperação Cultural](https://drive.google.com/file/d/17XBSAy4O7_-gy-QYtYF8xVtUTffAqUkr/view?usp=drive_link) o modelo de documento assinado entre Fundação de Arte de Ouro Preto e candidatos selecionados em edital |
@@ -192,7 +192,7 @@ Isso é principalmente importante nos casos de instrumentos celebrados junto a p
 |  | [Chamamento Público nº 05/2025 da Secretaria Municipal de Cultura da Prefeitura Municipal de Campo Mourão (PR)](https://campomourao.atende.net/subportal/secretaria-municipal-de-cultura/pagina/edital-termo-de-ocupacao-cultural) - No anexo I do documento, acesso a Termo firmado entre Secult do município e candidatos selecionados |
 | 🏆 Termo de Premiação Cultural | [Edital PNAB 02/2024 da Secult-MG, para celebração de Termos de Premiação Cultural](https://www.secult.mg.gov.br/download/category/41-pnab?download=4026:edital-02-2024-raizes-de-minas-premiacao-as-trajetorias-artisticas-culturais-e-tradicionais-retificado-31-01-2025) - No anexo II do documento, Termo firmado entre Secult-MG e candidatos selecionados |
 |  | [Anexo III ao Chamamento Público 007/2024, para celebração de Termos de Premiação Cultural junto ao Estado do Paraná](https://www.cultura.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-08/pnab-premiotrajetoria-anexoiii.pdf) - Minuta equivalente ao documento firmado com candidatos selecionados em chamada pública |
-|   |   |   |
+|   |   |
 | **🌐 Marco Regulatório das Organizações da Sociedade Civil (MROSC)** | [Página do SIGCON](https://sigconsaida.mg.gov.br/editais) - Todos os editais, dispensas e inexigibilidades sobre parcerias do MROSC em Minas Gerais |
 | 🫱🫲 Acordo de Cooperação | [Acordo de Cooperação Nº 115412273, entre IEPHA-MG e Comissão Mineira de Folclore (CMFL)](https://iepha303-my.sharepoint.com/:b:/g/personal/lucas_fainblat_iepha_mg_gov_br/EZ5LO4xqjXtMv7FbVvVorZYB8mYX3HilF4ITyEwLHjtBkg?e=1LWhXY) |
 |  | [Acordo de Cooperação nº 16/2025, entre Secretaria Municipal de Educação da Prefeitura Municipal de São Paulo e a Fundação Dorina Nowill para Cegos](https://diariooficial.prefeitura.sp.gov.br/md_epubli_visualizar.php?wbGQek3ZJKplhUBrLenrdaaW5eLAISZTfdAsLeFvF7bl61uD-c17WlWVfDlZ_IHpzYJrsZpiJ1ROKVQsM4Dtm5S2qyESRDF4ArGchFxSGgLYwiROl-bH71k9xuxK3z4N) |
@@ -203,7 +203,7 @@ Isso é principalmente importante nos casos de instrumentos celebrados junto a p
 |  | [Termo de Fomento nº 000913/2025, entre Secretaria de Estado de Cultura e Turismo de Minas Gerais e União dos Cegos de Santa Tereza de Minas Gerais (UCST-MG)](https://transparencia.sigconsaida.mg.gov.br/#/instrumento/2025/1271000511/pdf) |
 |  | [Termo de Fomento nº FUMCULT/001/2024, entre Fundação Municipal de Cultura, Lazer e Turismo de Congonhas (FUMCULT) e Associação Pró-Cultura e Promoção das Artes (APPA)](https://drive.google.com/file/d/1Y1g1B-VCpuD_eNhNfCh5yWg8rHLkG5AI/view) |
 |  | [Termo de Fomento nº 010/2024, entre Município de Nova Lima (MG) e Associação Pró-Cultura e Promoção das Artes (APPA)](https://drive.google.com/file/d/1CVUnz_fbk66dz84lZyScum0-yjZoAh_t/view) |
-|   |   |   |
+|   |   |
 | **💪 Modelo OSCIP/OS: Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor** | |
 | 👥 Termo de Parceria (OSCIP) | [Página sobre o Termo de Parceria nº 53/2023 - Fundação Clóvis Salgado e Associação Pró Cultura e Promoção das Artes - APPA](https://fcs.mg.gov.br/contrato-de-gestao-termo-de-parceria) |
 |  | [Página sobre o Termo de Parceria nº 51/2021 - Instituto Estadual de Florestas - IEF e Instituto Ekos Brasil](https://www.ief.mg.gov.br/termos-de-parceria1) |
