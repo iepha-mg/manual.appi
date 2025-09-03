@@ -30,7 +30,7 @@ Cada um deles possui seus respectivos instrumentos jurídicos.
 
 ### 💼 Instrumentos jurídicos das parcerias do Iepha-MG
 
-#### Diagrama 1: tipos de instrumento jurídico por marco regulatório e previsão de repasse de recursos entre as partes [^1]
+#### Tipos de instrumentos jurídicos por marco regulatório (com e sem previsão de transferências de recursos entre as partes)
 
 <img src="https://github.com/user-attachments/assets/6c03dab4-e02f-4ca6-a558-9dafe3326c3b" width="100%">
 
@@ -38,11 +38,9 @@ Cada um deles possui seus respectivos instrumentos jurídicos.
 
 | Ícone                                                                                     | Descrição                                  |
 |--------------------------------------------------------------------------------------------|-----------------------------------------|
-| <img width="50" height="50" alt="Modelo OSCIP/OS" src="https://github.com/user-attachments/assets/426dcbb1-3d63-457e-b1b9-a68b3c8c71ba"> | OSCIP/OS                               |
+| <img width="50" height="50" alt="Modelo OSCIP/OS" src="https://github.com/user-attachments/assets/426dcbb1-3d63-457e-b1b9-a68b3c8c71ba"> | [Modelo OSCIP/OS](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/README.html)                               |
 | <img width="50" height="50" alt="MRFC" src="https://github.com/user-attachments/assets/d8083acd-a2ae-49c4-9178-f063ec955741">             | [MRFC](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/README.html)                                   |
-| <img width="50" height="50" alt="MRFC" src="https://github.com/user-attachments/assets/2dd463e8-c5f5-4430-989f-c80d8ae8566a">             | MROSC                                  |
+| <img width="50" height="50" alt="MRFC" src="https://github.com/user-attachments/assets/2dd463e8-c5f5-4430-989f-c80d8ae8566a">             | [MROSC](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/README.html)                                  |
 | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/28c673fb-c1a6-411b-a52c-eb5537184bb4">           | Envolve repasses de recursos entre as partes |
-
-[^1]: Fonte: APPI/IEPHA-MG.
 
 ##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
