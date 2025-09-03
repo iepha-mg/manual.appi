@@ -34,6 +34,7 @@ Nas seções a seguir você encontrará:
 ---
 
 ## 📋 Checklists e Cartilhas
+
 | Tipo        | Título / Descrição                                                                                                                        |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **🧩 Acordo de Cooperação Técnica** | [Checklist para celebração de ACT (UFVJM)](https://portal.ufvjm.edu.br/proplan/convenios-e-projetos/modelos-manuais-e-orientacoes/modelos/acordo-de-cooperacao-tecnica/checklist-acordo-de-cooperacao-tecnica.pdf) - Este documento foi elaborado pela Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) para celebração de ACTs no âmbito de suas competências. Para utilizar a checklist no âmbito do IEPHA-MG, tenha em mente que algumas especificidades deverão ser adaptadas |
@@ -61,6 +62,7 @@ Nas seções a seguir você encontrará:
 ---
 
 ## 📝 Modelos de referência
+
 | Tipo        | Título / Descrição                                                                                               |
 | ----------- | ---------------------------------------------------------------------------------------------------------------- |
 | **📑 Documentos processuais** | [Modelo de solicitação de parceria](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EYdfxSvs8RBGiVch2U930DQBEUJdB1DgexiM9XD4DYPPdw?e=RDK8Ga) - Para utilização no SEI ou e-mail |
@@ -160,6 +162,7 @@ Nas seções a seguir você encontrará:
 |   | [Modelo de extrato de análise de prestação de contas](https://www.mg.gov.br/planejamento/documento/modelo-de-extrato-de-analise-de-prestacao-de-contas-0) |
 
 ## ⚖️ Instrumentos jurídicos vigentes
+
 **Atenção!** Instrumentos jurídicos efetivamente vigentes muitas vezes trazem dados sensíveis que não devem ser veiculados, conforme diretrizes da [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm).
 
 Isso é principalmente importante nos casos de instrumentos celebrados junto a pessoas físicas, como Termos de Execução Cultural ou Termos de Bolsa Cultural fruto da PNAB (Política Nacional Aldir Blanc de Fomento à Cultura). Por esse motivo, nesses casos optou-se por disponibilizar as minutas anexas aos respectivos editais em detrimento de documentos efetivamente assinados (mas idênticos em seu teor), preservando dados sensíveis.
