@@ -5,13 +5,73 @@ Nas seções a seguir você encontrará:
 
 | Seção | Descrição |
 |-----------|-----------|
-| [📄 Publicações acadêmicas](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-publicações-acadêmicas) | Artigos, teses e estudos sobre parcerias |
+| [📄 Publicações](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-publicações-acadêmicas) | Artigos, teses, estudos e palestras sobre parcerias |
 | [📋 Checklists e Cartilhas](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-cartilhas) | Guias práticos e orientações |
 | [📝 Modelos de referência](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-modelos-de-referência) | Templates e documentos padrão |
 | [⚖️ Instrumentos jurídicos vigentes](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#%EF%B8%8F-instrumentos-jurídicos-vigentes) | Contratos e acordos em andamento |
+| [📰 Matérias e outros](https://lucasfainblat.github.io/manual.appi/edit/main/paginas/repositorio/README.md#-mat%C3%A9rias-e-outros) | Matérias de imprensa e afins |
 
-## 📄 Publicações acadêmicas
-...
+## 📄 Publicações
+### 📚 Livros
+- **Por uma cultura pública: Organizações Sociais, Oscips e a Gestão Pública não estatal na área da cultura**
+   - Autora: Elizabeth Ponte
+   - Acesso: https://www.santoandre.sp.gov.br/pesquisa/ebooks/355427.pdf
+
+- **O Terceiro Setor na gestão da cultura: a perspectiva a partir do Museu de Arte do Rio**
+   - Organização: Carlos Gradim
+   - Acesso: https://museudeartedorio.org.br/wp-content/uploads/2020/09/o-terceiro-setor-na-gestao-.pdf
+
+- **Marco Regulatório das Organizações da Sociedade Civil: Avanços e Desafios**
+   - Autores: Leichsenring, Alexandre Ribeiro; Souza, Aline Gonçalves de; Oliveira, Letícia de; Boas, Lucas Vilas; Mendonça, Patricia; Donnini, Thiago
+   - Acesso: https://repositorio.fgv.br/bitstreams/65613987-665a-4232-acd1-1066abfe25ea/download
+
+- **O Perfil das Organizações da Sociedade Civil no Brasil (2016-2025)**
+   - Organização: Murilo de Oliveira Junqueira; Felix Garcia Lopez Júnio; Alexandre Pires Dominges
+   - Acesso: https://bookdown.org/mosc_ipea/relatorio-estatistico-MOSC-2025
+
+### 📜 Artigos
+- **O Terceiro Setor e a provisão de políticas sociais: desafios, perspectivas e armadilhas da relação entre organizações da sociedade civil e estado em Minas Gerais**
+   - Autor: Armindo dos Santos de Sousa Teodósio
+   - Acesso: https://diamantina.cedeplar.ufmg.br/portal/download/diamantina-2002/D62.pdf
+
+- **O Marco Regulatório do Fomento à Cultura no âmbito da Administração Pública e as novidades introduzidas pela Lei 14.903, de 27 de junho de 2024**
+   - Autor: Silvio Luís Ferreira da Rocha
+   - Acesso: https://revistaconsinter.com/index.php/ojs/article/view/815/1220
+
+- **Terceiro setor e políticas públicas na área da cultura: oportunidades e desafios**
+   - Autoras: Cecília Cristófaro Ribeiro e Letícia Agati Madeira
+   - Acesso: https://sinapse.gife.org.br/dlm_file/terceiro-setor-e-politicas-publicas-na-area-da-cultura-oportunidades-e-desafios/
+
+- **Sustentabilidade Econômica das Organizações da Sociedade Civil**
+   - Coordenação: Luciana de Oliveira Ramos (FGV)
+   - Acesso: https://repositorio.fgv.br/server/api/core/bitstreams/aa1efb51-bf75-4ff6-8e8a-1b2d1bb80ac1/content
+
+### ▶️ Vídeos
+- **Você conhece o Marco Regulatório do Fomento à Cultura?**  
+   - Acesso: https://radar.ibegesp.org.br/voce-conhece-o-marco-regulatorio-do-fomento-a-cultura/
+
+- **III Seminário Internacional MROSC - Parcerias Transformadoras (10 anos de MROSC)**  
+   - Acesso: https://www.youtube.com/watch?v=ddPFyNzM6rg
+
+- **Seminário sobre Atualização nas Regras das Parcerias do MROSC** 
+   - Acesso: https://www.youtube.com/watch?v=OTuTPMipYNE
+
+- **"Live FUNDAMIG: Sua organização no Mapa das OSC"**
+   - Acesso: https://www.youtube.com/watch?v=GQQ1Payx5-s
+
+- **Webinar Modelos de gestão de museus e os desafios para a captação de recursos**
+   - Acesso: https://www.youtube.com/watch?v=igFeFvPWYZg
+
+- **Papo PNAB | O que muda na PNAB com o Marco Regulatório do Fomento à Cultura?**
+   - Acesso: https://www.youtube.com/watch?v=ip_LORWYubg
+
+### 📰 Matérias e Outros
+- **Colocando o Marco Regulatório do Fomento à Cultura no seu devido lugar**
+   - Autor: Mário Pragmácio
+   - Acesso: https://www.ibdcult.org/post/colocando-o-marco-regulatório-do-fomento-à-cultura-no-seu-devido-lugar
+
+- **Plataforma MROSC - Publicações**
+   - Acesso: https://plataformaosc.org.br/publicacoes
 
 ---
 
@@ -71,8 +131,6 @@ Nas seções a seguir você encontrará:
 ## 📝 Modelos de referência
 ### Documentos processuais (para usar no SEI ou e-mail ao montar o seu processo)
 - [Modelo de solicitação de parceria](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EYdfxSvs8RBGiVch2U930DQBEUJdB1DgexiM9XD4DYPPdw?e=RDK8Ga)
-- [Modelo 1 de apresentação de projeto](https://www.gov.br/iphan/pt-br/assuntos/andancas/CadernoAndanasdoPatrimniofinal22_041.pdf): Andanças do Patrimônio, do IPHAN
-- [Modelo 2 de apresentação de projeto](https://museudarepublica.museus.gov.br/wp-content/uploads/2019/02/revista-do-professor_PEJA_para-internet.pdf): Programa de Educação de Jovens e Adultos (PEJA), do Museu da República
 - [Modelo de nota técnica sobre parcerias](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EQjHT3MfaOxLvOt_eijbS0UBjqPOARFzOHEzE3M0ZfpTBQ?e=G6poy7)
 - [Modelo de nota saneadora](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EZO8QeWCKNZLpIBIvvBUFTkBuLOG3LKL0L-vUQP94i2D6w?e=UyOhXf)
 
