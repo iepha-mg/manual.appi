@@ -35,7 +35,7 @@ Nas seções a seguir você encontrará:
 ### ▶️ Vídeos
 - [Você conhece o Marco Regulatório do Fomento à Cultura?](https://radar.ibegesp.org.br/voce-conhece-o-marco-regulatorio-do-fomento-a-cultura/)
 - [III Seminário Internacional MROSC - Parcerias Transformadoras (10 anos de MROSC)](https://www.youtube.com/watch?v=ddPFyNzM6rg)
-- Seminário sobre Atualização nas Regras das Parcerias do MROSC](https://www.youtube.com/watch?v=OTuTPMipYNE)
+- [Seminário sobre Atualização nas Regras das Parcerias do MROSC](https://www.youtube.com/watch?v=OTuTPMipYNE)
 - [Live FUNDAMIG: Sua organização no Mapa das OSC](https://www.youtube.com/watch?v=GQQ1Payx5-s)
 - [Webinar Modelos de gestão de museus e os desafios para a captação de recursos](https://www.youtube.com/watch?v=igFeFvPWYZg)
 - [Papo PNAB - O que muda na PNAB com o Marco Regulatório do Fomento à Cultura?](https://www.youtube.com/watch?v=ip_LORWYubg)
