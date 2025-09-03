@@ -34,8 +34,8 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
   - Enviar a proposta de parceria e documentos preliminares à `APPI`
   - Solicitar por SEI, e-mail ou reunião
 - **Documentos:**
-  - Ofício, Memorando ou Carta de Intenções
-  - Portfólio da `entidade parceira`
+  - Ofício, Memorando ou Carta de Intenções (consulte um modelo [aqui](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EYdfxSvs8RBGiVch2U930DQBEUJdB1DgexiM9XD4DYPPdw?e=RDK8Ga))
+  - Portfólio da `entidade parceira` e apresentação do projeto, se houver (consulte exemplos: [aqui](https://www.gov.br/iphan/pt-br/assuntos/andancas/CadernoAndanasdoPatrimniofinal22_041.pdf) ou [aqui](https://museudarepublica.museus.gov.br/wp-content/uploads/2019/02/revista-do-professor_PEJA_para-internet.pdf))
 - **Prazo:** N/A (sob demanda)
 
 | Checklist | Exemplos |
@@ -192,7 +192,7 @@ azul devem ser modificadas conforme cada caso concreto.
   - Encaminhar `processo SEI` à `APPI`
 - **Documentos:**
    - Correspondência de encaminhamento (memorando no SEI)
-   - `nota técnica` (documento no SEI)
+   - `nota técnica` (documento no SEI; consulte um modelo [aqui](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EQjHT3MfaOxLvOt_eijbS0UBjqPOARFzOHEzE3M0ZfpTBQ?e=G6poy7))
 - **Prazo:** até `5 dias úteis`
 
 | Checklist de uma boa nota técnica | Observações |
@@ -275,7 +275,7 @@ análise jurídica** - ou seja, esta etapa pode ser "_pulada_" em alguns casos. 
   - Assinar e publicar `edital de chamamento público`
 - **Documentos:**
    - Correspondência de encaminhamento (memorando no SEI)
-   - `nota saneadora` (documento no SEI)
+   - `nota saneadora` (documento no SEI; consulte um modelo [aqui](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EZO8QeWCKNZLpIBIvvBUFTkBuLOG3LKL0L-vUQP94i2D6w?e=UyOhXf))
    - `edital de chamamento público`, se for o caso
 - **Prazo:** até `5 dias úteis`
 
