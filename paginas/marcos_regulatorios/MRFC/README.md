@@ -6,7 +6,7 @@
     width="10%" 
     style="margin-right: 1px;">
 
-O **Marco Regulatório do Fomento à Cultura (MRFC)**, instituído pela [Lei Federal nº 14.903/2024](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%2014.903-2024?OpenDocument), representa um avanço significativo para o setor cultural ao estabelecer um regime jurídico específico, adaptado às particularidades das atividades culturais.
+O **Marco Regulatório do Fomento à Cultura (MRFC)**, instituído pela [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm), representa um avanço significativo para o setor cultural ao estabelecer um regime jurídico específico, adaptado às particularidades das atividades culturais.
 
 Isso pode ser muito bem aproveitado pelos técnicos e gestores do Iepha-MG na hora de firmar parcerias, tornando mais fácil tanto a
 vida de quem vai elaborar os instrumentos formais de celebração de parcerias, quanto a de quem vai executar ou monitorar essas
