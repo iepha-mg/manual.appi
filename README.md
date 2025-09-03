@@ -24,6 +24,7 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 
 ## 🚀 Guia prático para celebrar parcerias[^1]
 [^1]: 🆓 = parcerias que **não envolvem** transferências de recursos entre as partes; 💰 = parcerias que **envolvem transferências** de recursos entre as partes.
+O que são [Marcos Regulatórios](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/README.html)?
 
 ### Marco Regulatório do Fomento à Cultura (MRFC)
 
