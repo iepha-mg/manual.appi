@@ -49,7 +49,7 @@ Nas seções a seguir você encontrará:
 
 ## 📋 Checklists e Cartilhas
 ### 🧩 Acordo de Cooperação Técnica
-- [Checklist para celebração de ACT (Universidade Federal dos Vales do Jequitinhonha e Mucuri)](https://portal.ufvjm.edu.br/proplan/convenios-e-projetos/modelos-manuais-e-orientacoes/modelos/acordo-de-cooperacao-tecnica/checklist-acordo-de-cooperacao-tecnica.pdf] **Atenção!** Este documento foi elaborado pela UFVJM para celebração de ACTs no âmbito de suas competências. Para utilizar a checklist no âmbito do IEPHA-MG, tenha em mente que algumas especificidades deverão ser adaptadas
+- [Checklist para celebração de ACT (Universidade Federal dos Vales do Jequitinhonha e Mucuri)](https://portal.ufvjm.edu.br/proplan/convenios-e-projetos/modelos-manuais-e-orientacoes/modelos/acordo-de-cooperacao-tecnica/checklist-acordo-de-cooperacao-tecnica.pdf) **Atenção!** Este documento foi elaborado pela UFVJM para celebração de ACTs no âmbito de suas competências. Para utilizar a checklist no âmbito do IEPHA-MG, tenha em mente que algumas especificidades deverão ser adaptadas
 
 ---
 
