@@ -16,6 +16,8 @@ Com um campo bem delimitado e regras claras, os jogadores podem começar a parti
 Da mesma forma, os parceiros sabem o que podem ou não fazer quando atuam sob normas claras e objetivas.
 
 ## 💼 Instrumentos jurídicos das parcerias do Iepha-MG
+Cada marco regulatório prevê *instrumentos jurídicos* específicos, que podem ou não prescindir de chamamentos públicos, dependendo, dentre outras coisas, da complexidade do objeto e da 
+possibilidade (ou não) de transferências de recursos entre as partes.
 
 <img src="https://github.com/user-attachments/assets/6c03dab4-e02f-4ca6-a558-9dafe3326c3b" width="100%">
 
