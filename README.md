@@ -66,9 +66,10 @@ Clique para acessar nosso [repositório](https://lucasfainblat.github.io/manual.
 | Seção | Descrição |
 |-----------|-----------|
 | [📄 Publicações](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-publicações-acadêmicas) | Artigos, teses, estudos e palestras sobre parcerias |
-| [📋 Cartilhas](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-cartilhas) | Guias práticos e orientações |
+| [📋 Checklists e Cartilhas](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-cartilhas) | Guias práticos e orientações |
 | [📝 Modelos de referência](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-modelos-de-referência) | Templates e documentos padrão |
 | [⚖️ Instrumentos jurídicos vigentes](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#%EF%B8%8F-instrumentos-jurídicos-vigentes) | Contratos e acordos em andamento |
+| [📰 Matérias e outros](https://github.com/lucasfainblat/manual.appi/edit/main/paginas/repositorio/README.md#-mat%C3%A9rias-e-outros) | Matérias de imprensa e afins |
 
 ---
 
