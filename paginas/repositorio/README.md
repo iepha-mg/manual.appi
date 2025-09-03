@@ -13,7 +13,7 @@ Nas seções a seguir você encontrará:
 
 ## 📄 Publicações
 
-| Tipo        | Título / Descrição                                                                                                                                                            | Autor/Organização                                                                                                                         |
+| Tipo        | Título / Descrição                                                                                                                                                            | Autor/Organizador                                                                                                                         |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 📚 Livros   | [Por uma cultura pública: Organizações Sociais, Oscips e a Gestão Pública não estatal na área da cultura](https://www.santoandre.sp.gov.br/pesquisa/ebooks/355427.pdf)           | Elizabeth Ponte                                                                                                                           |
 |    | [O Terceiro Setor na gestão da cultura: a perspectiva a partir do Museu de Arte do Rio](https://museudeartedorio.org.br/wp-content/uploads/2020/09/o-terceiro-setor-na-gestao-.pdf) | Carlos Gradim                                                                                                                             |
