@@ -140,4 +140,4 @@ a comunicação deve utilizar palavras e frases claras, diretas e fáceis de ent
 
 **Graduação** em Administração Pública (Fundação João Pinheiro, 2011)  
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
