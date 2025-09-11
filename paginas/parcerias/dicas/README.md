@@ -71,7 +71,7 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
 | :--- | :--- | :--- |
 | **✅ A parceria faz sentido pro `IEPHA-MG`?** | Está alinhada ao PPAG / cabe no estatuto / possui coerência com a estratégia institucional / é de interesse público | |
 | **✅ A parceria é viável na prática?** | Os resultados são atingíveis / o `IEPHA-MG` possui meios para cumprir com as suas obrigações | |
-| **✅ Qual o marco regulatório e instrumento jurídico ideal para a parceria?** | `APPI` deve decidir com base nas respostas abaixo | [MRFC](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/README.html) / [MROSC](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/README.html) / [Modelo OSCIP/OS](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/README.html) / [Fundações de Apoio](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/fundacoes/README.html) / [Acordo de Cooperação Técnica](https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/ACT/README.html) |
+| **✅ Qual o marco regulatório e instrumento jurídico ideal para a parceria?** | `APPI` deve decidir com base nas respostas abaixo | [MRFC](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/README.html) / [MROSC](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/README.html) / [Modelo OSCIP/OS](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/README.html) / [Fundações de Apoio](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/fundacoes/README.html) / [Acordo de Cooperação Técnica](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/ACT/README.html) |
 | | ✅ Envolve transferências de recursos, comodato ou ocupação de espaço? | Sim / Não |
 | | ✅ Envolve concessão de bolsas, prêmios ou fomento a projetos? | Sim / Não |
 | | ✅ Foi proposta por alguma `entidade parceira` ou pelo `IEPHA-MG`? | Proposta pela `entidade parceira` / Proposta pelo `IEPHA-MG` |
@@ -269,7 +269,7 @@ análise jurídica** - ou seja, esta etapa pode ser "_pulada_" em alguns casos. 
   - Interpretar `parecer jurídico`
   - Revisar `minuta de instrumento jurídico` conforme `parecer jurídico`
   - Elaborar `nota saneadora`, listando todos os pontos solicitados pela `procuradoria jurídica` e os encaminhamentos dados
-  - Proceder diretamente à [etapa 14](https://lucasfainblat.github.io/manual.appi/paginas/parcerias/dicas/README.html#14--habilita%C3%A7%C3%A3o) (no caso de não haver chamamento público)
+  - Proceder diretamente à [etapa 14](https://iepha-mg.github.io/manual.appi/paginas/parcerias/dicas/README.html#14--habilita%C3%A7%C3%A3o) (no caso de não haver chamamento público)
  - **Atividades:** (se houver chamamento público)
   - Revisar `minuta de edital de chamamento público` conforme `parecer jurídico`
   - Assinar e publicar `edital de chamamento público`
@@ -523,4 +523,4 @@ flowchart TD
     mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
