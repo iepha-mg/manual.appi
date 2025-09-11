@@ -43,7 +43,7 @@ Desde que haja recursos disponíveis, um Termo de Premiação Cultural pode serv
 - Aceitar propostas com conteúdo preconceituoso ou discriminatório (art. 9º, § 5º).
 - Exigir execução de ações futuras como condição para o prêmio. Ou seja, só se pode premiar o que já aconteceu. Por esse motivo, Termos de Premiação Cultural têm uma **peculiaridade: não exigem prestação de contas**.
 
-⚠️ **Exigências obrigatórias:**  
+## ❌ Exigências obrigatórias:  
 - Chamamento público prévio.
 - Informação sobre incidência tributária no edital (art. 22, § 2º).
 - Comprovação de regularidade fiscal para habilitação.
@@ -110,7 +110,7 @@ flowchart LR
 Não prevê prestação de contas, pois o poder público está premiando algo que reconhece já ter acontecido. Por isso, não pode exigir nenhuma contrapartida ou compromisso posterior do agente cultural (art. 22).
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência (editais, termos, critérios de avaliação etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
+Modelos e documentos de referência (editais, termos, critérios de avaliação etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
 - [Minuta Padrão de Edital de Premiação para Culturas Populares](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/edital-de-premiacao-culturas-populares/minuta-edital-de-premiacao-culturas-populares.docx)
 - [Modelo de Edital Simplificado para Termo de Premiação Cultural (PDF editável)](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/24_pnab_edital_simplificado_pdf_editavel/view)
 - [Anexo 1: Formulário de Inscrição](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_1_formulario_de_inscricao/view)
@@ -175,4 +175,4 @@ flowchart TD
       mermaid.initialize({ startOnLoad: true });
 </script>
 
-# [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+# [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
