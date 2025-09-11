@@ -132,4 +132,4 @@ Clique nas imagens abaixo para acessar os sites de exemplos de parcerias de suce
 
 [![BeFly Minascentro](https://github.com/user-attachments/assets/5888f247-9c79-4fb8-91b4-c925c6247dab)](https://www.beflyminascentro.com.br/)
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
