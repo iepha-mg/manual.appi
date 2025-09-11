@@ -75,7 +75,6 @@ O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidad
 Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo (art. 2º, inciso XII da Lei).
 
 ### ↔️ Fluxo Resumido do Chamamento Público
-
 <div class="mermaid">
 flowchart LR
     subgraph PMIS ["PMIS (Opcional)"]
@@ -123,7 +122,6 @@ flowchart LR
 - **PMIS é facultativo** e não condiciona o chamamento público (art. 21, § 3º da Lei)
 
 ### ⏱️ Prazos importantes
-
 | Etapa                          | Prazo                    | Base Legal                     |
 |--------------------------------|--------------------------|--------------------------------|
 | PMIS: divulgação da proposta*   | 30 dias                  | Art. 15, § 3º do Decreto       |
@@ -168,7 +166,6 @@ Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei),
 3. **Documentos complementares** previstos no plano de trabalho (art. 65 da Lei)
 
 ### 👮 Análise da prestação de contas
-
 | **Situação**                    | **Análise Requerida**                | **Resultado**                        |
 |---------------------------------|--------------------------------------|--------------------------------------|
 | Metas atingidas integralmente   | Apenas relatório de objeto          | Aprovação (art. 71 da Lei)         |
@@ -181,7 +178,7 @@ Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei),
 - **Recurso**: prazo definido no termo de fomento (art. 70 da Lei)
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
+Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
 
 **Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
 - [Minuta Padrão de Edital de Chamamento Público para Termo de Fomento MROSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_edital_chamamento_publico_termo_fomento.docx)
@@ -193,11 +190,10 @@ Modelos e documentos de referência (editais, termos, planos de trabalho etc.) p
 - [Modelo de Resolução para Designação da Comissão de Monitoramento e Avaliação das Parcerias](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_resolucao_designacao_comissao_monitoramento_avaliacao.docx)
 - [Checklist de Celebração de Termo de Colaboração/Fomento](https://sigconsaida.mg.gov.br/padronizacoes-parcerias)
 - [Relatórios Técnicos de Monitoramento e Avaliação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_tecnico_monitoramento.docx)
-- [Prestação de Contas: Relatório de Execução do Objeto](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
-- [Prestação de Contas: Relatório de Execução Financeira MROSC](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_financeira_mrosc.docx)
+- [Prestação de Contas: Relatório de Execução do Objeto](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
+- [Prestação de Contas: Relatório de Execução Financeira MROSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_financeira_mrosc.docx)
 
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas de Termo de Fomento
-
 <div class="mermaid">
 flowchart TD
     %% Legenda
@@ -225,7 +221,7 @@ flowchart TD
     G --> H@{ shape: lean-r, label: "Analisar minutas" }
     H --> I@{ shape: diamond, label: "Minutas validadas?" }
     I -->|Não| G
-    I -->|Sim| J@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
+    I -->|Sim| J@{ shape: rect, label: "Encaminhar processo ao Setor de Contratos e Convênios" }
     J --> K@{ shape: rounded, label: "Instruir processo no SEI" }
     K --> L@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, VI da Lei)" }
     L --> M@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
@@ -256,7 +252,7 @@ flowchart TD
     KK --> LL@{ shape: diamond, label: "Recursos foram bem aplicados?" }
     LL -->|Sim| MM@{ shape: hex, label: "Aprovar com ressalvas (art. 72 da Lei)" } --> NN@{ shape: stadium, label: "Comissão homologa aprovação com ressalvas" } --> FIM
     LL -->|Não| OO@{ shape: hex, label: "Rejeitar e enviar ao Gabinete para sanções cabíveis (art. 73 da Lei)" } --> PP@{ shape: rect, label: "Aplicar advertência, suspensão temporária ou declaração de inidoneidade (art. 73, I, II, III e § 1º da Lei)" } --> FIM
-    %% FLUXO PARA DISPENSA DE CHAMAMENTO (paralelo ao fluxo de edital)
+    %% Fluxo para DISPENSA de chamamento (paralelo ao fluxo de edital)
     E -->|Não| F@{ shape: lean-r, label: "Elaborar justificativa para dispensa (art. 30 da Lei)" }
     F --> F1@{ shape: rect, label: "Desenvolver/revisar Termo de Fomento" }
     F1 --> F2@{ shape: lean-r, label: "Analisar minutas" }
@@ -278,4 +274,4 @@ flowchart TD
     mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
