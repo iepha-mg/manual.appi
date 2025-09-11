@@ -123,7 +123,7 @@ flowchart LR
 
 ### ⏱️ Prazos importantes
 | Etapa                          | Prazo                    | Base Legal                     |
-|--------------------------------|--------------------------|--------------------------------|
+| ------------------------------ | ------------------------ | ------------------------------ |
 | PMIS: divulgação da proposta*   | 30 dias                  | Art. 15, § 3º do Decreto       |
 | PMIS: decisão final*            | 90 dias                  | Art. 15, § 4º do Decreto       |
 | PMIS: consulta pública*         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
@@ -167,7 +167,7 @@ Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei),
 
 ### 👮 Análise da prestação de contas
 | **Situação**                    | **Análise Requerida**                | **Resultado**                        |
-|---------------------------------|--------------------------------------|--------------------------------------|
+| ------------------------------- | ----------------------------------- | ------------------------------------ |
 | Metas atingidas integralmente   | Apenas relatório de objeto          | Aprovação (art. 71 da Lei)         |
 | Metas parcialmente atingidas    | Relatório de objeto + financeiro    | Aprovação com ressalvas (art. 72 da Lei) |
 | Metas não atingidas             | Relatório de objeto + financeiro    | Rejeição + devolução de recursos (art. 73 da Lei) |
