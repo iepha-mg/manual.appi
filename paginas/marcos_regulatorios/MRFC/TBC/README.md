@@ -122,10 +122,10 @@ Caso não haja comprovação do cumprimento do encargo:
 - **Pagamento de multa** (conforme regulamento)
 - **Suspensão** da possibilidade de celebrar novo instrumento por 180 a 540 dias
 - **Conversão** das medidas em plano de ações compensatórias
-- **Prazo para decisão:** até 6 meses após o término da vigência
+- **Prazo para decisão:** até 6 meses após o término da vigência.
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência (editais, termos, relatórios etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
+Modelos e documentos de referência (editais, termos, relatórios etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
 - [Minuta de Edital Padrão para Bolsas Culturais de Pesquisa (PNAB)](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-para-bolsas-de-pesquisa-pnab/edital-bolsas-de-pesquisa)
 - [Anexo 01 - Categorias](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-para-bolsas-de-pesquisa-pnab/anexo-i-bolsa-de-pesquisa.docx)
 - [Anexo 02 - Formulário de inscrição](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-para-bolsas-de-pesquisa-pnab/anexo-ii-formulario-de-inscricao-pesquisas.docx)
@@ -197,4 +197,4 @@ flowchart TD
       mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
