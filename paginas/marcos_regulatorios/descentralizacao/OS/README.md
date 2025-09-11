@@ -175,7 +175,7 @@ A **Comissão de Avaliação** deve (art. 54 e art. 55 do Decreto):
 | Dano ao erário ou a falta de comprovação total ou parcial da aplicação de recursos do contrato de gestão             | Reprovação das contas (art. 70, III, do Decreto)  | Instaurar PACE-Parcerias (art. 70, §3º do Decreto) |
 
 ## 🔍 Saiba mais!
-Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os) e no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html).
+Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os) e no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html).
 - [Modelo de qualificação como OS](https://www.mg.gov.br/system/files/media/planejamento/documento_detalhado/2023/modelo_requerimento_qualificacao_os.doc)
 - [Modelo de solicitação de estudo de viabilidade](https://www.mg.gov.br/planejamento/documento/modelo-de-solicitacao-de-estudo-de-viabilidade)
 - [Modelo de edital de seleção pública](https://www.mg.gov.br/system/files/media/documento_detalhado/2025-05/Modelo%20de%20edital%20processo%20de%20sele%C3%A7%C3%A3o%20p%C3%BAblica%20-%20Contrato%20de%20Gest%C3%A3o%20-%20atualizado%20em%20mai.%20de%202025.docx)
@@ -305,4 +305,4 @@ flowchart TD
     mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
