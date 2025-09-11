@@ -202,7 +202,7 @@ O **gestor da parceria** deve (arts. 61 e 62 da Lei):
 - **Administração**: analisar em até 150 dias do recebimento da prestação de contas
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
+Modelos e documentos de referência podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
 
 **Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
 - [Modelo de Encaminhamento de Proposta para o Procedimento de Manifestação de Interesse Social](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_modelo_proposta_manifetacao_interesse_social.docx)
@@ -287,4 +287,4 @@ flowchart TD
     mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
