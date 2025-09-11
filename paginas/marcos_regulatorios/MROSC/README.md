@@ -24,12 +24,12 @@ Clique no nome de cada instrumento jurídico para saber mais.
     <th width="35%">Exemplos</th>
   </tr>
   <tr>
-    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TC/README.html">Termo de Colaboração</a></strong></td>
+    <td><strong><a href="https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TC/README.html">Termo de Colaboração</a></strong></td>
     <td>Projetos propostos pela administração pública com repasse de recursos</td>
     <td>Mapeamento de bens culturais, diagnósticos patrimoniais, campanhas educativas</td>
   </tr>
   <tr>
-    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TF/README.html">Termo de Fomento</a></strong></td>
+    <td><strong><a href="https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TF/README.html">Termo de Fomento</a></strong></td>
     <td>Projetos propostos pelas OSCs com transferência de recursos</td>
     <td>Iniciativas comunitárias de preservação, festivais tradicionais, projetos de memória oral</td>
   </tr>
@@ -44,7 +44,7 @@ Clique no nome de cada instrumento jurídico para saber mais.
     <th width="35%">Exemplos</th>
   </tr>
   <tr>
-    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/AC/README.html">Acordo de Cooperação</a></strong></td>
+    <td><strong><a href="https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/AC/README.html">Acordo de Cooperação</a></strong></td>
     <td>Parcerias para troca de conhecimento, cessão de espaços ou cooperação técnica</td>
     <td>Intercâmbio de expertise, uso de instalações, capacitações mútuas</td>
   </tr>
@@ -127,4 +127,4 @@ O MROSC prevê estruturas específicas nos órgãos públicos para garantir boa 
 - Monitoramento contínuo durante a execução
 - Possibilidade de visitas técnicas e auditorias
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
