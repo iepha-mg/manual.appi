@@ -162,7 +162,7 @@ A **Comissão de Avaliação** deve (art. 32 da Lei e arts. 51 a 54 do Decreto):
 | Dano ao erário ou a falta de comprovação total ou parcial da aplicação de recursos do contrato de gestão             | Reprovação das contas (art. 67, III, do Decreto)  | Instaurar PACE-Parcerias (art. 67, §3º do Decreto) |
 
 ## 🔍 Saiba mais!
-Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip) e no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html).
+Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip) e no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html).
 - [Modelo de qualificação como OSCIP](https://www.mg.gov.br/planejamento/documento/modelo-de-requerimento-de-qualificacaorenovacao-como-oscip)
 - [Modelo de solicitação de estudo de viabilidade](https://www.mg.gov.br/planejamento/documento/modelo-de-solicitacao-de-estudo-de-viabilidade)
 - [Modelo de edital de processo de seleção pública](https://www.mg.gov.br/planejamento/documento/maio_25-modelo-de-edital-processo-de-selecao-publica-oscip_vr9docx)
@@ -290,4 +290,4 @@ flowchart TD
     mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
