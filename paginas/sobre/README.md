@@ -10,7 +10,7 @@ Assim, espera-se:
 
 # 🧭 Como usar este Manual?
 
-1. Acesse o [índice](https://lucasfainblat.github.io/manual.appi) e clique no link do tema que você procura.  
+1. Acesse o [índice](https://iepha-mg.github.io/manual.appi) e clique no link do tema que você procura.  
 2. O conteúdo está organizado por **marco regulatório** (conjuntos de leis e decretos que estabelecem diretrizes pra cada tipo de parceria).
    - Cada seção traz uma explicação sobre as principais leis e decretos.  
    - Dentro dela, há páginas específicas sobre cada instrumento jurídico (termo de execução cultural, contrato de gestão etc.).  
@@ -29,7 +29,7 @@ Você também vai encontrar **fluxogramas práticos**, que mostram o caminho de 
 
 Este Manual foi feito para ser **claro e fácil de usar**, mas sem abrir mão da precisão técnica e jurídica. A ideia é ajudar quem precisa **celebrar, monitorar ou prestar contas** de uma parceria.  
 
-👉 Não esqueça de visitar a nossa [seção de dicas](https://lucasfainblat.github.io/manual.appi/paginas/parcerias/README.html). Lá você encontra orientações práticas que podem facilitar muito a instrução e o trâmite de processos no SEI.  
+👉 Não esqueça de visitar a nossa [seção de dicas](https://iepha-mg.github.io/manual.appi/paginas/parcerias/README.html). Lá você encontra orientações práticas que podem facilitar muito a instrução e o trâmite de processos no SEI.  
 
 # ℹ️ Aviso Importante (_disclaimer_)
 
@@ -44,11 +44,11 @@ As informações contidas neste documento:
 - Inconsistências decorrentes de alterações normativas não ainda incorporadas à versão vigente.
 
 Para esclarecimentos adicionais ou situações não abrangidas por este manual, recomenda-se:
-- Consultar a [equipe da APPI](https://lucasfainblat.github.io/manual.appi/paginas/appi/README.html) ou a assessoria jurídica do IEPHA-MG;
+- Consultar a [equipe da APPI](https://iepha-mg.github.io/manual.appi/paginas/appi/README.html) ou a assessoria jurídica do IEPHA-MG;
 - Revisar os instrumentos normativos aplicáveis ao caso concreto.
 
 # 🗓️ Versão
 
 O MG.APPI está em sua `1ª Versão`, desde o mês de `agosto de 2025`.
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
