@@ -42,4 +42,4 @@ trabalho coletivo.
 
 Presidente do Iepha-MG
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
