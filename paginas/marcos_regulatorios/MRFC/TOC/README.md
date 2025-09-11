@@ -81,7 +81,7 @@ Permite utilização temporária do espaço por iniciativas de fornecimento de b
 **Processo simplificado:** Não se aplicam os ritos previstos nos arts. 13 a 21 da Lei (art. 28, § 3º), em razão da natureza jurídica do instrumento como permissão de uso de bem público. Basta uma visita técnica ou um simples relatório de resultados, conforme ficar combinado no Termo de Ocupação Cultural.
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência (termos, regulamentos de uso etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Exemplos práticos:
+Modelos e documentos de referência (termos, regulamentos de uso etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Exemplos práticos:
 - [Modelo de Termo de Ocupação Cultural - FUNARTE](https://www.gov.br/funarte/pt-br/editais-1/2024/programa-funarte-aberta-2025-ocupacao-dos-espacos-culturais-da-funarte-mg-e-sp/AnexoIModeloTERMODEOCUPAOCULTURALFUNARTEProjurem191224psrevisoprojur.docx)
 
 ## ↔️ Fluxograma para celebração e execução de Termo de Ocupação Cultural
@@ -101,31 +101,31 @@ flowchart TD
 flowchart TD
     A@{ shape: lean-r, label: "Identificar demanda de ocupação de equipamento cultural" } --> B@{ shape: rect, label: "Analisar viabilidade da ocupação" }
     B --> C@{ shape: diamond, label: "Ocupação é viável?" }
-    C -->|Não| D@{ shape: rect, label: "Informar negativa e justificar" } --> FIM
-    C -->|Sim| E@{ shape: diamond, label: "Qual modalidade de ocupação? (art. 27)" }
-    E -->|Convite| F@{ shape: odd, label: "Direção curatorial convida agente cultural" }
-    E -->|Solicitação avulsa| G@{ shape: odd, label: "Direção curatorial analisa pedido de interessado" }
-    E -->|Chamamento público| H@{ shape: odd, label: "Publicar edital de chamamento para seleção de pedidos" }
+    C --|Não|--> D@{ shape: rect, label: "Informar negativa e justificar" } --> FIM
+    C --|Sim|--> E@{ shape: diamond, label: "Qual modalidade de ocupação? (art. 27)" }
+    E --|Convite|--> F@{ shape: odd, label: "Direção curatorial convida agente cultural" }
+    E --|Solicitação avulsa|--> G@{ shape: odd, label: "Direção curatorial analisa pedido de interessado" }
+    E --|Chamamento público|--> H@{ shape: odd, label: "Publicar edital de chamamento para seleção de pedidos" }
     F --> I@{ shape: diamond, label: "Agente aceita convite?" }
     G --> J@{ shape: diamond, label: "Pedido foi aceito?" }
     H --> K@{ shape: odd, label: "Selecionar pedidos via edital" }
-    I -->|Não| FIM
-    I -->|Sim| L@{ shape: odd, label: "Definir condições de uso (gratuito, taxa ou contraprestação)" }
-    J -->|Não| FIM
-    J -->|Sim| L
+    I --|Não|--> FIM
+    I --|Sim|--> L@{ shape: odd, label: "Definir condições de uso (gratuito, taxa ou contraprestação)" }
+    J --|Não|--> FIM
+    J --|Sim|--> L
     K --> L
     L --> M@{ shape: rounded, label: "Elaborar minuta de Termo de Ocupação Cultural" }
     M --> N@{ shape: diamond, label: "Necessita análise jurídica?" }
-    N -->|Sim| O@{ shape: trap-b, label: "Análise Jurídica da minuta" } --> P@{ shape: rounded, label: "Ajustar minuta conforme parecer jurídico" }
-    N -->|Não| Q@{ shape: rect, label: "Providenciar parecer da autoridade competente pela publicação do edital" }
+    N --|Sim|--> O@{ shape: trap-b, label: "Análise Jurídica da minuta" } --> P@{ shape: rounded, label: "Ajustar minuta conforme parecer jurídico" }
+    N --|Não|--> Q@{ shape: rect, label: "Providenciar parecer da autoridade competente pela publicação do edital" }
     Q --> R@{ shape: rounded, label: "Assinar Termo de Ocupação Cultural" }
     P --> R
     R --> S@{ shape: lean-r, label: "Realizar vistoria técnica do espaço (antes do uso)" }
     S --> T@{ shape: lean-r, label: "Executar ocupação cultural conforme termo" }
     T --> U@{ shape: lean-r, label: "Realizar vistoria técnica do espaço (após o uso)" }
     U --> V@{ shape: diamond, label: "Equipamento foi devolvido em boas condições?" }
-    V -->|Sim| FIM
-    V -->|Não| W@{ shape: rounded, label: "Aplicar medidas cabíveis conforme termo (ressarcimento, reparos etc.)" }
+    V --|Sim|--> FIM
+    V --|Não|--> W@{ shape: rounded, label: "Aplicar medidas cabíveis conforme termo (ressarcimento, reparos etc.)" }
     W --> FIM
 </div>
 
@@ -135,4 +135,4 @@ flowchart TD
       mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
