@@ -175,4 +175,4 @@ flowchart TD
       mermaid.initialize({ startOnLoad: true });
 </script>
 
-# [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
