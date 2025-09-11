@@ -5,10 +5,10 @@ Nas seções a seguir você encontrará:
 
 | Seção | Descrição |
 |-----------|-----------|
-| [📄 Publicações](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-publicações) | Artigos, teses, estudos e palestras sobre parcerias |
-| [📋 Checklists e Cartilhas](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-cartilhas) | Guias práticos e orientações |
-| [📝 Modelos de referência](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#-modelos-de-referência) | Templates e documentos padrão |
-| [⚖️ Instrumentos jurídicos vigentes](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html#%EF%B8%8F-instrumentos-jurídicos-vigentes) | Contratos e acordos em andamento |
+| [📄 Publicações](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html#-publicações) | Artigos, teses, estudos e palestras sobre parcerias |
+| [📋 Checklists e Cartilhas](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html#-cartilhas) | Guias práticos e orientações |
+| [📝 Modelos de referência](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html#-modelos-de-referência) | Templates e documentos padrão |
+| [⚖️ Instrumentos jurídicos vigentes](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html#%EF%B8%8F-instrumentos-jurídicos-vigentes) | Contratos e acordos em andamento |
 
 ## 📄 Publicações
 
@@ -212,4 +212,4 @@ Isso é principalmente importante nos casos de instrumentos celebrados junto a p
 |  | [Página sobre o Contrato de Gestão nº 06/2020 – Secretaria de Estado de Cultura e Turismo – SECULT e Instituto Cultural Filarmônica - ICF](https://www.secult.mg.gov.br/documentos-administrativos/contrato-de-gestao) |
 |  | [Página sobre o Contrato de Gestão nº 08/2021 - Secretaria de Estado de Justiça e Segurança Pública - SEJUSP e Instituto Elo - IELO](https://www.seguranca.mg.gov.br/index.php/component/sppagebuilder/page/277) |
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
