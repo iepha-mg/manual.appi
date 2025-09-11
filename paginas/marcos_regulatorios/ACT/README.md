@@ -72,7 +72,7 @@ Não é exigida prestação de contas financeira, uma vez que o instrumento não
 - Avaliação qualitativa da parceria
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html).
+Modelos e documentos de referência podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html).
 - [Minuta modelo de Acordo de Cooperação Técnica da Advocacia Geral da União (AGU)](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/acordo-de-cooperacao-tecnica.pdf)
 
 **🗝️ Dica!** O "texto padrão" n. 522228 no SEI é uma minuta de Acordo de Cooperação Técnica (ACT) já utilizada no âmbito do Iepha-MG, contendo cláusulas padronizadas retiradas do modelo da AGU (acima) e trechos sinalizados em azul para serem preenchidos conforme especificidades da parceria a ser firmada. Isso pode ajudar bastante na elaboração e na tramitação jurídica de um ACT.
@@ -93,24 +93,24 @@ flowchart TD
 flowchart TD
     A@{ shape: lean-r, label: "Solicitar cooperação técnica" } --> B@{ shape: rect, label: "Analisar solicitação"}
     B --> C@{ shape: diamond, label: "Entidade parceira é da Administração Pública? (art. 25 do Decreto nº 11.531/2023)"}
-    C -- Não --> D@{ shape: rect, label: "Justificar negativa à área técnica por e-mail"}
-    D --> FIM@{ shape: dbl-circ, label: "Fim do fluxo"}
-    C -- Sim --> E@{ shape: diamond, label: "Cooperação é viável e de interesse recíproco?"}
+    C -- Não --> D@{ shape: rect, label: "Justificar negativa à área técnica por e-mail" }
+    D --> FIM@{ shape: dbl-circ, label: "Fim do fluxo" }
+    C -- Sim --> E@{ shape: diamond, label: "Cooperação é viável e de interesse recíproco?" }
     E -- Não --> D
-    E -- Sim --> F@{ shape: rect, label: "Desenvolver/revisar minuta do Acordo de Cooperação Técnica"}
-    F --> G@{ shape: lean-r, label: "Analisar minutas"}
-    G --> H@{ shape: diamond, label: "Minutas validadas?"}
+    E -- Sim --> F@{ shape: rect, label: "Desenvolver/revisar minuta do Acordo de Cooperação Técnica" }
+    F --> G@{ shape: lean-r, label: "Analisar minutas" }
+    G --> H@{ shape: diamond, label: "Minutas validadas?" }
     H -- Não --> F
-    H -- Sim --> I@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios"}
-    I --> J@{ shape: rounded, label: "Instruir processo no SEI"}
-    J --> K@{ shape: trap-b, label: "Análise jurídica"}
-    K --> L@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora"}
-    L --> M@{ shape: rect, label: "Assinar Acordo de Cooperação Técnica"}
-    M --> N@{ shape: lean-r, label: "Executar ações de cooperação conforme acordado"}
-    N --> O@{ shape: lean-r, label: "Elaborar relatório técnico das atividades"}
-    O --> P@{ shape: diamond, label: "Compromissos foram cumpridos adequadamente?"}
+    H -- Sim --> I@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
+    I --> J@{ shape: rounded, label: "Instruir processo no SEI" }
+    J --> K@{ shape: trap-b, label: "Análise jurídica" }
+    K --> L@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    L --> M@{ shape: rect, label: "Assinar Acordo de Cooperação Técnica" }
+    M --> N@{ shape: lean-r, label: "Executar ações de cooperação conforme acordado" }
+    N --> O@{ shape: lean-r, label: "Elaborar relatório técnico das atividades" }
+    O --> P@{ shape: diamond, label: "Compromissos foram cumpridos adequadamente?" }
     P -- Sim --> FIM
-    P -- Não --> Q@{ shape: rounded, label: "Adotar medidas cabíveis conforme acordo"}
+    P -- Não --> Q@{ shape: rounded, label: "Adotar medidas cabíveis conforme acordo" }
     Q --> FIM
 </div>
 
@@ -120,4 +120,4 @@ flowchart TD
       mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
