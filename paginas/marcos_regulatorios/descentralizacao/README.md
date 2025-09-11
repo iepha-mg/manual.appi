@@ -35,12 +35,12 @@ Todos os instrumentos jurídicos do Modelo OSCIP/OS envolvem transferência de r
     <th width="35%">Exemplos</th>
   </tr>
   <tr>
-    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OSCIP/README.html">Termo de Parceria (OSCIP)</a></strong></td>
+    <td><strong><a href="https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OSCIP/README.html">Termo de Parceria (OSCIP)</a></strong></td>
     <td>Execução de projetos, como atividades de cultura, defesa e conservação do patrimônio histórico e artístico</td>
     <td>Projetos de restauração, inventários de bens culturais, programas de educação patrimonial</td>
   </tr>
   <tr>
-    <td><strong><a href="https://lucasfainblat.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OS/README.html">Contrato de Gestão (OS)</a></strong></td>
+    <td><strong><a href="https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OS/README.html">Contrato de Gestão (OS)</a></strong></td>
     <td>Gestão de equipamentos culturais e execução de atividades de preservação patrimonial</td>
     <td>Administração de museus, centros culturais, bibliotecas públicas, sítios arqueológicos</td>
   </tr>
@@ -146,4 +146,4 @@ flowchart TB
 
 O programa é coordenado pela **Secretaria de Estado de Planejamento e Gestão (SEPLAG)** para parcerias com OSCIPs e OSs, e pela **Secretaria de Estado de Governo (SEGOV)** para Serviços Sociais Autônomos.
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
