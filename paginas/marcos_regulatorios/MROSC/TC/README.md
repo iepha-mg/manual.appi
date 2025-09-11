@@ -120,7 +120,8 @@ flowchart LR
 - **Critérios objetivos** de seleção focados na melhor proposta técnica (art. 27 da Lei)
 - **Habilitação** somente após seleção das propostas (art. 28 da Lei)
 
-### ⏱️ Prazos importantes... | Etapa                          | Prazo                    | Base Legal                     |
+### ⏱️ Prazos importantes
+| Etapa                          | Prazo                    | Base Legal                     |
 |--------------------------------|--------------------------|--------------------------------|
 | PMIS: divulgação da proposta*   | 30 dias                  | Art. 15, § 3º do Decreto       |
 | PMIS: decisão final*            | 90 dias                  | Art. 15, § 4º do Decreto       |
@@ -205,7 +206,9 @@ flowchart TD
     F_LEG@{ shape: hex, label: "Gestor da Parceria" }
     G_LEG@{ shape: stadium, label: "Comissão de Monitoramento" }
     H_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
-</div>... <div class="mermaid">
+</div>
+
+<div class="mermaid">
 flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar parceria (proposta pelo órgão)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
