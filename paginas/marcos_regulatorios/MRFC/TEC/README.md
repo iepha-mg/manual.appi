@@ -126,7 +126,7 @@ Todos os prazos da tabela referem-se à [Lei Federal nº 14.903/2024](https://ww
 | **Aprovação Automática**| Contas aprovadas automaticamente se não houver manifestação do órgão público em até 5 anos.                   | 5 anos (após fim da vigência)      | Exceto se houver **dolo, fraude ou simulação** (Art. 18, § 4º).                       |
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
+Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
 - [Minuta Padrão de Edital de Fomento à Execução de Ações Culturais](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/edital-fomento-a-execucao-de-acoes-culturais)
 - [Anexo 01 - Categorias](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/Anexo%20I%20-%20Categorias)
 - [Anexo 02 - Formulário de Inscrição e Plano de Trabalho](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/modelos-de-editais-pnab/anexo-ii-formulario-de-inscricao-e-plano-de-trabalho) 
@@ -210,4 +210,4 @@ flowchart TD
       mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
