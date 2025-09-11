@@ -91,7 +91,7 @@ Não é exigida prestação de contas. A única exceção é se houver plano de 
 - Documentos ou fotos comprovando as atividades e a parceria
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência (termos, acordos de cooperação etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Exemplos práticos de cooperação:
+Modelos e documentos de referência (termos, acordos de cooperação etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Exemplos práticos de cooperação:
 - [Termo de Cooperação Cultural (modelo do IBRAM)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiU8OmFs-qOAxX3tZUCHb66HzMQFnoECBkQAQ&url=https%3A%2F%2Fwww.gov.br%2Fmuseus%2Fpt-br%2Facesso-a-informacao%2Fparticipacao-social%2Feditais-de-chamamento-publico%2Fchamadas-publicas-outras-iniciativas%2Fchamadas-publicas-2024%2Fedital-de-chamamento-publico-n19-comunicacoes-coordenadas-no-8fnm-anexo-v-termo-de-cooperacao-cultural.pdf&usg=AOvVaw3Jii3hCWgrZ3uRVC6N6Gh4&opi=89978449)
 
 ## ↔️ Fluxograma para celebração e execução de Termo de Cooperação Cultural
@@ -142,4 +142,4 @@ flowchart TD
       mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
