@@ -1,13 +1,19 @@
 # 🤗 Olá!
 Bem-vindas e bem-vindos ao Manual de Governança da Assessoria de Parcerias e Programas Integrados (APPI) – um guia prático para servidores do IEPHA-MG que atuam na celebração e gestão de colaborações institucionais.
+
 Este manual foi desenvolvido para:
+
 - Otimizar processos com diretrizes claras que garantam **transparência, alinhamento estratégico e eficiência** na gestão de projetos colaborativos.
 - Fortalecer a governança nas **relações com parceiros** (públicos, privados, nacionais e internacionais), assegurando conformidade e reduzindo riscos.
 - Promover **integração entre setores** e instituições, potencializando o impacto das políticas voltadas ao patrimônio cultural mineiro.
 - **Padronizar** documentos e fluxos, facilitando o trabalho da APPI e demais unidades do IEPHA-MG.
+
 Aqui você encontrará os **procedimentos, modelos e orientações** necessários para construir parcerias alinhadas às políticas do IEPHA-MG e à legislação vigente.
+
 # 📚 Índice
+
 ## 📖 Introdução
+
 | Seção | Descrição |
 |-------|-----------|
 | [📣 Recado do Presidente](https://iepha-mg.github.io/manual.appi/paginas/recado/README.html) | Mensagem institucional sobre o Manual |
@@ -15,10 +21,13 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 | [🙋 O que é a APPI/IEPHA-MG?](https://iepha-mg.github.io/manual.appi/paginas/appi/README.html) | Ficha técnica do Manual e apresentação da Assessoria |
 | [❓ O que são parcerias?](https://iepha-mg.github.io/manual.appi/paginas/parcerias/README.html) | Definições importantes sobre parcerias |
 | [💎 Dicas](https://iepha-mg.github.io/manual.appi/paginas/parcerias/dicas/README.html) | Dicas para quem quer por a mão na massa |
+
 ## 🚀 Guia prático para celebrar parcerias[^1]
 [^1]: 🆓 = parcerias que **não envolvem** transferências de recursos entre as partes; 💰 = parcerias que **envolvem transferências** de recursos entre as partes.
 O que são [Marcos Regulatórios](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/README.html)?
+
 ### Marco Regulatório do Fomento à Cultura (MRFC)
+
 | Seção | Descrição |
 |-------------|------|
 | [💡 Marco Regulatório do Fomento à Cultura](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/README.html) | Visão geral do MRFC |
@@ -27,32 +36,43 @@ O que são [Marcos Regulatórios](https://iepha-mg.github.io/manual.appi/paginas
 | [🎨 Termo de Execução Cultural](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TEC/README.html) | Execução direta de atividades 💰 |
 | [🏆 Termo de Premiação Cultural](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TPC/README.html) | Premiação de projetos culturais 💰 |
 | [🎓 Termo de Bolsa Cultural](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/TBC/README.html) | Concessão de bolsas 💰 |
+
 ### Marco Regulatório das Organizações da Sociedade Civil (MROSC)
+
 | Seção | Descrição |
 |-------------|------|
 | [🌐 MROSC](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/README.html) | Visão geral do MROSC |
 | [🫱🫲 Acordo de Cooperação](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/AC/README.html) | Cooperação entre adm. pública e OSCs 🆓 |
 | [🏛️💡 Termo de Colaboração](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TC/README.html) | Colaboração proposta pela adm. pública 💰 |
 | [🌱💡 Termo de Fomento](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/TF/README.html) | Fomento de atividades de interesse público propostas por OSCs 💰 |
+
 ### Modelo OSCIP/OS
+
 | Seção | Descrição |
 |-------------|------|
 | [💪 Programa de Descentralização](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/README.html) | Visão geral do modelo OSCIP/OS |
 | [👥 Termo de Parceria (OSCIP)](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OSCIP/README.html) | Parcerias com OSCIP para atividades com início e fim 💰 |
 | [🏢 Contrato de Gestão (OS)](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/OS/README.html) | Contratos com Organizações Sociais para gestão de equipamentos públicos ou políticas públicas de longo prazo 💰 |
+
 ### Outros
+
 | Seção | Descrição |
 |-------------|------|
 | [🚂 Fundações de Apoio](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/fundacoes/README.html) | Parcerias com fundações de apoio 🆓 |
 | [🧩 Acordo de Cooperação Técnica](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/ACT/README.html) | Cooperação técnica interinstitucional 🆓 |
+
 ## 📂 Repositório de parcerias
 Clique para acessar nosso [repositório](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html).
+
 | Seção | Descrição |
 |-----------|-----------|
 | [📄 Publicações](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html#-publicações-acadêmicas) | Artigos, teses, estudos e palestras sobre parcerias |
 | [📋 Checklists e Cartilhas](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html#-cartilhas) | Guias práticos e orientações |
 | [📝 Modelos de referência](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html#-modelos-de-referência) | Templates e documentos padrão |
 | [⚖️ Instrumentos jurídicos vigentes](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html#%EF%B8%8F-instrumentos-jurídicos-vigentes) | Contratos e acordos em andamento |
+
 ---
+
 <img alt="Assin Conjug Horiz MINAS+IEPHA+SECULT+GOV_MG Fundo Claro Coreto CORES" src="https://github.com/user-attachments/assets/22df25a9-7c75-4a6b-8ca3-e6c2bebe1c44" />
+
 ---
