@@ -120,9 +120,7 @@ flowchart LR
 - **Critérios objetivos** de seleção focados na melhor proposta técnica (art. 27 da Lei)
 - **Habilitação** somente após seleção das propostas (art. 28 da Lei)
 
-### ⏱️ Prazos importantes
-
-| Etapa                          | Prazo                    | Base Legal                     |
+### ⏱️ Prazos importantes... | Etapa                          | Prazo                    | Base Legal                     |
 |--------------------------------|--------------------------|--------------------------------|
 | PMIS: divulgação da proposta*   | 30 dias                  | Art. 15, § 3º do Decreto       |
 | PMIS: decisão final*            | 90 dias                  | Art. 15, § 4º do Decreto       |
@@ -179,19 +177,19 @@ Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei),
 - **Recurso**: prazo definido no termo de colaboração (art. 70 da Lei)
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://lucasfainblat.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
+Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
 
 **Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
 - [Minuta Padrão de Edital de Chamamento Público para Termo de Colaboração MROSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_edital_chamamento_publico_termo_colaboracao.docx)
 - [Modelo de Extrato de Edital para Chamamento Público](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_extrato_edital_divulgacao.docx)
 - [Minuta de Termo de Colaboração / Termo de Fomento](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/Minuta%20de%20Termo%20de%20Colabora%C3%A7%C3%A3o-Fomento%20(Alterada%20em%202025).docx)
 - [Modelo de Extrato de Termo de Colaboração](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_extrato_fomento_colaboracao.docx)
-- [Modelo de Proposta de Plano de Trabalho para Termo de Colaboração](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_plano_trabalho_termo_colaboracao.docx)
+- [Modelo de Proposta de Plano de Trabalho para Termo de Colaboração](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_plano_trabalho_termo_colaboracao.docx)
 - [Modelo de Termo de Designação de Gestor](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_termo_designacao_gestor_parceria.docx)
 - [Modelo de Resolução para Designação da Comissão de Monitoramento e Avaliação das Parcerias](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_resolucao_designacao_comissao_monitoramento_avaliacao.docx)
 - [Checklist de Celebração de Termo de Colaboração/Fomento](https://sigconsaida.mg.gov.br/padronizacoes-parcerias)
 - [Relatórios Técnicos de Monitoramento e Avaliação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_tecnico_monitoramento.docx)
-- [Prestação de Contas: Relatório de Execução do Objeto](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
+- [Prestação de Contas: Relatório de Execução do Objeto](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
 - [Prestação de Contas: Relatório de Execução Financeira MROSC](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_financeira_mrosc.docx)
 
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas de Termo de Colaboração
@@ -207,9 +205,7 @@ flowchart TD
     F_LEG@{ shape: hex, label: "Gestor da Parceria" }
     G_LEG@{ shape: stadium, label: "Comissão de Monitoramento" }
     H_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
-</div>
-
-<div class="mermaid">
+</div>... <div class="mermaid">
 flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar parceria (proposta pelo órgão)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
@@ -276,4 +272,4 @@ flowchart TD
     mermaid.initialize({ startOnLoad: true });
 </script>
 
-##### [⬅️ Voltar à página inicial](https://lucasfainblat.github.io/manual.appi)
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
