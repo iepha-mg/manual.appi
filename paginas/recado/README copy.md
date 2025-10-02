@@ -5,6 +5,12 @@ Prezadas servidoras e prezados servidores,
 É com grande satisfação que apresentamos o Manual de Governança de Ações em Parcerias
 e Programas Integrados, um instrumento essencial para fortalecer nossa atuação
 no Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais (Iepha-MG).
+
+<img 
+    src="https://github.com/user-attachments/assets/a568d7fe-fa2b-4a37-b556-2a25b7086e60" 
+    align="left" 
+    width="40%" 
+    style="margin-right: 20px;">
     
 >**🎼 Cecília Meireles, O Romanceiro da Inconfidência, Romance IX**
 >
@@ -32,7 +38,7 @@ Que este manual nos guie na missão de transformar ideias em realizações, semp
 respeito ao passado e olhar atento ao futuro. Agradeço a dedicação de cada um nessa jornada e reafirmo minha confiança em nosso
 trabalho coletivo.
 
-**Paulo Roberto Meireles do Nascimento**,
+**João Paulo Martins**,
 
 Presidente do Iepha-MG
 
