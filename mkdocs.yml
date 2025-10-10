@@ -1,11 +1,11 @@
 
-site_name: Manual.APPI
-site_url: https://iepha-mg.github.io/manual.appi/
+site_name: Manual APPI
+# site_url: https://iepha-mg.github.io/manual.appi/
+repo_url: https://github.com/iepha-mg/manual.appi
 
 theme:
   name: material
-  icon:
-    logo: fontawesome/solid/handshake-simple # Mais em https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/#logo-icon-bundled
+  logo: assets/images/logo-iepha.jpg
   font:
     text: Funnel Sans
     code: Google Sans Code
@@ -36,7 +36,7 @@ theme:
     - navigation.instant.preview # Inclui pré-visualizações para todos os níveis de títulos markdown sob links do tipo ``` [título](#){ data preview } ```
     - navigation.tracking # Atualiza a barra de endereços automaticamente em nível de âncora
     - navigation.sections # Mostra seções de cada página no menu à esquerda
-  # - navigation.expand # Usuário expande ou recolhe seções
+    - navigation.expand # Usuário expande ou recolhe seções
     - navigation.tabs # Adicona abas com as principais seções do site
     - navigation.path # Acrescenta "migalhas de pão" ao topo de cada página, facilitando a navegação
     - navigation.indexes # Incorpora o documento à seção, diminunido a redundância de index à esquerda. Necessário organizar um index.md a cada seção.
@@ -53,15 +53,19 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 plugins:
   - search
-  - awesome-nav # https://lukasgeiter.github.io/mkdocs-awesome-nav/
-  - blog # cria seção de blog
-  - social: # Gera um cartão para compartilhamento da url
+  - awesome-nav # https://lukasgeiter.github.io/mkdocs-awesome-nav/ (instalar com: `pip install mkdocs-awesome-nav`)
+  - social: # Gera um cartão para compartilhamento da url (instalar com: `pip install "mkdocs-material[imaging]"`)
       cards_layout_options:
         title: Manual.APPI # Para diferenciar o que vai escrito como título do cartão do nome da página
-        description: Acesse o Manual de Governança da Assessoria de Parcerias e Programas Integrados (APPI) – um guia prático voltado para servidores do IEPHA-MG que atuam na celebração e gestão de colaborações institucionais.
+        description: Acesse o Manual de Governança da Assessoria de Parcerias e Programas Integrados (APPI) - um guia prático voltado para servidores do IEPHA-MG que atuam na celebração e gestão de colaborações institucionais.
 
 extra:
     social: # Ícones com links para contato
