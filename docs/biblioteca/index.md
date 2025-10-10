@@ -1,5 +1,5 @@
-# 📂 Repositório de parcerias
-Aqui no repositório de parcerias você encontra material para saber mais sobre parcerias e documentos de referência para utilizar na prática. Fique à vontade para baixar os documentos e editá-los conforme quiser.
+# 📚 Biblioteca de parcerias
+Aqui na biblioteca de parcerias você encontra material para saber mais sobre parcerias e documentos de referência para utilizar na prática. Fique à vontade para baixar os documentos e editá-los conforme quiser.
 
 Nas seções a seguir você encontrará:
 

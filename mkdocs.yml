@@ -1,7 +1,7 @@
 
 site_name: Manual APPI
 # site_url: https://iepha-mg.github.io/manual.appi/
-repo_url: https://github.com/iepha-mg/manual.appi
+copyright: Creative Commons Atribuição-Não Comercial-Sem Derivações 4.0 Internacional (CC BY-NC-ND 4.0)
 
 theme:
   name: material
@@ -18,8 +18,8 @@ theme:
     toggle:
       icon: material/brightness-7
       name: Mudar para modo escuro
-    primary: black
-    accent: deep
+    primary: white
+    accent: black
 
     # Paleta de cores: modo escuro
   - media: "(prefers-color-scheme: dark)"
@@ -27,16 +27,16 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Mudar para modo claro
-    primary: black
-    accent: amber
+    primary: white
+    accent: black
 
   features:
-    - navigation.instant # Página carrega de uma vezada
+   # - navigation.instant # Página carrega de uma vezada
     - navigation.instant.prefetch # Página pretendida começa a carregar quando usuário passa cursor pelo link
     - navigation.instant.preview # Inclui pré-visualizações para todos os níveis de títulos markdown sob links do tipo ``` [título](#){ data preview } ```
     - navigation.tracking # Atualiza a barra de endereços automaticamente em nível de âncora
     - navigation.sections # Mostra seções de cada página no menu à esquerda
-    - navigation.expand # Usuário expande ou recolhe seções
+   # - navigation.expand # Usuário expande ou recolhe seções
     - navigation.tabs # Adicona abas com as principais seções do site
     - navigation.path # Acrescenta "migalhas de pão" ao topo de cada página, facilitando a navegação
     - navigation.indexes # Incorpora o documento à seção, diminunido a redundância de index à esquerda. Necessário organizar um index.md a cada seção.
@@ -58,6 +58,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - footnotes
 
 plugins:
   - search
@@ -73,10 +74,10 @@ extra:
         link: mailto:appi@iepha.mg.gov.br
       - icon: fontawesome/brands/github
         link: https://github.com/iepha-mg/manual.appi
-# consent: # Mensagem de cookies
- #   title: 🤔 Aviso de cookies
-#    description: >- 
-    #  Os cookies são usados aqui para identificar suas visitas e preferências, 
-    #  além de medir a efetividade do site identificando se os usuários estão
-     # encontrando o que procuram. Quando você aceita nossos cookies, ajuda
-     # a melhorar nosso site! 😉
+    consent: # Mensagem de cookies
+      title: 🍪 Aviso de cookies
+      description: Os cookies são usados aqui para identificar suas visitas e preferências, além de medir a efetividade do site identificando se os usuários estão encontrando o que procuram. Quando você aceita nossos cookies, ajuda a melhorar nosso site! 😉
+      actions:
+        - accept
+        - reject
+        
