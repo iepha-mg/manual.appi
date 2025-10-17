@@ -35,5 +35,3 @@ trabalho coletivo.
 **Paulo Roberto Meireles do Nascimento**,
 
 Presidente do Iepha-MG
-
-##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)

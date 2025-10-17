@@ -1,4 +1,4 @@
-﻿# 💎 Dicas
+# 💎 Dicas
 
 Aqui você encontra orientações práticas que podem facilitar muito o trabalho de quem quer celebrar, executar ou prestar contas de uma parceria.
 
@@ -522,3 +522,5 @@ flowchart TD
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
 </script>
+
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)

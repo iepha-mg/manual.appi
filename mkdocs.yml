@@ -1,6 +1,6 @@
 
 site_name: Manual APPI
-# site_url: https://iepha-mg.github.io/manual.appi/
+site_url: https://iepha-mg.github.io/manual.appi/
 copyright: Creative Commons Atribuição-Não Comercial-Sem Derivações 4.0 Internacional (CC BY-NC-ND 4.0)
 
 theme:
@@ -15,20 +15,20 @@ theme:
     # Paleta de cores: modo claro
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    toggle:
-      icon: material/brightness-7
-      name: Mudar para modo escuro
+#    toggle:
+#      icon: material/brightness-7
+#      name: Mudar para modo escuro
     primary: white
     accent: black
 
     # Paleta de cores: modo escuro
-  - media: "(prefers-color-scheme: dark)"
-    scheme: slate
-    toggle:
-      icon: material/brightness-4
-      name: Mudar para modo claro
-    primary: white
-    accent: black
+#  - media: "(prefers-color-scheme: dark)"
+#    scheme: slate
+#    toggle:
+#      icon: material/brightness-4
+#      name: Mudar para modo claro
+#    primary: white
+#    accent: black
 
   features:
    # - navigation.instant # Página carrega de uma vezada
@@ -46,7 +46,9 @@ theme:
     - search.highlight # Destaca nas páginas o valor que o usuário buscou
     - search.share # Permite ao usuário copiar o endereço da busca feita
     - navigation.footer # Adiciona rodapé personalizado
-  # - navigation.tabs.sticky # Fixa as abas para não desaparecerem com a rolagem
+    - navigation.tabs.sticky # Fixa as abas para não desaparecerem com a rolagem
+  # - content.tabs.link # Mantém abertas as mesmas abas de conteúdo já selecionadas pelo usuário ao navegar entre páginas
+
 
 markdown_extensions:
   - attr_list
@@ -59,14 +61,18 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - footnotes
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
 
 plugins:
   - search
   - awesome-nav # https://lukasgeiter.github.io/mkdocs-awesome-nav/ (instalar com: `pip install mkdocs-awesome-nav`)
-  - social: # Gera um cartão para compartilhamento da url (instalar com: `pip install "mkdocs-material[imaging]"`)
-      cards_layout_options:
-        title: Manual.APPI # Para diferenciar o que vai escrito como título do cartão do nome da página
-        description: Acesse o Manual de Governança da Assessoria de Parcerias e Programas Integrados (APPI) - um guia prático voltado para servidores do IEPHA-MG que atuam na celebração e gestão de colaborações institucionais.
+#  - social: # Gera um cartão para compartilhamento da url (instalar com: `pip install "mkdocs-material[imaging]"`)
+#      cards_layout_options:
+#        title: Manual.APPI # Para diferenciar o que vai escrito como título do cartão do nome da página
+#        description: Acesse o Manual de Governança da Assessoria de Parcerias e Programas Integrados (APPI) - um guia prático voltado para servidores do IEPHA-MG que atuam na celebração e gestão de colaborações institucionais.
 
 extra:
     social: # Ícones com links para contato
@@ -74,10 +80,17 @@ extra:
         link: mailto:appi@iepha.mg.gov.br
       - icon: fontawesome/brands/github
         link: https://github.com/iepha-mg/manual.appi
-    consent: # Mensagem de cookies
-      title: 🍪 Aviso de cookies
-      description: Os cookies são usados aqui para identificar suas visitas e preferências, além de medir a efetividade do site identificando se os usuários estão encontrando o que procuram. Quando você aceita nossos cookies, ajuda a melhorar nosso site! 😉
-      actions:
-        - accept
-        - reject
+  # Carrega scripts adicionais (Mermaid + init)
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js
+  - assets/javascripts/mermaid-init.js
+  
+extra_css:
+  - assets/stylesheets/extra.css
+   # consent: # Mensagem de cookies
+    #  title: 🍪 Aviso de cookies
+     # description: Os cookies são usados aqui para identificar suas visitas e preferências, além de medir a efetividade do site identificando se os usuários estão encontrando o que procuram. Quando você aceita nossos cookies, ajuda a melhorar nosso site! 😉
+      #actions:
+       # - accept
+        #- reject
         

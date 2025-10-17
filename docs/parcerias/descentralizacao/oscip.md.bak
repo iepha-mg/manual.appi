@@ -1,4 +1,4 @@
-﻿# 👥 Termo de Parceria (OSCIP)
+# 👥 Termo de Parceria (OSCIP)
 
 ## 📌 Definição
 O **Termo de Parceria** é o instrumento firmado entre a administração pública estadual e a entidade qualificada como Organização da Sociedade Civil de Interesse Público (OSCIP) para fomento e execução de atividades relativas às áreas de interesse público, estabelecendo parceria com vistas à promoção da qualidade e eficiência na prestação dos serviços públicos (Lei Estadual nº 23.081/2018, art. 2º, IV; Decreto nº 47.554/2018, art. 29).
@@ -289,3 +289,5 @@ flowchart TD
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
 </script>
+
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)

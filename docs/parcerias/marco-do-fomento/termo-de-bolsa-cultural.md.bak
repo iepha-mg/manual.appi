@@ -1,4 +1,4 @@
-﻿# 🎓 Termo de Bolsa Cultural
+# 🎓 Termo de Bolsa Cultural
 
 ## 📌 Definição:
 Instrumento jurídico para apoio financeiro a agente cultural que esteja em processo de formação, qualificação, especialização, intercâmbio, pesquisa ou criação em âmbito cultural, mediante cumprimento de encargo específico.
@@ -196,3 +196,5 @@ flowchart TD
     
       mermaid.initialize({ startOnLoad: true });
 </script>
+
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)

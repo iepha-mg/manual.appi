@@ -1,4 +1,4 @@
-﻿# 🏢 Contrato de Gestão (OS)
+# 🏢 Contrato de Gestão (OS)
 
 ## 📌 Definição
 O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria entre a administração pública e uma Organização Social (OS) para a execução descentralizada de atividades e serviços de interesse público, geralmente de grande porte e duração, com transferência de recursos e definição de metas e indicadores de resultados (Lei Estadual nº 23.081/2018, art. 2º, V).
@@ -304,3 +304,5 @@ flowchart TD
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
 </script>
+
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)

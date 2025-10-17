@@ -1,4 +1,4 @@
-﻿# 🫱🫲 Acordo de Cooperação
+# 🫱🫲 Acordo de Cooperação
 
 ## 📌 Definição:
 Instrumento jurídico para formalizar parcerias entre a administração pública e organizações da sociedade civil, **propostas por qualquer uma das partes**, para consecução de finalidades de interesse público e recíproco **que não envolvam a transferência de recursos financeiros** (art. 2º, inciso VIII-A da Lei 13.019/2014).
@@ -286,3 +286,5 @@ flowchart TD
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
 </script>
+
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)

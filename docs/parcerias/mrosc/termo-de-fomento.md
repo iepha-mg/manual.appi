@@ -1,4 +1,4 @@
-# 🌱💡 Termo de Fomento
+﻿# 🌱💡 Termo de Fomento
 
 ## 📌 Definição:
 Instrumento jurídico para formalizar parcerias entre a administração pública e organizações da sociedade civil, com transferência de recursos financeiros, para consecução de finalidades de interesse público e recíproco **propostas pelas organizações da sociedade civil** (art. 2º, inciso VIII da Lei 13.019/2014).
@@ -275,5 +275,3 @@ flowchart TD
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
 </script>
-
-##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)

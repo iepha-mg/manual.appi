@@ -10,25 +10,20 @@ Este manual foi desenvolvido para:
 
 Aqui você encontrará os **procedimentos, modelos e orientações** necessários para construir parcerias alinhadas às políticas do IEPHA-MG e à legislação vigente.
 
----
-
-## 🧭 Navegação
-Navegue pelas seções do Manual.APPI.
-
-### 📖 Introdução
+## 📖 Introdução
 | Seção | Descrição |
 |-------|-----------|
 | [📣 Recado do Presidente](intro/recado-do-presidente.md) | Mensagem institucional sobre o Manual |
 | [🤗 O que é o Manual.APPI?](intro/index.md) | Apresentação e objetivos do Manual |
-| [🙋 O que é a APPI/IEPHA-MG?](intro/quem-somos.md) | Ficha técnica do Manual e apresentação da Assessoria |
+| [🙋 O que é a APPI/IEPHA-MG?](quem-somos/index.md) | Ficha técnica do Manual e apresentação da Assessoria |
 | [❓ O que são parcerias?](intro/parcerias.md) | Definições importantes sobre parcerias |
 | [💎 Dicas](intro/dicas.md) | Dicas para quem quer pôr a mão na massa |
 
-### 🚀 Guia prático para celebrar parcerias
+## 🚀 Guia prático para celebrar parcerias
 
 O que são [Marcos Regulatórios](parcerias/index.md)?
 
-#### Marco Regulatório do Fomento à Cultura (MRFC)
+### Marco Regulatório do Fomento à Cultura (MRFC)
 
 | Seção | Descrição |
 |-------------|------|
@@ -39,7 +34,7 @@ O que são [Marcos Regulatórios](parcerias/index.md)?
 | [🏆 Termo de Premiação Cultural](parcerias/marco-do-fomento/termo-de-premiacao-cultural.md) | Premiação de projetos culturais 💰 |
 | [🎓 Termo de Bolsa Cultural](parcerias/marco-do-fomento/termo-de-bolsa-cultural.md) | Concessão de bolsas 💰 |
 
-#### Marco Regulatório das Organizações da Sociedade Civil (MROSC)
+### Marco Regulatório das Organizações da Sociedade Civil (MROSC)
 
 | Seção | Descrição |
 |-------------|------|
@@ -48,7 +43,7 @@ O que são [Marcos Regulatórios](parcerias/index.md)?
 | [🏛️💡 Termo de Colaboração](parcerias/mrosc/termo-de-colaboracao.md) | Colaboração proposta pela adm. pública 💰 |
 | [🌱💡 Termo de Fomento](parcerias/mrosc/termo-de-fomento.md) | Fomento de atividades de interesse público propostas por OSCs 💰 |
 
-#### Modelo OSCIP/OS
+### Modelo OSCIP/OS
 
 | Seção | Descrição |
 |-------------|------|
@@ -56,7 +51,7 @@ O que são [Marcos Regulatórios](parcerias/index.md)?
 | [👥 Termo de Parceria (OSCIP)](parcerias/descentralizacao/oscip.md) | Parcerias com OSCIP para atividades com início e fim 💰 |
 | [🏢 Contrato de Gestão (OS)](parcerias/descentralizacao/os.md) | Contratos com Organizações Sociais para gestão de equipamentos públicos ou políticas públicas de longo prazo 💰 |
 
-#### Outros
+### Outros
 
 | Seção | Descrição  |
 |-------------|------|
@@ -65,15 +60,15 @@ O que são [Marcos Regulatórios](parcerias/index.md)?
 
 ---
 
-### 📚 Biblioteca
+## 📚 Biblioteca
 Clique para acessar nossa [biblioteca](biblioteca/index.md).
 
 | Seção | Descrição |
 |-----------|-----------|
-| [📄 Publicações](biblioteca/index.md#publicações) | Artigos, teses, estudos e palestras sobre parcerias |
-| [📋 Checklists e Cartilhas](biblioteca/index.md#checklists-e-cartilhas) | Guias práticos e orientações |
-| [📝 Modelos de referência](biblioteca/index.md#modelos-de-referência) | Templates e documentos padrão |
-| [⚖️ Instrumentos jurídicos vigentes](biblioteca/index.md#instrumentos-jurídicos-vigentes) | Contratos e acordos em andamento |
+| [📄 Publicações](biblioteca/index.md#publicacoes) | Artigos, teses, estudos e palestras sobre parcerias |
+| [📋 Checklists e Cartilhas](biblioteca/index.md#checklists) | Guias práticos e orientações |
+| [📝 Modelos de referência](biblioteca/index.md#modelos) | Templates e documentos padrão |
+| [⚖️ Instrumentos jurídicos vigentes](biblioteca/index.md#vigentes) | Contratos e acordos em andamento |
 
 ---
 

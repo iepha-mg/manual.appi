@@ -1,4 +1,4 @@
-﻿# 🎪 Termo de Ocupação Cultural
+# 🎪 Termo de Ocupação Cultural
 
 ## 📌 Definição:
 Instrumento jurídico para promover o uso ordinário de equipamentos públicos culturais por agentes culturais, sem repasse de recursos pela administração pública, com previsão da data de ocupação e dos deveres de cuidado do agente cultural ocupante.
@@ -134,3 +134,5 @@ flowchart TD
     
       mermaid.initialize({ startOnLoad: true });
 </script>
+
+##### [⬅️ Voltar à página inicial](https://iepha-mg.github.io/manual.appi)
