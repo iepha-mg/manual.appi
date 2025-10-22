@@ -11,7 +11,7 @@ Assim, espera-se:
 
 ## 🧭 Como usar este Manual?
 
-1. Acesse o [índice](../index.md) e clique no link do tema que você procura. Ou então clique na caixa de busca do canto superior direito da tela e digite o termo desejado.
+1. Acesse o [índice](../index.md) e clique no link do tema que você procura. Ou então procure o termo desejado na caixa de busca do canto superior direito da tela.
 2. O conteúdo está organizado por **marco regulatório** (conjuntos de leis e decretos que estabelecem diretrizes pra cada tipo de parceria).
    - Cada seção traz uma explicação sobre as principais leis e decretos.  
    - Dentro dela, há páginas específicas sobre cada instrumento jurídico (termo de execução cultural, contrato de gestão etc.).  
@@ -20,6 +20,7 @@ Essas páginas mostram **tudo o que você precisa saber** para celebrar uma parc
 
 - Quais leis e decretos consultar;  
 - O que é permitido e o que não é;  
+- Quais os prazos envolvidos;
 - Os motivos e o passo a passo de cada procedimento.  
 
 Você também vai encontrar **fluxogramas práticos**, que mostram o caminho de cada tipo de parceria, do início ao fim:  

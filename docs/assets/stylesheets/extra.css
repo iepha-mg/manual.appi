@@ -13,3 +13,14 @@
   width: 140px;
   max-width: 30%;
 }
+
+.mermaid { text-align: center; }
+.mermaid svg { max-width: none; height: auto; }
+.mermaid svg text,
+.mermaid .nodeLabel,
+.mermaid .label {
+  font-size: 22px !important;
+  font-family: "Funnel Sans", sans-serif !important;
+  line-height: 1.4 !important;
+}
+.mermaid .node rect { rx: 6; ry: 6; }
