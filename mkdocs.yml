@@ -65,6 +65,10 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.magiclink
+  - admonition
+  - toc:
+      permalink: true
 
 plugins:
   - search
@@ -82,7 +86,7 @@ extra:
         link: https://github.com/iepha-mg/manual.appi
   # Carrega scripts adicionais (Mermaid + init)
 extra_javascript:
-  - https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
   - assets/javascripts/mermaid-init.js
   
 extra_css:
