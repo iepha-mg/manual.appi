@@ -130,23 +130,39 @@ Aqui você encontra orientações práticas que podem facilitar muito o trabalho
 
     | Cenário                | Fases consideradas                | Estimativa (dias úteis) | Estimativa (dias corridos, aprox.) |
     |------------------------|-----------------------------------|--------------------------|-----------------------------------|
-    | Sem chamamento público | Análise técnica + Celebração      | 66 (46 + 20)             | 92 (≈ 66 × 1,4)                   |
+    | Sem chamamento público | Análise técnica + Celebração      | 66<br>(46 + 20)             | 92                             |
 
     ```mermaid
-    %%{init: { "theme": "neutral", "gitGraph": { "mainBranchName": "Análise Técnica" } }}%%
+    %%{init: { "theme": "forest", "gitGraph": { "mainBranchName": "Análise Técnica" } }}%%
         gitGraph
           commit id: "Mês 1"
           commit id: "Mês 2"
           branch "Celebração"
           commit id: "Mês 3"
+          branch "Execução"
+          commit id: "Vigência"
           checkout "Análise Técnica"
     ```
+
+    ```mermaid
+    %%{init: { 'flowchart': { 'htmlLabels': true, 'wrappingWidth': 900 }, 'maxTextSize': 90000 }}%%
+    flowchart LR
+        A1["<b>1. Análise técnica (46 dias úteis)</b><hr>• Protocolo (0d)<br>• Triagem (5d)<br>• Análises técnicas interna e externa + alterações (14d)<br>• Nota técnica (5d)<br>• Alterações + instrução processual (7d)<br>• Nota jurídica (10d)<br>• Nota saneadora (5d)"]
+        A2["<b>2. Celebração (20 dias úteis)</b><hr>• Manifestação técnica e jurídica externa (se for o caso: 10d)<br>• Assinatura e publicação (10d)"]
+        A3["<b>3. Execução</b>"]
+                
+        A1 --> A2
+        A2 --> A3
+        
+        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:22px;
+    ```
+
 
 === "Prazos (com chamamento)"
 
     | Cenário                | Fases consideradas                             | Estimativa (dias úteis) | Estimativa (dias corridos, aprox.) |
     |------------------------|------------------------------------------------|--------------------------|-----------------------------------|
-    | Com chamamento público | Análise técnica + Chamamento + Celebração      | 112 (77 + 15 + 20)       | 157 (≈ 112 × 1,4)                 |
+    | Com chamamento público | Análise técnica + Chamamento + Celebração      | 112<br>(77 + 15 + 20)       | 157                            |
 
 
     ```mermaid

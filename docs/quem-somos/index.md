@@ -28,7 +28,6 @@
     - **Especialização** em Gestão Cultural (Centro Universitário UNA, 2012)  
     - **Graduação** em Administração Pública (Fundação João Pinheiro, 2010)  
 
-
 ### **Lucas Fainblat**: *EPPGG na APPI*
 
 === "ℹ️ Bio"
@@ -84,6 +83,8 @@
     - 📻 Radialista: produtor e apresentador do programa **Blablablá do Fainblat**, que foi ao ar semanalmente pela **Rádio Inconfidência** entre 2014 e 2017
     - 🐓 Galô! Meu momento celebridade: personagem no documentário [O Dia do Galo](https://www.youtube.com/watch?v=65Iz_GKbhHk), de Cris Azzi (versão longa [aqui](https://www.youtube.com/watch?v=-O3ZcP7Pwns))
     - 📵 De-tes-to redes sociais, por isso você não me encontrou em nenhuma - pelo menos nenhum perfil verdadeiro 😅
+
+---
 
 ## O que somos?
 
