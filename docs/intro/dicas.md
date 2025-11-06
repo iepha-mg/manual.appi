@@ -20,8 +20,107 @@ Aqui você encontra orientações práticas que podem facilitar muito o trabalho
         A3 --> A4
         A4 --> A5
 
+        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:20px;
+    ```
+
+=== "Prazos (sem chamamento)"
+
+    | Cenário                | Fases consideradas                | Estimativa (dias úteis) | Estimativa (dias corridos, aprox.) |
+    |------------------------|-----------------------------------|--------------------------|-----------------------------------|
+    | Sem chamamento público | Análise técnica + Celebração      | 66                       | 92                                |
+
+    ---
+
+    ```mermaid
+    %%{init: { 'flowchart': { 'htmlLabels': true, 'wrappingWidth': 900 }, 'maxTextSize': 90000 }}%%
+    flowchart LR
+        A1["<b>1. Análise técnica (46 dias úteis)</b><hr>• Protocolo (0d)<br>• Triagem (5d)<br>• Análises técnicas interna e externa + alterações (14d)<br>• Nota técnica (5d)<br>• Alterações + instrução processual (7d)<br>• Nota jurídica (10d)<br>• Nota saneadora (5d)"]
+        A2["<b>2. Celebração (20 dias úteis)</b><hr>• Manifestação técnica e jurídica externa (se for o caso: 10d)<br>• Assinatura e publicação (10d)"]
+        A3["<b>3. Execução</b>"]
+                
+        A1 --> A2
+        A2 --> A3
+        
         classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:22px;
     ```
+    
+    ---
+
+
+    ```mermaid
+    %%{init: { "theme": "forest", "gitGraph": { "mainBranchName": "Análise Técnica" } }}%%
+        gitGraph
+          commit id: "Mês 1"
+          commit id: "Mês 2"
+          branch "Celebração"
+          commit id: "Mês 3"
+          branch "Execução"
+          commit id: "Vigência"
+          checkout "Análise Técnica"
+    ```
+
+=== "Prazos (com chamamento)"
+
+    | Cenário                | Fases consideradas                             | Estimativa (dias úteis) | Estimativa (dias corridos, aprox.) |
+    |------------------------|------------------------------------------------|--------------------------|-----------------------------------|
+    | Com chamamento público | Análise técnica + Chamamento + Celebração      | 94                       | 132                               |
+
+    ---
+
+    ```mermaid
+    %%{init: { 'flowchart': { 'htmlLabels': true, 'wrappingWidth': 900 }, 'maxTextSize': 90000 }}%%
+    flowchart LR
+        B1["<b>1. Análise técnica (69 dias úteis)</b><hr>• Protocolo (0d)<br>• Triagem (15d)<br>• Análise técnica interna (10d)<br>• Alterações internas (5d)<br>• Consulta pública (10d)<br>• Alterações externas (2d)<br>• Nota técnica (5d)<br>• Alterações + instrução do processo (7d)<br>• Nota jurídica (10d)<br>• Nota saneadora/publicação (5d)"]
+        B2["<b>2. Chamamento público (15 dias úteis)*</b><hr>• Recebimento e seleção de propostas (≥5d)<br>• Recursos, contrarrazões e homologação (≥5d)<br>• Habilitação e recursos (≥5d)"]
+        B3["<b>3. Celebração (10 dias úteis)</b><hr>• Convocação dos selecionados (≥2d)<br>• Assinatura (3d)<br>• Publicação (5d)"]
+        B4["<b>4. Execução</b>"]
+
+        B1 --> B2
+        B2 --> B3
+        B3 --> B4
+        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:22px;
+    ```
+
+    ---
+
+
+    ```mermaid
+    %%{init: { "theme": "forest", "gitGraph": { "mainBranchName": "Análise Técnica" } }}%%
+        gitGraph
+          commit id: "Mês 1"
+          commit id: "Mês 2"
+          branch "Chamamento"
+          commit id: "Mês 3"
+          branch "Celebração"
+          commit id: "Mês 4"
+          branch "Execução"
+          commit id: "Vigência"
+          checkout "Análise Técnica"
+    ```
+
+=== "Quadro de resumo"
+
+    | Etapa                                     | Ator Responsável                               | Documento Principal                                                                 | Prazo                                                                                  |
+    |-------------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+    | 1. Protocolo e Registro Inicial           | Unidade demandante                             | • Ofício<br>• Memorando<br>• Carta de Intenções                                     | N/A                                                                                    |
+    | 2. Triagem Preliminar                     | APPI                                           | • Minuta de instrumento jurídico<br>• Edital                                        | • ≤ 5 dias úteis (sem cham.)<br>• ≤ 15 dias úteis (com cham.)                      |
+    | 3. Análise Técnica Interna                | Unidade demandante e áreas técnicas do IEPHA   | • Minuta revisada do instrumento<br>• Edital                                        | • ≤ 5 dias úteis (sem cham.)<br>• ≤ 10 dias úteis (com cham.)                          |
+    | 4. Alterações (se houver)                 | APPI                                           | Minuta validada                                                                      | • ≤ 2 dias úteis (sem cham.)<br>• ≤ 5 dias úteis (com cham.)                           |
+    | 5. Análise Técnica Externa / Consulta Pública | Entidade parceira ou APPI (se chamamento)   | Minuta revisada com sugestões                                                        | • ≤ 5 dias úteis (sem cham.)<br>• ≤ 10 dias úteis (com cham.)                          |
+    | 6. Alterações (se houver)                 | APPI                                           | Minuta validada                                                                      | ≤ 2 dias úteis                                                                         |
+    | 7. Manifestação Técnica Interna           | APPI                                           | Nota técnica                                                                         | ≤ 5 dias úteis                                                                         |
+    | 8. Alterações (se houver)                 | APPI                                           | • Minuta revisada<br>• Encaminhamento à GLCC                                        | ≤ 2 dias úteis                                                                         |
+    | 9. Instrução do processo                  | GLCC                                           | Processo SEI instruído                                                               | ≤ 5 dias úteis                                                                         |
+    | 10. Análise Jurídica                      | Procuradoria Jurídica                          | Parecer jurídico                                                                     | ≤ 10 dias úteis                                                                        |
+    | 11. Nota saneadora e/ou publicação        | GLCC                                           | • Nota saneadora<br>• Edital de chamamento público                                   | ≤ 5 dias úteis                                                                         |
+    | 12. Recebimento e seleção de propostas    | Comissão julgadora                             | • Pareceres de seleção<br>• Resultado do chamamento                                  | ≥ 5 dias úteis (depende do marco legal)                                                |
+    | 13. Recursos e homologação                | Comissão de recursos                           | • Pareceres de recursos<br>• Homologação                                             | ≥ 5 dias úteis (depende do marco legal)                                                |
+    | 14. Habilitação                           | GLCC                                           | Documentação habilitatória                                                           | ≥ 5 dias úteis (depende do marco legal)                                                |
+    | 15. Manifestação Técnica e Jurídica Externa | APPI e Entidade parceira                     | • Nota técnica<br>• Parecer jurídico da parceira                                     | ≤ 10 dias úteis                                                                        |
+    | 16. Assinatura                            | GLCC                                           | • Instrumento jurídico assinado<br>• Publicações                                     | ≤ 10 dias úteis                                                                        |
+    | 17. Execução da parceria                  | Unidade demandante / Gestor / Comissão         | Relatórios e fontes de comprovação                                                   | N/A (varia pelo instrumento)                                                           |
+    | 18. Prestação de contas                   | GLCC                                           | • Prestação de contas<br>• Parecer conclusivo                                        | N/A (varia pelo marco regulatório)                                                     |
+
 
 === "Fluxo detalhado"
     
@@ -101,82 +200,6 @@ Aqui você encontra orientações práticas que podem facilitar muito o trabalho
         N3 -->|Reprovada| N4 --> FIM
     
     classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
-    ```
-
-=== "Quadro de resumo"
-
-    | Etapa                                         | Ator Responsável                                | Documento Principal                              | Prazo |
-    |-----------------------------------------------|------------------------------------------------|-------------------------------------------------|-------|
-    | 1. Protocolo e Registro Inicial               | Unidade demandante                              | Ofício / Memorando / Carta de Intenções          | N/A   |
-    | 2. Triagem Preliminar                         | APPI                                           | Minuta de instrumento jurídico / Edital          | 5 dias úteis (sem cham.) / 15 dias úteis (com cham.) |
-    | 3. Análise Técnica Interna                    | Unidade demandante e áreas técnicas do IEPHA   | Minuta revisada do instrumento / edital          | 5 dias úteis (sem cham.) / 10 dias úteis (com cham.) |
-    | 4. Alterações (se houver)                     | APPI                                           | Minuta validada                                  | 2 dias úteis (sem cham.) / 5 dias úteis (com cham.) |
-    | 5. Análise Técnica Externa / Consulta Pública | Entidade parceira ou APPI (se chamamento)      | Minuta revisada com sugestões                    | 5 dias úteis (sem cham.) / 15 dias úteis (com cham.) |
-    | 6. Alterações (se houver)                     | APPI                                           | Minuta validada                                  | 2 dias úteis |
-    | 7. Manifestação Técnica Interna               | APPI                                           | Nota técnica                                     | 5 dias úteis |
-    | 8. Alterações (se houver)                     | APPI                                           | Minuta revisada + encaminhamento à GLCC          | 2 dias úteis (sem cham.) / 5 dias úteis (com cham.) |
-    | 9. Instrução do processo                      | GLCC                                           | Processo SEI instruído                           | 5 dias úteis |
-    | 10. Análise Jurídica                          | Procuradoria Jurídica                           | Parecer jurídico                                 | 10 dias úteis |
-    | 11. Nota saneadora e/ou publicação            | GLCC                                           | Nota saneadora / Edital de chamamento público    | 5 dias úteis |
-    | 12. Recebimento e seleção de propostas        | Comissão julgadora                              | Pareceres de seleção / Resultado do chamamento   | ≥ 5 dias úteis (var. reg.) |
-    | 13. Recursos e homologação                    | Comissão de recursos                            | Pareceres de recursos / Homologação              | ≥ 5 dias úteis (var. reg.) |
-    | 14. Habilitação                               | GLCC                                           | Documentação habilitatória                       | 5 dias úteis (var. reg.) |
-    | 15. Manifestação Técnica e Jurídica Externa   | APPI e Entidade parceira                        | Nota técnica + Parecer jurídico da parceira      | 10 dias úteis |
-    | 16. Assinatura                                | GLCC                                           | Instrumento jurídico assinado + Publicações      | 10 dias úteis |
-    | 17. Execução da parceria                      | Unidade demandante / Gestor / Comissão         | Relatórios e fontes de comprovação               | N/A (varia pelo instrumento) |
-    | 18. Prestação de contas                       | GLCC                                           | Prestação de contas + Parecer conclusivo         | N/A (varia pelo marco regulatório) |
-
-=== "Prazos (sem chamamento)"
-
-    | Cenário                | Fases consideradas                | Estimativa (dias úteis) | Estimativa (dias corridos, aprox.) |
-    |------------------------|-----------------------------------|--------------------------|-----------------------------------|
-    | Sem chamamento público | Análise técnica + Celebração      | 66<br>(46 + 20)             | 92                             |
-
-    ```mermaid
-    %%{init: { "theme": "forest", "gitGraph": { "mainBranchName": "Análise Técnica" } }}%%
-        gitGraph
-          commit id: "Mês 1"
-          commit id: "Mês 2"
-          branch "Celebração"
-          commit id: "Mês 3"
-          branch "Execução"
-          commit id: "Vigência"
-          checkout "Análise Técnica"
-    ```
-
-    ```mermaid
-    %%{init: { 'flowchart': { 'htmlLabels': true, 'wrappingWidth': 900 }, 'maxTextSize': 90000 }}%%
-    flowchart LR
-        A1["<b>1. Análise técnica (46 dias úteis)</b><hr>• Protocolo (0d)<br>• Triagem (5d)<br>• Análises técnicas interna e externa + alterações (14d)<br>• Nota técnica (5d)<br>• Alterações + instrução processual (7d)<br>• Nota jurídica (10d)<br>• Nota saneadora (5d)"]
-        A2["<b>2. Celebração (20 dias úteis)</b><hr>• Manifestação técnica e jurídica externa (se for o caso: 10d)<br>• Assinatura e publicação (10d)"]
-        A3["<b>3. Execução</b>"]
-                
-        A1 --> A2
-        A2 --> A3
-        
-        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:22px;
-    ```
-
-
-=== "Prazos (com chamamento)"
-
-    | Cenário                | Fases consideradas                             | Estimativa (dias úteis) | Estimativa (dias corridos, aprox.) |
-    |------------------------|------------------------------------------------|--------------------------|-----------------------------------|
-    | Com chamamento público | Análise técnica + Chamamento + Celebração      | 112<br>(77 + 15 + 20)       | 157                            |
-
-
-    ```mermaid
-    %%{init: { "theme": "neutral", "gitGraph": { "mainBranchName": "Análise Técnica" } }}%%
-        gitGraph
-          commit id: "Mês 1"
-          commit id: "Mês 2"
-          commit id: "Mês 3"
-          commit id: "Mês 4"
-          branch "Chamamento público"
-          commit id: "Mês 5"
-          branch: "Celebração"
-          commit id: "Mês 6"
-          checkout "Análise Técnica"
     ```
 
 ## 🔬 Detalhamento do Processo
@@ -339,10 +362,12 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
     - **Documentos:**
       - Correspondência de resposta (memorando, e-mail etc.)
       - `Minuta de instrumento jurídico` comentada e revisada com sugestões (_link na nuvem_)
-    - **Prazo:** até `5 dias úteis` (se não houver chamamento público) / até `15 dias úteis` (se houver chamamento público)
+    - **Prazo:** até `5 dias úteis` (se não houver chamamento público) / até `10 dias úteis` (se houver chamamento público)
 
 === "🚨 Atenção"
     > A etapa 3 traz checklists para análise técnica de `minuta de instrumento jurídico` e `minuta de edital de chamamento público`, que podem ser utilizados também nesta etapa.
+
+    > Como ainda não há decreto estadual regulamentando a [Lei 14.903/2024 (Marco do Fomento)](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm), não foram estabelecidos prazos mínimos para realização de consulta pública, razão pela qual adotamos o mesmo parâmetro de 10 dias úteis utilizado para a análise técnica interna, considerando que a documentação envolvida numa chamada pública pode ser muito extensa. Entretanto, até o momento é possível realizar a consulta pública em menos tempo. 
 
 ---
 
@@ -405,7 +430,7 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
       - Revisar `minuta de edital de chamamento público` conforme etapa anterior, se for o caso
     - **Documentos:**
       - Correspondência de encaminhamento (memorando no SEI)
-    - **Prazo:** até `2 dias úteis` (se não houver chamamento público) / até `5 dias úteis` (se houver chamamento público)
+    - **Prazo:** até `2 dias úteis`
 
 ---
 
