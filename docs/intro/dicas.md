@@ -367,6 +367,7 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
 === "🚨 Atenção"
     > A etapa 3 traz checklists para análise técnica de `minuta de instrumento jurídico` e `minuta de edital de chamamento público`, que podem ser utilizados também nesta etapa.
 
+=== "❓ Saiba mais"
     > Como ainda não há decreto estadual regulamentando a [Lei 14.903/2024 (Marco do Fomento)](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm), não foram estabelecidos prazos mínimos para realização de consulta pública, razão pela qual adotamos o mesmo parâmetro de 10 dias úteis utilizado para a análise técnica interna, considerando que a documentação envolvida numa chamada pública pode ser muito extensa. Entretanto, até o momento é possível realizar a consulta pública em menos tempo. 
 
 ---
