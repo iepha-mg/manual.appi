@@ -32,7 +32,7 @@ Aqui você encontra orientações práticas que podem facilitar muito o trabalho
     ---
 
     ```mermaid
-    %%{init: { 'flowchart': { 'htmlLabels': true, 'wrappingWidth': 900 }, 'maxTextSize': 90000 }}%%
+    %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
     flowchart LR
         A1["<b>1. Análise técnica (46 dias úteis)</b><hr>• Protocolo (0d)<br>• Triagem (5d)<br>• Análises técnicas interna e externa + alterações (14d)<br>• Nota técnica (5d)<br>• Alterações + instrução processual (7d)<br>• Nota jurídica (10d)<br>• Nota saneadora (5d)"]
         A2["<b>2. Celebração (20 dias úteis)</b><hr>• Manifestação técnica e jurídica externa (se for o caso: 10d)<br>• Assinatura e publicação (10d)"]
@@ -41,7 +41,7 @@ Aqui você encontra orientações práticas que podem facilitar muito o trabalho
         A1 --> A2
         A2 --> A3
         
-        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:22px;
+        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:13px;
     ```
     
     ---
@@ -68,7 +68,7 @@ Aqui você encontra orientações práticas que podem facilitar muito o trabalho
     ---
 
     ```mermaid
-    %%{init: { 'flowchart': { 'htmlLabels': true, 'wrappingWidth': 900 }, 'maxTextSize': 90000 }}%%
+    %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
     flowchart LR
         B1["<b>1. Análise técnica (69 dias úteis)</b><hr>• Protocolo (0d)<br>• Triagem (15d)<br>• Análise técnica interna (10d)<br>• Alterações internas (5d)<br>• Consulta pública (10d)<br>• Alterações externas (2d)<br>• Nota técnica (5d)<br>• Alterações + instrução do processo (7d)<br>• Nota jurídica (10d)<br>• Nota saneadora/publicação (5d)"]
         B2["<b>2. Chamamento público (15 dias úteis)*</b><hr>• Recebimento e seleção de propostas (≥5d)<br>• Recursos, contrarrazões e homologação (≥5d)<br>• Habilitação e recursos (≥5d)"]
@@ -78,7 +78,7 @@ Aqui você encontra orientações práticas que podem facilitar muito o trabalho
         B1 --> B2
         B2 --> B3
         B3 --> B4
-        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:22px;
+        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:13px;
     ```
 
     ---
@@ -137,6 +137,7 @@ Aqui você encontra orientações práticas que podem facilitar muito o trabalho
     classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:22px;
     ```
     ```mermaid
+    %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
     flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar parceria (enviar proposta ou manifestação de interesse)" } --> B@{ shape: rect, label: "Realizar triagem preliminar (viabilidade, marco regulatório e instrumento jurídico)" }

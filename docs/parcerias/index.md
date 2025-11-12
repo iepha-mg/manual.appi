@@ -1,4 +1,4 @@
-﻿# Guia prático
+﻿# 🚀 Guia prático
 Mãos à obra! Utilize este guia sempre que precisar consultar informações sobre **marcos regulatórios** de parcerias e seus **instrumentos jurídicos**.
 
 Acesse a página de cada marco ou instrumento específico no menu de navegação. Ou então digite os termos da sua busca na barra de pesquisa.

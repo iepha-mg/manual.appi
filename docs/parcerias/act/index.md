@@ -1,12 +1,29 @@
 ﻿# 🧩 Acordo de Cooperação Técnica
 
+## 💎 Dicas
+
+| Item                                                     | Resposta  |
+|----------------------------------------------------------|-----------|
+| **📢 Precisa de Chamamento Público?**                           | Não       |
+| **🤝 Tipos de parceiros**                                       | • Órgãos públicos (todas as esferas) <br> • Consórcios públicos <br> • Serviços Sociais Autônomos (SSAs) |
+| **💰 Envolve transferência de recursos ou cessão patrimonial?** | • Não (art. 24 do [Decreto Federal nº 11.531/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11531.htm)) |
+| **⏳ Vigência máxima**                                          | • Não há limite máximo fixado em decreto <br> • Varia de acordo com a complexidade do objeto <br> • Recomenda-se 2 anos |
+| **🔒 Exige prestação de contas formal? Qual?**                  | • Não exige prestação de contas financeira <br> • Porém, recomenda-se relatório técnico simplificado sobre as atividades |
+| **👮🏻 Exige servidor designado como gestor/fiscal/equivalente?**    | • Não <br> • Porém, recomenda-se designação de gestor e fiscal na unidade demandante da parceria para facilitar a execução e o monitoramento |
+
+---
+
 ## 📌 Definição:
 Instrumento de cooperação para a execução de ações de interesse recíproco e em regime de mútua colaboração, a título gratuito, sem transferência de recursos ou doação de bens, no qual o objeto e as condições da cooperação são ajustados de comum acordo entre as partes.
 
 **Atenção!** Acordos de Cooperação Técnica (ACTs) só poderão ser celebrados entre órgãos públicos (de qualquer esfera - municipal, estadual e federal), consórcios públicos ou Serviços Sociais Autônomos estabelecidos por lei (SSAs, como o [Servas](https://www.almg.gov.br/legislacao-mineira/texto/LEI/22607/2017/?cons=1), por exemplo).
 
+---
+
 ## 🏛️ Regulamentação:
 Capítulo III - Das Parcerias sem Transferências de Recursos - do [Decreto Federal nº 11.531/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11531.htm).
+
+---
 
 ## 🎯 Objetivos
 - Executar políticas públicas de interesse recíproco em mútua colaboração.
@@ -14,6 +31,8 @@ Capítulo III - Das Parcerias sem Transferências de Recursos - do [Decreto Fede
 - Facilitar parcerias sem necessidade de repasse de recursos.
 - Promover sinergia entre diferentes esferas da administração pública.
 - Fomentar iniciativas baseadas em colaboração técnica e operacional.
+
+---
 
 ## 🛠️ Ideias para aplicação no Iepha-MG:
 Desde que haja interesse mútuo e viabilidade técnica, um Acordo de Cooperação Técnica pode servir para:
@@ -26,31 +45,43 @@ Desde que haja interesse mútuo e viabilidade técnica, um Acordo de Cooperaçã
 6. Projetos colaborativos de educação patrimonial.
 7. Cooperação em pesquisas sobre patrimônio cultural mineiro.
 
-## ✅ Pode:
-**Características do instrumento:**
-- Estabelecer cooperação técnica sem transferência de recursos.
-- Formalizar parcerias baseadas em interesse recíproco.
-- Combinar esforços, conhecimentos e capacidades técnicas.
-- Compartilhar experiências, metodologias e boas práticas.
+---
 
-**Partes que podem celebrar** (art. 25 do Decreto nº 11.531/2023):
-- Órgãos e entidades da administração pública federal, estadual, distrital e municipal.
-- Serviços sociais autônomos.
-- Consórcios públicos.
+## 📋 Regras
 
-## ❌ Não pode:
-⚠️ **Limitações:**  
-- Não envolve transferência de recursos públicos (art. 24, parágrafo único).
-- Não envolve doação de bens materiais.
-- Não substitui procedimentos de contratação quando há fornecimento oneroso.
+=== "✅ Pode"
+    **Características do instrumento:**
 
-⚠️ **Características específicas:**  
-- As despesas relacionadas à execução não configuram transferência de recursos, devendo correr à conta de cada parte (art. 24, parágrafo único).
-- Instrumento exclusivamente gratuito.
-- Não gera obrigações financeiras entre as partes.
+    - Estabelecer cooperação técnica sem transferência de recursos.
+    - Formalizar parcerias baseadas em interesse recíproco.
+    - Combinar esforços, conhecimentos e capacidades técnicas.
+    - Compartilhar experiências, metodologias e boas práticas.
 
-## 📋 Celebração
+    **Partes que podem celebrar** (art. 25 do Decreto nº 11.531/2023):
+
+    - Órgãos e entidades da administração pública federal, estadual, distrital e municipal.
+    - Serviços sociais autônomos.
+    - Consórcios públicos.
+
+=== "❌ Não pode"
+    ⚠️ **Limitações:**  
+
+    - Não envolve transferência de recursos públicos (art. 24, parágrafo único).
+    - Não envolve doação de bens materiais.
+    - Não substitui procedimentos de contratação quando há fornecimento oneroso.
+
+    ⚠️ **Características específicas:**  
+
+    - As despesas relacionadas à execução não configuram transferência de recursos, devendo correr à conta de cada parte (art. 24, parágrafo único).
+    - Instrumento exclusivamente gratuito.
+    - Não gera obrigações financeiras entre as partes.
+
+---
+
+## 🎉 Celebração
 Decisão discricionária da administração pública baseada em análise de interesse comum e viabilidade da cooperação técnica.
+
+---
 
 ## 🪪 Documentação
 Por se tratar de instrumento sem transferência de recursos, dispensa documentação complexa, sendo necessários apenas:
@@ -60,6 +91,8 @@ Por se tratar de instrumento sem transferência de recursos, dispensa documenta�
 - Prazo de vigência
  
 Não é obrigatório - mas é boa prática - constar um plano de trabalho simplificado, com ações objetivas visando ao cumprimento do objeto da cooperação, prazos para início e término de cada ação, responsáveis pela ação e fonte de comprovação (documentos, fotografias, relatórios, publicações etc. que atestem a realização daquela atividade).
+
+---
 
 ## 🔒 Prestação de contas
 Não é exigida prestação de contas financeira, uma vez que o instrumento não envolve transferência de recursos. Pode ser estabelecida apresentação de relatórios técnicos sobre as atividades desenvolvidas, conforme acordado entre as partes.
@@ -71,25 +104,42 @@ Não é exigida prestação de contas financeira, uma vez que o instrumento não
 - Produtos ou conhecimentos desenvolvidos
 - Avaliação qualitativa da parceria
 
+---
+
 ## 🔍 Saiba mais!
 Modelos e documentos de referência podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html).
+
 - [Minuta modelo de Acordo de Cooperação Técnica da Advocacia Geral da União (AGU)](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/acordo-de-cooperacao-tecnica.pdf)
 
-**🗝️ Dica!** O "texto padrão" n. 522228 no SEI é uma minuta de Acordo de Cooperação Técnica (ACT) já utilizada no âmbito do Iepha-MG, contendo cláusulas padronizadas retiradas do modelo da AGU (acima) e trechos sinalizados em azul para serem preenchidos conforme especificidades da parceria a ser firmada. Isso pode ajudar bastante na elaboração e na tramitação jurídica de um ACT.
+> **🗝️ Dica:** o "texto padrão" n. 522228 no SEI é uma minuta de Acordo de Cooperação Técnica (ACT) já utilizada no âmbito do Iepha-MG. Ele contém:
+>
+> - Cláusulas padronizadas retiradas do modelo da AGU; e
+> - Trechos sinalizados em azul para serem preenchidos conforme especificidades da parceria a ser firmada.
+>
+> Isso pode ajudar bastante na elaboração e na tramitação jurídica de um ACT.
 
-## ↔️ Fluxograma para celebração e execução de Acordo de Cooperação Técnica
-Todos os procedimentos do fluxograma referem-se ao [Decreto Federal nº 11.531/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11531.htm). Diferentes formas das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
+---
 
-<div class="mermaid">
-flowchart TD
+## ↔️ Fluxograma
+
+Todos os procedimentos do fluxograma referem-se ao [Decreto Federal nº 11.531/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11531.htm). Diferentes formatos das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
+
+```mermaid
+    %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
+
+    flowchart TD
     A_LEG@{ shape: lean-r, label: "Área Técnica Demandante" }
     B_LEG@{ shape: rect, label: "Gabinete" }
     C_LEG@{ shape: rounded, label: "Setor de Contratos e Convênios" }
     D_LEG@{ shape: trap-b, label: "Assessoria Jurídica" }
     E_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
-</div>
 
-<div class="mermaid">
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+```
+
+```mermaid
+    %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
+
 flowchart TD
     A@{ shape: lean-r, label: "Solicitar cooperação técnica" } --> B@{ shape: rect, label: "Analisar solicitação"}
     B --> C@{ shape: diamond, label: "Entidade parceira é da Administração Pública? (art. 25 do Decreto nº 11.531/2023)"}
@@ -112,10 +162,7 @@ flowchart TD
     P -- Sim --> FIM
     P -- Não --> Q@{ shape: rounded, label: "Adotar medidas cabíveis conforme acordo" }
     Q --> FIM
-</div>
-
-<script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
     
-      mermaid.initialize({ startOnLoad: true });
-</script>
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+
+```
