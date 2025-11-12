@@ -5,10 +5,6 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
 
 === "📚 Livros"
     
-    <div class="toc">
-    ### 📚 Livros
-    </div>
-    
     | Título | Autor/Organizador |
     |------- |------------------ |
     | [Por uma cultura pública: Organizações Sociais, Oscips e a Gestão Pública não estatal na área da cultura](https://www.santoandre.sp.gov.br/pesquisa/ebooks/355427.pdf) | Elizabeth Ponte |
@@ -17,10 +13,6 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
     | [O Perfil das Organizações da Sociedade Civil no Brasil (2016-2025)](https://bookdown.org/mosc_ipea/relatorio-estatistico-MOSC-2025) | Murilo de Oliveira Junqueira; Felix Garcia Lopez Júnio; Alexandre Pires Dominges |
 
 === "📜 Artigos"
-
-    <div class="toc">
-    ### 📜 Artigos
-    </div>
 
     | Título | Autor/Organizador |
     |--------|------------------|
@@ -31,10 +23,6 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
 
 === "▶️ Vídeos"
 
-    <div class="toc">
-    ### ▶️ Vídeos
-    </div>
-
     | Título | Autor/Organizador |
     |--------|------------------|
     | [III Seminário Internacional MROSC - Parcerias Transformadoras (10 anos de MROSC)](https://www.youtube.com/watch?v=ddPFyNzM6rg) | Secretaria-Geral da Presidência da República |
@@ -44,10 +32,6 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
     | [Papo PNAB - O que muda na PNAB com o Marco Regulatório do Fomento à Cultura?](https://www.youtube.com/watch?v=ip_LORWYubg) | MinC |
 
 === "📰 Matérias"
-
-    <div class="toc">
-    ### 📰 Matérias
-    </div>
 
     | Título | Autor/Organizador |
     |--------|------------------|
@@ -62,10 +46,6 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
 ## 📋 Checklists e Cartilhas {#checklists}
 
 === "🧩 ACT"
-    
-    <div class="toc">
-    ### Acordo de Cooperação Técnica
-    </div>
 
     | Link | Observações |
     | ---- |------------ |
@@ -73,19 +53,11 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
 
 === "💡 Marco do Fomento"
     
-    <div class="toc">
-    ### Marco Regulatório do Fomento à Cultura
-    </div>
-    
     | Link | Observações |
     | ---- | ----------- |
     |[Portal do Governo Federal sobre o Marco Regulatório do Fomento à Cultura](https://marcodacultura.com.br) | Aqui você encontra diversos informativos sobre o Marco Regulatório do Fomento à Cultura |
 
 === "🌐 MROSC"
-
-    <div class="toc">
-    ### Marco Regulatório das Organizações da Sociedade Civil (MROSC)
-    </div>
 
     | Tipo | Link |
     | ---- | --------- |
@@ -101,10 +73,6 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
     | 🌱💡 Termo de Fomento              | [Checklist de Celebração de Termo de Colaboração/Fomento](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/checklists/anexo_II_resolucao_conjunta_segov_age_007_2017_atualizada_resolucao_001_2021.docx) |
 
 === "💪 Modelo OSCIP/OS"
-
-    <div class="toc">
-    ### Modelo OSCIP/OS
-    </div>
 
     | Tipo | Link | Observações |
     | ---- | --------- | ----------- |
@@ -124,10 +92,6 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
 
 === "📑 Documentos processuais"
 
-    <div class="toc">
-    ### Documentos processuais
-    </div>
-
     | Tipo        | Link | Observações |
     | ----------- | ---- | ----------- |
     | 📑 Documentos processuais | [Modelo de solicitação de parceria](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EYdfxSvs8RBGiVch2U930DQBEUJdB1DgexiM9XD4DYPPdw?e=RDK8Ga) | Para utilização no SEI ou e-mail |
@@ -137,19 +101,11 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
 
 === "🧩 ACT"
 
-    <div class="toc">
-    ### Acordo de Cooperação Técnica
-    </div>
-
     | Tipo        | Link        |
     | ----------- | ----------- |
     | 🧩 Acordo de Cooperação Técnica | [Minuta modelo de Acordo de Cooperação Técnica da Advocacia Geral da União (AGU)](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/acordo-de-cooperacao-tecnica.pdf) |
 
 === "💡 Marco do Fomento"
-
-    <div class="toc">
-    ### Marco Regulatório do Fomento à Cultura
-    </div>
 
     | Tipo        | Link |
     | ----------- | ---- |
@@ -184,10 +140,6 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
     |             | [Anexo 5: Formulário de Recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/modelos-de-editais/premiacao-cultural-com-recursos-da-pnab-em-pdf-editavel/anexo_5_formulario_de_recurso/view) |
 
 === "🌐 MROSC"
-
-    <div class="toc">
-    ### Marco Regulatório das Organizações da Sociedade Civil (MROSC)
-    </div>
 
     | Tipo        | Link |
     | ----------- | ---- |
@@ -228,10 +180,6 @@ Aqui na biblioteca de parcerias você encontra material para saber mais sobre pa
 
 === "💪 Modelo OSCIP/OS"
 
-    <div class="toc">
-    ### Modelo OSCIP/OS
-    </div>
-
     | Tipo        | Link |
     | ----------- | ---- |
     | 👥 Termo de Parceria (OSCIP) | [Portal da Seplag para o Modelo OSCIP](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip) |
@@ -270,10 +218,6 @@ Isso é principalmente importante nos casos de instrumentos celebrados junto a p
 
 === "🧩 ACT"
 
-    <div class="toc">
-    ### Acordo de Cooperação Técnica
-    </div>
-
     | Tipo        | Link                                                                                               |
     | ----------- | ---------------------------------------------------------------------------------------------------------------- |
     | 🧩 Acordo de Cooperação Técnica | [Acordo de Cooperação Técnica Nº 107773432, entre IEPHA-MG e Fundação do Patrimônio Histórico e Artístico de Pernambuco (FUNDARPE)](https://iepha303-my.sharepoint.com/:b:/g/personal/lucas_fainblat_iepha_mg_gov_br/EbHwEMVFsXBDhyI7K8Y6YicBWFYHDhba4qOJ_cPTPn1N1Q?e=U6Fa7Q) |
@@ -282,10 +226,6 @@ Isso é principalmente importante nos casos de instrumentos celebrados junto a p
     |  | [Acordo de Cooperação Técnica nº 3/2025, entre Prefeitura do Município de São Paulo e Fundação Bienal de São Paulo](https://diariooficial.prefeitura.sp.gov.br/md_epubli_visualizar.php?Cbrgr-K4yy4jyMV5onWaAtJtkvsg8CFNbLzyuqdFm3lRALU_c67bR7xyCAVDI4-pdAB_uBK3sxMU87iOGKdSPx7R9Ep7JP3KfokBlIlwI5MTbsFveiy6xc0ToYnkjVrn) |
 
 === "💡 Marco do Fomento"
-
-    <div class="toc">
-    ### Marco Regulatório do Fomento à Cultura
-    </div>
 
     | Tipo        | Link | Observações |
     | ----------- | ---- | ----------- |
@@ -302,10 +242,6 @@ Isso é principalmente importante nos casos de instrumentos celebrados junto a p
 
 === "🌐 MROSC"
 
-    <div class="toc">
-    ### Marco Regulatório das Organizações da Sociedade Civil (MROSC)
-    </div>
-
     | Tipo        | Link |
     | ----------- | ---- |
     | 🌐 Marco Regulatório das Organizações da Sociedade Civil (MROSC) | [Página do SIGCON](https://sigconsaida.mg.gov.br/editais) (todos os editais, dispensas e inexigibilidades sobre parcerias do MROSC em Minas Gerais) |
@@ -320,10 +256,6 @@ Isso é principalmente importante nos casos de instrumentos celebrados junto a p
     |  | [Termo de Fomento nº 010/2024, entre Município de Nova Lima (MG) e Associação Pró-Cultura e Promoção das Artes (APPA)](https://drive.google.com/file/d/1CVUnz_fbk66dz84lZyScum0-yjZoAh_t/view) |
 
 === "💪 Modelo OSCIP/OS"
-
-    <div class="toc">
-    ### Modelo OSCIP/OS
-    </div>
 
     | Tipo        | Link |
     | ----------- | ---- |

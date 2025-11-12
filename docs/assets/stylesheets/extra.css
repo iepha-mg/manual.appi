@@ -24,12 +24,3 @@
   line-height: 1.4 !important;
 }
 .mermaid .node rect { rx: 6; ry: 6; }
-
-.toc h1,
-.toc h2,
-.toc h3,
-.toc h4,
-.toc h5,
-.toc h6 { 
-  display: none;
-}
