@@ -35,35 +35,38 @@ Todos os instrumentos jurídicos do Modelo OSCIP/OS envolvem transferência de r
 
 ---
 
-## 📋 Regras
+## 🏅 Vantagens
 
-=== "✅ Vantagens"
+- **Qualificação específica**: processo vinculado ao cumprimento de requisitos legais claros e objetivos
+- **Flexibilidade operacional**: possibilidade de gestão mais ágil de recursos e processos
+- **Acompanhamento sistemático**: comissões de supervisão e avaliação para monitoramento contínuo
+- **Descentralização eficiente**: melhoria na prestação de serviços com integração público-privada
 
-    - **Qualificação específica**: processo vinculado ao cumprimento de requisitos legais claros e objetivos
-    - **Flexibilidade operacional**: possibilidade de gestão mais ágil de recursos e processos
-    - **Acompanhamento sistemático**: comissões de supervisão e avaliação para monitoramento contínuo
-    - **Descentralização eficiente**: melhoria na prestação de serviços com integração público-privada
+---
 
-=== "📢 Chamamento"
+## 📢 Chamamento
 
-    - Seleção por meio de **processo público**, salvo inviabilidade de competição
-    - **Etapas**: publicação de edital, análise por comissão julgadora, publicação do resultado
-    - Procedimento público de **declaração de interesse** para definir propostas
+- Seleção por meio de **processo público**, salvo inviabilidade de competição
+- Etapas: publicação de edital, análise por comissão julgadora, publicação do resultado
+- Procedimento público de declaração de interesse para definir propostas
 
-=== "⏳ Vigência"
+---
 
-    - **Termo de Parceria (OSCIP)**: vigência renovável até o limite de 5 anos (art. 57 do Decreto Estadual nº 47.554/2018)
-    - **Contrato de Gestão (OS)**: vigência renovável até o limite de 20 anos (art. 60 do Decreto Estadual nº 47.553/2018)
-    - **Qualificação OSCIP**: válida por 3 anos, renovável (art. 7º, da Lei Estadual nº 23.081/2018)
-    - **Qualificação OS**: válida por até 3 anos, renovável (art. 49, da Lei Estadual nº 23.081/2018)
+## ⏳ Vigência
 
+- **Termo de Parceria (OSCIP)**: vigência renovável até o limite de 5 anos (art. 57 do Decreto Estadual nº 47.554/2018)
+- **Contrato de Gestão (OS)**: vigência renovável até o limite de 20 anos (art. 60 do Decreto Estadual nº 47.553/2018)
+- **Qualificação OSCIP**: válida por 3 anos, renovável (art. 7º, da Lei Estadual nº 23.081/2018)
+- **Qualificação OS**: válida por até 3 anos, renovável (art. 49, da Lei Estadual nº 23.081/2018)
 
-=== "👮🏻 Supervisão"
+---
 
-    - **Comissão supervisora** (Termo de Parceria - art. 43 do Decreto 47.554/2018) ou comissão de monitoramento (Contrato de Gestão - art. 46 do Decreto 47.553/2018)
-    - **Supervisor** com poder de veto em decisões relacionadas ao objeto da parceria (parágrafo único do art. 47 do Decreto nº 47.553/2018)
-    - **Auditoria** operacional pela Controladoria-Geral do Estado (art. 73 da Lei 23.081/2018)
-    - Controle do Ministério Público e Tribunal de Contas (art. 74 da Lei 23.081/2018)
+## 👮🏻 Supervisão
+
+- **Comissão supervisora** (Termo de Parceria - art. 43 do Decreto 47.554/2018) ou comissão de monitoramento (Contrato de Gestão - art. 46 do Decreto 47.553/2018)
+- **Supervisor** com poder de veto em decisões relacionadas ao objeto da parceria (parágrafo único do art. 47 do Decreto nº 47.553/2018)
+- **Auditoria** operacional pela Controladoria-Geral do Estado (art. 73 da Lei 23.081/2018)
+- Controle do Ministério Público e Tribunal de Contas (art. 74 da Lei 23.081/2018)
 
 ---
 
@@ -120,7 +123,7 @@ Com base na [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mi
 
     ```
 
-=== "Estruturas de governança"
+=== "🔒 Estruturas de governança"
 
     - **Comissão julgadora**: analisa e seleciona propostas, classificando entidades (art. 16, inciso II da Lei nº 23.081/2018 para OSCIP; art. 59, inciso II da Lei nº 23.081/2018 para OS)
     - **Comissão Supervisora**: acompanha a execução de Termos de Parceria (art. 26, §§ 2º e 3º da Lei nº 23.081/2018 para OSCIP)
@@ -128,7 +131,7 @@ Com base na [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mi
     - **Comissão de Avaliação**: avalia resultados trimestralmente (art. 32, § 1º da Lei nº 23.081/2018 para OSCIP; art. 76, § 1º da Lei nº 23.081/2018 para OS)
     - **Gestores de Parceria**: responsáveis pelo acompanhamento direto (art. 25 da Lei nº 23.081/2018 para OSCIP - Órgão Estatal Parceiro; art. 68 da Lei nº 23.081/2018 para OS - Órgão Estatal Parceiro)
 
-=== "Controle e Fiscalização"
+=== "🛂 Controle e Fiscalização"
 
     - Prestação de contas focada em resultados e metas
     - Monitoramento contínuo com visitas técnicas
@@ -136,7 +139,7 @@ Com base na [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mi
     - Auditoria da Controladoria-Geral do Estado
     - Transparência ativa com publicação de relatórios
 
-=== "Coordenação"
+=== "🛞 Coordenação"
 
     O programa é coordenado pela **Secretaria de Estado de Planejamento e Gestão (SEPLAG)** para parcerias com OSCIPs e OSs, e pela **Secretaria de Estado de Governo (SEGOV)** para Serviços Sociais Autônomos.
 
