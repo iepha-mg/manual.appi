@@ -1,5 +1,17 @@
 ﻿# 🚂 Fundações de Apoio
 
+## 💎 Dicas
+
+| Item | Resposta  |
+|------|-----------|
+| **📢 Precisa de Seleção Pública?** | • Não: é necessário o credenciamento da instituição interessada enquanto *Fundação de Apoio*, mediante requisição à Secretaria de Estado de Desenvolvimento Econômico (SEDE), conforme art. 3º da [Resolução SEDE nº 19/2022](http://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=199806&marc=) e o art. 5º da [Lei Estadual nº 22.929/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=22929&comp=&ano=2018) |
+| **🤝 Tipos de parceiros** | • Fundações de apoio credenciadas pela SEDE, sendo: <br> &nbsp;&nbsp;&nbsp;&nbsp;• Instituições Científicas, Tecnológicas e de Inovação (ICTs) <br> &nbsp;&nbsp;&nbsp;&nbsp;• Instituições Estaduais de Ensino Superior (IEES) |
+| **💰 Envolve transferência de recursos?**                       | • Pode envolver ou não: transferências financeiras ou patrimoniais são permitidas para execução de projetos de pesquisa, ensino, extensão ou inovação (arts. 6º, 9º, 12 e 13 da [Lei Estadual nº 22.929/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=22929&comp=&ano=2018) <br> • No caso do IEPHA-MG, é possível celebrar parceria sem envolvimento de transferências de recursos, tendo por objetivo a proposição, captação e execução de projetos incentivados, por exemplo |
+| **⏳ Vigência máxima**                                           | 8 anos (incluindo prorrogações) para o certificado de registro e credenciamento como Fundação de Apoio, conforme art. 5º da [Resolução SEDE nº 19/2022](http://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=199806&marc=) |
+| **🔒 Exige prestação de contas formal?**                        | • Prestação de contas simplificada (art. 79, inciso IX, e capítulo IX do  [Decreto nº 47.442/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=47442&comp=&ano=2018)) <br> &nbsp;&nbsp;&nbsp;&nbsp;• Relatório técnico-científico <br> &nbsp;&nbsp;&nbsp;&nbsp;• Relatório de informações sobre a aplicação dos recursos da parceria |
+| **👮🏻 Exige gestor/fiscal designado?**                          | • Sim: servidor (ou comissão) responsável pela execução, operacionalização e monitoramento (art. 90, § 1º do [Decreto nº 47.442/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=47442&comp=&ano=2018)) |
+
+
 As Fundações de Apoio são entidades privadas sem fins lucrativos criadas para apoiar instituições públicas na pesquisa, ensino e extensão, oferecendo suporte administrativo, financeiro e técnico. Sua atuação no âmbito do Iepha-MG obedece ao seguinte arcabouço normativo estadual:
 
 - [**Lei Estadual nº 17.348/2008**](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=Lei&num=17348&ano=2008)  
@@ -18,9 +30,8 @@ As Fundações de Apoio são entidades privadas sem fins lucrativos criadas para
   Marco inicial que definiu as Fundações de Apoio como instrumentos de apoio à pesquisa e à extensão nas instituições estaduais.
 
 - [**Resolução SEDE nº 19/2022**](http://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=199806&marc=) (13/04/2022)  
-  Estabelece critérios para registro, credenciamento e descredenciamento das Fundações de Apoio na Secretaria de Estado de Desenvolvimento Econômico – SEDE.  
-  - Art. 3º: “Expediente para registro e credenciamento da fundação de apoio será elaborado no âmbito da ICTMG ou IEES, observado o estabelecido nos arts. 5º, 6º, 8º e 11 da Lei Estadual nº 22.929/2018, que o remeterá à SEDE/GATMG.”  
-  - Permite o **credenciamento direto** de instituições como Fundações de Apoio, sem necessidade de intermediação adicional.
+
+---
 
 ## ✅ Principais vantagens das Fundações de Apoio
 
@@ -29,6 +40,8 @@ As Fundações de Apoio são entidades privadas sem fins lucrativos criadas para
 - Fortalecimento da **governança**, com conselhos gestores paritários e transparência em prestações de contas  
 - **Suporte técnico** e operacional dedicado ao desenvolvimento de projetos de conservação, restauração e pesquisa  
 - Ampliação de **parcerias nacionais e internacionais**, com contratos adaptados às exigências de cada doador  
+
+> Diferencial: As Fundações de Apoio utilizadas pelo Iepha-MG permitem maior autonomia operacional e redução de entraves burocráticos, adequando-se às necessidades específicas de gestão de patrimônio cultural.
 
 ## 🌟 Exemplos de aplicação em parceria com o Iepha-MG
 
@@ -44,5 +57,3 @@ As Fundações de Apoio são entidades privadas sem fins lucrativos criadas para
    - Publicação de artigos, catálogos e exposições 
 5. **Formação e capacitação**  
    - Cursos, oficinas e seminários para servidores e comunidades locais  
-
-> Diferencial: As Fundações de Apoio utilizadas pelo Iepha-MG permitem maior autonomia operacional e redução de entraves burocráticos, adequando-se às necessidades específicas de gestão de patrimônio cultural.
