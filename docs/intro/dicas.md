@@ -217,7 +217,7 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
       - Enviar a proposta de parceria e documentos preliminares à `APPI`
       - Solicitar por SEI, e-mail ou reunião
     - **Documentos:**
-      - Ofício, Memorando ou Carta de Intenções (consulte um modelo [aqui](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EYdfxSvs8RBGiVch2U930DQBEUJdB1DgexiM9XD4DYPPdw?e=RDK8Ga))
+      - Ofício, Memorando ou Carta de Intenções (consulte um modelo [aqui](../assets/documents/modelos_01_solicitao_parceria.docx))
       - Portfólio da `entidade parceira` e apresentação do projeto, se houver (consulte exemplos: [aqui](https://www.gov.br/iphan/pt-br/assuntos/andancas/CadernoAndanasdoPatrimniofinal22_041.pdf) ou [aqui](https://museudarepublica.museus.gov.br/wp-content/uploads/2019/02/revista-do-professor_PEJA_para-internet.pdf))
     - **Prazo:** N/A (sob demanda)
 
@@ -262,7 +262,7 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
     | :--- | :--- | :--- |
     | **✅ A parceria faz sentido pro `IEPHA-MG`?** | Está alinhada ao PPAG / cabe no estatuto / possui coerência com a estratégia institucional / é de interesse público | |
     | **✅ A parceria é viável na prática?** | Os resultados são atingíveis / o `IEPHA-MG` possui meios para cumprir com as suas obrigações | |
-    | **✅ Qual o marco regulatório e instrumento jurídico ideal para a parceria?** | `APPI` deve decidir com base nas respostas abaixo | [MRFC](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MRFC/README.html) / [MROSC](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/MROSC/README.html) / [Modelo OSCIP/OS](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/descentralizacao/README.html) / [Fundações de Apoio](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/fundacoes/README.html) / [Acordo de Cooperação Técnica](https://iepha-mg.github.io/manual.appi/paginas/marcos_regulatorios/ACT/README.html) |
+    | **✅ Qual o marco regulatório e instrumento jurídico ideal para a parceria?** | `APPI` deve decidir com base nas respostas abaixo | [MRFC](../parcerias/marco-do-fomento/index.md) / [MROSC](../parcerias/mrosc/index.md) / [Modelo OSCIP/OS](../parcerias/descentralizacao/index.md) / [Fundações de Apoio](../parcerias/fundacoes/index.md) / [Acordo de Cooperação Técnica](../parcerias/act/index.md) |
     | | ✅ Envolve transferências de recursos, comodato ou ocupação de espaço? | Sim / Não |
     | | ✅ Envolve concessão de bolsas, prêmios ou fomento a projetos? | Sim / Não |
     | | ✅ Foi proposta por alguma `entidade parceira` ou pelo `IEPHA-MG`? | Proposta pela `entidade parceira` / Proposta pelo `IEPHA-MG` |
@@ -403,7 +403,7 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
       - Encaminhar `processo SEI` à `APPI`
     - **Documentos:**
       - Correspondência de encaminhamento (memorando no SEI)
-      - `nota técnica` (documento no SEI; consulte um modelo [aqui](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EQjHT3MfaOxLvOt_eijbS0UBjqPOARFzOHEzE3M0ZfpTBQ?e=G6poy7))
+      - `nota técnica` (documento no SEI; consulte um modelo [aqui](../assets/documents/modelos_02_nota_tecnica_interna.docx))
     - **Prazo:** até `5 dias úteis`
 
 === "✅ Checklist"
@@ -501,7 +501,7 @@ Agora que já identificamos cada etapa, é hora de entrar nos detalhes.
       - Assinar e publicar `edital de chamamento público`
     - **Documentos:**
       - Correspondência de encaminhamento (memorando no SEI)
-      - `nota saneadora` (documento no SEI; consulte um modelo [aqui](https://iepha303-my.sharepoint.com/:w:/g/personal/lucas_fainblat_iepha_mg_gov_br/EZO8QeWCKNZLpIBIvvBUFTkBuLOG3LKL0L-vUQP94i2D6w?e=UyOhXf))
+      - `nota saneadora` (documento no SEI; consulte um modelo [aqui](../assets/documents/modelos_03_nota_saneadora.docx))
       - `edital de chamamento público`, se for o caso
     - **Prazo:** até `5 dias úteis`
 
