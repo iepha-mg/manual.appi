@@ -1,11 +1,28 @@
 ﻿# 🏢 Contrato de Gestão (OS)
 
+## 💎 Dicas
+
+| Item | Resposta  |
+|------|-----------|
+| **📢 Precisa de Chamamento Público?**                       | Sim: obrigatório para seleção de OSs, salvo exceções legais – art. 60 da [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) |
+| **🤝 Tipos de parceiros**                                   | • Organizações Sociais (OS) <br> • Órgãos públicos estaduais como intervenientes (compõem Comissão de Avaliação / Monitoramento) |
+| **💰 Envolve transferência de recursos ou cessão patrimonial?** | • Sim: recursos financeiros e patrimoniais podem ser transferidos para execução do objeto da parceria, segundo metas, indicadores e programa de trabalho |
+| **⏳ Vigência máxima**                                      | • 20 anos, incluindo aditivos (art. 65, § 2º da [Lei 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1)) |
+| **🔒 Exige prestação de contas formal? Qual?**              | • Checagens amostrais e de efetividade (usualmente trimestrais) <br> • Relatórios gerenciais financeiro e de resultados (idem) <br> • Relatórios de avaliação (idem) <br> • Prestação de contas anual <br> • Prestação de contas sob demanda (cf. art. 66 do [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1)) <br> • Apresentação de documentos: relatórios gerenciais, extratos bancários, parecer conselho fiscal/OS, balanços patrimoniais, entre outros <br>  • Prestação de contas de extinção |
+| **👮🏻 Exige servidor designado como gestor/fiscal/equivalente?** | • Supervisão formal exigida: Comissão de Monitoramento e de Avaliação instituídas pelo Iepha-MG e OS (arts. 46, 49, 54, 55 do [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1)) <br> • Supervisor preside a Comissão de Monitoramento/Avaliação, elabora parecer conclusivo de contas e acompanha execução técnico-financeira                                     |
+
+---
+
 ## 📌 Definição
 O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria entre a administração pública e uma Organização Social (OS) para a execução descentralizada de atividades e serviços de interesse público, geralmente de grande porte e duração, com transferência de recursos e definição de metas e indicadores de resultados (Lei Estadual nº 23.081/2018, art. 2º, V).
 
+---
+
 ## 🏛️ Regulamentação
 [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) e [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1). Daqui em diante, utilizaremos "Lei" ou "Decreto" para citar essas normas.
-> **Você sabia?** Existe a possibilidade de cessão de servidores públicos para trabalhar em Organizações Sociais (OS). Os procedimentos específicos estão no [Decreto Estadual nº 47.742/2019](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47742/2019/?cons=1). Entretanto, nesta página não vamos tratar desse tema, já que nosso foco é o funcionamento do Modelo OS em si. 
+> **Você sabia?** Existe a possibilidade de cessão de servidores públicos para trabalhar em Organizações Sociais (OS). Os procedimentos específicos estão no [Decreto Estadual nº 47.742/2019](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47742/2019/?cons=1).
+
+---
 
 ## 🎯 Objetivos
 - Execução eficiente de atividades e serviços de interesse público
@@ -13,58 +30,72 @@ O **Contrato de Gestão** é o instrumento jurídico que formaliza a parceria en
 - Impulsionar resultados por metas, controle e avaliação transparente
 - Promover descentralização com eficiência administrativa
 
+---
+
 ## 🛠️ Exemplos de aplicação no Iepha-MG
 1. Gestão e operação de espaços e centros culturais
 2. Administração e modernização de bibliotecas, acervos e arquivos
 3. Gerenciamento de bens tombados voltado à ocupação cultural e visitação pública
 4. Promoção de atividades culturais e educativas de longo prazo
 
-## ✅ Pode
-**Recursos podem ser usados para atender ao objeto do contrato de gestão:**
-- Pagamento de equipes técnicas, administrativas e operacionais
-- Manutenção, operação e bens patrimoniais dos espaços geridos
-- Aquisição de materiais, equipamentos e serviços necessários à execução do objeto
-- Despesas de custeio e investimentos necessários à execução do objeto
-- Divulgação das atividades e resultados do Contrato de Gestão (com atenção ao art. 84 do Decreto)
-- Contratação de obras, serviços e consultorias (com aprovação prévia)
-- Outras despesas previstas no programa de trabalho e na memória de cálculo aprovados
+---
 
-**Facilidades administrativas:**
-- OS possui autonomia na gestão dos recursos dentro do objeto pactuado
-- Possibilidade de remanejamento entre subcategorias de despesas _desde que respeitado o valor global planejado da categoria e as condições estabelecidas no edital de seleção_
-- Aplicação de rendimentos obtidos para composição de reserva de recursos com vistas a (art. 89, § 1º do Decreto):
-   - demandas judiciais ou administrativas
-   - despesas oriundas de eventual atraso de repasse de recursos
-   - despesas de desmobilização quando encerrada a parceria
-- Aplicação de rendimentos obtidos diretamente no objeto da parceria (art. 86 do Decreto)
-- Possibilidade de atualização do programa de trabalho mediante aditivo (art. 61 do Decreto)
-- Possibilidade de adaptação do regulamento de compras e contratações à realidade e necessidade da política pública
-- Gestão baseada em resultados: toda a execução é voltada ao alcance das metas estabelecidas no programa de trabalho, direcionando os esforços e evidenciando os resultados alcançados
-- Possibilidade de cessão de servidores efetivos para exercício na OS ([Decreto Estadual nº 47.742/2019](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47742/2019/?cons=1))
-- Possibilidade de selecionar entidades _antes de se qualificarem como OS_. Mas, **atenção!** A qualificação é **obrigatória** para a assinatura do Contrato de Gestão.
+## 📋 Regras
+=== "✅ Pode"
 
-## ❌ Não pode
-⚠️ **Proibições absolutas:**
-- Empregar recursos em despesas alheias ao objeto pactuado
-- Pagar taxas administrativas (art. 90, I do Decreto), multas, juros ou encargos (art. 86, §10 do Decreto)
-- Iniciar a execução do contrato antes da sua entrada em vigência
-- Executar despesas ou liberar recursos à OS antes da aprovação do Regulamento de Compras e Contratações (art. 38 do Decreto)
-- Pagar agentes públicos com recursos do Contrato de Gestão, salvo servidores cedidos à OS (art. 90, II e III do Decreto)
-- Executar despesas de publicidade, salvo as de caráter educativo, informativo ou de orientação social (art. 90, IV do Decreto)
+    **Recursos podem ser usados para atender ao objeto do contrato de gestão:**
 
-⚠️ **Exigências obrigatórias:**
-- Seleção pública prévia (com exceções legais – art. 60 da Lei)
-- Apresentação de programa de trabalho e memória de cálculo do Contrato de Gestão (art. 31, § 1º, I a V do Decreto), construídos conjuntamente entre o IEPHA-MG e a OS, de acordo com os parâmetros do edital
-- Regularidade jurídica, fiscal e trabalhista da OS (art. 35 do Decreto)
-- Designação da Comissão de Monitoramento pelo IEPHA-MG e de Comissão de Avaliação pelo IEPHA-MG e OS (art. 46 e art. 54 do Decreto)
+    - Pagamento de equipes técnicas, administrativas e operacionais
+    - Manutenção, operação e bens patrimoniais dos espaços geridos
+    - Aquisição de materiais, equipamentos e serviços necessários à execução do objeto
+    - Despesas de custeio e investimentos necessários à execução do objeto
+    - Divulgação das atividades e resultados do Contrato de Gestão (com atenção ao art. 84 do Decreto)
+    - Contratação de obras, serviços e consultorias (com aprovação prévia)
+    - Outras despesas previstas no programa de trabalho e na memória de cálculo aprovados
+
+    **Facilidades administrativas:**
+    
+    - OS possui autonomia na gestão dos recursos dentro do objeto pactuado
+    - Possibilidade de remanejamento entre subcategorias de despesas _desde que respeitado o valor global planejado da categoria e as condições estabelecidas no edital de seleção_
+    - Aplicação de rendimentos obtidos para composição de reserva de recursos com vistas a (art. 89, § 1º do Decreto):
+    - demandas judiciais ou administrativas
+    - despesas oriundas de eventual atraso de repasse de recursos
+    - despesas de desmobilização quando encerrada a parceria
+    - Aplicação de rendimentos obtidos diretamente no objeto da parceria (art. 86 do Decreto)
+    - Possibilidade de atualização do programa de trabalho mediante aditivo (art. 61 do Decreto)
+    - Possibilidade de adaptação do regulamento de compras e contratações à realidade e necessidade da política pública
+    - Gestão baseada em resultados: toda a execução é voltada ao alcance das metas estabelecidas no programa de trabalho, direcionando os esforços e evidenciando os resultados alcançados
+    - Possibilidade de cessão de servidores efetivos para exercício na OS ([Decreto Estadual nº 47.742/2019](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47742/2019/?cons=1))
+    - Possibilidade de selecionar entidades _antes de se qualificarem como OS_. Mas, **atenção!** A qualificação é **obrigatória** para a assinatura do Contrato de Gestão.
+
+=== "❌ Não pode"
+
+    ⚠️ **Proibições absolutas:**
+
+    - Empregar recursos em despesas alheias ao objeto pactuado
+    - Pagar taxas administrativas (art. 90, I do Decreto), multas, juros ou encargos (art. 86, §10 do Decreto)
+    - Iniciar a execução do contrato antes da sua entrada em vigência
+    - Executar despesas ou liberar recursos à OS antes da aprovação do Regulamento de Compras e Contratações (art. 38 do Decreto)
+    - Pagar agentes públicos com recursos do Contrato de Gestão, salvo servidores cedidos à OS (art. 90, II e III do Decreto)
+    - Executar despesas de publicidade, salvo as de caráter educativo, informativo ou de orientação social (art. 90, IV do Decreto)
+
+    ⚠️ **Exigências obrigatórias:**
+
+    - Seleção pública prévia (com exceções legais – art. 60 da Lei)
+    - Apresentação de programa de trabalho e memória de cálculo do Contrato de Gestão (art. 31, § 1º, I a V do Decreto), construídos conjuntamente entre o IEPHA-MG e a OS, de acordo com os parâmetros do edital
+    - Regularidade jurídica, fiscal e trabalhista da OS (art. 35 do Decreto)
+    - Designação da Comissão de Monitoramento pelo IEPHA-MG e de Comissão de Avaliação pelo IEPHA-MG e OS (art. 46 e art. 54 do Decreto)
+
+---
 
 ## 📢 Seleção pública
 Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispensa/indeferimento nos termos legais (art. 60 da Lei).
 
-### ↔️ Fluxo Resumido do Contrato de Gestão
-
-<div class="mermaid">
-flowchart LR
+=== "↔️ Fluxo Resumido do Contrato de Gestão"
+        
+    ```mermaid
+    %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
+    flowchart LR
     subgraph Publicação
         A1["Solicitar análise do estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto)"]
         A2["Elaborar edital e minuta de Contrato de Gestão (arts. 12 e 31 do Decreto)"]
@@ -91,91 +122,122 @@ flowchart LR
         C1 --> C2 --> C3 --> C4 --> C5
     end
     Publicação --> Julgamento --> Celebração
-</div>
+          classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+    ```
 
-### ⏱️ Prazos relevantes
+=== "⏱️ Prazos relevantes"
 
-| Etapa                                                                                            | Prazo                                                | Base Legal                           |
-|--------------------------------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------|
-| Publicidade do edital                                                                            | 15 dias úteis (mínimo)                               | Art. 12, §3º do Decreto              |
-| Apresentação de propostas                                                                        | 5 dias úteis (mínimo)                                | Art. 12, §4º do Decreto              |
-| Apresentação de recursos                                                                         | 5 dias úteis (mínimo)                                | Art. 21, §1º do Decreto              |
-| Análise de recursos                                                                              | Até 5 dias úteis (prorrogável por igual período)     | Art. 21, §2º do Decreto              |
-| Publicação do Contrato de Gestão e sua Memória de Cálculo (IEPHA-MG e OS)                        | Até 5 dias úteis após início da vigência             | Art. 37, §2º do Decreto              |
-| Realização de checagens amostrais e de efetividade (IEPHA-MG e OS)                               | Trimestralmente (conforme Contrato de Gestão)        | Art. 51 do Decreto                   |
-| Entrega de Relatórios Gerenciais de Resultados e Financeiro (OS)                                 | Até 7 dias úteis após fim do período avaliatório     | Art. 50, §2º do Decreto              |
-| Elaboração do Relatório de Monitoramento (Comissão de Monitoramento)                             | Até 8 dias úteis após etapa anterior                 | Art. 52, parágrafo único do Decreto  |
-| Encaminhamento do Relatório de Monitoramento à Comissão de Avaliação (Comissão de Monitoramento) | 5 dias úteis antes da reunião da Comissão de Avaliação (mínimo) | Art. 55, § 4º do Decreto  |
-| Publicação de Relatórios de Resultados, Financeiro e de Monitoramento (IEPHA-MG e OS)            | Trimestralmente (conforme supervisor)                | Art. 53 do Decreto                   |
-| Realização de Reunião de Avaliação (IEPHA-MG e OS)                                               | Trimestralmente (data definida pelo supervisor)      | Art. 55, § 1º do Decreto             |
-| Publicação de Relatório de Avaliação (IEPHA-MG e OSCIP)                                          | Até 5 dias úteis após formalização do documento      | Art. 56, § 2º do Decreto             |
-| Prestação de contas (OSCIP)                                                                      | Até 90 dias corridos após competência/extinção       | Art. 68 do Decreto                   |
-| Análise da prestação de contas (unidade de prestação de contas do IEPHA-MG)                      | Até 20 dias úteis após o recebimento                 | Art. 68, §1º do Decreto              |
-| Elaboração de parecer conclusivo sobre prestação de contas (dirigente máximo)                    | Até 10 dias úteis após o recebimento                 | Art. 70 do Decreto                   |
+    | Etapa                                                                                            | Prazo                                                | Base Legal                           |
+    |--------------------------------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------|
+    | Publicidade do edital                                                                            | 15 dias úteis (mínimo)                               | Art. 12, §3º do Decreto              |
+    | Apresentação de propostas                                                                        | 5 dias úteis (mínimo)                                | Art. 12, §4º do Decreto              |
+    | Apresentação de recursos                                                                         | 5 dias úteis (mínimo)                                | Art. 21, §1º do Decreto              |
+    | Análise de recursos                                                                              | Até 5 dias úteis (prorrogável por igual período)     | Art. 21, §2º do Decreto              |
+    | Publicação do Contrato de Gestão e sua Memória de Cálculo (IEPHA-MG e OS)                        | Até 5 dias úteis após início da vigência             | Art. 37, §2º do Decreto              |
+    | Realização de checagens amostrais e de efetividade (IEPHA-MG e OS)                               | Trimestralmente (conforme Contrato de Gestão)        | Art. 51 do Decreto                   |
+    | Entrega de Relatórios Gerenciais de Resultados e Financeiro (OS)                                 | Até 7 dias úteis após fim do período avaliatório     | Art. 50, §2º do Decreto              |
+    | Elaboração do Relatório de Monitoramento (Comissão de Monitoramento)                             | Até 8 dias úteis após etapa anterior                 | Art. 52, parágrafo único do Decreto  |
+    | Encaminhamento do Relatório de Monitoramento à Comissão de Avaliação (Comissão de Monitoramento) | 5 dias úteis antes da reunião da Comissão de Avaliação (mínimo) | Art. 55, § 4º do Decreto  |
+    | Publicação de Relatórios de Resultados, Financeiro e de Monitoramento (IEPHA-MG e OS)            | Trimestralmente (conforme supervisor)                | Art. 53 do Decreto                   |
+    | Realização de Reunião de Avaliação (IEPHA-MG e OS)                                               | Trimestralmente (data definida pelo supervisor)      | Art. 55, § 1º do Decreto             |
+    | Publicação de Relatório de Avaliação (IEPHA-MG e OSCIP)                                          | Até 5 dias úteis após formalização do documento      | Art. 56, § 2º do Decreto             |
+    | Prestação de contas (OSCIP)                                                                      | Até 90 dias corridos após competência/extinção       | Art. 68 do Decreto                   |
+    | Análise da prestação de contas (unidade de prestação de contas do IEPHA-MG)                      | Até 20 dias úteis após o recebimento                 | Art. 68, §1º do Decreto              |
+    | Elaboração de parecer conclusivo sobre prestação de contas (dirigente máximo)                    | Até 10 dias úteis após o recebimento                 | Art. 70 do Decreto                   |
+
+---
 
 ## 📝 Programa de trabalho
+
 **Deve conter:** (art. 32 do Decreto)
-- ✅ Quadro e atributos dos indicadores com metas, prazos e descrições detalhadas
-- ✅ Quadro e atributos dos produtos, quando necessário, com prazos e descrições
-- ✅ Cronograma de Desembolsos
-- ✅ Cronograma de Avaliações
-- ✅ Quadro de pesos para avaliação
+
+- Quadro e atributos dos indicadores com metas, prazos e descrições detalhadas
+- Quadro e atributos dos produtos, quando necessário, com prazos e descrições
+- Cronograma de Desembolsos
+- Cronograma de Avaliações
+- Quadro de pesos para avaliação
+
+---
 
 ## 🔍 Monitoramento e avaliação
-O **Supervisor do Contrato de Gestão** deve (art. 47 do Decreto):
-- Presidir a Comissão de Monitoramento
-- Presidir a Comissão de Avaliação (art. 55, § 1º do Decreto)
-- Acompanhar e fiscalizar a execução
-- Analisar relatórios de resultados e relatórios financeiros elaborados e entregues pela OS
-- Emitir relatórios de monitoramento
-- Informar irregularidades à Comissão de Monitoramento e a seu superior hierárquico
-- Participar com poder de veto nas decisões da OSCIP relativas ao termo de parceria
 
-A **Comissão de Monitoramento** deve (art. 49 do Decreto):
-- Ser composta por supervisor e supervisor adjunto
-- Monitorar a execução física e financeira do Contrato de Gestão
-- Realizar checagens amostrais dos procedimentos de compras e contratações, elaborando os relatórios pertinentes
-- Conferir metas e resultados, realizando checagens amostrais de processos de compras e contratações
-- Solicitar auxílio das unidades jurídica ou financeira do IEPHA-MG se for necessário
+=== "👮🏻 Supervisor"
 
-A **Comissão de Avaliação** deve (art. 54 e art. 55 do Decreto):
-- Reunir-se trimestralmente, no mínimo
-- Ser integrada por representantes do IEPHA-MG, Órgão Estatal Interveniente (se houver), OS, Seplag e Conselho de políticas públicas (frequentemente o CONEP, no caso do IEPHA-MG) e especialista da área
-- Analisar resultados alcançados por meio dos relatórios de monitoramento
-- Elaborar relatórios de avaliação
-- Recomendar rescisão do Contrato de Gestão em caso de irregularidades
-- Solicitar reuniões extraordinárias sempre que necessário
+    O **Supervisor do Contrato de Gestão** deve (art. 47 do Decreto):
+
+    - Presidir a Comissão de Monitoramento
+    - Presidir a Comissão de Avaliação (art. 55, § 1º do Decreto)
+    - Acompanhar e fiscalizar a execução
+    - Analisar relatórios de resultados e relatórios financeiros elaborados e entregues pela OS
+    - Emitir relatórios de monitoramento
+    - Informar irregularidades à Comissão de Monitoramento e a seu superior hierárquico
+    - Participar com poder de veto nas decisões da OSCIP relativas ao termo de parceria
+
+=== "🔍 Comissão de Monitoramento"
+
+    A **Comissão de Monitoramento** deve (art. 49 do Decreto):
+
+    - Ser composta por supervisor e supervisor adjunto
+    - Monitorar a execução física e financeira do Contrato de Gestão
+    - Realizar checagens amostrais dos procedimentos de compras e contratações, elaborando os relatórios pertinentes
+    - Conferir metas e resultados, realizando checagens amostrais de processos de compras e contratações
+    - Solicitar auxílio das unidades jurídica ou financeira do IEPHA-MG se for necessário
+
+=== "🎖️ Comissão de Avaliação"
+
+    A **Comissão de Avaliação** deve (art. 54 e art. 55 do Decreto):
+
+    - Reunir-se trimestralmente, no mínimo
+    - Ser integrada por representantes do IEPHA-MG, Órgão Estatal Interveniente (se houver), OS, Seplag e Conselho de políticas públicas (frequentemente o CONEP, no caso do IEPHA-MG) e especialista da área
+    - Analisar resultados alcançados por meio dos relatórios de monitoramento
+    - Elaborar relatórios de avaliação
+    - Recomendar rescisão do Contrato de Gestão em caso de irregularidades
+    - Solicitar reuniões extraordinárias sempre que necessário
 
 ## 🔒 Prestação de contas
-### 👮 Tipos de prestação de contas (art. 66 do Decreto)
-1. **Prestação de contas anual**: apresentada até 90 dias após o fim do exercício
-2. **Prestação de contas de extinção**: apresentada até 90 dias após extinção do contrato de gestão
-3. **Prestação de contas sob demanda**: apresentada sempre que solicitada pela IEPHA-MG
 
-### 📋 Principais documentos exigidos (art. 67 do Decreto)
-1. Relatório de execução do objeto com comprovação das metas alcançadas
-2. Relatórios gerenciais de resultados e financeiro
-3. Relatórios de Monitoramento, Avaliação e de Checagens Amostrais
-4. Extratos bancários de todas as contas vinculadas ao Contrato de Gestão
-5. Parecer do conselho fiscal ou órgão equivalente da OS
-6. Balanço patrimonial e demonstração de resultados do exercício
+=== "🗝️ Tipos"
 
-### 👮 Análise da prestação de contas
-- A OS deverá encaminhar ao OEP a prestação de contas anual em até 90 dias corridos após o término de cada exercício (art. 68 do Decreto)
-- A área de prestação de contas do IEPHA-MG deverá analisar e emitir parecer em até 20 dias úteis a partir do recebimento (art. 68, § 1º do Decreto)
-- Caso haja irregularidades, o IEPHA-MG deve notificar a OS, que terá 30 dias úteis para justificar ou sanear irregularidades (art. 68, § 2º do Decreto)
-- Recebida a resposta da OS, as áreas técnicas competentes e a área de prestação de contas deverá complementar o parecer em até 20 dias úteis (art. 68, § 3º do Decreto)
-- Então, o Supervisor do Contrato de Gestão deverá elaborar um parecer conclusivo sobre a prestação de contas e o enviar ao dirigente máximo do IEPHA-MG (art. 69 do Decreto)
-- Finalmente, o Dirigente Máximo terá 10 dias úteis para aprovar as contas com ou sem ressalvas, ou reprovar as contas (art. 70 do Decreto)
+    **Tipos de prestação de contas** (art. 66 do Decreto):
 
-| **Situação**                    | **Ato do Dirigente Máximo**       | **Resultado**               |
-|---------------------------------|-----------------------------------|-----------------------------|
-| Regular execução do Contrato de Gestão   | Aprovação sem ressalvas (art. 70, I do Decreto)           | Publicação da Aprovação (art. 70, §2º do Decreto) |
-|  Irregularidade ou invalidade de natureza formal que não resulte em dano ao erário    | Aprovação com ressalvas (art. 70, II do Decreto)  | Publicação da Aprovação ou, em caso de irregularidades graves ou insanáveis, Representação ao Tribunal de Contas do Estado de Minas Gerais (art. 70, §1º do Decreto) |
-| Dano ao erário ou a falta de comprovação total ou parcial da aplicação de recursos do contrato de gestão             | Reprovação das contas (art. 70, III, do Decreto)  | Instaurar PACE-Parcerias (art. 70, §3º do Decreto) |
+    1. **Prestação de contas anual**: apresentada até 90 dias após o fim do exercício
+    2. **Prestação de contas de extinção**: apresentada até 90 dias após extinção do contrato de gestão
+    3. **Prestação de contas sob demanda**: apresentada sempre que solicitada pela IEPHA-MG
+
+
+=== "📋 Documentação"
+
+    **Principais documentos exigidos** (art. 67 do Decreto):
+
+    1. Relatório de execução do objeto com comprovação das metas alcançadas
+    2. Relatórios gerenciais de resultados e financeiro
+    3. Relatórios de Monitoramento, Avaliação e de Checagens Amostrais
+    4. Extratos bancários de todas as contas vinculadas ao Contrato de Gestão
+    5. Parecer do conselho fiscal ou órgão equivalente da OS
+    6. Balanço patrimonial e demonstração de resultados do exercício
+
+=== "🔬 Análise"
+
+    **Análise da prestação de contas**:
+
+    - A OS deverá encaminhar ao OEP a prestação de contas anual em até 90 dias corridos após o término de cada exercício (art. 68 do Decreto)
+    - A área de prestação de contas do IEPHA-MG deverá analisar e emitir parecer em até 20 dias úteis a partir do recebimento (art. 68, § 1º do Decreto)
+    - Caso haja irregularidades, o IEPHA-MG deve notificar a OS, que terá 30 dias úteis para justificar ou sanear irregularidades (art. 68, § 2º do Decreto)
+    - Recebida a resposta da OS, as áreas técnicas competentes e a área de prestação de contas deverá complementar o parecer em até 20 dias úteis (art. 68, § 3º do Decreto)
+    - Então, o Supervisor do Contrato de Gestão deverá elaborar um parecer conclusivo sobre a prestação de contas e o enviar ao dirigente máximo do IEPHA-MG (art. 69 do Decreto)
+    - Finalmente, o Dirigente Máximo terá 10 dias úteis para aprovar as contas com ou sem ressalvas, ou reprovar as contas (art. 70 do Decreto)
+
+===+ "🎯 Tabela sintética"
+
+    | **Situação**                    | **Ato do Dirigente Máximo**       | **Resultado**               |
+    |---------------------------------|-----------------------------------|-----------------------------|
+    | Regular execução do Contrato de Gestão   | Aprovação sem ressalvas (art. 70, I do Decreto)           | Publicação da Aprovação (art. 70, §2º do Decreto) |
+    |  Irregularidade ou invalidade de natureza formal que não resulte em dano ao erário    | Aprovação com ressalvas (art. 70, II do Decreto)  | Publicação da Aprovação ou, em caso de irregularidades graves ou insanáveis, Representação ao Tribunal de Contas do Estado de Minas Gerais (art. 70, §1º do Decreto) |
+    | Dano ao erário ou a falta de comprovação total ou parcial da aplicação de recursos do contrato de gestão             | Reprovação das contas (art. 70, III, do Decreto)  | Instaurar PACE-Parcerias (art. 70, §3º do Decreto) |
 
 ## 🔍 Saiba mais!
-Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os) e no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html).
+Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os) e no nosso [Repositório de Parcerias](../../biblioteca/index.md).
+
 - [Modelo de qualificação como OS](https://www.mg.gov.br/system/files/media/planejamento/documento_detalhado/2023/modelo_requerimento_qualificacao_os.doc)
 - [Modelo de solicitação de estudo de viabilidade](https://www.mg.gov.br/planejamento/documento/modelo-de-solicitacao-de-estudo-de-viabilidade)
 - [Modelo de edital de seleção pública](https://www.mg.gov.br/system/files/media/documento_detalhado/2025-05/Modelo%20de%20edital%20processo%20de%20sele%C3%A7%C3%A3o%20p%C3%BAblica%20-%20Contrato%20de%20Gest%C3%A3o%20-%20atualizado%20em%20mai.%20de%202025.docx)
@@ -195,8 +257,9 @@ Modelos e minutas do Estado podem ser encontrados em uma página especial do [Po
 
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas do Contrato de Gestão
 
-<div class="mermaid">
-flowchart TD
+```mermaid
+    %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
+    flowchart TD
     %% Legenda
     A_LEG@{ shape: lean-r, label: "Área Técnica Demandante" }
     B_LEG@{ shape: rect, label: "Gabinete" }
@@ -206,10 +269,12 @@ flowchart TD
     G_LEG@{ shape: stadium, label: "Comissão de Monitoramento" }
     H_LEG@{ shape: hex, label: "Comissão de Avaliação" }
     I_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
-</div>
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:20px;
+```
 
-<div class="mermaid">
-flowchart TD
+```mermaid
+    %%{init: { 'flowchart': { 'htmlLabels': true, 'wrappingWidth': 180 }, 'maxTextSize': 90000 }}%%
+    flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar Contrato de Gestão" } --> B@{ shape: rect, label: "Solicitar análise do estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto) e aprovação orçamentária do Cofin (art. 12, § 7º do Decreto" }
     B --> C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
@@ -290,17 +355,5 @@ flowchart TD
     R3 --> FIM
     R2 -->|Reprovação| R4@{ shape: rect, label: "Iniciar PACE-Parcerias (art. 70, § 3º do Decreto)" }
     R4 --> FIM
-    classDef lean-r fill:#dae8fc,stroke:#6c8ebf;
-    classDef rect fill:#fff2cc,stroke:#b7b700;
-    classDef rounded fill:#e1d5e7,stroke:#9673a6,stroke-width:2px,stroke-dasharray:1,4;
-    classDef trap-b fill:#f8cecc,stroke:#b85450;
-    classDef odd fill:#d5e8d4,stroke:#82b366;
-    classDef hex fill:#ffe6cc,stroke:#b97a57,stroke-width:2px;
-    classDef stadium fill:#c9daf8,stroke:#3c78d8;
-    classDef diamond fill:#f9cb9c,stroke:#b45f06;
-</div>
-
-<script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({ startOnLoad: true });
-</script>
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+```
