@@ -107,7 +107,7 @@ Não é exigida prestação de contas financeira, uma vez que o instrumento não
 ---
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html).
+Modelos e documentos de referência podem ser encontrados em nossa [Biblioteca](../../biblioteca/index.md).
 
 - [Minuta modelo de Acordo de Cooperação Técnica da Advocacia Geral da União (AGU)](https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/acordo-de-cooperacao-tecnica.pdf)
 

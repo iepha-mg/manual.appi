@@ -236,7 +236,7 @@ Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispens
     | Dano ao erário ou a falta de comprovação total ou parcial da aplicação de recursos do contrato de gestão             | Reprovação das contas (art. 70, III, do Decreto)  | Instaurar PACE-Parcerias (art. 70, §3º do Decreto) |
 
 ## 🔍 Saiba mais!
-Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os) e no nosso [Repositório de Parcerias](../../biblioteca/index.md).
+Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os) e em nossa [Biblioteca](../../biblioteca/index.md).
 
 - [Modelo de qualificação como OS](https://www.mg.gov.br/system/files/media/planejamento/documento_detalhado/2023/modelo_requerimento_qualificacao_os.doc)
 - [Modelo de solicitação de estudo de viabilidade](https://www.mg.gov.br/planejamento/documento/modelo-de-solicitacao-de-estudo-de-viabilidade)
