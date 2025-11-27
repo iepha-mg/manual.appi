@@ -25,11 +25,11 @@ Aqui você encontrará os **procedimentos, modelos e orientações** necessário
 
 O que são [Marcos Regulatórios](parcerias/index.md)?
 
-### Marco Regulatório do Fomento à Cultura (MRFC)
+### Marco Regulatório do Fomento à Cultura (Marco do Fomento)
 
 | Seção | Descrição |
 |-------------|------|
-| [💡 Marco Regulatório do Fomento à Cultura](parcerias/marco-do-fomento/index.md) | Visão geral do MRFC |
+| [💡 Marco Regulatório do Fomento à Cultura](parcerias/marco-do-fomento/index.md) | Visão geral do Marco do Fomento |
 | [🎪 Termo de Ocupação Cultural](parcerias/marco-do-fomento/termo-de-ocupacao-cultural.md) | Ocupação de espaços culturais 🆓[^1] |
 | [🤝 Termo de Cooperação Cultural](parcerias/marco-do-fomento/termo-de-cooperacao-cultural.md) | Cooperação sem transferência de recursos 🆓 |
 | [🎨 Termo de Execução Cultural](parcerias/marco-do-fomento/termo-de-execucao-cultural.md) | Execução direta de atividades 💰[^2] |
