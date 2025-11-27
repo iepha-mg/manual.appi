@@ -2214,7 +2214,7 @@
 <li><a href="https://fcs.mg.gov.br/contrato-de-gestao-termo-de-parceria">Página sobre o Termo de Parceria nº 53/2023 - Fundação Clóvis Salgado e Associação Pró Cultura e Promoção das Artes  - APPA</a>, atualmente vigente</li>
 </ul>
 <h2 id="fluxograma-completo-para-celebracao-execucao-e-prestacao-de-contas-do-termo-de-parceria">↔️ Fluxograma completo para celebração, execução e prestação de contas do Termo de Parceria<a class="headerlink" href="#fluxograma-completo-para-celebracao-execucao-e-prestacao-de-contas-do-termo-de-parceria" title="Permanent link">&para;</a></h2>
-<pre class="mermaid"><code> %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
+<pre class="mermaid"><code>%%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
 flowchart TD
     %% Legenda
     A_LEG@{ shape: lean-r, label: "Área Técnica Demandante" }
@@ -2231,7 +2231,7 @@ flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar Termo de Parceria" } --&gt; B@{ shape: rect, label: "Solicitar análise do estudo de viabilidade à Seplag (art. 15 da Lei e art. 8º do Decreto) e aprovação orçamentária do Cofin (art. 10, § 7º do Decreto)" }
     B --&gt; C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
-    C --&gt;|Não| FIM
+    C --&gt;|Não| RES((("Fim")))
     C --&gt;|Sim| D@{ shape: diamond, label: "Necessita processo de seleção pública? (art. 17 da Lei)" }
     D --&gt;|Sim| sel
     D --&gt;|Não| dis
@@ -2293,7 +2293,7 @@ flowchart TD
     P1 --&gt; P2@{ shape: diamond, label: "Processo administrativo recomenda rescisão unilateral do Contrato de Gestão? (art. 71, § 2º do Decreto)" }
     P2 --&gt;|Não| O1
     P2 --&gt;|Sim| P3@{ shape: rect, label: "Rescindir o Termo de Parceria unilateralmente (art. 71 do Decreto) e verificar hipótese de continuidade do serviço público (art. 72 do Decreto)" }
-    P3 --&gt; FIM
+    P3 --&gt; RES
     %% Prestação de contas
     O1 --&gt; Q1@{ shape: rounded, label: "Emitir parecer em até 40 dias úteis (art. 65, §1º do Decreto)" } 
     Q1 --&gt; Q2@{ shape: diamond, label: "Há irregularidades?" }
@@ -2304,11 +2304,11 @@ flowchart TD
     %% Decisão conclusiva
     Q3 --&gt; R1@{ shape: rect, label: "Dirigente máximo: aprovar ou reprovar as contas (art. 67 do Decreto)" }
     R1 --&gt; R2@{ shape: diamond, label: "Contas aprovadas?" }
-    R2 --&gt;|Sim| FIM
+    R2 --&gt;|Sim| RES
     R2 --&gt;|Ressalvas| R3@{ shape: rect, label: "Promover representação ao TCEMG (art. 67, § 2º do Decreto)" }
-    R3 --&gt; FIM
+    R3 --&gt; RES
     R2 --&gt;|Reprovação| R4@{ shape: rect, label: "Iniciar PACE-Parcerias (art. 67, § 3º do Decreto)" }
-    R4 --&gt; FIM
+    R4 --&gt; RES
     classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;</code></pre>
 
 
