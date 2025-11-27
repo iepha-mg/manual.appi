@@ -240,7 +240,7 @@ Modelos e minutas do Estado podem ser encontrados em uma página especial do [Po
 ## ↔️ Fluxograma completo para celebração, execução e prestação de contas do Termo de Parceria
 
 ```mermaid
- %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
+%%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
 flowchart TD
     %% Legenda
     A_LEG@{ shape: lean-r, label: "Área Técnica Demandante" }
@@ -260,7 +260,7 @@ flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar Termo de Parceria" } --> B@{ shape: rect, label: "Solicitar análise do estudo de viabilidade à Seplag (art. 15 da Lei e art. 8º do Decreto) e aprovação orçamentária do Cofin (art. 10, § 7º do Decreto)" }
     B --> C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
-    C -->|Não| FIM
+    C -->|Não| RES((("Fim")))
     C -->|Sim| D@{ shape: diamond, label: "Necessita processo de seleção pública? (art. 17 da Lei)" }
     D -->|Sim| sel
     D -->|Não| dis
@@ -322,7 +322,7 @@ flowchart TD
     P1 --> P2@{ shape: diamond, label: "Processo administrativo recomenda rescisão unilateral do Contrato de Gestão? (art. 71, § 2º do Decreto)" }
     P2 -->|Não| O1
     P2 -->|Sim| P3@{ shape: rect, label: "Rescindir o Termo de Parceria unilateralmente (art. 71 do Decreto) e verificar hipótese de continuidade do serviço público (art. 72 do Decreto)" }
-    P3 --> FIM
+    P3 --> RES
     %% Prestação de contas
     O1 --> Q1@{ shape: rounded, label: "Emitir parecer em até 40 dias úteis (art. 65, §1º do Decreto)" } 
     Q1 --> Q2@{ shape: diamond, label: "Há irregularidades?" }
@@ -333,10 +333,10 @@ flowchart TD
     %% Decisão conclusiva
     Q3 --> R1@{ shape: rect, label: "Dirigente máximo: aprovar ou reprovar as contas (art. 67 do Decreto)" }
     R1 --> R2@{ shape: diamond, label: "Contas aprovadas?" }
-    R2 -->|Sim| FIM
+    R2 -->|Sim| RES
     R2 -->|Ressalvas| R3@{ shape: rect, label: "Promover representação ao TCEMG (art. 67, § 2º do Decreto)" }
-    R3 --> FIM
+    R3 --> RES
     R2 -->|Reprovação| R4@{ shape: rect, label: "Iniciar PACE-Parcerias (art. 67, § 3º do Decreto)" }
-    R4 --> FIM
+    R4 --> RES
     classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
 ```

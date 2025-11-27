@@ -6,8 +6,8 @@
 |------|-----------|
 | **📢 Precisa de Chamamento Público?**                       | Sim: obrigatório para seleção de OSs, salvo exceções legais – art. 60 da [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) |
 | **🤝 Tipos de parceiros**                                   | • Organizações Sociais (OS) <br> • Órgãos públicos estaduais como intervenientes (compõem Comissão de Avaliação / Monitoramento) |
-| **💰 Envolve transferência de recursos ou cessão patrimonial?** | • Sim: recursos financeiros e patrimoniais podem ser transferidos para execução do objeto da parceria, segundo metas, indicadores e programa de trabalho |
-| **⏳ Vigência máxima**                                      | • 20 anos, incluindo aditivos (art. 65, § 2º da [Lei 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1)) |
+| **💰 Envolve transferência de recursos ou cessão patrimonial?** | Sim: recursos financeiros e patrimoniais podem ser transferidos para execução do objeto da parceria, segundo metas, indicadores e programa de trabalho |
+| **⏳ Vigência máxima**                                      | 20 anos, incluindo aditivos (art. 65, § 2º da [Lei 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1)) |
 | **🔒 Exige prestação de contas formal? Qual?**              | • Checagens amostrais e de efetividade (usualmente trimestrais) <br> • Relatórios gerenciais financeiro e de resultados (idem) <br> • Relatórios de avaliação (idem) <br> • Prestação de contas anual <br> • Prestação de contas sob demanda (cf. art. 66 do [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1)) <br> • Apresentação de documentos: relatórios gerenciais, extratos bancários, parecer conselho fiscal/OS, balanços patrimoniais, entre outros <br>  • Prestação de contas de extinção |
 | **👮🏻 Exige servidor designado como gestor/fiscal/equivalente?** | • Supervisão formal exigida: Comissão de Monitoramento e de Avaliação instituídas pelo Iepha-MG e OS (arts. 46, 49, 54, 55 do [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1)) <br> • Supervisor preside a Comissão de Monitoramento/Avaliação, elabora parecer conclusivo de contas e acompanha execução técnico-financeira                                     |
 
@@ -273,87 +273,88 @@ Modelos e minutas do Estado podem ser encontrados em uma página especial do [Po
 ```
 
 ```mermaid
-    %%{init: { 'flowchart': { 'htmlLabels': true, 'wrappingWidth': 180 }, 'maxTextSize': 90000 }}%%
-    flowchart TD
-    %% Etapas iniciais
-    A@{ shape: lean-r, label: "Solicitar Contrato de Gestão" } --> B@{ shape: rect, label: "Solicitar análise do estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto) e aprovação orçamentária do Cofin (art. 12, § 7º do Decreto" }
-    B --> C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
-    C -->|Não| FIM
-    C -->|Sim| D@{ shape: diamond, label: "Necessita seleção pública? (art. 60 da Lei e art. 24 do Decreto)" }
-    D -->|Sim| sel
-    D -->|Não| dis
-    %% Seleção Pública
-    subgraph sel ["Seleção Pública"]
-        E1@{ shape: lean-r, label: "Elaborar edital e minuta do Contrato de Gestão (arts. 12 e 31 do Decreto)" } --> E2@{ shape: diamond, label: "Minutas validadas?" }
-        E2 -->|Não| E1
-        E2 -->|Sim| E3@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
-        E3 --> E4@{ shape: rounded, label: "Instruir processo no SEI" }
-        E4 --> E5@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 64 da Lei e art. 12, §6º do Decreto)" }
-        E5 --> E6@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
-        E6 --> E7@{ shape: rounded, label: "Constituir Comissão Julgadora (art. 17 do Decreto)" }
-        E7 --> E8@{ shape: rect, label: "Publicar edital (mín. 15 dias úteis) (art. 12, §3º do Decreto)" }
-        E8 --> E9@{ shape: odd, label: "Receber propostas das OS (arts. 19 e 20 do Decreto)" }
-        E9 --> E10@{ shape: odd, label: "Julgamento das propostas (art. 20 do Decreto)" }
-        E10 --> E11@{ shape: rounded, label: "Publicação do resultado (arts. 21 e 22 do Decreto)" }
-        E11 --> E12@{ shape: odd, label: "Recursos: 5 dias úteis (art. 21 do Decreto)" }
-        E12 --> E13@{ shape: rounded, label: "Homologação do resultado final (art. 22 do Decreto)" }
-        E13 --> E14@{ shape: rect, label: "Convocar entidade vencedora ou segundo lugar, se for o caso (art. 22, §2º e art. 23 do Decreto)" }
-    end
-    %% Dispensa
-    subgraph dis ["Dispensa ou Inexigibilidade"]
-        F1@{ shape: rect, label: "Instruir justificativa de dispensa de seleção pública (art. 60 da Lei e art. 24 do Decreto)" }
-        F1 --> F2@{ shape: rect, label: "Desenvolver minuta do Contrato de Gestão (arts. 24, 27 e 35, §1º do Decreto)" }
-        F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
-        F3 -->|Não| F2
-        F3 -->|Sim| F4@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
-        F4 --> F5@{ shape: rounded, label: "Instruir processo no SEI" }
-        F5 --> F6@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 64 da Lei e art. 27, XV do Decreto)" }
-        F6 --> F7@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
-        F7 --> F8@{ shape: rounded, label: "Publicar extrato de inviabilidade de competição (art. 27, parágrafo único do Decreto)" }
-        F8 --> F9@{ shape: rect, label: "Receber e analisar eventuais recursos de impugnação à inviabilidade de competição, com prazo de 5 dias úteis (art. 29 do Decreto)" }
-    end
-    %% Elaboração do programa de trabalho - comum para ambos fluxos
-    E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho, memória de cálculo (arts. 32 e 33 do Decreto) e Regulamento de Compras e Contratações (art. 38 do Decreto)" }
-    F9 --> G1
-    %% Celebração
-    G1 --> H1@{ shape: rounded, label: "Providenciar manifestação (não vinculativa) do CONEP (art. 34 do Decreto)" }
-    H1 --> Z11@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, IX do Decreto)" }
-    Z11 --> Z12@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
-    Z12 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 35 do Decreto)" }
-    I1 --> J1@{ shape: rounded, label: "Providenciar nota técnica da Seplag (art. 36 do Decreto)" }
-    J1 --> K1@{ shape: rect, label: "Instituir Comissão de Monitoramento (art. 46 do Decreto)" }
-    K1 --> K2@{ shape: rect, label: "Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)" }
-    K2 --> K3@{ shape: rect, label: "Instituir Comissão de Avaliação (art. 54 do Decreto)" }
-    K3 --> L1@{ shape: stadium, label: "Realizar trimestralmente checagens amostrais e de efetividade (art. 49, VI do Decreto)" }
-    L1 --> Z13@{ shape: stadium, label: "Receber trimestralmente Relatórios de Resultados e Financeiro da OS (art. 50 do Decreto)" }
-    Z13 --> L2@{ shape: stadium, label: "Elaborar trimestralmente Relatório de Monitoramento (art. 52 do Decreto)" }
-    L2 --> L3@{ shape: stadium, label: "Publicar Relatório Gerencial de Resultados, Relatório Gerencial Financeiro (encaminhados pela OS) e Relatório de Monitoramento no site do IEPHA-MG (art. 53 do Decreto)" }
-    L3 --> L4@{ shape: stadium, label: "Encaminhar Relatório de Monitoramento para Comissão de Avaliação, 5 dias úteis antes da reunião (art. 55, § 4º do Decreto)" }
-    L4 --> M1@{ shape: hex, label: "Realizar trimestralmente reunião da Comissão de Avaliação (arts. 54 e 55 do Decreto)" }
-    M1 --> M2@{ shape: hex, label: "Publicar Relatório de Avaliação (art. 56 do Decreto)" }
-    M2 --> N1@{ shape: diamond, label: "Metas atingidas?" }
-    N1 -->|Sim| O1@{ shape: rounded, label: "Receber prestação de contas anual em até 90 dias após fim do ano (arts 66, 67 e 68 do Decreto)" }
-    N1 -->|Não| N2@{ shape: diamond, label: "Há justificativa formal e coerente? (art. 74, V do Decreto)" }
-    N2 -->|Sim| O1
-    N2 -->|Não| P1@{ shape: rect, label: "Instaurar processo administrativo (art. 74, §§ 3º, 4º e 5º do Decreto)" }
-    P1 --> P2@{ shape: diamond, label: "Processo administrativo recomenda rescisão unilateral do Contrato de Gestão? (art. 74, § 2º do Decreto)" }
-    P2 -->|Não| O1
-    P2 -->|Sim| P3@{ shape: rect, label: "Rescindir o Contrato de Gestão unilateralmente (art. 74 do Decreto) e verificar hipótese de continuidade do serviço público (art. 75 do Decreto)" }
-    P3 --> FIM
-    %% Prestação de contas
-    O1 --> Q1@{ shape: rounded, label: "Emitir parecer em até 20 dias úteis (art. 68, § 1º do Decreto)" }
-    Q1 --> Q2@{ shape: diamond, label: "Há irregularidades?" }
-    Q2 -->|Não| Q3@{ shape: stadium, label: "Supervisor: elaborar parecer conclusivo da prestação de contas e encaminhar para o dirigente máximo (art. 69 do Decreto)" }
-    Q2 -->|Sim| Q4@{ shape: rounded, label: "Notificar OS para apresentação de justificativa ou saneamento das irregularidades em até 30 dias úteis (art. 68, § 2º do Decreto)" }
-    Q4 --> Q5@{ shape: rounded, label: "Analisar justificativas ou saneamento de irregularidades em até 20 dias úteis e encaminhar novo parecer ao Supervisor (art. 68, § 3º do Decreto)" }
-    Q5 --> Q3
-    %% Decisão conclusiva
-    Q3 --> R1@{ shape: rect, label: "Dirigente máximo: aprovar ou reprovar as contas (art. 70 do Decreto)" }
-    R1 --> R2@{ shape: diamond, label: "Contas aprovadas?" }
-    R2 -->|Sim| FIM
-    R2 -->|Ressalvas| R3@{ shape: rect, label: "Promover representação ao TCEMG (art. 70, § 2º do Decreto)" }
-    R3 --> FIM
-    R2 -->|Reprovação| R4@{ shape: rect, label: "Iniciar PACE-Parcerias (art. 70, § 3º do Decreto)" }
-    R4 --> FIM
-    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+  %%{init: { 'flowchart': { 'htmlLabels': true, 'wrappingWidth': 180 }, 'maxTextSize': 90000 }}%%
+flowchart TD
+%% Etapas iniciais
+A@{ shape: lean-r, label: "Solicitar Contrato de Gestão" } --> B@{ shape: rect, label: "Solicitar análise do estudo de viabilidade à Seplag (art. 58 da Lei e art. 10 do Decreto) e aprovação orçamentária do Cofin (art. 12, § 7º do Decreto" }
+B --> C@{ shape: diamond, label: "Manifestação favorável da Seplag?" }
+C -->|Não| RES((("Fim")))
+C -->|Sim| D@{ shape: diamond, label: "Necessita seleção pública? (art. 60 da Lei e art. 24 do Decreto)" }
+D -->|Sim| sel
+D -->|Não| dis
+%% Seleção Pública
+subgraph sel ["Seleção Pública"]
+    E1@{ shape: lean-r, label: "Elaborar edital e minuta do Contrato de Gestão (arts. 12 e 31 do Decreto)" } --> E2@{ shape: diamond, label: "Minutas validadas?" }
+    E2 -->|Não| E1
+    E2 -->|Sim| E3@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
+    E3 --> E4@{ shape: rounded, label: "Instruir processo no SEI" }
+    E4 --> E5@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 64 da Lei e art. 12, §6º do Decreto)" }
+    E5 --> E6@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    E6 --> E7@{ shape: rounded, label: "Constituir Comissão Julgadora (art. 17 do Decreto)" }
+    E7 --> E8@{ shape: rect, label: "Publicar edital (mín. 15 dias úteis) (art. 12, §3º do Decreto)" }
+    E8 --> E9@{ shape: odd, label: "Receber propostas das OS (arts. 19 e 20 do Decreto)" }
+    E9 --> E10@{ shape: odd, label: "Julgamento das propostas (art. 20 do Decreto)" }
+    E10 --> E11@{ shape: rounded, label: "Publicação do resultado (arts. 21 e 22 do Decreto)" }
+    E11 --> E12@{ shape: odd, label: "Recursos: 5 dias úteis (art. 21 do Decreto)" }
+    E12 --> E13@{ shape: rounded, label: "Homologação do resultado final (art. 22 do Decreto)" }
+    E13 --> E14@{ shape: rect, label: "Convocar entidade vencedora ou segundo lugar, se for o caso (art. 22, §2º e art. 23 do Decreto)" }
+end
+%% Dispensa
+subgraph dis ["Dispensa ou Inexigibilidade"]
+    F1@{ shape: rect, label: "Instruir justificativa de dispensa de seleção pública (art. 60 da Lei e art. 24 do Decreto)" }
+    F1 --> F2@{ shape: rect, label: "Desenvolver minuta do Contrato de Gestão (arts. 24, 27 e 35, §1º do Decreto)" }
+    F2 --> F3@{ shape: diamond, label: "Minutas validadas?" }
+    F3 -->|Não| F2
+    F3 -->|Sim| F4@{ shape: rect, label: "Encaminhar processo ao setor de Contratos e Convênios" }
+    F4 --> F5@{ shape: rounded, label: "Instruir processo no SEI" }
+    F5 --> F6@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 64 da Lei e art. 27, XV do Decreto)" }
+    F6 --> F7@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+    F7 --> F8@{ shape: rounded, label: "Publicar extrato de inviabilidade de competição (art. 27, parágrafo único do Decreto)" }
+    F8 --> F9@{ shape: rect, label: "Receber e analisar eventuais recursos de impugnação à inviabilidade de competição, com prazo de 5 dias úteis (art. 29 do Decreto)" }
+end
+%% Elaboração do programa de trabalho - comum para ambos fluxos
+E14 --> G1@{ shape: rect, label: "Elaborar programa de trabalho, memória de cálculo (arts. 32 e 33 do Decreto) e Regulamento de Compras e Contratações (art. 38 do Decreto)" }
+F9 --> G1
+%% Celebração
+G1 --> H1@{ shape: rounded, label: "Providenciar manifestação (não vinculativa) do CONEP (art. 34 do Decreto)" }
+H1 --> Z11@{ shape: trap-b, label: "Análise jurídica obrigatória (art. 35, IX do Decreto)" }
+Z11 --> Z12@{ shape: rounded, label: "Promover ajustes e anexar nota saneadora" }
+Z12 --> I1@{ shape: rounded, label: "Instruir o processo no SEI (art. 35 do Decreto)" }
+I1 --> J1@{ shape: rounded, label: "Providenciar nota técnica da Seplag (art. 36 do Decreto)" }
+J1 --> K1@{ shape: rect, label: "Instituir Comissão de Monitoramento (art. 46 do Decreto)" }
+K1 --> K2@{ shape: rect, label: "Assinar Contrato de Gestão e publicar extrato (art. 37 do Decreto)" }
+K2 --> K3@{ shape: rect, label: "Instituir Comissão de Avaliação (art. 54 do Decreto)" }
+K3 --> L1@{ shape: stadium, label: "Realizar trimestralmente checagens amostrais e de efetividade (art. 49, VI do Decreto)" }
+L1 --> Z13@{ shape: stadium, label: "Receber trimestralmente Relatórios de Resultados e Financeiro da OS (art. 50 do Decreto)" }
+Z13 --> L2@{ shape: stadium, label: "Elaborar trimestralmente Relatório de Monitoramento (art. 52 do Decreto)" }
+L2 --> L3@{ shape: stadium, label: "Publicar Relatório Gerencial de Resultados, Relatório Gerencial Financeiro (encaminhados pela OS) e Relatório de Monitoramento no site do IEPHA-MG (art. 53 do Decreto)" }
+L3 --> L4@{ shape: stadium, label: "Encaminhar Relatório de Monitoramento para Comissão de Avaliação, 5 dias úteis antes da reunião (art. 55, § 4º do Decreto)" }
+L4 --> M1@{ shape: hex, label: "Realizar trimestralmente reunião da Comissão de Avaliação (arts. 54 e 55 do Decreto)" }
+M1 --> M2@{ shape: hex, label: "Publicar Relatório de Avaliação (art. 56 do Decreto)" }
+M2 --> N1@{ shape: diamond, label: "Metas atingidas?" }
+N1 -->|Sim| O1@{ shape: rounded, label: "Receber prestação de contas anual em até 90 dias após fim do ano (arts 66, 67 e 68 do Decreto)" }
+N1 -->|Não| N2@{ shape: diamond, label: "Há justificativa formal e coerente? (art. 74, V do Decreto)" }
+N2 -->|Sim| O1
+N2 -->|Não| P1@{ shape: rect, label: "Instaurar processo administrativo (art. 74, §§ 3º, 4º e 5º do Decreto)" }
+P1 --> P2@{ shape: diamond, label: "Processo administrativo recomenda rescisão unilateral do Contrato de Gestão? (art. 74, § 2º do Decreto)" }
+P2 -->|Não| O1
+P2 -->|Sim| P3@{ shape: rect, label: "Rescindir o Contrato de Gestão unilateralmente (art. 74 do Decreto) e verificar hipótese de continuidade do serviço público (art. 75 do Decreto)" }
+P3 --> RES
+%% Prestação de contas
+O1 --> Q1@{ shape: rounded, label: "Emitir parecer em até 20 dias úteis (art. 68, § 1º do Decreto)" }
+Q1 --> Q2@{ shape: diamond, label: "Há irregularidades?" }
+Q2 -->|Não| Q3@{ shape: stadium, label: "Supervisor: elaborar parecer conclusivo da prestação de contas e encaminhar para o dirigente máximo (art. 69 do Decreto)" }
+Q2 -->|Sim| Q4@{ shape: rounded, label: "Notificar OS para apresentação de justificativa ou saneamento das irregularidades em até 30 dias úteis (art. 68, § 2º do Decreto)" }
+Q4 --> Q5@{ shape: rounded, label: "Analisar justificativas ou saneamento de irregularidades em até 20 dias úteis e encaminhar novo parecer ao Supervisor (art. 68, § 3º do Decreto)" }
+Q5 --> Q3
+%% Decisão conclusiva
+Q3 --> R1@{ shape: rect, label: "Dirigente máximo: aprovar ou reprovar as contas (art. 70 do Decreto)" }
+R1 --> R2@{ shape: diamond, label: "Contas aprovadas?" }
+R2 -->|Sim| RES
+R2 -->|Ressalvas| R3@{ shape: rect, label: "Promover representação ao TCEMG (art. 70, § 2º do Decreto)" }
+R3 --> RES
+R2 -->|Reprovação| R4@{ shape: rect, label: "Iniciar PACE-Parcerias (art. 70, § 3º do Decreto)" }
+R4 --> RES
+classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+
 ```
