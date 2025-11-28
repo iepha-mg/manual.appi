@@ -1,4 +1,4 @@
-﻿# 🤝 Termo de Cooperação Cultural
+﻿# 🤝 Termo de Cooperação Cultural (TCC)
 
 ## 💎 Dicas
 
