@@ -10,18 +10,20 @@
 | **⏳ Vigência máxima** | Não: definida pelo encargo específico (cursos, eventos, residências artísticas etc.), sem prazo máximo explícito na lei |
 | **🔒 Exige prestação de contas formal?** | • Relatório de Bolsista simplificado comprovando cumprimento do encargo (art. 25) <br> • Documentos: diplomas, certificados, relatórios, fotos, comprovantes de matrícula, produtos culturais etc. <br> • Vedada exigência de demonstração financeira detalhada (art. 25) <br> • Sanções por descumprimento em até 6 meses após vigência (art. 25, § 1º): multa, suspensão da possibilidade de celebrar instrumentos no Marco do Fomento (180-540 dias), ações compensatórias |
 | **👮🏻 Exige gestor/fiscal designado?** | Sim: agente público designado para essa finalidade pela autoridade competente (art. 32), mas sua incumbência se resume à verificação do cumprimento do encargo analisando o Relatório de Bolsista, sem análise financeira |
+| **🛣️ Plano de trabalho obrigatório?** | Não. Mas deve-se prever o encargo que será cumprido pelo agente cultural |
 
 ---
 
-## 📌 Definição:
+## 📌 Definição
 
-O **Termo de Bolsa Cultural** é o instrumento jurídico para apoio financeiro a agente cultural com interesse em processo de formação, qualificação, especialização, intercâmbio, pesquisa, criação em âmbito artístico e cultural, além de circulação de espetáculos e obras e outras ações de promoção, memória, patrimônio cultural e congêneres, mediante cumprimento de encargo específico.
+O **Termo de Bolsa Cultural** (TBC) é o instrumento jurídico para apoio financeiro a agente cultural com interesse em processo de formação, qualificação, especialização, intercâmbio, pesquisa, criação em âmbito artístico e cultural, além de circulação de espetáculos e obras e outras ações de promoção, memória, patrimônio cultural e congêneres, mediante cumprimento de encargo específico.
 
 > **Importante!** Cumprir um "_encargo_" significa entregar um produto, relatório ou realizar uma ação definida, como por exemplo concluir um curso, realizar apresentações de circulação de um espetáculo, ou finalizar uma disciplina com, no mínimo, determinada nota. O termo é comum em bolsas estudantis e, agora, se aplica também às bolsas culturais.
 
 ---
 
-## 🏛️ Regulamentação:
+## 🏛️ Regulamentação
+
 Subseção III - Do Termo de Bolsa Cultural - da Seção III - Dos Procedimentos por Instrumento - da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco do Fomento).
 
 ---
@@ -117,7 +119,7 @@ Em regra, é obrigatória a realização de chamamento público prévio. Até qu
                 end
                 Planejamento --> Processamento --> Celebração
 
-        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:15px;
 
     ```
 
@@ -164,13 +166,29 @@ Uma boa bolsa cultural deve prever:
 
 ---
 
+## 🛣️ Plano de trabalho
+
+Um plano de trabalho **não é obrigatório**. Todavia, deve-se prever o **encargo que será cumprido pelo agente cultural**.
+
+Portanto, é recomendável definir objetivamente a ação cultural, a justificativa de sua relevância e qual ou quais critérios serão aceitos para comprovar sua efetivação.
+
+Por exemplo: se a Bolsa Cultural for destinada à realização de uma pesquisa, o artigo, monografia, texto ou publicação resultante da pesquisa pode ser um bom critério de aceitaçao; em se tratando da circulação de um espetáculo, fotografias e relatórios de borderô (ingressos e portaria) das apresentações realizadas bastarão; caso o objeto da bolsa seja a realização de um curso de pós graduação, o diploma, certificado ou declaração de conclusão de curso em nome do matriculado serão suficientes.
+
+> **Dica!** A objetividade é positiva: prever "poucos e bons" critérios de aceitação é melhor que "muitos e ruins". Por exemplo: o diploma ou a declaração de conclusão de curso bastam para comprovar um curso. Prever, junto deles, comprovantes de matrícula, comprovantes de frequência e boletins de notas, pode acabar confundindo a análise de aceitação e, ao mesmo tempo, impondo custos desnecessários ao agente cultural.
+> 
+> Isso porque, caso o sujeito não conclua o curso, vai alegar que apresentou um critério de aceitação válido, como a matrícula. Ou, noutro giro, se tiver feito tudo certinho, terá muita dor de cabeça para ajuntar documentos desnecessários, sendo que o certificado de conclusão é o que interessa à administração pública.
+
+Seguir essas recomendações facilitará a vida do agende público responsável pelo monitoramento e, também, do agente cultural responsável pela apresentação do Relatório de Bolsista.
+
+---
+
 ## 👀 Monitoramento e controle
 
 O TBC prevê que a autoridade competente (dirigente do órgão) designe **um agente público** para executar rotinas e atividades de monitoramento e de controle da implementação da bolsa concedida (art. 32).
 
 Não é necessário mais que um agente, embora este possa contar com apoio técnico de outras áreas de seu órgão, bem como serviços contratados com terceiros ou decorrentes da celebração de parcerias.
 
-Entretanto, as rotinas e atividades de monitoramento são relativamente simples, se circunscrevendo à verificação do cumprimento do encargo contraído pelo agente cultural que assinou o TBC.
+Entretanto, as rotinas e atividades de monitoramento são relativamente simples, limitando-se à verificação do cumprimento do encargo contraído pelo agente cultural que assinou o TBC.
 
 O agente público deve fazer isso analisando o Relatório de Bolsista apresentado pelo agente cultural ao fim da vigência do TBC, **sem precisar fazer qualquer análise financeira** (art. 25 da Lei). O agente público também pode solicitar ao agente cultural, a qualquer tempo, informações sobre o cumprimento do objeto do TBC.
 
@@ -244,7 +262,7 @@ Todos os procedimentos do fluxograma referem-se ao [Marco do Fomento - Lei Feder
         E_LEG@{ shape: odd, label: "Comissão de Seleção" }
         F_LEG@{ shape: hex, label: "Comissão de Julgamento" }
         G_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
-        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:20px;
+        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:20px;
 ```
 
 ```mermaid
@@ -311,6 +329,6 @@ I4 -->|Sim| RES((("Fim")))
 I4 -->|Não| I5@{ shape: rounded, label: "Aplicar sanções: multa ou suspensão (art. 25, § 1º) ou converter em ações compensatórias" }
 I5 --> RES
 
-classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:15px;
 
 ```

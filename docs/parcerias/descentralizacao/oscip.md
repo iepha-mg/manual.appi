@@ -10,6 +10,7 @@
 | **⏳ Vigência máxima**                            | 5 anos (com aditamentos), conforme art. 22, § 2º da [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) |
 | **🔒 Exige prestação de contas formal?**          | • Checagens amostrais e de efetividade (usualmente trimestrais) <br> • Relatórios gerenciais financeiro e de resultados (idem) <br> • Relatórios de monitoramento e avaliação (idem) <br> • Prestação de contas anual <br> • Prestação de contas sob demanda (cf. art. 63 do [Decreto Estadual nº 47.554/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47554/2018/?cons=1)) <br> • Apresentação de documentos: relatórios gerenciais, extratos bancários, parecer conselho fiscal/OS, balanços patrimoniais, entre outros <br> • Prestação de contas de extinção |
 | **👮🏻 Exige gestor/fiscal designado?**            | • Supervisão formal: Comissão Supervisora e Comissão de Avaliação instituidas pelo IEPHA-MG e OSCIP (arts. 43, 46, 48, 49, 51, 52, 53 e 54 do [Decreto Estadual nº 47.554/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47554/2018/?cons=1)) <br> • Supervisor preside e acompanha execução, elabora parecer conclusivo e fiscaliza execução técnico-financeira |
+| **🛣️ Plano de trabalho obrigatório?** | Sim: art. 39, III do [Decreto Estadual nº 47.554/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47554/2018/?cons=1) |
 
 ---
 
@@ -119,7 +120,7 @@ Obrigatório para seleção de OSCIPs (art. 16 da Lei), salvo hipóteses de disp
             C1 --> C2 --> C3 --> C4 --> C5
         end
         Publicacao --> Julgamento --> Celebracao
-        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+        classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:15px;
     ```
 
 === "⏱️ Prazos relevantes"
@@ -257,7 +258,7 @@ flowchart TD
     G_LEG@{ shape: stadium, label: "Comissão Supervisora" }
     H_LEG@{ shape: hex, label: "Comissão de Avaliação" }
     I_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
-    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:20px;
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:20px;
 ```
 
 ```mermaid
@@ -344,5 +345,5 @@ flowchart TD
     R3 --> RES
     R2 -->|Reprovação| R4@{ shape: rect, label: "Iniciar PACE-Parcerias (art. 67, § 3º do Decreto)" }
     R4 --> RES
-    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:15px;
 ```

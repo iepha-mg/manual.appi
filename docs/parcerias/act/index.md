@@ -10,6 +10,7 @@
 | **⏳ Vigência máxima**                                          | • Não há limite máximo fixado em decreto <br> • Varia de acordo com a complexidade do objeto <br> • Recomenda-se 2 anos |
 | **🔒 Exige prestação de contas formal? Qual?**                  | • Não exige prestação de contas financeira <br> • Porém, recomenda-se relatório técnico simplificado sobre as atividades |
 | **👮🏻 Exige servidor designado como gestor/fiscal/equivalente?**    | • Não <br> • Porém, recomenda-se designação de gestor e fiscal na unidade demandante da parceria para facilitar a execução e o monitoramento |
+| **🛣️ Plano de trabalho obrigatório?** | Não, mas é recomendável para facilitar o monitoramento da execução |
 
 ---
 
@@ -26,6 +27,7 @@ Capítulo III - Das Parcerias sem Transferências de Recursos - do [Decreto Fede
 ---
 
 ## 🎯 Objetivos
+
 - Executar políticas públicas de interesse recíproco em mútua colaboração.
 - Potencializar capacidades institucionais através da cooperação técnica.
 - Facilitar parcerias sem necessidade de repasse de recursos.
@@ -34,7 +36,8 @@ Capítulo III - Das Parcerias sem Transferências de Recursos - do [Decreto Fede
 
 ---
 
-## 🛠️ Ideias para aplicação no Iepha-MG:
+## 🛠️ Exemplos de aplicação no Iepha-MG:
+
 Desde que haja interesse mútuo e viabilidade técnica, um Acordo de Cooperação Técnica pode servir para:
 
 1. Cooperação técnica em projetos de inventário e preservação do patrimônio.
@@ -50,6 +53,7 @@ Desde que haja interesse mútuo e viabilidade técnica, um Acordo de Cooperaçã
 ## 📋 Regras
 
 === "✅ Pode"
+
     **Características do instrumento:**
 
     - Estabelecer cooperação técnica sem transferência de recursos.
@@ -64,6 +68,7 @@ Desde que haja interesse mútuo e viabilidade técnica, um Acordo de Cooperaçã
     - Consórcios públicos.
 
 === "❌ Não pode"
+
     ⚠️ **Limitações:**  
 
     - Não envolve transferência de recursos públicos (art. 24, parágrafo único).
@@ -79,6 +84,7 @@ Desde que haja interesse mútuo e viabilidade técnica, um Acordo de Cooperaçã
 ---
 
 ## ✒️ Celebração
+
 Decisão discricionária da administração pública baseada em análise de interesse comum e viabilidade da cooperação técnica.
 
 ---
@@ -98,7 +104,7 @@ Quanto ao instrumento jurídico a ser assinado, algumas cláusulas não podem:
 
 ---
 
-## 🛣️ Plano de trabalho
+## 🛣️ Plano de trabalho {#plano-de-trabalho}
 
 Não é obrigatório - mas é boa prática - constar um *plano de trabalho simplificado*, com:
 
@@ -106,6 +112,14 @@ Não é obrigatório - mas é boa prática - constar um *plano de trabalho simpl
 - Prazos para início e término de cada ação
 - Responsáveis pela ação
 - Fontes de comprovação (documentos, fotografias, relatórios, publicações etc. que atestem a realização daquela atividade)
+
+A melhor forma de fazer isso é redigindo uma tabela simples, conforme o exemplo abaixo:
+
+| Item | Ação | Responsável | Início | Término | Fonte de comprovação |
+| ---- | ---- | ----------- | ------ | ------- | -------------------- |
+| 1    | (Exemplo): levantar bens tombados para mapeamento | IEPHA-MG | Mês 1 | Mês 2 | Mapeamento assinado no SEI |
+| 2    | (Exemplo): indicar bens prioritários conforme situação de conservação | Entidade parceira | Mês 3 | Mês 4 | Lista de prioridades tramitada no SEI |
+| ...    | ... | ... | ... | Último mês da vigência | ... |
 
 ---
 
@@ -151,7 +165,7 @@ Todos os procedimentos do fluxograma referem-se ao [Decreto Federal nº 11.531/2
     D_LEG@{ shape: trap-b, label: "Assessoria Jurídica" }
     E_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
 
-    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:15px;
 ```
 
 ```mermaid
@@ -180,6 +194,6 @@ flowchart TD
     P -- Não --> Q@{ shape: rounded, label: "Adotar medidas cabíveis conforme acordo" }
     Q --> FIM
     
-    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:15px;
 
 ```

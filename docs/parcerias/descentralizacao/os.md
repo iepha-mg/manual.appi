@@ -10,6 +10,8 @@
 | **⏳ Vigência máxima**                                      | 20 anos, incluindo aditivos (art. 65, § 2º da [Lei 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1)) |
 | **🔒 Exige prestação de contas formal? Qual?**              | • Checagens amostrais e de efetividade (usualmente trimestrais) <br> • Relatórios gerenciais financeiro e de resultados (idem) <br> • Relatórios de avaliação (idem) <br> • Prestação de contas anual <br> • Prestação de contas sob demanda (cf. art. 66 do [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1)) <br> • Apresentação de documentos: relatórios gerenciais, extratos bancários, parecer conselho fiscal/OS, balanços patrimoniais, entre outros <br>  • Prestação de contas de extinção |
 | **👮🏻 Exige servidor designado como gestor/fiscal/equivalente?** | • Supervisão formal exigida: Comissão de Monitoramento e de Avaliação instituídas pelo Iepha-MG e OS (arts. 46, 49, 54, 55 do [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1)) <br> • Supervisor preside a Comissão de Monitoramento/Avaliação, elabora parecer conclusivo de contas e acompanha execução técnico-financeira                                     |
+| **🛣️ Plano de trabalho obrigatório?** | Sim: art. 31, III do [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1) |
+
 
 ---
 
@@ -122,7 +124,7 @@ Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispens
         C1 --> C2 --> C3 --> C4 --> C5
     end
     Publicação --> Julgamento --> Celebração
-          classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+          classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:15px;
     ```
 
 === "⏱️ Prazos relevantes"
@@ -271,7 +273,7 @@ Todos os procedimentos do fluxograma referem-se à [Lei Estadual nº 23.081/2018
     G_LEG@{ shape: stadium, label: "Comissão de Monitoramento" }
     H_LEG@{ shape: hex, label: "Comissão de Avaliação" }
     I_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
-    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:20px;
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:20px;
 ```
 
 ```mermaid
@@ -357,6 +359,6 @@ R2 -->|Ressalvas| R3@{ shape: rect, label: "Promover representação ao TCEMG (a
 R3 --> RES
 R2 -->|Reprovação| R4@{ shape: rect, label: "Iniciar PACE-Parcerias (art. 70, § 3º do Decreto)" }
 R4 --> RES
-classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:15px;
 
 ```

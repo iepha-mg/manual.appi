@@ -119,7 +119,7 @@ Com base na [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mi
       OS_SAN -- Advertência/Suspensão --> OS_ADJ
       OS_SAN -- Rescisão --> OS_RES
 
-      classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:6,ry:6,font-size:15px;
+      classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:15px;
 
     ```
 
