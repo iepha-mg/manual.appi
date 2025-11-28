@@ -1,4 +1,17 @@
-﻿# 🎪 Termo de Ocupação Cultural
+﻿# 🎪 Termo de Ocupação Cultural (TOC)
+
+## 💎 Dicas
+
+| Item | Resposta |
+|------|----------|
+| **📢 Precisa de Chamamento Público?** | Não: art. 6º, § 1º e art. 27 da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm). Apesar disso, a administração pode fazer chamamento, se quiser |
+| **🤝 Tipos de parceiros** | • Agentes culturais <br> • Artistas e coletivos culturais <br> • Produtores culturais <br> • Organizações da sociedade civil voltadas à cultura <br> • Instituições de ensino e pesquisa <br> • Expositores e curadores <br> • Grupos artísticos <br> • Microempresários individuais e empresários individuais <br> • Sociedades empresárias ou simples da área cultural |
+| **💰 Envolve transferência de recursos?** | Não: instrumento não envolve repasse de recursos públicos (art. 4º, II, "a"). Pode haver uso gratuito, cobrança de taxa de uso ordinário ou fornecimento de bens/serviços pelo ocupante |
+| **⏳ Vigência máxima** | Não há prazo máximo explícito na lei. Vigência deve ser definida conforme duração da atividade cultural e disponibilidade do equipamento |
+| **🔒 Exige prestação de contas formal?** | Não exige prestação de contas (art. 28, § 3º) <br> • Processo simplificado: não se aplicam os ritos previstos nos arts. 13 a 21 da Lei <br> • Basta visita técnica ou relatório simples de resultados <br> • A forma de comprovação deve ser definida no próprio Termo de Ocupação Cultural |
+| **👮🏻 Exige gestor/fiscal designado?** | Não há previsão legal específica de designação obrigatória de gestor/fiscal para Termo de Ocupação Cultural. A gestão é feita pela direção curatorial do equipamento cultural |
+| **🛣️ Plano de trabalho obrigatório?** | Não. O instrumento não exige plano de trabalho. Basta definir no Termo: datas de ocupação, espaço utilizado, atividade a ser realizada e deveres do ocupante |
+
 
 ## 📌 Definição:
 Instrumento jurídico para promover o uso ordinário de equipamentos públicos culturais por agentes culturais, sem repasse de recursos pela administração pública, com previsão da data de ocupação e dos deveres de cuidado do agente cultural ocupante.
