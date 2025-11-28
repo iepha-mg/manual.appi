@@ -147,7 +147,7 @@ Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispens
 
 ---
 
-## 📝 Programa de trabalho
+## 🛣️ Programa de trabalho
 
 **Deve conter:** (art. 32 do Decreto)
 
@@ -159,7 +159,7 @@ Obrigatório para seleção de OSs (art. 58 da Lei), salvo hipóteses de dispens
 
 ---
 
-## 🔍 Monitoramento e avaliação
+## 👀 Monitoramento e avaliação
 
 === "👮🏻 Supervisor"
 
@@ -255,7 +255,9 @@ Modelos e minutas do Estado podem ser encontrados em uma página especial do [Po
 - [Página sobre o Contrato de Gestão nº 05/2019 - Fundação Clóvis Salgado - FCS e Associação Pró Cultura e Promoção das Artes - APPA](https://fcs.mg.gov.br/contrato-de-gestao-termo-de-parceria/), atualmente vigente
 - [Página sobre o Contrato de Gestão nº 06/2020 – Secretaria de Estado de Cultura e Turismo – SECULT e Instituto Cultural Filarmônica - ICF](https://www.secult.mg.gov.br/documentos-administrativos/contrato-de-gestao), atualmente vigente
 
-## ↔️ Fluxograma completo para celebração, execução e prestação de contas do Contrato de Gestão
+## 🔄️ Fluxograma
+
+Todos os procedimentos do fluxograma referem-se à [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) e ao [Decreto Estadual nº 47.553/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47553/2018/?cons=1). Diferentes formatos das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
 
 ```mermaid
     %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%

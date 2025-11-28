@@ -43,7 +43,7 @@ As Fundações de Apoio são entidades privadas sem fins lucrativos criadas para
 
 > Diferencial: As Fundações de Apoio utilizadas pelo Iepha-MG permitem maior autonomia operacional e redução de entraves burocráticos, adequando-se às necessidades específicas de gestão de patrimônio cultural.
 
-## 🌟 Exemplos de aplicação em parceria com o Iepha-MG
+## 🛠️ Exemplos de aplicação em parceria com o Iepha-MG
 
 1. **Desenvolvimento de projetos para leis de incentivo**  
    - Formulação e gestão de projetos voltados a editais culturais estaduais e federais  

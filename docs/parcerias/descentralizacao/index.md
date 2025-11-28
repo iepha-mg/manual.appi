@@ -44,7 +44,7 @@ Todos os instrumentos jurídicos do Modelo OSCIP/OS envolvem transferência de r
 
 ---
 
-## 📢 Chamamento
+## 📢 Chamamento público
 
 - Seleção por meio de **processo público**, salvo inviabilidade de competição
 - Etapas: publicação de edital, análise por comissão julgadora, publicação do resultado

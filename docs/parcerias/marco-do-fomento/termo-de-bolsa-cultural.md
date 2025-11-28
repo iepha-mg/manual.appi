@@ -1,4 +1,4 @@
-﻿# 🎓 Termo de Bolsa Cultural
+﻿# 🎓 Termo de Bolsa Cultural (TBC)
 
 ## 💎 Dicas
 
@@ -11,23 +11,32 @@
 | **🔒 Exige prestação de contas formal?** | • Relatório de Bolsista simplificado comprovando cumprimento do encargo (art. 25) <br> • Documentos: diplomas, certificados, relatórios, fotos, comprovantes de matrícula, produtos culturais etc. <br> • Vedada exigência de demonstração financeira detalhada (art. 25) <br> • Sanções por descumprimento em até 6 meses após vigência (art. 25, § 1º): multa, suspensão da possibilidade de celebrar instrumentos no Marco do Fomento (180-540 dias), ações compensatórias |
 | **👮🏻 Exige gestor/fiscal designado?** | Sim: agente público designado para essa finalidade pela autoridade competente (art. 32), mas sua incumbência se resume à verificação do cumprimento do encargo analisando o Relatório de Bolsista, sem análise financeira |
 
+---
 
 ## 📌 Definição:
+
 O **Termo de Bolsa Cultural** é o instrumento jurídico para apoio financeiro a agente cultural com interesse em processo de formação, qualificação, especialização, intercâmbio, pesquisa, criação em âmbito artístico e cultural, além de circulação de espetáculos e obras e outras ações de promoção, memória, patrimônio cultural e congêneres, mediante cumprimento de encargo específico.
 
 > **Importante!** Cumprir um "_encargo_" significa entregar um produto, relatório ou realizar uma ação definida, como por exemplo concluir um curso, realizar apresentações de circulação de um espetáculo, ou finalizar uma disciplina com, no mínimo, determinada nota. O termo é comum em bolsas estudantis e, agora, se aplica também às bolsas culturais.
 
+---
+
 ## 🏛️ Regulamentação:
 Subseção III - Do Termo de Bolsa Cultural - da Seção III - Dos Procedimentos por Instrumento - da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm) (Marco do Fomento).
 
+---
+
 ## 🎯 Objetivos
+
 - Promover formação e qualificação de agentes culturais
 - Viabilizar intercâmbios e residências artísticas
 - Apoiar processos de pesquisa e criação cultural
 - Democratizar acesso a oportunidades de capacitação
 - Estimular a circulação e intercâmbio cultural nacional e internacional
 
-## 🛠️ Exemplos de aplicação no Iepha-MG:
+---
+
+## 🛠️ Exemplos de aplicação no Iepha-MG
 
 1. Bolsas de especialização em conservação e restauro
 2. Intercâmbios para capacitação em gestão de patrimônio cultural
@@ -36,6 +45,8 @@ Subseção III - Do Termo de Bolsa Cultural - da Seção III - Dos Procedimentos
 5. Cursos de capacitação em educação patrimonial
 6. Pesquisas sobre técnicas tradicionais de construção mineira
 7. Formação em digitalização e catalogação de acervos
+
+---
 
 ## 📋 Regras
 
@@ -69,6 +80,8 @@ Subseção III - Do Termo de Bolsa Cultural - da Seção III - Dos Procedimentos
     - Chamamento público para seleção dos beneficiários
     - Definição clara do encargo no edital
     
+---
+
 ## 📢 Chamamento público
 
 Em regra, é obrigatória a realização de chamamento público prévio. Até que sejam publicadas as normas sobre as exceções, recomenda-se sempre adotar o chamamento público.
@@ -137,6 +150,8 @@ Em regra, é obrigatória a realização de chamamento público prévio. Até qu
     - Cadastros prévios (como o Descentra Cultura) são aceitos (art. 9º, § 2º e art. 10, § 4º)
     - Inscrições orais e busca ativa de propostas são opções para propostas de agentes culturais de grupos vulneráveis (art. 8º, § 6º)
 
+---
+
 ## 🎯 Natureza da bolsa
 
 Uma boa bolsa cultural deve prever:
@@ -146,6 +161,20 @@ Uma boa bolsa cultural deve prever:
 - **Adequação:** alinhar-se aos objetivos da política pública de fomento cultural
 - **Viabilidade:** ser factível dentro do prazo e recursos disponibilizados
 - **Relevância:** contribuir efetivamente para a formação do agente cultural
+
+---
+
+## 👀 Monitoramento e controle
+
+O TBC prevê que a autoridade competente (dirigente do órgão) designe **um agente público** para executar rotinas e atividades de monitoramento e de controle da implementação da bolsa concedida (art. 32).
+
+Não é necessário mais que um agente, embora este possa contar com apoio técnico de outras áreas de seu órgão, bem como serviços contratados com terceiros ou decorrentes da celebração de parcerias.
+
+Entretanto, as rotinas e atividades de monitoramento são relativamente simples, se circunscrevendo à verificação do cumprimento do encargo contraído pelo agente cultural que assinou o TBC.
+
+O agente público deve fazer isso analisando o Relatório de Bolsista apresentado pelo agente cultural ao fim da vigência do TBC, **sem precisar fazer qualquer análise financeira** (art. 25 da Lei). O agente público também pode solicitar ao agente cultural, a qualquer tempo, informações sobre o cumprimento do objeto do TBC.
+
+---
 
 ## 🔒 Prestação de contas
 
@@ -182,6 +211,8 @@ Uma boa bolsa cultural deve prever:
     | Caso fortuito ou força maior impeditiva da execução do encargo (art. 25, §3º)             | Reconhecimento da excludente  | Afastamento das sanções previstas (multa e suspensão) |
     | Aplicação de sanções (art. 25, §4º)             | Conversão em ações compensatórias  | Substituição da multa ou suspensão por medidas alternativas pactuadas via Plano de Ações Compensatórias  |
 
+---
+
 ## 🔍 Saiba mais!
 
 Modelos e documentos de referência (editais, termos, relatórios etc.) podem ser encontrados no nossa [Biblioteca](../../biblioteca/index.md). 
@@ -196,7 +227,11 @@ Modelos e documentos de referência (editais, termos, relatórios etc.) podem se
 - [Anexo 07 - Declaração PCDs](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/politica-nacional-aldir-blanc/copy_of_Anexo07DeclaraoPCDsAtualizadoem02.06.2025.docx)
 - [Anexo 09 - Formulário de recurso](https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/politica-nacional-aldir-blanc/Anexo09FormulriodeRecursoBolsaCulturaldePesquisaAtualizadoem02.06.2025.docx)
 
-## ↔️ Fluxograma para celebração e execução de Termo de Bolsa Cultural
+---
+
+## 🔄️ Fluxograma
+
+Todos os procedimentos do fluxograma referem-se ao [Marco do Fomento - Lei Federal  nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm). Diferentes formatos das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
 
 ```mermaid
     %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
@@ -222,7 +257,7 @@ C -->|Não| D@{ shape: rect, label: "Informar e justificar negativa à área té
 D --> RES((("Fim")))
 C -->|Sim| E@{ shape: diamond, label: "Necessita Chamamento Público? (art. 6º, § 2º)" }
 E -->|Sim| cham
-E -->|Não| disp
+E -->|"Não (verificar regulamentação por decreto)"| disp
 
 %% Chamamento Público
 subgraph cham ["Chamamento Público"]
@@ -238,8 +273,8 @@ subgraph cham ["Chamamento Público"]
     F7 -->|Não| F10@{ shape: rect, label: "Providenciar parecer da autoridade competente pela publicação do edital" }
     F9 --> F10
     F10 --> F11@{ shape: rect, label: "Assinar e publicar edital com definição clara do encargo" }
-    F11 --> F12@{ shape: odd, label: "Receber propostas de formação/qualificação (mínimo de 5 dias úteis: art. 9º, I)" }
-    F12 --> F13@{ shape: odd, label: "Analisar propostas formativas" }
+    F11 --> F12@{ shape: odd, label: "Receber propostas (mínimo de 5 dias úteis: art. 9º, I)" }
+    F12 --> F13@{ shape: odd, label: "Analisar propostas" }
     F13 --> F14@{ shape: rounded, label: "Publicar resultado provisório e aguardar prazo para recursos (3 dias úteis: art. 9º, III)" }
     F14 --> F15@{ shape: hex, label: "Receber, analisar e julgar recursos" }
     F15 --> F16@{ shape: diamond, label: "Recursos alteraram classificação?" }
@@ -269,7 +304,7 @@ H2 -->|Não| H4
 
 %% Execução e prestação de contas
 H4 --> I1@{ shape: rounded, label: "Transferir recursos (doação com encargo)" }
-I1 --> I2@{ shape: lean-r, label: "Executar atividade formativa/qualificadora" }
+I1 --> I2@{ shape: lean-r, label: "Executar ação cultural" }
 I2 --> I3@{ shape: lean-r, label: "Apresentar Relatório de Bolsista comprovando cumprimento do encargo" }
 I3 --> I4@{ shape: diamond, label: "Encargo foi cumprido?" }
 I4 -->|Sim| RES((("Fim")))

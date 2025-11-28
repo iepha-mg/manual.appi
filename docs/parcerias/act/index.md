@@ -4,7 +4,7 @@
 
 | Item                                                     | Resposta  |
 |----------------------------------------------------------|-----------|
-| **📢 Precisa de Chamamento Público?**                           | Não       |
+| **📢 Precisa de Chamamento Público?**                           | Não, pois é firmado entre entidades públicas e não envolve transferências de recursos ou cessão patrimonial |
 | **🤝 Tipos de parceiros**                                       | • Órgãos públicos (todas as esferas) <br> • Consórcios públicos <br> • Serviços Sociais Autônomos (SSAs) |
 | **💰 Envolve transferência de recursos ou cessão patrimonial?** | • Não (art. 24 do [Decreto Federal nº 11.531/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11531.htm)) |
 | **⏳ Vigência máxima**                                          | • Não há limite máximo fixado em decreto <br> • Varia de acordo com a complexidade do objeto <br> • Recomenda-se 2 anos |
@@ -78,26 +78,43 @@ Desde que haja interesse mútuo e viabilidade técnica, um Acordo de Cooperaçã
 
 ---
 
-## 🎉 Celebração
+## ✒️ Celebração
 Decisão discricionária da administração pública baseada em análise de interesse comum e viabilidade da cooperação técnica.
 
 ---
 
-## 🪪 Documentação
-Por se tratar de instrumento sem transferência de recursos, dispensa documentação complexa, sendo necessários apenas:
-- Identificação das partes
+## 🪪 Documentação e cláusulas
+
+Por se tratar de instrumento sem transferência de recursos, dispensa documentação complexa. Em suma, exige-se do parceiro a apresentação de estatuto válido, de algumas CNDs e de ata de posse do dirigente que assinará o instrumento jurídico. 
+
+Quanto ao instrumento jurídico a ser assinado, algumas cláusulas não podem:
+
+- Identificação das partes (preâmbulo)
 - Descrição clara do objeto da cooperação
 - Definição das responsabilidades de cada parte
+- Regras de monitoramento e avaliação
 - Prazo de vigência
- 
-Não é obrigatório - mas é boa prática - constar um plano de trabalho simplificado, com ações objetivas visando ao cumprimento do objeto da cooperação, prazos para início e término de cada ação, responsáveis pela ação e fonte de comprovação (documentos, fotografias, relatórios, publicações etc. que atestem a realização daquela atividade).
+- Resultados esperados (anexo)
+
+---
+
+## 🛣️ Plano de trabalho
+
+Não é obrigatório - mas é boa prática - constar um *plano de trabalho simplificado*, com:
+
+- Ações objetivas visando ao cumprimento do objeto da cooperação
+- Prazos para início e término de cada ação
+- Responsáveis pela ação
+- Fontes de comprovação (documentos, fotografias, relatórios, publicações etc. que atestem a realização daquela atividade)
 
 ---
 
 ## 🔒 Prestação de contas
+
 Não é exigida prestação de contas financeira, uma vez que o instrumento não envolve transferência de recursos. Pode ser estabelecida apresentação de relatórios técnicos sobre as atividades desenvolvidas, conforme acordado entre as partes.
 
 **Conteúdo sugerido para relatórios técnicos:**
+
 - Descrição das atividades realizadas
 - Resultados alcançados na cooperação
 - Benefícios mútuos obtidos
@@ -120,7 +137,7 @@ Modelos e documentos de referência podem ser encontrados em nossa [Biblioteca](
 
 ---
 
-## ↔️ Fluxograma
+## 🔄️ Fluxograma
 
 Todos os procedimentos do fluxograma referem-se ao [Decreto Federal nº 11.531/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11531.htm). Diferentes formatos das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
 

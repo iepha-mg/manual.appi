@@ -14,6 +14,7 @@
 ---
 
 ## 📌 Definição
+
 O **Termo de Parceria** é o instrumento firmado entre a administração pública estadual e a entidade qualificada como Organização da Sociedade Civil de Interesse Público (OSCIP) para fomento e execução de atividades relativas às áreas de interesse público, estabelecendo parceria com vistas à promoção da qualidade e eficiência na prestação dos serviços públicos (Lei Estadual nº 23.081/2018, art. 2º, IV; Decreto nº 47.554/2018, art. 29).
 
 > **Você sabia?** As _áreas de interesse público_ do Modelo OSCIP estão definidas no art. 5º da [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1)
@@ -21,6 +22,7 @@ O **Termo de Parceria** é o instrumento firmado entre a administração públic
 ---
 
 ## 🏛️ Regulamentação
+
 [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) e [Decreto Estadual nº 47.554/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47554/2018/?cons=1).  
 > Daqui em diante, utilizaremos "Lei" ou "Decreto" para citar essas normas.
 
@@ -83,7 +85,8 @@ O **Termo de Parceria** é o instrumento firmado entre a administração públic
 
 ---
 
-## 📢 Processo de seleção pública
+## 📢 Seleção pública
+
 Obrigatório para seleção de OSCIPs (art. 16 da Lei), salvo hipóteses de dispensa ou inviabilidade de competição (art. 17 da Lei).
 
 === "↔️ Fluxo Resumido do Termo de Parceria"
@@ -149,7 +152,7 @@ Obrigatório para seleção de OSCIPs (art. 16 da Lei), salvo hipóteses de disp
 - Cronograma de Avaliações
 - Quadro de pesos para avaliação
 
-## 🔍 Monitoramento e avaliação
+## 👀 Monitoramento e avaliação
 
 === "👮🏻 Supervisor"
 
@@ -221,6 +224,7 @@ Obrigatório para seleção de OSCIPs (art. 16 da Lei), salvo hipóteses de disp
     | Dano ao erário ou a falta de comprovação total ou parcial da aplicação de recursos do contrato de gestão             | Reprovação das contas (art. 67, III, do Decreto)  | Instaurar PACE-Parcerias (art. 67, §3º do Decreto) |
 
 ## 🔍 Saiba mais!
+
 Modelos e minutas do Estado podem ser encontrados em uma página especial do [Portal da Seplag](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip) e em nossa [Biblioteca](../../biblioteca/index.md).
 
 - [Modelo de qualificação como OSCIP](https://www.mg.gov.br/planejamento/documento/modelo-de-requerimento-de-qualificacaorenovacao-como-oscip)
@@ -237,7 +241,9 @@ Modelos e minutas do Estado podem ser encontrados em uma página especial do [Po
 - [Manual SEPLAG de orientações sobre as rotinas de monitoramento e fiscalização](https://www.mg.gov.br/system/files/media/documento_detalhado/2025-07/Manual%20de%20orienta%C3%A7%C3%B5es%20para%20a%20comiss%C3%A3o%20supervisora_2025.pdf)
 - [Página sobre o Termo de Parceria nº 53/2023 - Fundação Clóvis Salgado e Associação Pró Cultura e Promoção das Artes  - APPA](https://fcs.mg.gov.br/contrato-de-gestao-termo-de-parceria), atualmente vigente
 
-## ↔️ Fluxograma completo para celebração, execução e prestação de contas do Termo de Parceria
+## 🔄️ Fluxograma
+
+Todos os procedimentos do fluxograma referem-se à [Lei Estadual nº 23.081/2018](https://www.almg.gov.br/legislacao-mineira/texto/LEI/23081/2018/?cons=1) e ao [Decreto Estadual nº 47.554/2018](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47554/2018/?cons=1). Diferentes formatos das caixinhas significam diferentes setores responsáveis por cada atividade, conforme legenda.
 
 ```mermaid
 %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%

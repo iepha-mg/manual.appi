@@ -42,7 +42,7 @@ Clique no nome de cada instrumento jurídico para saber mais.
 
 ---
 
-## 📢 Chamamento
+## 📢 Chamamento público
 
 - Exigido, salvo em situações excepcionais, nos casos de instrumentos jurídicos que prevêem transferências de recursos: Termos de Execução Cultural, Termos de Premiação Cultural e Termos de Bolsa Cultural
 - Facultativo nos casos que não prevêem transferências: Termos de Ocupação Cultural e Termos de Cooperação Cultural
@@ -66,7 +66,7 @@ Não há vigência mínima ou máxima para nenhum instrumento jurídico do Marco
 
 ---
 
-## 👮🏻 Monitoramento e controle
+## 👀 Monitoramento e controle
 
 - **Agentes públicos designados** pela autoridade competente devem realizar rotinas de monitoramento e controle, podendo contar com serviços de apoio técnico
 - **Foco no cumprimento do objeto**: rotinas de monitoramento e controle devem priorizar o cumprimento do objeto das ações culturais e a execução da política pública cultural
