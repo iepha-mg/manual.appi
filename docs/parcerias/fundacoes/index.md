@@ -45,15 +45,20 @@ As Fundações de Apoio são entidades privadas sem fins lucrativos criadas para
 
 ## 🛠️ Exemplos de aplicação em parceria com o Iepha-MG
 
-1. **Desenvolvimento de projetos para leis de incentivo**  
-   - Formulação e gestão de projetos voltados a editais culturais estaduais e federais  
-   - Apoio na captação de recursos junto a empresas incentivadoras  
-2. **Captação de recursos e patrocínios**  
-   - Articulação de doações e contrapartidas com fundações privadas  
-3. **Execução de projetos captados**  
-   - Contratação de equipes técnicas e fornecedores conforme previsto em projetos incentivados
-   - Gestão financeira, prestação de contas e relatórios técnicos  
-4. **Pesquisa e conhecimento**
-   - Publicação de artigos, catálogos e exposições 
-5. **Formação e capacitação**  
-   - Cursos, oficinas e seminários para servidores e comunidades locais  
+- **Desenvolvimento de projetos para leis de incentivo**  
+
+    - Formulação e gestão de projetos voltados a editais culturais estaduais e federais  
+    - Apoio na captação de recursos junto a empresas incentivadoras  
+
+- **Captação de recursos e patrocínios**  
+    - Articulação de doações e contrapartidas com fundações privadas  
+
+- **Execução de projetos captados**  
+    - Contratação de equipes técnicas e fornecedores conforme previsto em projetos incentivados
+    - Gestão financeira, prestação de contas e relatórios técnicos  
+
+- **Pesquisa e conhecimento**
+    - Publicação de artigos, catálogos e exposições 
+
+- **Formação e capacitação**  
+    - Cursos, oficinas e seminários para servidores e comunidades locais  

@@ -4,9 +4,9 @@
 
 | Item                                                     | Resposta  |
 |----------------------------------------------------------|-----------|
-| **📢 Precisa de Chamamento Público?**                           | Não, pois é firmado entre entidades públicas e não envolve transferências de recursos ou cessão patrimonial |
+| **📢 Precisa de Chamamento Público?**                           | Não, pois é firmado entre entidades públicas e não envolve transferências de recursos ou doação de bens materiais |
 | **🤝 Tipos de parceiros**                                       | • Órgãos públicos (todas as esferas) <br> • Consórcios públicos <br> • Serviços Sociais Autônomos (SSAs) |
-| **💰 Envolve transferência de recursos ou cessão patrimonial?** | • Não (art. 24 do [Decreto Federal nº 11.531/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11531.htm)) |
+| **💰 Envolve transferência de recursos ou doação de bens materiais?** | • Não (arts. 2º, XIII e 24, I do [Decreto Federal nº 11.531/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11531.htm)) |
 | **⏳ Vigência máxima**                                          | • Não há limite máximo fixado em decreto <br> • Varia de acordo com a complexidade do objeto <br> • Recomenda-se 2 anos |
 | **🔒 Exige prestação de contas formal? Qual?**                  | • Não exige prestação de contas financeira <br> • Porém, recomenda-se relatório técnico simplificado sobre as atividades |
 | **👮🏻 Exige servidor designado como gestor/fiscal/equivalente?**    | • Não <br> • Porém, recomenda-se designação de gestor e fiscal na unidade demandante da parceria para facilitar a execução e o monitoramento |

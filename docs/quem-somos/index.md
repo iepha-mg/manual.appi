@@ -14,7 +14,6 @@
         <ul>
             <li>👔 Especialista em Políticas Públicas e Gestão Governamental (EPPGG)</li>
             <li>📧 <a href="mailto:priscila.guerra@iepha.mg.gov.br">priscila.guerra@iepha.mg.gov.br</a></li>
-            <li>🎓 <a href="http://lattes.cnpq.br/4749109914314491">Lattes</a></li>
             <li>🎓 <a href="https://www.linkedin.com/in/priscila-guerra-duarte-bb12487a/">LinkedIn</a></li>
         </ul>
     </div>
