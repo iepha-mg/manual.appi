@@ -4,7 +4,7 @@
 
 | Item | Resposta |
 |------|----------|
-| **📢 Precisa de chamamento público?** | Sim, salvo situações excepcionais - art. 6º, § 2º da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm). Essas situações ainda não foram regulamentadas por decreto |
+| **📢 Precisa de chamamento públicogit stat?** | Sim, salvo situações excepcionais - art. 6º, § 2º da [Lei Federal nº 14.903/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14903.htm). Essas situações ainda não foram regulamentadas por decreto |
 | **🤝 Tipos de parceiros** | • Pesquisadores, estudantes, professores e alunos <br> • Agentes culturais interessados em participar em eventos como feiras, mercados, festivais e rodadas de negócios no Brasil ou no exterior <br> • Artistas, coletivos, MEIs ou PJs com projetos de circulação estadual cultural <br> • Agentes culturais interessados em capacitação profissional ou acadêmica <br> Entidades ou pessoas físicas com projetos de promoção, memória, patrimônio cultural, difusão e capacitação na área de cultura |
 | **💰 Envolve transferência de recursos?** | Sim: apoio financeiro (doação com encargo) para cumprimento de encargo específico (ação cultural, pesquisa, capacitação etc.) |
 | **⏳ Vigência máxima** | Não: definida pelo encargo específico (cursos, eventos, residências artísticas etc.), sem prazo máximo explícito na lei |
