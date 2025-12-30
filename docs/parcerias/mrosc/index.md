@@ -38,12 +38,12 @@ Clique no nome de cada instrumento jurídico para saber mais.
 
 ## 📢 Chamamento público
 
-- **Chamamento público obrigatório**: para termo de colaboração ou de fomento. Também obrigatório para Acordo de Cooperação que envolva compartilhamento de recurso patrimonial (art. 2º, XVI do Decreto)
+- **Chamamento público obrigatório**: para *Termo de Colaboração* ou *Termo de Fomento*. Também obrigatório para Acordo de Cooperação que envolva compartilhamento de recurso patrimonial (art. 2º, XVI do Decreto)
 - **Chamamento não obrigatório**: casos de urgência decorrente de paralisação ou iminência de paralisação de atividades, calamidade pública, políticas executadas por OSCs cadastradas e situações excepcionais regulamentadas pelo art. 18, § 2º do Decreto
 - **Chamamento público inexigível**: inviabilidade de competição entre OSCs por conta da natureza do objeto, metas somente atingíveis por uma OSC específica, OSC indicada por compromisso internacional e outras situações excepcionais regulamentadas pelo art. 18, § 3º do Decreto
 - **2 etapas**:
-  - **Etapa Eliminatória**: primeira etapa, consiste análise de documentos (habilitação) para averiguar atendimento de requisitos mínimos
-  - **Etapa Classificatória**: segunda etapa, consiste na seleção e classificação de propostas para escolher aquela mais vantajosa ao interesse público, dado o objeto da parceria
+    - **Etapa Eliminatória**: primeira etapa, consiste análise de documentos (habilitação) para averiguar atendimento de requisitos mínimos
+    - **Etapa Classificatória**: segunda etapa, consiste na seleção e classificação de propostas para escolher aquela mais vantajosa ao interesse público, dado o objeto da parceria
 - **Procedimento de Manifestação de Interesse Social (PMIS)**: canal para cidadãos e OSCs proporem políticas públicas, democratizando o acesso às políticas de fomento
 
 ---
