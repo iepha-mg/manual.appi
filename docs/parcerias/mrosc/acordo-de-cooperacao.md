@@ -5,7 +5,7 @@
 | Item | Resposta |
 |------|----------|
 | **📢 Precisa de Chamamento Público?** | Não, salvo quando o objeto envolver comodato, doação de bens ou qualquer forma de compartilhamento de recurso patrimonial (art. 29 da [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm) / art. 18, § 1º do [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1)) |
-| **🤝 Tipos de parceiros** | • Organizações da sociedade civil (OSCs) sem fins lucrativos <br> • Instituições privadas sem finalidade lucrativa voltadas ao interesse público <br> • Entidades sem fins lucrativos interessadas em executar projetos culturais <br> |
+| **🤝 Tipos de parceiros** | Organizações da sociedade civil (OSCs) |
 | **💰 Envolve transferência de recursos?** | Não: instrumento para parcerias sem transferência de recursos financeiros (art. 2º, inciso VIII-A da Lei) |
 | **⏳ Vigência máxima** | Não há prazo máximo explícito na lei. Vigência deve ser definida conforme objeto e necessidades da cooperação |
 | **🔒 Exige prestação de contas formal?** | Simplificada: apenas relatório de execução focado em resultados (art. 71, parágrafo único do Decreto) <br> • Apresentação pela OSC: até 90 dias após término da parceria ou ao fim de cada exercício (se durar mais de 1 ano) (art. 69 da Lei) <br> • Análise pela administração: até 150 dias do recebimento (art. 71 da Lei) |

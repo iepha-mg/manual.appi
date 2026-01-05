@@ -1,5 +1,281 @@
 ﻿# 🏛️💡 Termo de Colaboração
 
+## 💎 Dicas
+
+| Item | Resposta |
+|------|----------|
+| **📢 Precisa de chamamento público?** | Sim, obrigatório para seleção das OSCs, salvo situações excepcionais previstas em lei (art. 24 e 30 da [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm)) |
+| **🤝 Tipos de parceiros** | Organizações da Sociedade Civil (OSCs) |
+| **💰 Envolve transferência de recursos?** | Sim |
+| **🌐 Pode envolver atuação em rede?** | Sim. Por duas ou mais OSCs, mantida a integral responsabilidade da organização celebrante do termo (art. 35-A da Lei) |
+| **⏱️ Vigência máxima** | Não há prazo máximo explícito na lei. Definir conforme o plano de trabalho e o alcance das metas previstas |
+| **🔒 Exige prestação de contas formal?** | • Relatório de execução do objeto (comprovação do alcance das metas - art. 63 da Lei) <br> • Relatório de execução financeira (nos casos definidos pelo art. 76, II do [Decreto Estadual 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1) <br>  &nbsp;&nbsp;&nbsp;&nbsp; • Prazo: 90 dias do fim da vigência ou anualmente para parcerias plurianuais (art. 69 da Lei) <br>  &nbsp;&nbsp;&nbsp;&nbsp; • Sanções por descumprimento: devolução de recursos, suspensão ou declaração de inidoneidade (art. 73 da Lei) |
+| **👮🏻 Exige gestor/fiscal designado?** | Sim: gestor da parceria obrigatório (art. 2º, inciso IX do Decreto / art. 41, inciso IX do Decreto) para acompanhamento da execução, orientação à OSC e emissão de relatórios (arts. 61 e 62 da Lei) à Comissão de Monitoramento e Avaliação (art. 60 do Decreto) |
+| **🛣️ Plano de trabalho obrigatório?** | Sim. Deve conter: descrição da realidade objeto da parceria, metas a serem atingidas, previsão de receitas e despesas, forma de execução e parâmetros de aferição do cumprimento das metas (art. 22 da Lei e art. 26 do Decreto) |
+
+---
+
+## 📌 Definição
+
+O **Termo de Colaboração** é o instrumento jurídico para formalizar parcerias entre a administração pública e organizações da sociedade civil, com transferência de recursos financeiros, para consecução de finalidades de interesse público e recíproco **propostas pela administração pública** (art. 2º, inciso VII da [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm)).
+
+---
+
+## 🏛️ Regulamentação
+
+[Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm) (Marco Regulatório das Organizações da Sociedade Civil - MROSC) e [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1) de Minas Gerais.
+
+---
+
+## 🎯 Objetivos
+
+- Viabilizar projetos de iniciativa da administração pública com participação das OSCs
+- Estabelecer regime de mútua cooperação para interesse público e recíproco
+- Garantir transparência na aplicação de recursos públicos
+- Focar no controle de resultados e no alcance de metas
+
+---
+
+## 🛠️ Exemplos de aplicação no Iepha-MG
+
+1. Mapeamento sistemático do patrimônio cultural em territórios específicos
+2. Diagnósticos patrimoniais em municípios mineiros
+3. Campanhas educativas sobre preservação do patrimônio cultural
+4. Capacitação de agentes locais de patrimônio
+5. Elaboração de inventários participativos de bens culturais
+6. Desenvolvimento de metodologias de educação patrimonial
+
+---
+
+
+
+## DAQUIIIIIIIIII
+
+
+
+## 📋 Regras
+
+=== "✅ Pode"
+
+    **Recursos podem ser usados para:**
+    
+    - Remuneração da equipe de trabalho, inclusive encargos
+    - Contratação de serviços de terceiros
+    - Aquisição de equipamentos e materiais permanentes e de consumo
+    - Despesas com transporte, hospedagem e alimentação
+    - Divulgação das ações, inclusive na internet
+    - Custos indiretos necessários à execução do objeto, até 15% do valor total
+    
+    **Facilidades administrativas:**
+    
+    - OSC tem autonomia para gestão administrativa e financeira dos recursos
+    - Possibilidade de alteração da vigência mediante acordo entre as partes
+    - Aplicação de rendimentos financeiros no objeto da parceria
+    - Contratação de pessoal pela OSC com recursos da parceria
+
+=== "❌ Não pode"
+
+    ⚠️ **Proibições absolutas:**
+    
+    - Exigir contrapartida financeira, embora possa ser exigida contrapartida em bens ou serviços das OSCs
+    - Pagar despesas realizadas em data anterior à vigência da parceria
+    - Utilizar recursos para finalidades alheias ao objeto da parceria
+    - Pagar multas, juros ou correção monetária por atraso no pagamento de obrigações
+    
+    ⚠️ **Exigências obrigatórias:**
+    
+    - Chamamento público prévio, salvo exceções legais
+    - Plano de trabalho detalhado
+    - Comprovação de regularidade fiscal e jurídica da OSC
+    - Designação de gestor da parceria
+
+---
+
+## 📢 Procedimento de Manifestação de Interesse Social (PMIS)
+
+O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público.
+
+### 🔄 Como funciona o PMIS
+
+1. **Apresentação da proposta** pela OSC ou cidadão
+2. **Análise pela administração** de conveniência e oportunidade
+3. **Consulta pública** para oitiva da sociedade sobre o tema
+4. **Decisão do órgão** sobre realização ou não de chamamento público
+
+### 📝 Requisitos da proposta PMIS
+
+- **Identificação** do subscritor da proposta
+- **Indicação** do interesse público envolvido
+- **Diagnóstico** da realidade a ser modificada/desenvolvida
+- **Viabilidade** dos custos, benefícios e prazos (quando possível)
+
+### ⚠️ Importante sobre o PMIS
+
+- **Não garante** a realização de chamamento público
+- **Não impede** a OSC proponente de participar do eventual chamamento
+- **É vedado** condicionar chamamento público à realização prévia de PMIS
+
+---
+
+## 📢 Chamamento público
+
+Em regra, é obrigatória a realização de chamamento público para seleção das OSCs, garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo. As exceções previstas em lei ainda aguardam regulamentação detalhada.
+
+### ↔️ Fluxo Resumido do Chamamento Público
+
+<div class="mermaid">
+flowchart LR
+    subgraph PMIS ["PMIS (Opcional)"]
+        P1["OSC/cidadão apresenta proposta"]
+        P2["Órgão publica proposta e instaura PMIS"]
+        P3["Consulta pública sobre o tema"]
+        P4["Decisão sobre realização de chamamento"]
+        P1 --> P2 --> P3 --> P4
+    end
+    subgraph Planejamento
+        A1["Identificar demanda do órgão estadual parceiro"]
+        A2["Elaborar termo de referência com objeto e critérios"]
+        A3["Desenvolver minuta de edital e termo de colaboração"]
+        A4["Análise jurídica obrigatória"]
+        A5["Constituir comissão de seleção por ato oficial"]
+        A6["Publicar edital com antecedência mínima de 30 dias"]
+        A1 --> A2 --> A3 --> A4 --> A5 --> A6
+    end
+    subgraph Processamento
+        B1["Receber propostas de plano de trabalho"]
+        B2["Análise técnica e julgamento pela comissão"]
+        B3["Homologação e divulgação de resultado provisório"]
+        B4["Prazo para recursos administrativos"]
+        B5["Análise de recursos e resultado final"]
+        B1 --> B2 --> B3 --> B4 --> B5
+    end
+    subgraph Habilitação
+        C1["Verificar documentos das OSCs selecionadas"]
+        C2["Convocação da próxima classificada se necessário"]
+        C3["Elaborar plano de trabalho conjunto"]
+        C4["Designar gestor da parceria"]
+        C5["Celebrar termo de colaboração"]
+        C1 --> C2 --> C3 --> C4 --> C5
+    end
+    PMIS -.->|Pode originar| Planejamento
+    Planejamento --> Processamento --> Habilitação
+</div>
+
+### 🔑 Regras-Chave
+
+- **Dispensa de chamamento público** somente em casos excepcionais previstos em lei
+- **Comissão de seleção** obrigatória, com pelo menos um servidor efetivo
+- **Prazo mínimo** de 30 dias para apresentação de propostas
+- **Critérios objetivos** de seleção focados na melhor proposta técnica
+- **Habilitação** somente após seleção das propostas
+
+### ⏱️ Prazos importantes
+
+| Etapa                          | Prazo                    | Base Legal                     |
+|--------------------------------|--------------------------|--------------------------------|
+| PMIS: divulgação da proposta*   | 30 dias                  | Art. 15, § 3º do Decreto |
+| PMIS: decisão final*            | 90 dias                  | Art. 15, § 4º do Decreto |
+| PMIS: consulta pública*         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto |
+| Apresentação de propostas      | Mínimo 30 dias           | Art. 26 da Lei         |
+| Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto |
+| Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
+| Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
+
+*Opcional
+
+---
+
+## 🛣️ Plano de trabalho
+
+**Elementos obrigatórios**:
+
+- **Descrição da realidade** objeto da parceria e nexo com atividades/projetos
+- **Metas a serem atingidas** e atividades/projetos a serem executados
+- **Previsão de receitas e despesas** detalhada
+- **Forma de execução** e cumprimento das metas
+- **Parâmetros de aferição** do cumprimento das metas
+
+> **Importante**: As metas devem ser mensuráveis e verificáveis, permitindo avaliação objetiva do cumprimento do objeto da parceria.
+
+---
+
+## 🔍 Monitoramento e avaliação
+
+O **gestor da parceria** deve:
+
+- Acompanhar e fiscalizar a execução
+- Orientar a OSC durante a execução
+- Emitir relatório técnico de monitoramento
+- Informar irregularidades ao superior hierárquico
+- Emitir parecer conclusivo sobre prestação de contas
+
+A **Comissão de Monitoramento e Avaliação** deve:
+
+- Avaliar as parcerias periodicamente
+- Homologar relatórios técnicos de monitoramento
+- Propor melhorias nos procedimentos
+
+---
+
+## 🔒 Prestação de contas
+
+Focada no **controle de resultados** e no cumprimento de metas, compreendendo:
+
+### 📋 Documentos exigidos
+
+1. **Relatório de execução do objeto** - comprovação do alcance das metas
+2. **Relatório de execução financeira** - somente se não comprovado cumprimento das metas
+3. **Documentos complementares** previstos no plano de trabalho
+
+### 👮 Análise da prestação de contas
+
+| **Situação**                    | **Análise Requerida**                | **Resultado**                        |
+|---------------------------------|--------------------------------------|--------------------------------------|
+| Metas atingidas integralmente   | Apenas relatório de objeto          | Aprovação                    |
+| Metas parcialmente atingidas    | Relatório de objeto + financeiro    | Aprovação com ressalvas      |
+| Metas não atingidas             | Relatório de objeto + financeiro    | Rejeição + devolução de recursos |
+
+### 🕒 Prazos da prestação de contas
+
+- **OSC**: apresentar prestação de contas conforme cronograma estabelecido
+- **Administração**: analisar em até 150 dias, prorrogáveis por igual período
+- **Recurso**: prazo definido no termo de colaboração
+
+---
+
+## 🔍 Saiba mais!
+
+Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
+
+**Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
+
+- [Minuta Padrão de Edital de Chamamento Público para Termo de Colaboração MROSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_edital_chamamento_publico_termo_colaboracao.docx)
+- [Modelo de Extrato de Edital para Chamamento Público](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_extrato_edital_divulgacao.docx)
+- [Minuta de Termo de Colaboração / Termo de Fomento](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/Minuta%20de%20Termo%20de%20Colabora%C3%A7%C3%A3o-Fomento%20(Alterada%20em%202025).docx)
+- [Modelo de Extrato de Termo de Colaboração](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_extrato_fomento_colaboracao.docx)
+- [Modelo de Proposta de Plano de Trabalho para Termo de Colaboração](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_plano_trabalho_termo_colaboracao.docx)
+- [Modelo de Termo de Designação de Gestor](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_termo_designacao_gestor_parceria.docx)
+- [Modelo de Resolução para Designação da Comissão de Monitoramento e Avaliação das Parcerias](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_resolucao_designacao_comissao_monitoramento_avaliacao.docx)
+- [Checklist de Celebração de Termo de Colaboração/Fomento](https://sigconsaida.mg.gov.br/padronizacoes-parcerias)
+- [Relatórios Técnicos de Monitoramento e Avaliação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_tecnico_monitoramento.docx)
+- [Prestação de Contas: Relatório de Execução do Objeto](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
+- [Prestação de Contas: Relatório de Execução Financeira MROSC](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_financeira_mrosc.docx)
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+# 🏛️💡 Termo de Colaboração
+
 ## 📌 Definição:
 Instrumento jurídico para formalizar parcerias entre a administração pública e organizações da sociedade civil, com transferência de recursos financeiros, para consecução de finalidades de interesse público e recíproco **propostas pela administração pública** (art. 2º, inciso VII da Lei 13.019/2014).
 
