@@ -7,9 +7,9 @@
 | **📢 Precisa de chamamento público?** | Sim, obrigatório para seleção das OSCs, salvo situações excepcionais previstas em lei (art. 24 e 30 da [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm)) |
 | **🤝 Tipos de parceiros** | Organizações da Sociedade Civil (OSCs) |
 | **💰 Envolve transferência de recursos?** | Sim |
-| **🌐 Pode envolver atuação em rede?** | Sim. Por duas ou mais OSCs, mantida a integral responsabilidade da organização celebrante do termo (art. 35-A da Lei) |
+| **🌐 Pode envolver atuação em rede?** | Sim. Por duas ou mais OSCs, mantida a integral responsabilidade da organização celebrante do termo (art. 35-A da [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm) e Capítulo V do [Decreto Estadual 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1)) |
 | **⏱️ Vigência máxima** | Não há prazo máximo explícito na lei. Definir conforme o plano de trabalho e o alcance das metas previstas |
-| **🔒 Exige prestação de contas formal?** | • Relatório de execução do objeto (comprovação do alcance das metas - art. 63 da Lei) <br> • Relatório de execução financeira (nos casos definidos pelo art. 76, II do [Decreto Estadual 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1) <br>  &nbsp;&nbsp;&nbsp;&nbsp; • Prazo: 90 dias do fim da vigência ou anualmente para parcerias plurianuais (art. 69 da Lei) <br>  &nbsp;&nbsp;&nbsp;&nbsp; • Sanções por descumprimento: devolução de recursos, suspensão ou declaração de inidoneidade (art. 73 da Lei) |
+| **🔒 Exige prestação de contas formal?** | • Relatório de execução do objeto (comprovação do alcance das metas - art. 63 da Lei) <br> • Relatório de execução financeira (nos casos definidos pelo art. 76, II do [Decreto Estadual 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1) <br> • Prazo: 90 dias do fim da vigência ou anualmente para parcerias plurianuais (art. 69 da Lei) <br>  • Sanções por descumprimento: devolução de recursos, suspensão ou declaração de inidoneidade (art. 73 da Lei) <br> • Em caso de atuação em rede, a OSC celebrante é responsável por prestar contas |
 | **👮🏻 Exige gestor/fiscal designado?** | Sim: gestor da parceria obrigatório (art. 2º, inciso IX do Decreto / art. 41, inciso IX do Decreto) para acompanhamento da execução, orientação à OSC e emissão de relatórios (arts. 61 e 62 da Lei) à Comissão de Monitoramento e Avaliação (art. 60 do Decreto) |
 | **🛣️ Plano de trabalho obrigatório?** | Sim. Deve conter: descrição da realidade objeto da parceria, metas a serem atingidas, previsão de receitas e despesas, forma de execução e parâmetros de aferição do cumprimento das metas (art. 22 da Lei e art. 26 do Decreto) |
 
@@ -47,143 +47,163 @@ O **Termo de Colaboração** é o instrumento jurídico para formalizar parceria
 
 ---
 
-
-
-## DAQUIIIIIIIIII
-
-
-
 ## 📋 Regras
 
 === "✅ Pode"
 
-    **Recursos podem ser usados para:**
+    **Compras, contratações e utilização de recursos vinculados à parceria:**
     
-    - Remuneração da equipe de trabalho, inclusive encargos
-    - Contratação de serviços de terceiros
-    - Aquisição de equipamentos e materiais permanentes e de consumo
-    - Despesas com transporte, hospedagem e alimentação
-    - Divulgação das ações, inclusive na internet
-    - Custos indiretos necessários à execução do objeto, até 15% do valor total
-    
-    **Facilidades administrativas:**
-    
-    - OSC tem autonomia para gestão administrativa e financeira dos recursos
-    - Possibilidade de alteração da vigência mediante acordo entre as partes
-    - Aplicação de rendimentos financeiros no objeto da parceria
-    - Contratação de pessoal pela OSC com recursos da parceria
+    - Podem adotar métodos usuais no setor privado, desde que observada a compatibilidade entre o valor previsto no plano de trabalho e o valor efetivamente gasto (art. 52, § 1º do Decreto), com possibilidade de atualização de valores baseada no IPCA (art. 52, § 1º-A do Decreto)
+    - Podem contratar bens e serviços específicos diretamente, desde que justificados os preços, em situações especiais (art. 52, § 2º do Decreto):
+        - Oferta restrita, incluindo serviços de natureza intelectual ou artística, fornecedor exclusivo ou limitações do mercado local;
+        - Compras eventuais de alimentos perecíveis; ou
+        - Serviços emergenciais para evitar paralisação de serviço essencial à população.
+    - Podem cobrir as seguintes despesas (art. 52-C do Decreto):
+        - Remuneração de equipe encarregada da execução do plano de trabalho, incluindo encargos sociais e trabalhistas correspondentes à vigência da parceria;
+        - Diárias de deslocamento, hospedagem e alimentação;
+        - Custos indiretos necessários à execução do objeto, como internet, transporte, aluguel, telefone, água, luz etc., desde que constantes no plano de trabalho (art. 54 do Decreto);
+        - Bens de consumo, como material de expediente, materiais pedagógicos, produtos de limpeza, combustível, gás etc.;
+        - Aquisição de equipamentos e materiais permanentes essenciais à consecução do objeto;
+        - Reparo, conserto, revisão, pintura, reforma, adaptação, recuperação, benfeitorias e conservação de edificações, terrenos e outros bens imóveis;
+        - Reforma ou obra;
+        - Contratação de serviços de terceiros, como limpeza, manutenção, segurança etc.
+        - Gastos vinculados à produção, organização e realização de eventos e premiações, inclusive culturais e artísticas;
+        - Outras despesas indispensáveis à execução do objeto. 
+    - Rendimentos dos recursos transferidos podem ser aplicados na execução do objeto da parceria, inclusive para acobertar variação de preços de mercado ou arcar com pagamento de multas (unicamente se forem decorrentes de atrasos dos repasses programados pelo poder público), conforme art. 50 do Decreto (em especial seu § 2º)
 
 === "❌ Não pode"
 
     ⚠️ **Proibições absolutas:**
     
-    - Exigir contrapartida financeira, embora possa ser exigida contrapartida em bens ou serviços das OSCs
-    - Pagar despesas realizadas em data anterior à vigência da parceria
-    - Utilizar recursos para finalidades alheias ao objeto da parceria
-    - Pagar multas, juros ou correção monetária por atraso no pagamento de obrigações
-    
+    - Não é permitido contratar ou pagar fornecedor ou prestador de serviço que conste no Cadin-MG ou Cafimp, ou ainda que não apresente CND válida (art. 52, § 4º-B do Decreto)
+    - Não é permitido utilizar recursos da parceria para pagar verbas rescisórias decorrentes de descumprimento de legislação pela OSC (art. 52-C, § 1º do Decreto)
+    - Não se pode efetivar pagamento de diárias de viagem em valores maiores que os praticados pelo Estado, salvo se expressamente autorizado pelo administrador público mediante justificativa da OSC (art. 53 do Decreto)
+    - Não é permitido tratar recursos geridos pela OSC (ou pelas OSCs não celebrantes, em caso de atuação em rede) como receita própria ou como pagamento por serviços. Esses recursos devem ser registrados contabilmente e vinculados ao plano de trabalho (art. 55 do Decreto)
+    - É absolutamente proibido utilizar recursos para finalidades alheias ao objeto da parceria (art. 51, § 1º, I do Decreto)
+    - É proibido realizar despesas e pagamentos (art. 51, § 1º, II e III do Decreto):
+        - Antes ou depois da vigência da parceria;
+        - A título de taxa ou comissão de administração;
+        - Com taxas bancárias;
+        - Com multas, juros ou correção monetária não decorrentes de atrasos de repasses da administração pública;
+        - Com publicidade, salvo aquela prevista no plano de trabalho, com caráter educativo, informativo ou de orientação social, sem constar nomes, símbolos ou imagens que caracterizem promoção pessoal;
+        - Voltadas a servidores ou empregados públicos (salvo em hipóteses especificamente previstas em lei)
+
+   
     ⚠️ **Exigências obrigatórias:**
     
-    - Chamamento público prévio, salvo exceções legais
-    - Plano de trabalho detalhado
-    - Comprovação de regularidade fiscal e jurídica da OSC
-    - Designação de gestor da parceria
+    - Chamamento público prévio, salvo exceções legais (arts. 24 e 30 da Lei)
+    - Plano de trabalho detalhado (art. 22 da Lei e art. 26 do Decreto)
+    - Comprovação de regularidade fiscal e jurídica da OSC (art. 63, § 3º)
+    - Designação de gestor da parceria (art. 2º, inciso IX do Decreto / art. 41, inciso IX do Decreto)
+    - Rateio de despesas fixas em caso da OSC possuir mais de uma parceria ou desenvolver outros projetos ou atividades com a mesma estrutura (art. 54, § 3º do Decreto)
 
 ---
 
 ## 📢 Procedimento de Manifestação de Interesse Social (PMIS)
 
-O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público.
+O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público. Ele é regulamentado pela Seção 2 do Decreto.
 
-### 🔄 Como funciona o PMIS
+=== "🔄 Como funciona"
 
-1. **Apresentação da proposta** pela OSC ou cidadão
-2. **Análise pela administração** de conveniência e oportunidade
-3. **Consulta pública** para oitiva da sociedade sobre o tema
-4. **Decisão do órgão** sobre realização ou não de chamamento público
+    1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
+    2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
+    3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
+    4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
 
-### 📝 Requisitos da proposta PMIS
+=== "📝 Requisitos"
 
-- **Identificação** do subscritor da proposta
-- **Indicação** do interesse público envolvido
-- **Diagnóstico** da realidade a ser modificada/desenvolvida
-- **Viabilidade** dos custos, benefícios e prazos (quando possível)
+    - **Identificação** do subscritor da proposta
+    - **Indicação** do interesse público envolvido
+    - **Diagnóstico** da realidade a ser modificada/desenvolvida
+    - **Viabilidade** dos custos, benefícios e prazos (quando possível)
 
-### ⚠️ Importante sobre o PMIS
+=== "⚠️ Importante"
 
-- **Não garante** a realização de chamamento público
-- **Não impede** a OSC proponente de participar do eventual chamamento
-- **É vedado** condicionar chamamento público à realização prévia de PMIS
+    - **Não garante** a realização de chamamento público (art. 21 da Lei)
+    - **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
+    - **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
 
 ---
 
 ## 📢 Chamamento público
 
-Em regra, é obrigatória a realização de chamamento público para seleção das OSCs, garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo. As exceções previstas em lei ainda aguardam regulamentação detalhada.
+Em regra, **é obrigatória a realização de chamamento público** para seleção das OSCs, garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo.
 
-### ↔️ Fluxo Resumido do Chamamento Público
+=== "↔️ Fluxo Resumido"
 
-<div class="mermaid">
-flowchart LR
-    subgraph PMIS ["PMIS (Opcional)"]
-        P1["OSC/cidadão apresenta proposta"]
-        P2["Órgão publica proposta e instaura PMIS"]
-        P3["Consulta pública sobre o tema"]
-        P4["Decisão sobre realização de chamamento"]
-        P1 --> P2 --> P3 --> P4
-    end
-    subgraph Planejamento
-        A1["Identificar demanda do órgão estadual parceiro"]
-        A2["Elaborar termo de referência com objeto e critérios"]
-        A3["Desenvolver minuta de edital e termo de colaboração"]
-        A4["Análise jurídica obrigatória"]
-        A5["Constituir comissão de seleção por ato oficial"]
-        A6["Publicar edital com antecedência mínima de 30 dias"]
-        A1 --> A2 --> A3 --> A4 --> A5 --> A6
-    end
-    subgraph Processamento
-        B1["Receber propostas de plano de trabalho"]
-        B2["Análise técnica e julgamento pela comissão"]
-        B3["Homologação e divulgação de resultado provisório"]
-        B4["Prazo para recursos administrativos"]
-        B5["Análise de recursos e resultado final"]
-        B1 --> B2 --> B3 --> B4 --> B5
-    end
-    subgraph Habilitação
-        C1["Verificar documentos das OSCs selecionadas"]
-        C2["Convocação da próxima classificada se necessário"]
-        C3["Elaborar plano de trabalho conjunto"]
-        C4["Designar gestor da parceria"]
-        C5["Celebrar termo de colaboração"]
-        C1 --> C2 --> C3 --> C4 --> C5
-    end
-    PMIS -.->|Pode originar| Planejamento
-    Planejamento --> Processamento --> Habilitação
-</div>
+    ```mermaid
+        %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
+        flowchart LR
+        subgraph PMIS ["PMIS (Opcional)"]
+            P1["OSC/cidadão apresenta proposta"]
+            P2["Órgão publica proposta e instaura PMIS"]
+            P3["Consulta pública sobre o tema"]
+            P4["Decisão sobre realização de chamamento"]
+            P1 --> P2 --> P3 --> P4
+        end
+        subgraph Planejamento
+            A1["Identificar demanda do órgão estadual parceiro"]
+            A2["Elaborar termo de referência com objeto e critérios"]
+            A3["Desenvolver minuta de edital e termo de colaboração"]
+            A4["Análise jurídica obrigatória"]
+            A5["Constituir comissão de seleção por ato oficial"]
+            A6["Publicar edital com antecedência mínima de 30 dias (art. 20 do Decreto)"]
+            A1 --> A2 --> A3 --> A4 --> A5 --> A6
+        end
+        subgraph Processamento
+            B1["Receber propostas de plano de trabalho"]
+            B2["Análise técnica e julgamento pela comissão"]
+            B3["Homologação e divulgação de resultado provisório"]
+            B4["Prazo para recursos administrativos"]
+            B5["Análise de recursos e resultado final"]
+            B1 --> B2 --> B3 --> B4 --> B5
+        end
+        subgraph Habilitação
+            C1["Verificar documentos das OSCs selecionadas"]
+            C2["Convocação da próxima classificada se necessário"]
+            C3["Elaborar plano de trabalho conjunto"]
+            C4["Designar gestor da parceria"]
+            C5["Celebrar termo de colaboração"]
+            C1 --> C2 --> C3 --> C4 --> C5
+        end
+        PMIS -.->|Pode <br> originar| Planejamento
+        Planejamento --> Processamento --> Habilitação
+            classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6font-size:20px;
+    ```
 
-### 🔑 Regras-Chave
+    > **Observação:** os nomes "Planejamento", "Processamento" e "Habilitação" foram atribuídos a cada conjunto de atividades para facilitar a compreensão do processo. Entretanto, não são títulos formais de cada etapa, já que não constam como tanto na legislação.
 
-- **Dispensa de chamamento público** somente em casos excepcionais previstos em lei
-- **Comissão de seleção** obrigatória, com pelo menos um servidor efetivo
-- **Prazo mínimo** de 30 dias para apresentação de propostas
-- **Critérios objetivos** de seleção focados na melhor proposta técnica
-- **Habilitação** somente após seleção das propostas
+=== "🔑 Regras-Chave"
 
-### ⏱️ Prazos importantes
+    - **Dispensa de chamamento público** somente em casos excepcionais previstos no art. 18, § 2º do Decreto e no art. 30 da Lei:
+        - Urgência decorrente de paralisação ou iminência de paralisação de atividades de relevante interesse público, pelo prazo de até 180 dias;
+        - Guerra, calamidade pública, grave perturbação da ordem pública ou ameaça à paz social;
+        - Realização de programa de proteção a pessoas ameaçadas ou em situação que possa comprometer a sua segurança;
+        - Atividades vinculadas a serviços de educação, saúde e assistência social executadas por OSCs previamente credenciadas por órgãos do Executivo.
+    - **Comissão de seleção** obrigatória, com pelo menos um servidor efetivo, instituída por meio de ato publicado no Diário Oficial (art. 22 do Decreto)
+    - **Prazo mínimo** de 30 dias para apresentação de propostas (art. 20 do Decreto)
+    - **Critérios objetivos** de seleção focados na melhor proposta técnica (art. 21, § 2º do Decreto)
+    - **Etapa eliminatória** precede **etapa classificatória** (art. 21 do Decreto), podendo verificar documentação, sem contudo eliminar a necessidade de posterior habilitação (art. 24, §§ 5º, 5º-A e 6º)
 
-| Etapa                          | Prazo                    | Base Legal                     |
-|--------------------------------|--------------------------|--------------------------------|
-| PMIS: divulgação da proposta*   | 30 dias                  | Art. 15, § 3º do Decreto |
-| PMIS: decisão final*            | 90 dias                  | Art. 15, § 4º do Decreto |
-| PMIS: consulta pública*         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto |
-| Apresentação de propostas      | Mínimo 30 dias           | Art. 26 da Lei         |
-| Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto |
-| Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
-| Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
+===+ "⏱️ Prazos importantes"
 
-*Opcional
+    | Etapa                          | Prazo                    | Base Legal                     |
+    |--------------------------------|--------------------------|--------------------------------|
+    | PMIS: divulgação da proposta   | 30 dias                  | Art. 15, § 3º do Decreto |
+    | PMIS: decisão final (se abre ou não chamamento)            | 90 dias                  | Art. 15, § 4º do Decreto |
+    | PMIS: consulta pública         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto |
+    | Apresentação de propostas      | Mínimo 30 dias           | Art. 26 da Lei e Art. 20 do Decreto         |
+    | Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto |
+    | Habilitação (apresentação de documentos pela OSC)                      | Máximo de 15 dias         | Art. 24, § 5º do Decreto |
+    | Complementação de habilitação, caso necessário (apresentação de documentos pela OSC)                      | Máximo de 5 dias         | Art. 24, § 5º-A do Decreto |
+    | Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
+    | Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
+
+    > **Observação:** prazos relativos a PMIS são opcionais.
 
 ---
+
+## DAQUIIIIIIIIIIIII
 
 ## 🛣️ Plano de trabalho
 

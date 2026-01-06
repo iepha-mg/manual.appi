@@ -84,25 +84,25 @@ Instrumento jurídico para formalizar parcerias entre a administração pública
 
 O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
 
-### 🔄 Como funciona o PMIS:
+=== "🔄 Como funciona"
 
-1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
-2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
-3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
-4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
+    1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
+    2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
+    3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
+    4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
 
-### 📝 Requisitos da proposta PMIS (art. 19 da Lei):
+=== "📝 Requisitos"
 
-- **Identificação** do subscritor da proposta
-- **Indicação** do interesse público envolvido
-- **Diagnóstico** da realidade a ser modificada/desenvolvida
-- **Viabilidade** dos custos, benefícios e prazos (quando possível)
+    - **Identificação** do subscritor da proposta
+    - **Indicação** do interesse público envolvido
+    - **Diagnóstico** da realidade a ser modificada/desenvolvida
+    - **Viabilidade** dos custos, benefícios e prazos (quando possível)
 
-### ⚠️ Importante sobre o PMIS:
+=== "⚠️ Importante"
 
-- **Não garante** a realização de chamamento público (art. 21 da Lei)
-- **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
-- **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
+    - **Não garante** a realização de chamamento público (art. 21 da Lei)
+    - **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
+    - **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
 
 ---
 
