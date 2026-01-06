@@ -53,4 +53,4 @@ Para esclarecimentos adicionais ou situações não abrangidas por este manual, 
 
 ## 🗓️ Versão
 
-O MG.APPI está em sua `2ª Versão`, desde o mês de `novembro de 2025`.
+O MG.APPI está em sua `2ª Versão`, desde o mês de `janeiro de 2026`.

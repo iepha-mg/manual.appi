@@ -25,6 +25,8 @@ O **Termo de Colaboração** é o instrumento jurídico para formalizar parceria
 
 [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm) (Marco Regulatório das Organizações da Sociedade Civil - MROSC) e [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1) de Minas Gerais.
 
+> Daqui em diante, vamos mencionar simplesmente "Lei" ou "Decreto" pra falar sobre essas normas de regulamentação.
+
 ---
 
 ## 🎯 Objetivos
@@ -259,7 +261,7 @@ A execução das parcerias pode se dar por atuação em rede de duas ou mais OSC
 
 A rede é sempre composta por 1 **OSC Celebrante**, responsável formal pela parceria e supervisora da rede, podendo participar diretamente ou não da execução do objeto. Além da OSC celebrante, pode haver uma ou mais **OSCs Executantes**, e não celebrantes, da parceria. Estas são responsáveis por executar ações conforme plano de trabalho e supervisão da OSC celebrante.
 
-A **OSC Celebrante** é responsável por garantir, no âmbito da rede, que toda a documentação técnica, comprobatória e de prestação de contas seja providenciada e, também, arquivada pelos prazos legais.
+Tanto a **OSC Celebrante** quanto as **OSCs Executantes** devem garantir que toda a documentação técnica, comprobatória e de prestação de contas seja arquivada pelos prazos legais (art. 73 do Decreto).
 
 ---
 
@@ -353,35 +355,216 @@ A **OSC Celebrante** é responsável por garantir, no âmbito da rede, que toda 
 
 ---
 
-## 🔒 Prestação de contas
+## ✏️ Alteração
 
-Focada no **controle de resultados** e no cumprimento de metas, compreendendo:
+O Termo de Colaboração pode ser alterado durante sua vigência, respeitando-se procedimentos que permitem ajustes necessários à execução do objeto, desde que preservado o núcleo da finalidade da parceria, conforme definido no Decreto.
 
-### 📋 Documentos exigidos
+=== "📝 Regra Geral"
 
-1. **Relatório de execução do objeto** - comprovação do alcance das metas
-2. **Relatório de execução financeira** - somente se não comprovado cumprimento das metas
-3. **Documentos complementares** previstos no plano de trabalho
+    A alteração do Termo de Colaboração será formalizada por **termo aditivo** (art. 67, caput).
+    
+    **Requisitos para alteração**:
+    
+    - Proposta de alteração de qualquer uma das partes
+    - Justificativa demonstrando o interesse público da alteração
+    - Observância das determinações da lei de diretrizes orçamentárias
+    - Apresentação da documentação complementar, se a alteração for solicitada pela OSC
+    
+    **Vedação**: É vedada a alteração que resulte na modificação do **núcleo da finalidade** da parceria (art. 67, § 1º).
 
-### 👮 Análise da prestação de contas
+=== "🚫 Dispensa de Termo Aditivo"
 
-| **Situação**                    | **Análise Requerida**                | **Resultado**                        |
-|---------------------------------|--------------------------------------|--------------------------------------|
-| Metas atingidas integralmente   | Apenas relatório de objeto          | Aprovação                    |
-| Metas parcialmente atingidas    | Relatório de objeto + financeiro    | Aprovação com ressalvas      |
-| Metas não atingidas             | Relatório de objeto + financeiro    | Rejeição + devolução de recursos |
+    **Prorrogação automática por atraso no repasse** (art. 68):
+    
+    - Quando a administração pública der causa ao atraso na liberação dos recursos
+    - A prorrogação é feita de ofício (automaticamente)
+    - Limitada ao período verificado ou previsto para liberação
+    - Necessária tramitação no Sigcon-MG e juntada de novo plano de trabalho
+    
+    **Alterações permitidas por apostilamento** (art. 67, § 7º):
+    
+    Desde que não acarretem modificação da data de término da vigência, do valor global, do objeto ou do núcleo da finalidade:
+    
+    - Dotação orçamentária
+    - Membros da equipe de contato da OSC
+    - Autorização ou aumento do limite de pagamento em espécie
+    - Duração das etapas
+    - Demonstrativo de recursos, inclusive alteração da remuneração da equipe de trabalho
+    - Remanejamento de recursos entre itens sem alteração do valor global (salvo se acarretar ampliar, reduzir ou reprogramar o objeto)
+    - Conta bancária específica
 
-### 🕒 Prazos da prestação de contas
+=== "💰 Alterações Permitidas"
 
-- **OSC**: apresentar prestação de contas conforme cronograma estabelecido
-- **Administração**: analisar em até 150 dias, prorrogáveis por igual período
-- **Recurso**: prazo definido no termo de colaboração
+    **Remanejamento em termo de colaboração para atividades** (art. 67, § 8-A):
+    
+    - Remanejamento de até **10% do valor de cada item** do demonstrativo de recursos
+    - Sem necessidade de aprovação prévia durante a execução
+    - Deve ser informado e justificado no relatório de monitoramento
+    
+    **Uso de rendimentos financeiros**:
+    
+    - A OSC pode aplicar rendimentos na execução do objeto
+    - Independe de aditamento, salvo para ampliar objeto
+    - Pode cobrir variação de preços de mercado ou pagamento de multas
+    
+    **Reajuste por desequilíbrio econômico-financeiro** (art. 69-B):
+    
+    - Para termo de colaboração para atividades
+    - Permite redução do objeto ou acrscimo de recursos proporcionalmente ao desequilíbrio
+    - Limitado à variação do IPCA ou outro índice que o substitua
+    - Desde que os rendimentos não sejam suficientes para cobrir a variação
+
+=== "🔄 Reprogramação do Objeto"
+
+    O objeto pode ser **reprogramado** quando identificada necessidade de revisão da dinâmica de execução (art. 68-B):
+    
+    **Requisitos cumulativos**:
+    
+    - Decorrer de situações não previstas ou imprevisíveis na celebração
+    - Ser tecnicamente justificável e necessário para alcançar a finalidade
+    - Não transfigurar o objeto original em outro de natureza e propósito diversos
+    
+    **Observações**:
+    
+    - Pode haver adição de novos recursos pelos partícipes
+    - Pode ensejar ampliação ou redução do objeto
+
+=== "📈 Ampliação do Objeto"
+
+    **Com saldo de economia ou rendimentos** (art. 69):
+    
+    - Após contratação integral de todos os itens do plano de trabalho
+    - Mediante comprovação de economia na contratação ou rendimentos apurados
+    - Proposta deve incluir justificativa, prazo adicional, alterações nas metas e cronograma
+    
+    **Com acréscimo de recursos** (art. 69-A):
+    
+    - Partícipes podem propor aporte de novos recursos
+    - Aporte de novos recursos pelo Estado condicionado à aprovação da prestação de contas das parcelas anteriores
+    - Exceção: termo de colaboração para atividades pode receber novos recursos antes da aprovação, se relatórios de monitoramento demonstrarem cumprimento de metas
+    
+    **Limite**: até **dois aditamentos** para reprogramação, ampliação ou redução (art. 68-A, § 1º).
+
+===+ "🎯 Resumo Prático"
+
+    | Situação | Necessita Aditivo? | Necessita Autorização Prévia? | Prazo para Proposta |
+    |----------|-------------------|------------------------------|---------------------|
+    | Prorrogação por atraso no repasse | ❌ Não | ❌ Não (automática) | - |
+    | Alteração de dotação orçamentária | ❌ Não (apostilamento) | ✅ Sim (anuência) | - |
+    | Alteração de membros da equipe de contato | ❌ Não (apostilamento) | ✅ Sim (anuência) | - |
+    | Remanejamento até 10% (atividades) | ❌ Não | ❌ Não (comunicar depois) | - |
+    | Remanejamento acima de 10% sem mudar objeto | ❌ Não (apostilamento) | ✅ Sim | - |
+    | Uso de rendimentos financeiros | ❌ Não | ❌ Não | - |
+    | Reprogramação do objeto | ✅ Sim | ✅ Sim | Mínimo 45 dias antes do término |
+    | Ampliação do objeto | ✅ Sim | ✅ Sim | Mínimo 45 dias antes do término |
+    | Redução do objeto | ✅ Sim | ✅ Sim | Mínimo 45 dias antes do término |
+    | Reajuste por desequilíbrio | ✅ Sim | ✅ Sim | Mínimo 45 dias antes do término |
+    | Alteração que modifique núcleo da finalidade | 🚫 Vedado | 🚫 Vedado | - |
+
+---
+
+## 🔒 Prestação de Contas
+
+O processo de prestação de contas tem por objetivo demonstrar e verificar resultados, avaliando cumprimento da finalidade, execução do objeto, alcance de metas e o nexo de causalidade entre receitas e despesas (cap. VII - arts. 71 a 87 do Decreto).
+
+=== "📋 Modalidades"
+
+    **1. Prestação de Contas Anual (art. 74)**
+
+    - Obrigatória para instrumentos com vigência superior a 1 ano.
+    - Prazo: conforme art. 74.
+    - Composição (arts. 76 e 77, e art. 78 quando solicitado):
+    - Relatório de execução do objeto (art. 76, I e art. 77).
+    - Relatório de execução financeira **somente quando solicitado** nas hipóteses do art. 76, II (inclusive amostragem, denúncia admitida e outras situações previstas).
+    - Documentos de comprovação do cumprimento da contrapartida em bens e serviços, quando houver.
+
+    **2. Prestação de Contas Final (art. 75)**
+
+    - Obrigatória ao término da vigência.
+    - Prazo: até 90 dias após o término da vigência, prorrogável por até 30 dias mediante justificativa (art. 75 e parágrafo único).
+    - Composição (arts. 76 e 77, e art. 78 quando solicitado):
+    - Relatório de execução do objeto (art. 76, I e art. 77).
+    - Relatório de execução financeira **somente quando solicitado** (art. 76, II) ou quando exigido por regras específicas do Decreto (ex.: omissão em prestar contas, notificação, etc.).
+    - Comprovação da contrapartida em bens e serviços, quando houver.
+    - Observação importante: documentos já encaminhados durante a execução ou em prestações anteriores podem ser dispensados de nova anexação, desde que já constem do processo (art. 79).
+
+=== "🔍 Análise"
+
+    **Análise pelas áreas técnicas (art. 81)**
+
+    - As áreas técnicas do órgão/entidade parceira emitem pareceres sobre a prestação de contas anual ou final com base:
+    - No relatório de execução do objeto e, quando for o caso, no relatório de execução financeira (art. 81).
+    - Prazo para emissão do parecer das áreas técnicas: até 45 dias após o recebimento, prorrogável motivadamente por igual período (art. 81, parágrafo único).
+
+    **Análise pelo gestor da parceria** (art. 84 do Decreto):
+
+    - Prazo: até 45 dias, prorrogáveis por igual período
+    - Emite parecer técnico conclusivo
+    - Consolida dados da parceria, histórico da prestação de contas e eventuais irregularidades com memórias de cálculo de valores a serem devolvidos, se for o caso
+
+    **Análise do administrador público** (art. 85 do Decreto):
+
+    - Prazo: 15 dias, sem prorrogação
+    - Baseia-se no parecer técnico conclusivo do **gestor da parceria**, elaborado sobre a prestação de contas final
+    - Aprovar as contas, com ou sem ressalvas, ou rejeitá-las, promovendo representação junto ao TCE-MG em caso de irregularidades graves e insanáveis
+
+=== "⚠️ Situações Especiais"
+
+    **Guarda de documentos (art. 72)**
+
+    - A OSC deve manter a guarda dos documentos originais pelo prazo de **10 anos**, contados do dia útil subsequente ao término do prazo para apresentação da prestação de contas (art. 72).
+    - Regras de apresentação e integridade documental:
+    - Até adequação do Sigcon-MG, pode haver previsão de apresentação de cópia simples, mantendo-se os originais para conferência (art. 72, §1º).
+    - Não são aceitos documentos ilegíveis, com rasuras ou com prazo de validade vencido (art. 72, §2º).
+
+    **Atuação em rede (art. 73)**
+
+    - Na atuação em rede, a **OSC celebrante** apresenta a prestação de contas inclusive das executantes e não celebrantes (art. 73).
+    - OSCs Executantes e não celebrantes permanecem responsáveis por guardar os originais para eventual conferência (art. 73, parágrafo único).
+
+    **Prestação de contas final em atraso (art. 80)**
+
+    - Se a prestação de contas final não for encaminhada no prazo do art. 75, o órgão/entidade deve notificar a OSC e fixar prazo máximo de 45 dias, prorrogável por igual período, para apresentação (art. 80).
+    - Na omissão no dever de prestar contas final, a OSC deverá apresentar inclusive o relatório de execução financeira (art. 80, parágrafo único).
+
+=== "💣 Irregularidades"
+
+    **Indícios de dano ao erário e critérios de cálculo (art. 82)**
+
+    - Havendo indícios de dano ao erário, o cálculo para devolução deve observar os critérios do art. 82, sendo vedado repetir a aplicação da mesma penalidade ("vedado o *bis in idem*").
+    - Ex.: omissão em prestar contas ou falta de comprovação total pode implicar devolução integral (art. 82, I), e irregularidades parciais podem levar à devolução do valor reprovado necessário à conclusão do objeto ou irregularmente aplicado (art. 82, II).
+
+    **Encaminhamentos após não atendimento (art. 81-B, §2º)**
+
+    - Se a OSC não atender a notificação ao término do prazo, o órgão/entidade deve adotar as providências previstas para a fase decisória e demais medidas cabíveis (art. 81-B, §2º), observados os arts. 84 a 87. Trata-se de decidir por determinar:
+        - Advertência (art. 73, I da Lei)
+        - Suspensão temporária de participação em chamamento público e impedimento de celebrar parcerias, por prazo não superior a dois anos (art. 73, II da Lei)
+        - Declaração de inidoneidade (art. 73, III da Lei)
+        - Ações compensatórias (art. 85-A do Decreto)
+        - Ressarcimento ao erário (art. 85 do Decreto)
+        - Registro de inadimplência no SIAFI-MG (art. 85, § 8º do Decreto)
+        - Instauração de Tomada de Contas Especial (art. 85, § 8º do Decreto)
+        - Promover representação junto ao TCE-MG (art. 85, § 6º do Decreto)
+
+
+===+ "🎯 Síntese"
+
+    | Item | Prazo | Aplica-se a | Observações |
+    |------|-------|-------------|-------------|
+    | **Prestação de Contas Anual** | Até 90 dias após o fim do exercício (art. 74) | Termo de colaboração com vigência > 1 ano | Composta por relatório do objeto; relatório financeiro apenas se solicitado (arts. 74, 76 a 78). |
+    | **Prestação de Contas Final** | Até 90 dias após fim da vigência (prorrogável por até 30 dias - art. 75) | Todos os termos de colaboração | Composta por relatório do objeto; relatório financeiro apenas se solicitado, sem prejuízo de exigências por irregularidades/omissão (art. 75; arts. 76 a 78; art. 80). |
+    | **Parecer das áreas técnicas** | Até 45 dias após recebimento, prorrogável por igual período (art. 81) | Prestação anual ou final | Parecer com base no relatório do objeto e, quando for o caso, no financeiro (art. 81 e parágrafo único). |
+    | **Solicitação de relatório financeiro** | Até 45 dias para a OSC apresentar, quando notificada | Quando houver hipótese do art. 76, II e/ou descumprimento de metas apontado | Notificação para apresentar o relatório financeiro se não houver sido apresentado (art. 81-A). |
+    | **Saneamento/justificativas** | Até 45 dias após notificação | Quando identificadas irregularidades | Pode haver suspensão de repasses enquanto não saneado (art. 81-B). |
+    | **Parecer técnico conclusivo (gestor da parceria)** | Até 45 dias após parecer das áreas técnicas, prorrogável por igual período (art. 84) | Parecer das áreas técnicas | Consolida dados da parceria, histórico de contas, alcance de resultados e eventuais irregularidades. |
+    | **Decisão final (administrador público)** | Até 15 dias após parecer técnico conclusivo, sem prorrogação (art. 85) | Parecer técnico conclusivo | Aprova contas com ou sem ressalvas, ou as rejeita, decidindo por aplicar eventuais sanções previstas em lei. |
+    | **Guarda de documentos** | 10 anos | Prestação de contas | Contados do dia útil seguinte ao término do prazo para apresentar a prestação (art. 72). |
 
 ---
 
 ## 🔍 Saiba mais!
 
-Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
+Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados em nossa [Biblioteca](../../biblioteca/index.md). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
 
 **Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
 
@@ -397,217 +580,10 @@ Modelos e documentos de referência (editais, termos, planos de trabalho etc.) p
 - [Prestação de Contas: Relatório de Execução do Objeto](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
 - [Prestação de Contas: Relatório de Execução Financeira MROSC](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_financeira_mrosc.docx)
 
+## 🔄️ Fluxograma
 
-
-
-
-
-
-
-
-
----
-
-
-
-# 🏛️💡 Termo de Colaboração
-
-## 📌 Definição:
-Instrumento jurídico para formalizar parcerias entre a administração pública e organizações da sociedade civil, com transferência de recursos financeiros, para consecução de finalidades de interesse público e recíproco **propostas pela administração pública** (art. 2º, inciso VII da Lei 13.019/2014).
-
-## 🏛️ Regulamentação:
-[Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm) (Marco Regulatório das Organizações da Sociedade Civil - MROSC) e [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1) de Minas Gerais.
-> Daqui em diante, vamos mencionar simplesmente "Lei" ou "Decreto" pra falar sobre essas normas de regulamentação.
-
-## 🎯 Objetivos
-- Viabilizar projetos de iniciativa da administração pública com participação das OSCs (art. 16 da Lei)
-- Estabelecer regime de mútua cooperação para interesse público e recíproco (art. 1º da Lei)
-- Garantir transparência na aplicação de recursos públicos (art. 5º da Lei)
-- Focar no controle de resultados e no alcance de metas (art. 6º, inciso II da Lei)
-
-## 🛠️ Ideias para aplicação no Iepha-MG:
-Desde que haja recursos disponíveis, um Termo de Colaboração pode servir para:
-1. Mapeamento sistemático do patrimônio cultural em territórios específicos
-2. Diagnósticos patrimoniais em municípios mineiros
-3. Campanhas educativas sobre preservação do patrimônio cultural
-4. Capacitação de agentes locais de patrimônio
-5. Elaboração de inventários participativos de bens culturais
-6. Desenvolvimento de metodologias de educação patrimonial
-
-## ✅ Pode:
-**Recursos podem ser usados para:**
-- Remuneração da equipe de trabalho, inclusive encargos (art. 46 da Lei)
-- Contratação de serviços de terceiros (art. 46, inciso II da Lei)
-- Aquisição de equipamentos e materiais permanentes e de consumo (art. 46, inciso I da Lei)
-- Despesas com transporte, hospedagem e alimentação (art. 46, inciso IV da Lei)
-- Divulgação das ações, inclusive na internet (art. 46, inciso V da Lei)
-- Custos indiretos necessários à execução do objeto, até 15% do valor total (art. 46, § 1º da Lei)
-
-**Facilidades administrativas:**
-- OSC tem autonomia para gestão administrativa e financeira dos recursos (art. 42 da Lei)
-- Possibilidade de alteração da vigência mediante acordo entre as partes (art. 55 da Lei)
-- Aplicação de rendimentos financeiros no objeto da parceria (art. 51 da Lei)
-- Contratação de pessoal pela OSC com recursos da parceria (art. 46, inciso III da Lei)
-
-## ❌ Não pode:
-⚠️ **Proibições absolutas:**
-- Exigir contrapartida financeira, embora possa ser exigida contrapartida em bens ou serviços das OSCs (art. 35, § 1º da Lei)
-- Pagar despesas realizadas em data anterior à vigência da parceria (art. 47, inciso I da Lei)
-- Utilizar recursos para finalidades alheias ao objeto da parceria (art. 42 da Lei)
-- Pagar multas, juros ou correção monetária por atraso no pagamento de obrigações (art. 47, inciso II da Lei)
-
-⚠️ **Exigências obrigatórias:**
-- Chamamento público prévio, salvo exceções legais (art. 29 da Lei)
-- Plano de trabalho detalhado (art. 22 da Lei)
-- Comprovação de regularidade fiscal e jurídica da OSC (art. 34 da Lei)
-- Designação de gestor da parceria (art. 2º, inciso VI da Lei)
-
-## 📢 Procedimento de Manifestação de Interesse Social (PMIS)
-O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
-
-### 🔄 Como funciona o PMIS:
-1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
-2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
-3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
-4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
-
-### 📝 Requisitos da proposta PMIS (art. 19 da Lei):
-- **Identificação** do subscritor da proposta
-- **Indicação** do interesse público envolvido
-- **Diagnóstico** da realidade a ser modificada/desenvolvida
-- **Viabilidade** dos custos, benefícios e prazos (quando possível)
-
-### ⚠️ Importante sobre o PMIS:
-- **Não garante** a realização de chamamento público (art. 21 da Lei)
-- **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
-- **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
-
-## 📣 Chamamento público
-Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo (art. 2º, inciso XII da Lei).
-
-### ↔️ Fluxo Resumido do Chamamento Público
-
-<div class="mermaid">
-flowchart LR
-    subgraph PMIS ["PMIS (Opcional)"]
-        P1["OSC/cidadão apresenta proposta (art. 18-19 da Lei)"]
-        P2["Órgão publica proposta e instaura PMIS (art. 20 da Lei)"]
-        P3["Consulta pública sobre o tema (art. 20 da Lei)"]
-        P4["Decisão sobre realização de chamamento (art. 21 da Lei)"]
-        P1 --> P2 --> P3 --> P4
-    end
-    subgraph Planejamento
-        A1["Identificar demanda do órgão estadual parceiro (art. 18 do Decreto)"]
-        A2["Elaborar termo de referência com objeto e critérios (art. 19 do Decreto)"]
-        A3["Desenvolver minuta de edital e termo de colaboração (art. 24, § 1º da Lei)"]
-        A4["Análise jurídica obrigatória (art. 35, VI da Lei)"]
-        A5["Constituir comissão de seleção por ato oficial (art. 20 do Decreto)"]
-        A6["Publicar edital com antecedência mínima de 30 dias (art. 21 do Decreto / art. 26 da Lei)"]
-        A1 --> A2 --> A3 --> A4 --> A5 --> A6
-    end
-    subgraph Processamento
-        B1["Receber propostas de plano de trabalho (art. 22 do Decreto)"]
-        B2["Análise técnica e julgamento pela comissão (art. 23 do Decreto / art. 27 da Lei)"]
-        B3["Homologação e divulgação de resultado provisório (art. 24 do Decreto / art. 27, § 4º da Lei)"]
-        B4["Prazo para recursos administrativos (art. 25 do Decreto / art. 24, § 1º, VIII da Lei)"]
-        B5["Análise de recursos e resultado final (art. 26 do Decreto / art. 27, § 6º da Lei)"]
-        B1 --> B2 --> B3 --> B4 --> B5
-    end
-    subgraph Habilitação
-        C1["Verificar documentos das OSCs selecionadas (art. 27 do Decreto / art. 28 da Lei)"]
-        C2["Convocação da próxima classificada se necessário (art. 28 do Decreto / art. 28, § 1º da Lei)"]
-        C3["Elaborar plano de trabalho conjunto (art. 29 do Decreto)"]
-        C4["Designar gestor da parceria (art. 2º, IX do Decreto)"]
-        C5["Celebrar termo de colaboração (art. 30 do Decreto / art. 35 da Lei)"]
-        C1 --> C2 --> C3 --> C4 --> C5
-    end
-    PMIS -.->|Pode originar| Planejamento
-    Planejamento --> Processamento --> Habilitação
-</div>
-
-### 🔑 Regras-Chave
-- **Dispensa de chamamento público** somente em casos excepcionais previstos em lei (art. 30 da Lei)
-- **Comissão de seleção** obrigatória, com pelo menos um servidor efetivo (art. 2º, inciso X da Lei)
-- **Prazo mínimo** de 30 dias para apresentação de propostas (art. 23 do Decreto)
-- **Critérios objetivos** de seleção focados na melhor proposta técnica (art. 27 da Lei)
-- **Habilitação** somente após seleção das propostas (art. 28 da Lei)
-
-### ⏱️ Prazos importantes
-| Etapa                          | Prazo                    | Base Legal                     |
-|--------------------------------|--------------------------|--------------------------------|
-| PMIS: divulgação da proposta*   | 30 dias                  | Art. 15, § 3º do Decreto       |
-| PMIS: decisão final*            | 90 dias                  | Art. 15, § 4º do Decreto       |
-| PMIS: consulta pública*         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
-| Apresentação de propostas      | Mínimo 30 dias           | Art. 26 da Lei                 |
-| Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto       |
-| Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
-| Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
-
-*Opcional (art. 18 da Lei)
-
-## 🛣️ Plano de trabalho
-**Elementos obrigatórios** (art. 22 da Lei):
-- **Descrição da realidade** objeto da parceria e nexo com atividades/projetos (art. 22, inciso I da Lei)
-- **Metas a serem atingidas** e atividades/projetos a serem executados (art. 22, inciso II da Lei)
-- **Previsão de receitas e despesas** detalhada (art. 22, inciso II-A da Lei)
-- **Forma de execução** e cumprimento das metas (art. 22, inciso III da Lei)
-- **Parâmetros de aferição** do cumprimento das metas (art. 22, inciso IV da Lei)
-
-> **Importante**: As metas devem ser mensuráveis e verificáveis, permitindo avaliação objetiva do cumprimento do objeto da parceria (art. 59 da Lei).
-
-## 🔍 Monitoramento e avaliação
-O **gestor da parceria** deve (art. 61 da Lei):
-- Acompanhar e fiscalizar a execução
-- Orientar a OSC durante a execução
-- Emitir relatório técnico de monitoramento
-- Informar irregularidades ao superior hierárquico
-- Emitir parecer conclusivo sobre prestação de contas
-
-A **Comissão de Monitoramento e Avaliação** deve (art. 2º, inciso XI da Lei):
-- Avaliar as parcerias periodicamente
-- Homologar relatórios técnicos de monitoramento
-- Propor melhorias nos procedimentos
-
-## 🔒 Prestação de contas
-Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei), compreendendo:
-
-### 📋 Documentos exigidos:
-1. **Relatório de execução do objeto** - comprovação do alcance das metas (art. 63, inciso I da Lei)
-2. **Relatório de execução financeira** - somente se não comprovado cumprimento das metas (art. 64, § 1º da Lei)
-3. **Documentos complementares** previstos no plano de trabalho (art. 65 da Lei)
-
-### 👮 Análise da prestação de contas
-
-| **Situação**                    | **Análise Requerida**                | **Resultado**                        |
-|---------------------------------|--------------------------------------|--------------------------------------|
-| Metas atingidas integralmente   | Apenas relatório de objeto          | Aprovação (art. 71 da Lei)         |
-| Metas parcialmente atingidas    | Relatório de objeto + financeiro    | Aprovação com ressalvas (art. 72 da Lei) |
-| Metas não atingidas             | Relatório de objeto + financeiro    | Rejeição + devolução de recursos (art. 73 da Lei) |
-
-### 🕒 Prazos da prestação de contas:
-- **OSC**: apresentar prestação de contas conforme cronograma estabelecido (art. 66 da Lei)
-- **Administração**: analisar em até 150 dias, prorrogáveis por igual período (art. 69 da Lei)
-- **Recurso**: prazo definido no termo de colaboração (art. 70 da Lei)
-
-## 🔍 Saiba mais!
-Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
-
-**Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
-- [Minuta Padrão de Edital de Chamamento Público para Termo de Colaboração MROSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_edital_chamamento_publico_termo_colaboracao.docx)
-- [Modelo de Extrato de Edital para Chamamento Público](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_extrato_edital_divulgacao.docx)
-- [Minuta de Termo de Colaboração / Termo de Fomento](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/Minuta%20de%20Termo%20de%20Colabora%C3%A7%C3%A3o-Fomento%20(Alterada%20em%202025).docx)
-- [Modelo de Extrato de Termo de Colaboração](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_extrato_fomento_colaboracao.docx)
-- [Modelo de Proposta de Plano de Trabalho para Termo de Colaboração](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_plano_trabalho_termo_colaboracao.docx)
-- [Modelo de Termo de Designação de Gestor](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_termo_designacao_gestor_parceria.docx)
-- [Modelo de Resolução para Designação da Comissão de Monitoramento e Avaliação das Parcerias](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_outros_doc_celebracao_resolucao_designacao_comissao_monitoramento_avaliacao.docx)
-- [Checklist de Celebração de Termo de Colaboração/Fomento](https://sigconsaida.mg.gov.br/padronizacoes-parcerias)
-- [Relatórios Técnicos de Monitoramento e Avaliação](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/mrosc_relatorio_tecnico_monitoramento.docx)
-- [Prestação de Contas: Relatório de Execução do Objeto](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
-- [Prestação de Contas: Relatório de Execução Financeira MROSC](https://sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_financeira_mrosc.docx)
-
-## ↔️ Fluxograma completo para celebração, execução e prestação de contas de Termo de Colaboração
-
-<div class="mermaid">
+```mermaid
+%%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
 flowchart TD
     %% Legenda
     A_LEG@{ shape: lean-r, label: "Área Técnica Demandante" }
@@ -618,15 +594,17 @@ flowchart TD
     F_LEG@{ shape: hex, label: "Gestor da Parceria" }
     G_LEG@{ shape: stadium, label: "Comissão de Monitoramento" }
     H_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
-</div>
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:20px;
+```
 
-<div class="mermaid">
+```mermaid
+%%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
 flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar parceria (proposta pelo órgão)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
     A1 -->|Sim| A2@{ shape: rounded, label: "Considerar resultado do PMIS realizado (art. 21 da Lei)" } --> B
     A1 -->|Não| B@{ shape: diamond, label: "Parceria é viável?" }
-    B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
+    B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM@{ shape: dbl-circ, label: "Fim"}
     B -->|Sim| D@{ shape: rect, label: "Levantar requisitos técnicos, orçamentários e operacionais" }
     D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
     %% Fluxo para processo COM chamamento público
@@ -680,9 +658,5 @@ flowchart TD
     F9 -->|Não| C
     F9 -->|Sim| X
     %% Fim
-</div>
-
-<script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({ startOnLoad: true });
-</script>
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:20px;
+```

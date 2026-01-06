@@ -1,21 +1,44 @@
 ﻿# 🌱💡 Termo de Fomento
 
-## 📌 Definição:
-Instrumento jurídico para formalizar parcerias entre a administração pública e organizações da sociedade civil, com transferência de recursos financeiros, para consecução de finalidades de interesse público e recíproco **propostas pelas organizações da sociedade civil** (art. 2º, inciso VIII da Lei 13.019/2014).
+## 💎 Dicas
 
-## 🏛️ Regulamentação:
+| Item | Resposta |
+|------|----------|
+| **📢 Precisa de chamamento público?** | Sim, obrigatório para seleção das OSCs, salvo situações excepcionais previstas em lei (art. 24 e 30 da [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm)) |
+| **🤝 Tipos de parceiros** | Organizações da Sociedade Civil (OSCs) |
+| **💰 Envolve transferência de recursos?** | Sim |
+| **🌐 Pode envolver atuação em rede?** | Sim. Por duas ou mais OSCs, mantida a integral responsabilidade da organização celebrante do termo (art. 35-A da [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm) e Capítulo V do [Decreto Estadual 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1)) |
+| **⏱️ Vigência máxima** | Não há prazo máximo explícito na lei. Definir conforme o plano de trabalho e o alcance das metas previstas |
+| **🔒 Exige prestação de contas formal?** | • Relatório de execução do objeto (comprovação do alcance das metas - art. 63 da Lei) <br> • Relatório de execução financeira (nos casos definidos pelo art. 76, II do [Decreto Estadual 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1) <br> • Prazo: 90 dias do fim da vigência ou anualmente para parcerias plurianuais (art. 69 da Lei) <br>  • Sanções por descumprimento: devolução de recursos, suspensão ou declaração de inidoneidade (art. 73 da Lei) <br> • Em caso de atuação em rede, a OSC celebrante é responsável por prestar contas |
+| **👮🏻 Exige gestor/fiscal designado?** | Sim: gestor da parceria obrigatório (art. 2º, inciso IX do Decreto / art. 41, inciso IX do Decreto) para acompanhamento da execução, orientação à OSC e emissão de relatórios (arts. 61 e 62 da Lei) à Comissão de Monitoramento e Avaliação (art. 60 do Decreto) |
+| **🛣️ Plano de trabalho obrigatório?** | Sim. Deve conter: descrição da realidade objeto da parceria, metas a serem atingidas, previsão de receitas e despesas, forma de execução e parâmetros de aferição do cumprimento das metas (art. 22 da Lei e art. 26 do Decreto) |
+
+---
+
+
+## 📌 Definição
+
+Instrumento jurídico para formalizar parcerias entre a administração pública e organizações da sociedade civil, com transferência de recursos financeiros, para consecução de finalidades de interesse público e recíproco **propostas pelas organizações da sociedade civil** (art. 2º, inciso VIII da [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm)).
+
+---
+
+## 🏛️ Regulamentação
+
 [Lei Federal nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13019compilado.htm) (Marco Regulatório das Organizações da Sociedade Civil - MROSC) e [Decreto nº 47.132/2017](https://www.almg.gov.br/legislacao-mineira/texto/DEC/47132/2017/?cons=1) de Minas Gerais.
+
 > Daqui em diante, vamos mencionar simplesmente "Lei" ou "Decreto" pra falar sobre essas normas de regulamentação.
 
-## 🎯 Objetivos
-- Incentivar projetos e atividades propostos pelas OSCs (art. 17 da Lei)
-- Fomentar a iniciativa da sociedade civil organizada (art. 2º, inciso XI do Decreto)
-- Estabelecer regime de mútua cooperação para interesse público e recíproco (art. 1º da Lei)
-- Garantir transparência na aplicação de recursos públicos (art. 5º da Lei)
-- Focar no controle de resultados e no alcance de metas (art. 6º, inciso II da Lei)
+---
 
-## 🛠️ Ideias para aplicação no Iepha-MG:
-Desde que haja recursos disponíveis, um Termo de Fomento pode servir para:
+## 🎯 Objetivos
+
+- Viabilizar projetos de iniciativa das OSCs
+- Estabelecer regime de mútua cooperação para interesse público e recíproco
+- Garantir transparência na aplicação de recursos públicos
+- Focar no controle de resultados e no alcance de metas
+
+## 🛠️ Exemplos de aplicação no Iepha-MG
+
 1. Iniciativas comunitárias de preservação do patrimônio cultural local
 2. Projetos de memória oral e história das comunidades
 3. Festivais tradicionais e manifestações culturais populares
@@ -23,164 +46,524 @@ Desde que haja recursos disponíveis, um Termo de Fomento pode servir para:
 5. Projetos de restauração de bens tombados por iniciativa das OSCs
 6. Ações de educação patrimonial desenvolvidas pela sociedade civil
 
-## ✅ Pode:
-**Recursos podem ser usados para:**
-- Remuneração da equipe de trabalho, inclusive encargos (art. 46 da Lei)
-- Contratação de serviços de terceiros (art. 46, inciso II da Lei)
-- Aquisição de equipamentos e materiais permanentes e de consumo (art. 46, inciso I da Lei)
-- Despesas com transporte, hospedagem e alimentação (art. 46, inciso IV da Lei)
-- Divulgação das ações, inclusive na internet (art. 46, inciso V da Lei)
-- Custos indiretos necessários à execução do objeto, até 15% do valor total (art. 46, § 1º da Lei)
+---
 
-**Facilidades administrativas:**
-- OSC tem autonomia para gestão administrativa e financeira dos recursos (art. 42 da Lei)
-- Possibilidade de alteração do plano de trabalho mediante acordo entre as partes (art. 55 da Lei)
-- Aplicação de rendimentos financeiros no objeto da parceria (art. 51 da Lei)
-- Contratação de pessoal pela OSC com recursos da parceria (art. 46, inciso III da Lei)
+## 📋 Regras
 
-## ❌ Não pode:
-⚠️ **Proibições absolutas:**
-- Exigir contrapartida financeira, embora possa ser exigida contrapartida em bens ou serviços das OSCs (art. 35, § 1º da Lei)
-- Pagar despesas realizadas em data anterior à vigência da parceria (art. 47, inciso I da Lei)
-- Utilizar recursos para finalidades alheias ao objeto da parceria (art. 42 da Lei)
-- Pagar multas, juros ou correção monetária por atraso no pagamento de obrigações (art. 47, inciso II da Lei)
+=== "✅ Pode"
 
-⚠️ **Exigências obrigatórias:**
-- Chamamento público prévio, salvo exceções legais (art. 29 da Lei)
-- Plano de trabalho detalhado (art. 22 da Lei)
-- Comprovação de regularidade fiscal e jurídica da OSC (art. 34 da Lei)
-- Designação de gestor da parceria (art. 2º, inciso VI da Lei)
+    **Compras, contratações e utilização de recursos vinculados à parceria:**
+    
+    - Podem adotar métodos usuais no setor privado, desde que observada a compatibilidade entre o valor previsto no plano de trabalho e o valor efetivamente gasto (art. 52, § 1º do Decreto), com possibilidade de atualização de valores baseada no IPCA (art. 52, § 1º-A do Decreto)
+    - Podem contratar bens e serviços específicos diretamente, desde que justificados os preços, em situações especiais (art. 52, § 2º do Decreto):
+        - Oferta restrita, incluindo serviços de natureza intelectual ou artística, fornecedor exclusivo ou limitações do mercado local;
+        - Compras eventuais de alimentos perecíveis; ou
+        - Serviços emergenciais para evitar paralisação de serviço essencial à população.
+    - Podem cobrir as seguintes despesas (art. 52-C do Decreto):
+        - Remuneração de equipe encarregada da execução do plano de trabalho, incluindo encargos sociais e trabalhistas correspondentes à vigência da parceria;
+        - Diárias de deslocamento, hospedagem e alimentação;
+        - Custos indiretos necessários à execução do objeto, como internet, transporte, aluguel, telefone, água, luz etc., desde que constantes no plano de trabalho (art. 54 do Decreto);
+        - Bens de consumo, como material de expediente, materiais pedagógicos, produtos de limpeza, combustível, gás etc.;
+        - Aquisição de equipamentos e materiais permanentes essenciais à consecução do objeto;
+        - Reparo, conserto, revisão, pintura, reforma, adaptação, recuperação, benfeitorias e conservação de edificações, terrenos e outros bens imóveis;
+        - Reforma ou obra;
+        - Contratação de serviços de terceiros, como limpeza, manutenção, segurança etc.
+        - Gastos vinculados à produção, organização e realização de eventos e premiações, inclusive culturais e artísticas;
+        - Outras despesas indispensáveis à execução do objeto. 
+    - Rendimentos dos recursos transferidos podem ser aplicados na execução do objeto da parceria, inclusive para acobertar variação de preços de mercado ou arcar com pagamento de multas (unicamente se forem decorrentes de atrasos dos repasses programados pelo poder público), conforme art. 50 do Decreto (em especial seu § 2º)
 
-## 📢 Procedimento de Manifestação de Interesse Social (PMIS)
-O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
+=== "❌ Não pode"
 
-### 🔄 Como funciona o PMIS:
-1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
-2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
-3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
-4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
+    ⚠️ **Proibições absolutas:**
+    
+    - Não é permitido contratar ou pagar fornecedor ou prestador de serviço que conste no Cadin-MG ou Cafimp, ou ainda que não apresente CND válida (art. 52, § 4º-B do Decreto)
+    - Não é permitido utilizar recursos da parceria para pagar verbas rescisórias decorrentes de descumprimento de legislação pela OSC (art. 52-C, § 1º do Decreto)
+    - Não se pode efetivar pagamento de diárias de viagem em valores maiores que os praticados pelo Estado, salvo se expressamente autorizado pelo administrador público mediante justificativa da OSC (art. 53 do Decreto)
+    - Não é permitido tratar recursos geridos pela OSC (ou pelas OSCs não celebrantes, em caso de atuação em rede) como receita própria ou como pagamento por serviços. Esses recursos devem ser registrados contabilmente e vinculados ao plano de trabalho (art. 55 do Decreto)
+    - É absolutamente proibido utilizar recursos para finalidades alheias ao objeto da parceria (art. 51, § 1º, I do Decreto)
+    - É proibido realizar despesas e pagamentos (art. 51, § 1º, II e III do Decreto):
+        - Antes ou depois da vigência da parceria;
+        - A título de taxa ou comissão de administração;
+        - Com taxas bancárias;
+        - Com multas, juros ou correção monetária não decorrentes de atrasos de repasses da administração pública;
+        - Com publicidade, salvo aquela prevista no plano de trabalho, com caráter educativo, informativo ou de orientação social, sem constar nomes, símbolos ou imagens que caracterizem promoção pessoal;
+        - Voltadas a servidores ou empregados públicos (salvo em hipóteses especificamente previstas em lei)
+    - É vedado celebrar, durante a vigência de determinada parceria, uma nova parceria igual com a mesma OSC (art. 36 do Decreto) 
+   
+    ⚠️ **Exigências obrigatórias:**
+    
+    - Chamamento público prévio, salvo exceções legais (arts. 24 e 30 da Lei)
+    - Plano de trabalho detalhado (art. 22 da Lei e art. 26 do Decreto)
+    - Comprovação de regularidade fiscal e jurídica da OSC (art. 63, § 3º)
+    - Designação de gestor da parceria (art. 2º, inciso IX do Decreto / art. 41, inciso IX do Decreto)
+    - Rateio de despesas fixas em caso da OSC possuir mais de uma parceria ou desenvolver outros projetos ou atividades com a mesma estrutura (art. 54, § 3º do Decreto)
 
-### 📝 Requisitos da proposta PMIS (art. 19 da Lei):
-- **Identificação** do subscritor da proposta
-- **Indicação** do interesse público envolvido
-- **Diagnóstico** da realidade a ser modificada/desenvolvida
-- **Viabilidade** dos custos, benefícios e prazos (quando possível)
+---
 
-### ⚠️ Importante sobre o PMIS:
-- **Não garante** a realização de chamamento público (art. 21 da Lei)
-- **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
-- **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
+## 📣 Procedimento de Manifestação de Interesse Social (PMIS)
 
-## 📣 Chamamento público
-Obrigatório para seleção das OSCs (art. 24 da Lei), garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo (art. 2º, inciso XII da Lei).
+O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público. Ele é regulamentado pela Seção 2 do Decreto.
 
-### ↔️ Fluxo Resumido do Chamamento Público
-<div class="mermaid">
-flowchart LR
-    subgraph PMIS ["PMIS (Opcional)"]
-        P1["OSC/cidadão apresenta proposta (art. 18-19 da Lei)"]
-        P2["Órgão publica proposta e instaura PMIS (art. 20 da Lei)"]
-        P3["Consulta pública sobre o tema (art. 20 da Lei)"]
-        P4["Decisão sobre realização de chamamento (art. 21 da Lei)"]
-        P1 --> P2 --> P3 --> P4
-    end
-    subgraph Planejamento
-        A1["Identificar área de interesse para fomento (art. 18 do Decreto)"]
-        A2["Elaborar termo de referência (art. 19 do Decreto)"]
-        A3["Desenvolver minuta de edital e termo de fomento (art. 24, § 1º da Lei)"]
-        A4["Análise jurídica obrigatória (art. 35, VI da Lei)"]
-        A5["Constituir comissão de seleção por ato oficial (art. 20 do Decreto)"]
-        A6["Publicar edital com antecedência mínima de 30 dias (art. 21 do Decreto / art. 26 da Lei)"]
-        A1 --> A2 --> A3 --> A4 --> A5 --> A6
-    end
-    subgraph Processamento
-        B1["Receber propostas das OSCs (art. 22 do Decreto)"]
-        B2["Análise técnica e julgamento pela comissão (art. 22 do Decreto / art. 27 da Lei)"]
-        B3["Homologação e divulgação de resultado provisório (art. 24 do Decreto / art. 27, § 4º da Lei)"]
-        B4["Prazo para recursos administrativos (art. 25 do Decreto / art. 24, § 1º, VIII da Lei)"]
-        B5["Análise de recursos e resultado final (art. 26 do Decreto / art. 27, § 6º da Lei)"]
-        B1 --> B2 --> B3 --> B4 --> B5
-    end
-    subgraph Habilitação
-        C1["Verificar documentos das OSCs selecionadas (art. 27 do Decreto / art. 28 da Lei)"]
-        C2["Convocação da próxima classificada se necessário (art. 28 do Decreto / art. 28, § 1º da Lei)"]
-        C3["Elaborar plano de trabalho conjunto (art. 29 do Decreto)"]
-        C4["Designar gestor da parceria (art. 2º, IX do Decreto)"]
-        C5["Celebrar termo de fomento (art. 30 do Decreto / art. 35 da Lei)"]
-        C1 --> C2 --> C3 --> C4 --> C5
-    end
-    PMIS -.->|Pode originar| Planejamento
-    Planejamento --> Processamento --> Habilitação
-</div>
+=== "🔄 Como funciona"
 
-### 🔑 Regras-Chave
-- **Dispensa de chamamento público** somente em casos excepcionais previstos em lei (art. 30 da Lei)
-- **Comissão de seleção** obrigatória, com pelo menos um servidor efetivo (art. 2º, inciso X da Lei)
-- **Prazo mínimo** de 30 dias para apresentação de propostas (art. 20 do Decreto)
-- **Critérios objetivos** de seleção focados na melhor proposta técnica (art. 27 da Lei)
-- **Habilitação** somente após seleção das propostas (art. 28 da Lei)
-- **PMIS é facultativo** e não condiciona o chamamento público (art. 21, § 3º da Lei)
+    1. **Apresentação da proposta** pela OSC ou cidadão (art. 19 da Lei)
+    2. **Análise pela administração** de conveniência e oportunidade (art. 20 da Lei)
+    3. **Consulta pública** para oitiva da sociedade sobre o tema (art. 20 da Lei)
+    4. **Decisão do órgão** sobre realização ou não de chamamento público (art. 21 da Lei)
 
-### ⏱️ Prazos importantes
+=== "📝 Requisitos"
 
-| Etapa                          | Prazo                    | Base Legal                     |
-|------------------------------|------------------------|------------------------------|
-| PMIS: divulgação da proposta*   | 30 dias                  | Art. 15, § 3º do Decreto       |
-| PMIS: decisão final*            | 90 dias                  | Art. 15, § 4º do Decreto       |
-| PMIS: consulta pública*         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto    |
-| Apresentação de propostas      | Mínimo 30 dias           | Art. 26 da Lei                 |
-| Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto       |
-| Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
-| Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
+    - **Identificação** do subscritor da proposta
+    - **Indicação** do interesse público envolvido
+    - **Diagnóstico** da realidade a ser modificada/desenvolvida
+    - **Viabilidade** dos custos, benefícios e prazos (quando possível)
 
-*Opcional (art. 18 da Lei)
+=== "⚠️ Importante"
+
+    - **Não garante** a realização de chamamento público (art. 21 da Lei)
+    - **Não impede** a OSC proponente de participar do eventual chamamento (art. 21, § 2º da Lei)
+    - **É vedado** condicionar chamamento público à realização prévia de PMIS (art. 21, § 3º da Lei)
+
+---
+
+## 📢 Chamamento público
+
+Em regra, **é obrigatória a realização de chamamento público** para seleção das OSCs, garantindo isonomia, legalidade, impessoalidade, moralidade, publicidade e julgamento objetivo.
+
+=== "↔️ Fluxo Resumido"
+
+    ```mermaid
+        %%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
+        flowchart LR
+        subgraph PMIS ["PMIS (Opcional)"]
+            P1["OSC/cidadão apresenta proposta"]
+            P2["Órgão publica proposta e instaura PMIS"]
+            P3["Consulta pública sobre o tema"]
+            P4["Decisão sobre realização de chamamento"]
+            P1 --> P2 --> P3 --> P4
+        end
+        subgraph Planejamento
+            A1["Identificar demanda do órgão estadual parceiro"]
+            A2["Elaborar termo de referência com objeto e critérios"]
+            A3["Desenvolver minuta de edital e termo de fomento"]
+            A4["Análise jurídica obrigatória"]
+            A5["Constituir comissão de seleção por ato oficial"]
+            A6["Publicar edital com antecedência mínima de 30 dias (art. 20 do Decreto)"]
+            A1 --> A2 --> A3 --> A4 --> A5 --> A6
+        end
+        subgraph Processamento
+            B1["Receber propostas de plano de trabalho"]
+            B2["Análise técnica e julgamento pela comissão"]
+            B3["Homologação e divulgação de resultado provisório"]
+            B4["Prazo para recursos administrativos"]
+            B5["Análise de recursos e resultado final"]
+            B1 --> B2 --> B3 --> B4 --> B5
+        end
+        subgraph Habilitação
+            C1["Verificar documentos das OSCs selecionadas"]
+            C2["Convocação da próxima classificada se necessário"]
+            C3["Elaborar plano de trabalho conjunto"]
+            C4["Designar gestor da parceria"]
+            C5["Celebrar termo de fomento"]
+            C1 --> C2 --> C3 --> C4 --> C5
+        end
+        PMIS -.->|Pode <br> originar| Planejamento
+        Planejamento --> Processamento --> Habilitação
+            classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6font-size:20px;
+    ```
+
+    > **Observação:** os nomes "Planejamento", "Processamento" e "Habilitação" foram atribuídos a cada conjunto de atividades para facilitar a compreensão do processo. Entretanto, não são títulos formais de cada etapa, já que não constam como tanto na legislação.
+
+=== "🔑 Regras-Chave"
+
+    - **Dispensa de chamamento público** somente em casos excepcionais previstos no art. 18, § 2º do Decreto e no art. 30 da Lei:
+        - Urgência decorrente de paralisação ou iminência de paralisação de atividades de relevante interesse público, pelo prazo de até 180 dias;
+        - Guerra, calamidade pública, grave perturbação da ordem pública ou ameaça à paz social;
+        - Realização de programa de proteção a pessoas ameaçadas ou em situação que possa comprometer a sua segurança;
+        - Atividades vinculadas a serviços de educação, saúde e assistência social executadas por OSCs previamente credenciadas por órgãos do Executivo.
+    - **Comissão de seleção** obrigatória, com pelo menos um servidor efetivo, instituída por meio de ato publicado no Diário Oficial (art. 22 do Decreto)
+    - **Prazo mínimo** de 30 dias para apresentação de propostas (art. 20 do Decreto)
+    - **Critérios objetivos** de seleção focados na melhor proposta técnica (art. 21, § 2º do Decreto)
+    - **Etapa eliminatória** precede **etapa classificatória** (art. 21 do Decreto), podendo verificar documentação, sem contudo eliminar a necessidade de posterior habilitação (art. 24, §§ 5º, 5º-A e 6º)
+
+===+ "⏱️ Prazos importantes"
+
+    | Etapa                          | Prazo                    | Base Legal                     |
+    |--------------------------------|--------------------------|--------------------------------|
+    | PMIS: divulgação da proposta   | 30 dias                  | Art. 15, § 3º do Decreto |
+    | PMIS: decisão final (se abre ou não chamamento)            | 90 dias                  | Art. 15, § 4º do Decreto |
+    | PMIS: consulta pública         | Mínimo 30 dias           | Art. 15, § 4º, I do Decreto |
+    | Apresentação de propostas      | Mínimo 30 dias           | Art. 26 da Lei e Art. 20 do Decreto         |
+    | Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto |
+    | Habilitação (apresentação de documentos pela OSC)                      | Máximo de 15 dias         | Art. 24, § 5º do Decreto |
+    | Complementação de habilitação, caso necessário (apresentação de documentos pela OSC)                      | Máximo de 5 dias         | Art. 24, § 5º-A do Decreto |
+    | Publicação de extrato da parceria   | Até 20 dias após assinatura | Art. 41, § 2º do Decreto |
+    | Comunicado sobre 1º repasse e mecanismos de monitoramento e avaliação | Até 30 dias após 1º pagamento | Art. 49 do Decreto |
+    | Apresentação de Relatórios de Monitoramento (pela OSC ao Órgão Público) | Até 15 dias após fim de cada período de monitoramento definido no plano de trabalho | Art. 56, § 3º do Decreto |
+    | Homologação dos Relatórios Técnicos de Monitoramento (por parte da Comissão de Monitoramento e Avaliação) | Até 30 dias (prorrogáveis por igual período) do recebimento dos Relatórios Técnicos de Monitoramento, elaborados, por sua vez, pelo gestor da parceria, a partir dos Relatórios de Monitoramento | Art. 60 do Decreto |
+    | Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
+    | Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
+
+    > **Observação:** prazos relativos a PMIS são opcionais.
+
+---
 
 ## 🛣️ Plano de trabalho
-**Elementos obrigatórios** (art. 22 da Lei):
-- **Descrição da realidade** objeto da parceria e nexo com atividades/projetos (art. 22, inciso I da Lei)
-- **Metas a serem atingidas** e atividades/projetos a serem executados (art. 22, inciso II da Lei)
-- **Previsão de receitas e despesas** detalhada (art. 22, inciso II-A da Lei)
-- **Forma de execução** e cumprimento das metas (art. 22, inciso III da Lei)
-- **Parâmetros de aferição** do cumprimento das metas (art. 22, inciso IV da Lei)
 
-> **Importante**: As metas devem ser mensuráveis e verificáveis, permitindo avaliação objetiva do cumprimento do objeto da parceria (art. 59 da Lei).
+A OSC deverá preencher, no [Sistema de Gestão de Convênios, Portarias e Contratos do Estado de Minas Gerais (SIGCON-MG)](https://sigconsaida.mg.gov.br/), uma proposta de trabalho contendo, no mínimo (art. 26 do Decreto):
 
-## 🔍 Monitoramento e avaliação
-O **gestor da parceria** deve (art. 61 da Lei):
-- Acompanhar e fiscalizar a execução
-- Orientar a OSC durante a execução
-- Emitir relatório técnico de monitoramento
-- Informar irregularidades ao superior hierárquico
-- Emitir parecer conclusivo sobre prestação de contas
+- **Dados e informações da OSC** e do interveniente (se for o caso)
+- Descrição e especificação completa do **objeto e público-alvo**
+- Justificativa contendo **descrição da realidade e interesse público** relativos à parceria, demonstrando-se o nexo com os resultados esperados
+- **Previsão de receitas** e contrapartida financeira ou em bens e serviços, *se for o caso*
+- **Dados da equipe** responsável pela parceria no âmbito da OSC
+- **Estimativa de vigência** da parceria
+- **Cronograma de execução** contendo metas físicas e suas descrições, bem como atividades e projetos a serem executados, divididos em etapas com duração definida
+- **Plano de aplicação de recursos** a serem repassados pela administração pública e plano de contrapartida, se houver, considerando a previsão das despesas, *se for o caso*
+- **Cronograma de desembolsos** e da contrapartida, *se for o caso*
+- **Forma de execução das atividades ou projetos**, detalhando o cumprimento das metas atreladas
+- **Sugestão de indicadores** e meios de aferição do cumprimento das metas
+- Havendo **remuneração de equipe de trabalho**, deve-se descrever:
+    - Valor total de remuneração, funções dos integrantes e remuneração prevista para o exercício
+    - Estimativa de valores dos tributos e encargos sociais e trabalhistas
+    - Valores a serem provisionados, se for o caso
+    - Planilha de detalhamento de despesas de pessoal (art. 33 do Decreto), que traz obrigatoriamente os itens anteriores
 
-A **Comissão de Monitoramento e Avaliação** deve (art. 2º, inciso XI da Lei):
-- Avaliar as parcerias periodicamente
-- Homologar relatórios técnicos de monitoramento
-- Propor melhorias nos procedimentos
+---
 
-## 🔒 Prestação de contas
-Focada no **controle de resultados** e no cumprimento de metas (art. 64 da Lei), compreendendo:
+## ✒️ Celebração (ou formalização)
 
-### 📋 Documentos exigidos:
-1. **Relatório de execução do objeto** - comprovação do alcance das metas (art. 63, inciso I da Lei)
-2. **Relatório de execução financeira** - somente se não comprovado cumprimento das metas (art. 64, § 1º da Lei)
-3. **Documentos complementares** previstos no plano de trabalho (art. 65 da Lei)
+Quando a parceria estiver em vias de celebração, as áreas técnicas responsáveis pela parceria no âmbito do órgão celebrante irão analisar o **plano de trabalho** e a documentação apresentada pela OSC, efetuando eventuais ajustes e complementações (art. 35 do Decreto). Isto deverá ser feito em acordo com a OSC.
 
-### 👮 Análise da prestação de contas
+Após essa fase, as áreas técnicas deverão, então, incluir no [SIGCON-MG](https://sigconsaida.mg.gov.br/) a **minuta do instrumento a ser celebrado** (observando-se as cláusulas básicas constantes no art. 40 do Decreto), o **plano de trabalho** e **pareceres técnicos** fundamentados acerca da celebração da parceria.
 
-| **Situação**                    | **Análise Requerida**                | **Resultado**                        |
-|-------------------------------|-----------------------------------|------------------------------------|
-| Metas atingidas integralmente   | Apenas relatório de objeto          | Aprovação (art. 71 da Lei)         |
-| Metas parcialmente atingidas    | Relatório de objeto + financeiro    | Aprovação com ressalvas (art. 72 da Lei) |
-| Metas não atingidas             | Relatório de objeto + financeiro    | Rejeição + devolução de recursos (art. 73 da Lei) |
+No **plano de trabalho** as áreas técnicas deverão incluir nome completo e matrícula dos servidores designados como **gestores da parceria** (pode haver mais de um, a critério do administrador público) e como membros da **comissão de monitoramento e avaliação** (art. 35, § 4º e § 4º-A).
 
-### 🕒 Prazos da prestação de contas:
-- **OSC**: apresentar prestação de contas conforme cronograma estabelecido (art. 66 da Lei)
-- **Administração**: analisar em até 150 dias, prorrogáveis por igual período (art. 69 da Lei)
-- **Recurso**: prazo definido no termo de fomento (art. 70 da Lei)
+Para instruir o processo, as áreas técnicas deverão verificar documentos comprobatórios listados nos §§ 4º e 5º do art. 35 do Decreto. Então, procederão à elaboração dos pareceres técnicos fundamentados, pronunciando-se expressamente sobre (art. 35, § 7º):
+
+- Mérito da proposta
+- Documentação anexada, justificando ausência de documento, quando dispensado, nos termos da legislação
+- Interesse público recíproco na realização da parceria
+- Adequação do valor à exequibilidade do objeto
+- Avaliação da **planilha de detalhamento de despesas de pessoal** (prevista pelo art. 33), quando for o caso
+- Avaliação sobre indispensabilidade e proporção de custos indiretos, se houverem, quanto à execução do objeto da parceria
+- Descrição dos meios disponíveis para fiscalização da parceria e cumprimento de metas e objetivos
+- Viabilidade de execução da parceria e da adequação do projeto, se houver, às normas técnicas pertinentes
+
+Após a instrução do processo com todos esses documentos, o instrumento jurídico poderá ser celebrado, devendo-se publicar o extrato da parceria no Diário Oficial (art. 41 do Decreto) em até 20 dias após a assinatura.
+
+---
+
+## 🌐 Atuação em rede
+
+A execução das parcerias pode se dar por atuação em rede de duas ou mais OSCs, a ser formalizada mediante assinatura de termo de atuação em rede, desde que previsto no instrumento da parceria (art. 62 do Decreto).
+
+A rede é sempre composta por 1 **OSC Celebrante**, responsável formal pela parceria e supervisora da rede, podendo participar diretamente ou não da execução do objeto. Além da OSC celebrante, pode haver uma ou mais **OSCs Executantes**, e não celebrantes, da parceria. Estas são responsáveis por executar ações conforme plano de trabalho e supervisão da OSC celebrante.
+
+Tanto a **OSC Celebrante** quanto as **OSCs Executantes** devem garantir que toda a documentação técnica, comprobatória e de prestação de contas seja arquivada pelos prazos legais (art. 73 do Decreto).
+
+---
+
+## 👀 Monitoramento e controle
+
+===+ "🫀 Síntese"
+
+    | Item | Responsável | Ação/Documento | Prazo | Observações |
+    |---------|-------------|----------------|-------|-------------|
+    | **Monitoramento/Fiscalização** | Gestor da parceria | Acompanha execução, recebe relatórios de monitoramento da OSC, elabora relatórios técnicos de monitoramento | • Receber relatórios de monitoramento da OSC: 15 dias após período a ser avaliado (art. 56, § 3º do Decreto) <br><br> • Elaborar relatórios técnicos de monitoramento: não há prazo definido pela Lei ou pelo Decreto | • Informa irregularidades ao superior hierárquico <br><br> • Envia relatórios técnicos de monitoramento à Comissão de Monitoramento e Avaliação |
+    | **Monitoramento/Avaliação** | Comissão de Monitoramento e Avaliação | Avalia periodicamente, homologa relatórios técnicos de monitoramento, propõe melhorias | 30 dias (prorrogáveis por igual período - art. 60 do Decreto) | Verifica conjunto das parcerias do órgão |
+    | **Liberação de recursos** | Gestor da parceria + Gestor Público (dirigente do IEPHA-MG ou ordenador de despesas) | Verifica cumprimento de metas/fases, contrapartidas e regularidade da OSC | 1ª parcela: conforme cronograma | Comunicado à OSC em até 30 dias após liberação (art. 49 do Decreto) |
+    | **Relatório de Monitoramento** | OSC | Informa andamento de execução, metas e atividades | Até 15 dias após período monitorado (art. 56, § 3º do Decreto) | Pode ser exigido a qualquer tempo pelo gestor (art. 56, § 6º do Decreto) |
+    | **Relatório Técnico de Monitoramento** | Gestor da parceria | Análise do relatório de monitoramento, pode ser complementado também por visitas *in loco* e manifestações técnicas de unidades do órgão | - | Contém análise de metas, valores, impacto social (art. 59-A do Decreto) |
+    | **Prestação de contas** | OSC | Apresenta prestação de contas | 90 dias após fim da vigência, ou anualmente se > 1 ano (art. 69 da Lei) | - |
+    | **Impropriedades/omissões** | Administrador público (via gestor) | Suspende liberação de recursos, notifica OSC | Prazo para OSC: 45 dias, prorrogáveis por igual período (art. 59, § 2º do Decreto) | OSC deve justificar e sanar irregularidades |
+    | **Pesquisa de satisfação** | IEPHA-MG | Realiza pesquisa (quando possível) e documenta (art. 58 do Decreto) | - | Apenas parcerias com vigência > 1 ano |
+    | **Análise amostral** | Dirigente máximo do órgão regulamenta por portaria e gestor da parceria operacionaliza | Regulamenta análise amostral de relatórios e prestações de contas (art. 59-B do Decreto) | - | Obrigatória em caso de indício de descumprimento de metas ou denúncia aceita |
+
+=== "🔬 Detalhamento"
+
+    **Quem monitora e controla?**
+
+    O monitoramento é feito pelo **gestor da parceria** (art. 61 da Lei), que acompanha e fiscaliza a execução, recebendo da OSC *relatórios de monitoramento* e elaborando, a partir deles, *relatórios técnicos de monitoramento*, informando irregularidades, se houver, ao superior hierárquico.
+
+    Esses *relatórios técnicos de monitoramento* devem ser enviados à **comissão de monitoramento e avaliação** (art. 2º, IX da Lei e art. 61 do Decreto). Esta, por sua vez, promove a avaliação periódica da parceria, homologando os *relatórios técnicos de monitoramento* e propondo melhorias, se necessário.
+
+    **Liberação de recursos**
+
+    A liberação de recursos é condicionada ao atingimento de metas ou ao cumprimento de fases ou etapas de execução do objeto da parceria, conforme **plano de trabalho**. Também é necessário verificar o cumprimento de contrapartidas, se houver, bem como se a OSC continua regular em cadastros de regularidade jurídica, fiscal, trabalhista, dentre outras áreas.
+
+    A primeira parcela deve ser liberada conforme cronograma de desembolsos. Em até **30 dias** depois de sua liberação, o IEPHA-MG deve enviar comunicado à OSC contendo informações sobre o repasse realizado e orientações para aplicação de recursos (arts. 49 e 50 do Decreto), além de instruções sobre os mecanismos de monitoramento e avaliação.
+
+    **Executando o Monitoramento e o Controle**
+
+    O **gestor da parceria** pode se utilizar de ferramentas tecnológicas para verificar o alcance dos resultados, como redes sociais, pesquisas de internet, aplicativos etc. Mas seu principal meio de monitoramento serão os **relatórios de monitoramento** apresentados **até 15 dias** após o período a ser monitorado (art. 56, § 3º do Decreto) - o que é definido pelo **plano de trabalho** -, informando o andamento da execução do objeto, metas e atividades pactuadas para o prazo em questão.
+
+    > **Importante!** O **gestor da parceria** pode exigir da OSC, a qualquer tempo, o encaminhamento de **relatório de monitoramento** (art. 56, § 6º do Decreto).
+
+    Além disso, a OSC deve apresentar prestação de contas em até 90 dias após o esgotamento da vigência, ou anualmente em caso de parcerias com duração maior que 1 ano.
+
+    **Relatório de Monitoramento**
+
+    O Relatório de Monitoramento deve conter, no mínimo (art. 56-A do Decreto):
+
+    - Descrição das ações realizadas e demonstração do alcance dos resultados previstos para o período
+    - Fotos, vídeos, depoimentos e comprovações
+    - Observações pertinentes sobre o plano de trabalho, sobretudo sobre pontos dificultadores
+    - Valores executados e compatibilidade com o cronograma de desembolsos e plano de trabalho
+    - Demonstração dos mecanismos de publicidade previstos no art. 11 do Decreto (conformidade com orientações publicitárias do governo e com vedações eleitorais, se for o caso)
+    - Documentação específica em caso da parceria envolver obras ou reformas
+
+    **Relatório Técnico de Monitoramento**
+
+    O **gestor da parceria** deverá analisar cada *Relatório de Monitoramento* (e prestação de contas, se houver) e emitir o *Relatório Técnico de Monitoramento* (art. 59, § 1º-B do Decreto). Para produzir esse *Relatório Técnico de Monitoramento*, o **gestor** poderá realizar visitas *in loco* e, também, solicitar manifestações (art. 59, § 1º-C do Decreto):
+
+    - Da área técnica finalística do órgão
+    - Da área de prestação de contas do órgão
+    - Da área de engenharia, se for o caso
+
+    A partir disso, deverá emitir o relatório contendo, no mínimo (art. 59-A do Decreto):
+
+    - Descrição das atividades e metas estabelecidas
+    - Análise das atividades e metas, de seu cumprimento e do impacto do benefício social obtido até o período, com base nos indicadores estabelecidos no plano de trabalho
+    - Valores transferidos e contrapartida executada pela OSC, se for o caso
+    - Análise do andamento da execução do objeto, se a parceria envolver reforma ou obra
+
+    Se identificadas irregularidades, o **gestor da parceria** deverá indicar os valores a serem devolvidos, comprovando-os por meio de memória de cálculo (art. 59, § 1º-H do Decreto).
+
+    **Comissão de Monitoramento e Avaliação**
+
+    A **Comissão de Monitoramento e Avaliação** é responsável pela verificação dos resultados do **conjunto das parcerias** firmadas no órgão no âmbito do MROSC, pela proposta de aprimoramento dos procedimentos, de padronização de objetos, custos e parâmetros e pela produção de entendimentos voltados à priorização do controle de resultados (art. 61 do Decreto).
+
+    O *relatório técnico de monitoramento* deve ser submetido à **Comissão de Monitoramento e Avaliação**, que terá até **30 dias** (prorrogáveis por igual período) para homologá-lo (art. 60 do Decreto). A homologação só não deverá ser efetivada se houver ausência de informações exigíveis pelo art. 59-A do Decreto. Nesse caso, a Comissão deve notificar o **gestor da parceria** e indicar o que deve ser complementado para que este tome as providências necessárias.
+
+    A comissão deve se reunir periodicamente para analisar toda a documentação recebida sobre as parcerias. Isso não se limita a relatórios técnicos de monitoramento, mas também a eventuais pesquisas de satisfação, relatórios de visitas *in loco*, dentre outros (art. 61, § 2º do Decreto).
+
+    **Impropriedades de execução, omissões no envio de relatório de monitoramento ou de prestação de contas**
+
+    Se houver impropriedades de execução ou omissão no envio de relatórios de monitoramento ou de prestação de contas por parte da OSC, o **gestor da parceria** deve notificar seu superior hierárquico no sentido de instruir o administrador público a suspender a liberação dos recursos e notificar a OSC, fixando prazo máximo de **45 dias**, prorrogáveis uma vez por igual período (a critério do órgão), para apresentação de justificativa e saneamento de irregularidades (art. 59, § 2º do Decreto).
+
+    **Pesquisa de satisfação**
+
+    Nas parcerias com vigência superior a um ano, o órgão ou a entidade estadual parceira realizará, quando possível, pesquisa de satisfação (art. 58 do Decreto). Uma vez realizada, deve ser documentada e enviada à OSC para conhecimento e providências.
+
+    **Análise amostral**
+
+    O dirigente máximo do órgão deverá regulamentar a análise amostral de relatórios de monitoramento e prestações de contas de parcerias firmadas por seu órgão no âmbito do MROSC (art. 59-B do Decreto).
+
+    A análise amostral também deve ser empreendida se o **gestor da parceria** identificar **indício de descumprimento injustificado do alcance de metas**; ou se o **adminsitrador público** aceitar formalmente **denúncia de irregularidade na execução parcial do objeto**.
+
+---
+
+## ✏️ Alteração
+
+O Termo de Fomento pode ser alterado durante sua vigência, respeitando-se procedimentos que permitem ajustes necessários à execução do objeto, desde que preservado o núcleo da finalidade da parceria, conforme definido no Decreto.
+
+=== "📝 Regra Geral"
+
+    A alteração do Termo de Fomento será formalizada por **termo aditivo** (art. 67, caput).
+    
+    **Requisitos para alteração**:
+    
+    - Proposta de alteração de qualquer uma das partes
+    - Justificativa demonstrando o interesse público da alteração
+    - Observância das determinações da lei de diretrizes orçamentárias
+    - Apresentação da documentação complementar, se a alteração for solicitada pela OSC
+    
+    **Vedação**: É vedada a alteração que resulte na modificação do **núcleo da finalidade** da parceria (art. 67, § 1º).
+
+=== "🚫 Dispensa de Termo Aditivo"
+
+    **Prorrogação automática por atraso no repasse** (art. 68):
+    
+    - Quando a administração pública der causa ao atraso na liberação dos recursos
+    - A prorrogação é feita de ofício (automaticamente)
+    - Limitada ao período verificado ou previsto para liberação
+    - Necessária tramitação no Sigcon-MG e juntada de novo plano de trabalho
+    
+    **Alterações permitidas por apostilamento** (art. 67, § 7º):
+    
+    Desde que não acarretem modificação da data de término da vigência, do valor global, do objeto ou do núcleo da finalidade:
+    
+    - Dotação orçamentária
+    - Membros da equipe de contato da OSC
+    - Autorização ou aumento do limite de pagamento em espécie
+    - Duração das etapas
+    - Demonstrativo de recursos, inclusive alteração da remuneração da equipe de trabalho
+    - Remanejamento de recursos entre itens sem alteração do valor global (salvo se acarretar ampliar, reduzir ou reprogramar o objeto)
+    - Conta bancária específica
+
+=== "💰 Alterações Permitidas"
+
+    **Remanejamento em termo de fomento para atividades** (art. 67, § 8-A):
+    
+    - Remanejamento de até **10% do valor de cada item** do demonstrativo de recursos
+    - Sem necessidade de aprovação prévia durante a execução
+    - Deve ser informado e justificado no relatório de monitoramento
+    
+    **Uso de rendimentos financeiros**:
+    
+    - A OSC pode aplicar rendimentos na execução do objeto
+    - Independe de aditamento, salvo para ampliar objeto
+    - Pode cobrir variação de preços de mercado ou pagamento de multas
+    
+    **Reajuste por desequilíbrio econômico-financeiro** (art. 69-B):
+    
+    - Para termo de fomento para atividades
+    - Permite redução do objeto ou acréscimo de recursos proporcionalmente ao desequilíbrio
+    - Limitado à variação do IPCA ou outro índice que o substitua
+    - Desde que os rendimentos não sejam suficientes para cobrir a variação
+
+=== "🔄 Reprogramação do Objeto"
+
+    O objeto pode ser **reprogramado** quando identificada necessidade de revisão da dinâmica de execução (art. 68-B):
+    
+    **Requisitos cumulativos**:
+    
+    - Decorrer de situações não previstas ou imprevisíveis na celebração
+    - Ser tecnicamente justificável e necessário para alcançar a finalidade
+    - Não transfigurar o objeto original em outro de natureza e propósito diversos
+    
+    **Observações**:
+    
+    - Pode haver adição de novos recursos pelos partícipes
+    - Pode ensejar ampliação ou redução do objeto
+
+=== "📈 Ampliação do Objeto"
+
+    **Com saldo de economia ou rendimentos** (art. 69):
+    
+    - Após contratação integral de todos os itens do plano de trabalho
+    - Mediante comprovação de economia na contratação ou rendimentos apurados
+    - Proposta deve incluir justificativa, prazo adicional, alterações nas metas e cronograma
+    
+    **Com acréscimo de recursos** (art. 69-A):
+    
+    - Partícipes podem propor aporte de novos recursos
+    - Aporte de novos recursos pelo Estado condicionado à aprovação da prestação de contas das parcelas anteriores
+    - Exceção: termo de fomento para atividades pode receber novos recursos antes da aprovação, se relatórios de monitoramento demonstrarem cumprimento de metas
+    
+    **Limite**: até **dois aditamentos** para reprogramação, ampliação ou redução (art. 68-A, § 1º).
+
+===+ "🎯 Resumo Prático"
+
+    | Situação | Necessita Aditivo? | Necessita Autorização Prévia? | Prazo para Proposta |
+    |----------|-------------------|------------------------------|---------------------|
+    | Prorrogação por atraso no repasse | ❌ Não | ❌ Não (automática) | - |
+    | Alteração de dotação orçamentária | ❌ Não (apostilamento) | ✅ Sim (anuência) | - |
+    | Alteração de membros da equipe de contato | ❌ Não (apostilamento) | ✅ Sim (anuência) | - |
+    | Remanejamento até 10% (atividades) | ❌ Não | ❌ Não (comunicar depois) | - |
+    | Remanejamento acima de 10% sem mudar objeto | ❌ Não (apostilamento) | ✅ Sim | - |
+    | Uso de rendimentos financeiros | ❌ Não | ❌ Não | - |
+    | Reprogramação do objeto | ✅ Sim | ✅ Sim | Mínimo 45 dias antes do término |
+    | Ampliação do objeto | ✅ Sim | ✅ Sim | Mínimo 45 dias antes do término |
+    | Redução do objeto | ✅ Sim | ✅ Sim | Mínimo 45 dias antes do término |
+    | Reajuste por desequilíbrio | ✅ Sim | ✅ Sim | Mínimo 45 dias antes do término |
+    | Alteração que modifique núcleo da finalidade | 🚫 Vedado | 🚫 Vedado | - |
+
+---
+
+## 🔒 Prestação de Contas
+
+O processo de prestação de contas tem por objetivo demonstrar e verificar resultados, avaliando cumprimento da finalidade, execução do objeto, alcance de metas e o nexo de causalidade entre receitas e despesas (cap. VII - arts. 71 a 87 do Decreto).
+
+=== "📋 Modalidades"
+
+    **1. Prestação de Contas Anual (art. 74)**
+
+    - Obrigatória para instrumentos com vigência superior a 1 ano.
+    - Prazo: conforme art. 74.
+    - Composição (arts. 76 e 77, e art. 78 quando solicitado):
+    - Relatório de execução do objeto (art. 76, I e art. 77).
+    - Relatório de execução financeira **somente quando solicitado** nas hipóteses do art. 76, II (inclusive amostragem, denúncia admitida e outras situações previstas).
+    - Documentos de comprovação do cumprimento da contrapartida em bens e serviços, quando houver.
+
+    **2. Prestação de Contas Final (art. 75)**
+
+    - Obrigatória ao término da vigência.
+    - Prazo: até 90 dias após o término da vigência, prorrogável por até 30 dias mediante justificativa (art. 75 e parágrafo único).
+    - Composição (arts. 76 e 77, e art. 78 quando solicitado):
+    - Relatório de execução do objeto (art. 76, I e art. 77).
+    - Relatório de execução financeira **somente quando solicitado** (art. 76, II) ou quando exigido por regras específicas do Decreto (ex.: omissão em prestar contas, notificação, etc.).
+    - Comprovação da contrapartida em bens e serviços, quando houver.
+    - Observação importante: documentos já encaminhados durante a execução ou em prestações anteriores podem ser dispensados de nova anexação, desde que já constem do processo (art. 79).
+
+=== "🔍 Análise"
+
+    **Análise pelas áreas técnicas (art. 81)**
+
+    - As áreas técnicas do órgão/entidade parceira emitem pareceres sobre a prestação de contas anual ou final com base:
+    - No relatório de execução do objeto e, quando for o caso, no relatório de execução financeira (art. 81).
+    - Prazo para emissão do parecer das áreas técnicas: até 45 dias após o recebimento, prorrogável motivadamente por igual período (art. 81, parágrafo único).
+
+    **Análise pelo gestor da parceria** (art. 84 do Decreto):
+
+    - Prazo: até 45 dias, prorrogáveis por igual período
+    - Emite parecer técnico conclusivo
+    - Consolida dados da parceria, histórico da prestação de contas e eventuais irregularidades com memórias de cálculo de valores a serem devolvidos, se for o caso
+
+    **Análise do administrador público** (art. 85 do Decreto):
+
+    - Prazo: 15 dias, sem prorrogação
+    - Baseia-se no parecer técnico conclusivo do **gestor da parceria**, elaborado sobre a prestação de contas final
+    - Aprovar as contas, com ou sem ressalvas, ou rejeitá-las, promovendo representação junto ao TCE-MG em caso de irregularidades graves e insanáveis
+
+=== "⚠️ Situações Especiais"
+
+    **Guarda de documentos (art. 72)**
+
+    - A OSC deve manter a guarda dos documentos originais pelo prazo de **10 anos**, contados do dia útil subsequente ao término do prazo para apresentação da prestação de contas (art. 72).
+    - Regras de apresentação e integridade documental:
+    - Até adequação do Sigcon-MG, pode haver previsão de apresentação de cópia simples, mantendo-se os originais para conferência (art. 72, §1º).
+    - Não são aceitos documentos ilegíveis, com rasuras ou com prazo de validade vencido (art. 72, §2º).
+
+    **Atuação em rede (art. 73)**
+
+    - Na atuação em rede, a **OSC celebrante** apresenta a prestação de contas inclusive das executantes e não celebrantes (art. 73).
+    - OSCs Executantes e não celebrantes permanecem responsáveis por guardar os originais para eventual conferência (art. 73, parágrafo único).
+
+    **Prestação de contas final em atraso (art. 80)**
+
+    - Se a prestação de contas final não for encaminhada no prazo do art. 75, o órgão/entidade deve notificar a OSC e fixar prazo máximo de 45 dias, prorrogável por igual período, para apresentação (art. 80).
+    - Na omissão no dever de prestar contas final, a OSC deverá apresentar inclusive o relatório de execução financeira (art. 80, parágrafo único).
+
+=== "💣 Irregularidades"
+
+    **Indícios de dano ao erário e critérios de cálculo (art. 82)**
+
+    - Havendo indícios de dano ao erário, o cálculo para devolução deve observar os critérios do art. 82, sendo vedado repetir a aplicação da mesma penalidade ("vedado o *bis in idem*").
+    - Ex.: omissão em prestar contas ou falta de comprovação total pode implicar devolução integral (art. 82, I), e irregularidades parciais podem levar à devolução do valor reprovado necessário à conclusão do objeto ou irregularmente aplicado (art. 82, II).
+
+    **Encaminhamentos após não atendimento (art. 81-B, §2º)**
+
+    - Se a OSC não atender a notificação ao término do prazo, o órgão/entidade deve adotar as providências previstas para a fase decisória e demais medidas cabíveis (art. 81-B, §2º), observados os arts. 84 a 87. Trata-se de decidir por determinar:
+        - Advertência (art. 73, I da Lei)
+        - Suspensão temporária de participação em chamamento público e impedimento de celebrar parcerias, por prazo não superior a dois anos (art. 73, II da Lei)
+        - Declaração de inidoneidade (art. 73, III da Lei)
+        - Ações compensatórias (art. 85-A do Decreto)
+        - Ressarcimento ao erário (art. 85 do Decreto)
+        - Registro de inadimplência no SIAFI-MG (art. 85, § 8º do Decreto)
+        - Instauração de Tomada de Contas Especial (art. 85, § 8º do Decreto)
+        - Promover representação junto ao TCE-MG (art. 85, § 6º do Decreto)
+
+
+===+ "🎯 Síntese"
+
+    | Item | Prazo | Aplica-se a | Observações |
+    |------|-------|-------------|-------------|
+    | **Prestação de Contas Anual** | Até 90 dias após o fim do exercício (art. 74) | Termo de fomento com vigência > 1 ano | Composta por relatório do objeto; relatório financeiro apenas se solicitado (arts. 74, 76 a 78). |
+    | **Prestação de Contas Final** | Até 90 dias após fim da vigência (prorrogável por até 30 dias - art. 75) | Todos os termos de fomento | Composta por relatório do objeto; relatório financeiro apenas se solicitado, sem prejuízo de exigências por irregularidades/omissão (art. 75; arts. 76 a 78; art. 80). |
+    | **Parecer das áreas técnicas** | Até 45 dias após recebimento, prorrogável por igual período (art. 81) | Prestação anual ou final | Parecer com base no relatório do objeto e, quando for o caso, no financeiro (art. 81 e parágrafo único). |
+    | **Solicitação de relatório financeiro** | Até 45 dias para a OSC apresentar, quando notificada | Quando houver hipótese do art. 76, II e/ou descumprimento de metas apontado | Notificação para apresentar o relatório financeiro se não houver sido apresentado (art. 81-A). |
+    | **Saneamento/justificativas** | Até 45 dias após notificação | Quando identificadas irregularidades | Pode haver suspensão de repasses enquanto não saneado (art. 81-B). |
+    | **Parecer técnico conclusivo (gestor da parceria)** | Até 45 dias após parecer das áreas técnicas, prorrogável por igual período (art. 84) | Parecer das áreas técnicas | Consolida dados da parceria, histórico de contas, alcance de resultados e eventuais irregularidades. |
+    | **Decisão final (administrador público)** | Até 15 dias após parecer técnico conclusivo, sem prorrogação (art. 85) | Parecer técnico conclusivo | Aprova contas com ou sem ressalvas, ou as rejeita, decidindo por aplicar eventuais sanções previstas em lei. |
+    | **Guarda de documentos** | 10 anos | Prestação de contas | Contados do dia útil seguinte ao término do prazo para apresentar a prestação (art. 72). |
+
+---
 
 ## 🔍 Saiba mais!
-Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados no nosso [Repositório de Parcerias](https://iepha-mg.github.io/manual.appi/paginas/repositorio/README.html). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
+
+Modelos e documentos de referência (editais, termos, planos de trabalho etc.) podem ser encontrados em nossa [Biblioteca](../../biblioteca/index.md). Mas, pra facilitar, a APPI/IEPHA-MG fez uma seleção de documentos pra você:
 
 **Modelos disponíveis no [Portal Sigcon-Saída](https://sigconsaida.mg.gov.br/padronizacoes-parcerias/):**
 - [Minuta Padrão de Edital de Chamamento Público para Termo de Fomento MROSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/modelo_edital_chamamento_publico_termo_fomento.docx)
@@ -195,8 +578,10 @@ Modelos e documentos de referência (editais, termos, planos de trabalho etc.) p
 - [Prestação de Contas: Relatório de Execução do Objeto](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_objeto.docx)
 - [Prestação de Contas: Relatório de Execução Financeira MROSC](https://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/padronizacao/relatorio_execucao_financeira_mrosc.docx)
 
-## ↔️ Fluxograma completo para celebração, execução e prestação de contas de Termo de Fomento
-<div class="mermaid">
+## 🔄️ Fluxograma
+
+```mermaid
+%%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
 flowchart TD
     %% Legenda
     A_LEG@{ shape: lean-r, label: "Área Técnica Demandante" }
@@ -207,15 +592,17 @@ flowchart TD
     F_LEG@{ shape: hex, label: "Gestor da Parceria" }
     G_LEG@{ shape: stadium, label: "Comissão de Monitoramento" }
     H_LEG@{ shape: diamond, label: "Pergunta/Decisão" }
-</div>
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:20px;
+```
 
-<div class="mermaid">
+```mermaid
+%%{init: { 'flowchart': { 'htmlLabels': true }, 'maxTextSize': 90000 }}%%
 flowchart TD
     %% Etapas iniciais
     A@{ shape: lean-r, label: "Solicitar parceria (proposta pela OSC)" } --> A1@{ shape: diamond, label: "Houve PMIS sobre o tema? (art. 18 da Lei)" }
     A1 -->|Sim| A2@{ shape: rounded, label: "Considerar resultado do PMIS realizado (art. 21 da Lei)" } --> B
     A1 -->|Não| B@{ shape: diamond, label: "Parceria é viável?" }
-    B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM
+    B -->|Não| C@{ shape: rect, label: "Comunicar negativa fundamentada à área técnica" } --> FIM@{ shape: dbl-circ, label: "Fim"}
     B -->|Sim| D@{ shape: rect, label: "Levantar requisitos técnicos, orçamentários e operacionais" }
     D --> E@{ shape: diamond, label: "Necessita chamamento público? (art. 29 da Lei)" }
     %% Fluxo para processo COM chamamento público
@@ -269,9 +656,5 @@ flowchart TD
     F9 -->|Não| C
     F9 -->|Sim| X
     %% Fim
-</div>
-
-<script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({ startOnLoad: true });
-</script>
+    classDef default stroke:#333,stroke-width:1px,fill:#f8f8f8,rx:0,ry:6,font-size:20px;
+```
