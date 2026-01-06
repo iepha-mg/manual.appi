@@ -87,7 +87,7 @@ O **Termo de Colaboração** é o instrumento jurídico para formalizar parceria
         - Com multas, juros ou correção monetária não decorrentes de atrasos de repasses da administração pública;
         - Com publicidade, salvo aquela prevista no plano de trabalho, com caráter educativo, informativo ou de orientação social, sem constar nomes, símbolos ou imagens que caracterizem promoção pessoal;
         - Voltadas a servidores ou empregados públicos (salvo em hipóteses especificamente previstas em lei)
-
+    - É vedado celebrar, durante a vigência de determinada parceria, uma nova parceria igual com a mesma OSC (art. 36 do Decreto) 
    
     ⚠️ **Exigências obrigatórias:**
     
@@ -99,7 +99,7 @@ O **Termo de Colaboração** é o instrumento jurídico para formalizar parceria
 
 ---
 
-## 📢 Procedimento de Manifestação de Interesse Social (PMIS)
+## 📣 Procedimento de Manifestação de Interesse Social (PMIS)
 
 O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público. Ele é regulamentado pela Seção 2 do Decreto.
 
@@ -196,6 +196,10 @@ Em regra, **é obrigatória a realização de chamamento público** para seleç�
     | Recursos                       | Mínimo de 5 dias         | Art. 24, § 1º do Decreto |
     | Habilitação (apresentação de documentos pela OSC)                      | Máximo de 15 dias         | Art. 24, § 5º do Decreto |
     | Complementação de habilitação, caso necessário (apresentação de documentos pela OSC)                      | Máximo de 5 dias         | Art. 24, § 5º-A do Decreto |
+    | Publicação de extrato da parceria   | Até 20 dias após assinatura | Art. 41, § 2º do Decreto |
+    | Comunicado sobre 1º repasse e mecanismos de monitoramento e avaliação | Até 30 dias após 1º pagamento | Art. 49 do Decreto |
+    | Apresentação de Relatórios de Monitoramento (pela OSC ao Órgão Público) | Até 15 dias após fim de cada período de monitoramento definido no plano de trabalho | Art. 56, § 3º do Decreto |
+    | Homologação dos Relatórios Técnicos de Monitoramento (por parte da Comissão de Monitoramento e Avaliação) | Até 30 dias (prorrogáveis por igual período) do recebimento dos Relatórios Técnicos de Monitoramento, elaborados, por sua vez, pelo gestor da parceria, a partir dos Relatórios de Monitoramento | Art. 60 do Decreto |
     | Prestação de Contas pela OSC   | 90 dias do fim da vigência ou ao final de cada ano (se durar mais de 1 ano) | Art. 69 da Lei |
     | Análise da Prestação de Contas pelo IEPHA-MG | 150 dias do recebimento da prestação de contas | Art. 71 da Lei |
 
@@ -203,37 +207,149 @@ Em regra, **é obrigatória a realização de chamamento público** para seleç�
 
 ---
 
-## DAQUIIIIIIIIIIIII
-
 ## 🛣️ Plano de trabalho
 
-**Elementos obrigatórios**:
+A OSC deverá preencher, no [Sistema de Gestão de Convênios, Portarias e Contratos do Estado de Minas Gerais (SIGCON-MG)](https://sigconsaida.mg.gov.br/), uma proposta de trabalho contendo, no mínimo (art. 26 do Decreto):
 
-- **Descrição da realidade** objeto da parceria e nexo com atividades/projetos
-- **Metas a serem atingidas** e atividades/projetos a serem executados
-- **Previsão de receitas e despesas** detalhada
-- **Forma de execução** e cumprimento das metas
-- **Parâmetros de aferição** do cumprimento das metas
-
-> **Importante**: As metas devem ser mensuráveis e verificáveis, permitindo avaliação objetiva do cumprimento do objeto da parceria.
+- **Dados e informações da OSC** e do interveniente (se for o caso)
+- Descrição e especificação completa do **objeto e público-alvo**
+- Justificativa contendo **descrição da realidade e interesse público** relativos à parceria, demonstrando-se o nexo com os resultados esperados
+- **Previsão de receitas** e contrapartida financeira ou em bens e serviços, *se for o caso*
+- **Dados da equipe** responsável pela parceria no âmbito da OSC
+- **Estimativa de vigência** da parceria
+- **Cronograma de execução** contendo metas físicas e suas descrições, bem como atividades e projetos a serem executados, divididos em etapas com duração definida
+- **Plano de aplicação de recursos** a serem repassados pela administração pública e plano de contrapartida, se houver, considerando a previsão das despesas, *se for o caso*
+- **Cronograma de desembolsos** e da contrapartida, *se for o caso*
+- **Forma de execução das atividades ou projetos**, detalhando o cumprimento das metas atreladas
+- **Sugestão de indicadores** e meios de aferição do cumprimento das metas
+- Havendo **remuneração de equipe de trabalho**, deve-se descrever:
+    - Valor total de remuneração, funções dos integrantes e remuneração prevista para o exercício
+    - Estimativa de valores dos tributos e encargos sociais e trabalhistas
+    - Valores a serem provisionados, se for o caso
+    - Planilha de detalhamento de despesas de pessoal (art. 33 do Decreto), que traz obrigatoriamente os itens anteriores
 
 ---
 
-## 🔍 Monitoramento e avaliação
+## ✒️ Celebração (ou formalização)
 
-O **gestor da parceria** deve:
+Quando a parceria estiver em vias de celebração, as áreas técnicas responsáveis pela parceria no âmbito do órgão celebrante irão analisar o **plano de trabalho** e a documentação apresentada pela OSC, efetuando eventuais ajustes e complementações (art. 35 do Decreto). Isto deverá ser feito em acordo com a OSC.
 
-- Acompanhar e fiscalizar a execução
-- Orientar a OSC durante a execução
-- Emitir relatório técnico de monitoramento
-- Informar irregularidades ao superior hierárquico
-- Emitir parecer conclusivo sobre prestação de contas
+Após essa fase, as áreas técnicas deverão, então, incluir no [SIGCON-MG](https://sigconsaida.mg.gov.br/) a **minuta do instrumento a ser celebrado** (observando-se as cláusulas básicas constantes no art. 40 do Decreto), o **plano de trabalho** e **pareceres técnicos** fundamentados acerca da celebração da parceria.
 
-A **Comissão de Monitoramento e Avaliação** deve:
+No **plano de trabalho** as áreas técnicas deverão incluir nome completo e matrícula dos servidores designados como **gestores da parceria** (pode haver mais de um, a critério do administrador público) e como membros da **comissão de monitoramento e avaliação** (art. 35, § 4º e § 4º-A).
 
-- Avaliar as parcerias periodicamente
-- Homologar relatórios técnicos de monitoramento
-- Propor melhorias nos procedimentos
+Para instruir o processo, as áreas técnicas deverão verificar documentos comprobatórios listados nos §§ 4º e 5º do art. 35 do Decreto. Então, procederão à elaboração dos pareceres técnicos fundamentados, pronunciando-se expressamente sobre (art. 35, § 7º):
+
+- Mérito da proposta
+- Documentação anexada, justificando ausência de documento, quando dispensado, nos termos da legislação
+- Interesse público recíproco na realização da parceria
+- Adequação do valor à exequibilidade do objeto
+- Avaliação da **planilha de detalhamento de despesas de pessoal** (prevista pelo art. 33), quando for o caso
+- Avaliação sobre indispensabilidade e proporção de custos indiretos, se houverem, quanto à execução do objeto da parceria
+- Descrição dos meios disponíveis para fiscalização da parceria e cumprimento de metas e objetivos
+- Viabilidade de execução da parceria e da adequação do projeto, se houver, às normas técnicas pertinentes
+
+Após a instrução do processo com todos esses documentos, o instrumento jurídico poderá ser celebrado, devendo-se publicar o extrato da parceria no Diário Oficial (art. 41 do Decreto) em até 20 dias após a assinatura.
+
+---
+
+## 🌐 Atuação em rede
+
+A execução das parcerias pode se dar por atuação em rede de duas ou mais OSCs, a ser formalizada mediante assinatura de termo de atuação em rede, desde que previsto no instrumento da parceria (art. 62 do Decreto).
+
+A rede é sempre composta por 1 **OSC Celebrante**, responsável formal pela parceria e supervisora da rede, podendo participar diretamente ou não da execução do objeto. Além da OSC celebrante, pode haver uma ou mais **OSCs Executantes**, e não celebrantes, da parceria. Estas são responsáveis por executar ações conforme plano de trabalho e supervisão da OSC celebrante.
+
+A **OSC Celebrante** é responsável por garantir, no âmbito da rede, que toda a documentação técnica, comprobatória e de prestação de contas seja providenciada e, também, arquivada pelos prazos legais.
+
+---
+
+## 👀 Monitoramento e controle
+
+===+ "🫀 Síntese"
+
+    | Item | Responsável | Ação/Documento | Prazo | Observações |
+    |---------|-------------|----------------|-------|-------------|
+    | **Monitoramento/Fiscalização** | Gestor da parceria | Acompanha execução, recebe relatórios de monitoramento da OSC, elabora relatórios técnicos de monitoramento | • Receber relatórios de monitoramento da OSC: 15 dias após período a ser avaliado (art. 56, § 3º do Decreto) <br><br> • Elaborar relatórios técnicos de monitoramento: não há prazo definido pela Lei ou pelo Decreto | • Informa irregularidades ao superior hierárquico <br><br> • Envia relatórios técnicos de monitoramento à Comissão de Monitoramento e Avaliação |
+    | **Monitoramento/Avaliação** | Comissão de Monitoramento e Avaliação | Avalia periodicamente, homologa relatórios técnicos de monitoramento, propõe melhorias | 30 dias (prorrogáveis por igual período - art. 60 do Decreto) | Verifica conjunto das parcerias do órgão |
+    | **Liberação de recursos** | Gestor da parceria + Gestor Público (dirigente do IEPHA-MG ou ordenador de despesas) | Verifica cumprimento de metas/fases, contrapartidas e regularidade da OSC | 1ª parcela: conforme cronograma | Comunicado à OSC em até 30 dias após liberação (art. 49 do Decreto) |
+    | **Relatório de Monitoramento** | OSC | Informa andamento de execução, metas e atividades | Até 15 dias após período monitorado (art. 56, § 3º do Decreto) | Pode ser exigido a qualquer tempo pelo gestor (art. 56, § 6º do Decreto) |
+    | **Relatório Técnico de Monitoramento** | Gestor da parceria | Análise do relatório de monitoramento, pode ser complementado também por visitas *in loco* e manifestações técnicas de unidades do órgão | - | Contém análise de metas, valores, impacto social (art. 59-A do Decreto) |
+    | **Prestação de contas** | OSC | Apresenta prestação de contas | 90 dias após fim da vigência, ou anualmente se > 1 ano (art. 69 da Lei) | - |
+    | **Impropriedades/omissões** | Administrador público (via gestor) | Suspende liberação de recursos, notifica OSC | Prazo para OSC: 45 dias, prorrogáveis por igual período (art. 59, § 2º do Decreto) | OSC deve justificar e sanar irregularidades |
+    | **Pesquisa de satisfação** | IEPHA-MG | Realiza pesquisa (quando possível) e documenta (art. 58 do Decreto) | - | Apenas parcerias com vigência > 1 ano |
+    | **Análise amostral** | Dirigente máximo do órgão regulamenta por portaria e gestor da parceria operacionaliza | Regulamenta análise amostral de relatórios e prestações de contas (art. 59-B do Decreto) | - | Obrigatória em caso de indício de descumprimento de metas ou denúncia aceita |
+
+=== "🔬 Detalhamento"
+
+    **Quem monitora e controla?**
+
+    O monitoramento é feito pelo **gestor da parceria** (art. 61 da Lei), que acompanha e fiscaliza a execução, recebendo da OSC *relatórios de monitoramento* e elaborando, a partir deles, *relatórios técnicos de monitoramento*, informando irregularidades, se houver, ao superior hierárquico.
+
+    Esses *relatórios técnicos de monitoramento* devem ser enviados à **comissão de monitoramento e avaliação** (art. 2º, IX da Lei e art. 61 do Decreto). Esta, por sua vez, promove a avaliação periódica da parceria, homologando os *relatórios técnicos de monitoramento* e propondo melhorias, se necessário.
+
+    **Liberação de recursos**
+
+    A liberação de recursos é condicionada ao atingimento de metas ou ao cumprimento de fases ou etapas de execução do objeto da parceria, conforme **plano de trabalho**. Também é necessário verificar o cumprimento de contrapartidas, se houver, bem como se a OSC continua regular em cadastros de regularidade jurídica, fiscal, trabalhista, dentre outras áreas.
+
+    A primeira parcela deve ser liberada conforme cronograma de desembolsos. Em até **30 dias** depois de sua liberação, o IEPHA-MG deve enviar comunicado à OSC contendo informações sobre o repasse realizado e orientações para aplicação de recursos (arts. 49 e 50 do Decreto), além de instruções sobre os mecanismos de monitoramento e avaliação.
+
+    **Executando o Monitoramento e o Controle**
+
+    O **gestor da parceria** pode se utilizar de ferramentas tecnológicas para verificar o alcance dos resultados, como redes sociais, pesquisas de internet, aplicativos etc. Mas seu principal meio de monitoramento serão os **relatórios de monitoramento** apresentados **até 15 dias** após o período a ser monitorado (art. 56, § 3º do Decreto) - o que é definido pelo **plano de trabalho** -, informando o andamento da execução do objeto, metas e atividades pactuadas para o prazo em questão.
+
+    > **Importante!** O **gestor da parceria** pode exigir da OSC, a qualquer tempo, o encaminhamento de **relatório de monitoramento** (art. 56, § 6º do Decreto).
+
+    Além disso, a OSC deve apresentar prestação de contas em até 90 dias após o esgotamento da vigência, ou anualmente em caso de parcerias com duração maior que 1 ano.
+
+    **Relatório de Monitoramento**
+
+    O Relatório de Monitoramento deve conter, no mínimo (art. 56-A do Decreto):
+
+    - Descrição das ações realizadas e demonstração do alcance dos resultados previstos para o período
+    - Fotos, vídeos, depoimentos e comprovações
+    - Observações pertinentes sobre o plano de trabalho, sobretudo sobre pontos dificultadores
+    - Valores executados e compatibilidade com o cronograma de desembolsos e plano de trabalho
+    - Demonstração dos mecanismos de publicidade previstos no art. 11 do Decreto (conformidade com orientações publicitárias do governo e com vedações eleitorais, se for o caso)
+    - Documentação específica em caso da parceria envolver obras ou reformas
+
+    **Relatório Técnico de Monitoramento**
+
+    O **gestor da parceria** deverá analisar cada *Relatório de Monitoramento* (e prestação de contas, se houver) e emitir o *Relatório Técnico de Monitoramento* (art. 59, § 1º-B do Decreto). Para produzir esse *Relatório Técnico de Monitoramento*, o **gestor** poderá realizar visitas *in loco* e, também, solicitar manifestações (art. 59, § 1º-C do Decreto):
+
+    - Da área técnica finalística do órgão
+    - Da área de prestação de contas do órgão
+    - Da área de engenharia, se for o caso
+
+    A partir disso, deverá emitir o relatório contendo, no mínimo (art. 59-A do Decreto):
+
+    - Descrição das atividades e metas estabelecidas
+    - Análise das atividades e metas, de seu cumprimento e do impacto do benefício social obtido até o período, com base nos indicadores estabelecidos no plano de trabalho
+    - Valores transferidos e contrapartida executada pela OSC, se for o caso
+    - Análise do andamento da execução do objeto, se a parceria envolver reforma ou obra
+
+    Se identificadas irregularidades, o **gestor da parceria** deverá indicar os valores a serem devolvidos, comprovando-os por meio de memória de cálculo (art. 59, § 1º-H do Decreto).
+
+    **Comissão de Monitoramento e Avaliação**
+
+    A **Comissão de Monitoramento e Avaliação** é responsável pela verificação dos resultados do **conjunto das parcerias** firmadas no órgão no âmbito do MROSC, pela proposta de aprimoramento dos procedimentos, de padronização de objetos, custos e parâmetros e pela produção de entendimentos voltados à priorização do controle de resultados (art. 61 do Decreto).
+
+    O *relatório técnico de monitoramento* deve ser submetido à **Comissão de Monitoramento e Avaliação**, que terá até **30 dias** (prorrogáveis por igual período) para homologá-lo (art. 60 do Decreto). A homologação só não deverá ser efetivada se houver ausência de informações exigíveis pelo art. 59-A do Decreto. Nesse caso, a Comissão deve notificar o **gestor da parceria** e indicar o que deve ser complementado para que este tome as providências necessárias.
+
+    A comissão deve se reunir periodicamente para analisar toda a documentação recebida sobre as parcerias. Isso não se limita a relatórios técnicos de monitoramento, mas também a eventuais pesquisas de satisfação, relatórios de visitas *in loco*, dentre outros (art. 61, § 2º do Decreto).
+
+    **Impropriedades de execução, omissões no envio de relatório de monitoramento ou de prestação de contas**
+
+    Se houver impropriedades de execução ou omissão no envio de relatórios de monitoramento ou de prestação de contas por parte da OSC, o **gestor da parceria** deve notificar seu superior hierárquico no sentido de instruir o administrador público a suspender a liberação dos recursos e notificar a OSC, fixando prazo máximo de **45 dias**, prorrogáveis uma vez por igual período (a critério do órgão), para apresentação de justificativa e saneamento de irregularidades (art. 59, § 2º do Decreto).
+
+    **Pesquisa de satisfação**
+
+    Nas parcerias com vigência superior a um ano, o órgão ou a entidade estadual parceira realizará, quando possível, pesquisa de satisfação (art. 58 do Decreto). Uma vez realizada, deve ser documentada e enviada à OSC para conhecimento e providências.
+
+    **Análise amostral**
+
+    O dirigente máximo do órgão deverá regulamentar a análise amostral de relatórios de monitoramento e prestações de contas de parcerias firmadas por seu órgão no âmbito do MROSC (art. 59-B do Decreto).
+
+    A análise amostral também deve ser empreendida se o **gestor da parceria** identificar **indício de descumprimento injustificado do alcance de metas**; ou se o **adminsitrador público** aceitar formalmente **denúncia de irregularidade na execução parcial do objeto**.
 
 ---
 

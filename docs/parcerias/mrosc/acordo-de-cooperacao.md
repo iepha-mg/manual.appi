@@ -80,7 +80,7 @@ Instrumento jurídico para formalizar parcerias entre a administração pública
 
 ---
 
-## 📢 Procedimento de Manifestação de Interesse Social (PMIS)
+## 📣 Procedimento de Manifestação de Interesse Social (PMIS)
 
 O PMIS é um canal democrático que permite às OSCs, movimentos sociais e cidadãos **proporem políticas públicas** ao poder público (art. 18 da Lei).
 
