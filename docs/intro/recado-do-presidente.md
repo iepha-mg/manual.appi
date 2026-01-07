@@ -2,9 +2,7 @@
 
 Prezados servidores,
 
-É com grande satisfação que apresentamos o Manual de Governança de Ações em Parcerias
-e Programas Integrados, um instrumento essencial para fortalecer nossa atuação
-no Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais (Iepha-MG).
+É com grande satisfação que apresentamos o Manual de Governança da Assessoria de Parcerias e Programas Integrados (APPI), um instrumento essencial para fortalecer nossa atuação no Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais (Iepha-MG).
     
 >**🎼 Cecília Meireles, O Romanceiro da Inconfidência, Romance IX**
 >
